@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Result</title>
+  <style>
+    .correct { color: green; }
+    .wrong { color: red; }
+  </style>
+</head>
+<body>
+  <h2>Your Score: {{ score }}/{{ total }}</h2>
+  <hr>
+  {% for r in results %}
+    <div>
+      <p><b>Q{{ loop.index }}. {{ r.question }}</b></p>
+      {% for i, opt in enumerate(r.options) %}
+        {% if i in r.correct %}
+          {% if i in r.selected %}
+            <span class="correct">✔️ {{ opt }}</span><br>
+          {% else %}
+            <span class="correct">✔️ {{ opt }}</span><br>
+          {% endif %}
+        {% elif i in r.selected %}
+          <span class="wrong">❌ {{ opt }}</span><br>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <hr>
+  {% endfor %}
+</body>
+</html>

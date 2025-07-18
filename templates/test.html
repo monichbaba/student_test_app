@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Test</title>
+</head>
+<body>
+  <h2>Multiple Correct Answer Test</h2>
+  <form method="POST">
+    {% for i, q in enumerate(questions) %}
+      <div>
+        <p><b>Q{{ i+1 }}. {{ q.question }}</b></p>
+        {% for j, opt in enumerate(q.options) %}
+          <label>
+            <input type="checkbox" name="q{{ i }}" value="{{ j }}">
+            {{ opt }}
+          </label><br>
+        {% endfor %}
+      </div>
+      <hr>
+    {% endfor %}
+    <button type="submit">Submit</button>
+  </form>
+</body>
+</html>
