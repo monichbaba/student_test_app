@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Result</title>
+  <style>
+    .correct { color: green; font-weight: bold; }
+    .wrong { color: red; font-weight: bold; }
+    .missed { color: orange; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h2>📊 Test Result</h2>
+
+  {% for i, q in enumerate(questions) %}
+    <div style="margin-bottom:20px;">
+      <strong>Q{{ i+1 }}. {{ q.q }}</strong><br>
+
+      {% for j, opt in enumerate(q.options) %}
+        {% if j in correct[i] %}
+          <span class="correct">✔ {{ opt }}</span><br>
+        {% elif j in wrong[i] %}
+          <span class="wrong">✘ {{ opt }}</span><br>
+        {% elif j in missed[i] %}
+          <span class="missed">⚠ {{ opt }}</span><br>
+        {% else %}
+          <span>{{ opt }}</span><br>
+        {% endif %}
+      {% endfor %}
+    </div>
+  {% endfor %}
+</body>
+</html>

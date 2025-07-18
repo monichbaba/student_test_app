@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Enter Password</title>
+</head>
+<body>
+  <h2>🛡️ Enter Test Password</h2>
+  {% if error %}
+    <p style="color:red;">{{ error }}</p>
+  {% endif %}
+  <form method="post">
+    <input type="password" name="password" placeholder="Enter Password">
+    <button type="submit">Enter</button>
+  </form>
+</body>
+</html>
