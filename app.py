@@ -7,7 +7,8 @@ app.secret_key = 'any-secret-key-you-like'
 app.jinja_env.globals.update(enumerate=enumerate)
 
 # Load questions once
-with open("questions.json", encoding="utf-8") as f:
+with open('mcqs/questions.json'
+", encoding="utf-8") as f:
     questions = json.load(f)
 
 @app.route('/', methods=['GET', 'POST'])
