@@ -1,24 +1,59 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Test</title>
+    <title>Test</title>
+    <style>
+        .correct { color: green; font-weight: bold; }
+        .incorrect { color: red; font-weight: bold; }
+    </style>
 </head>
 <body>
-  <h2>Multiple Correct Answer Test</h2>
-  <form method="POST">
-    {% for i, q in enumerate(questions) %}
-      <div>
-        <p><b>Q{{ i+1 }}. {{ q.question }}</b></p>
-        {% for j, opt in enumerate(q.options) %}
-          <label>
-            <input type="checkbox" name="q{{ i }}" value="{{ j }}">
-            {{ opt }}
-          </label><br>
+    <h2>📝 Geography Test</h2>
+
+    {% if submitted %}
+        <h3>Result:</h3>
+        <p>✅ Score: {{ score }} / {{ questions|length }}</p>
+
+        {% for res in result %}
+            <div>
+                <p><b>{{ res.question }}</b></p>
+                <ul>
+                    {% for opt in res.options %}
+                        <li class="
+                            {% if opt in res.correct %}
+                                {% if opt in res.selected %}
+                                    correct
+                                {% else %}
+                                    correct
+                                {% endif %}
+                            {% elif opt in res.selected %}
+                                incorrect
+                            {% endif %}
+                        ">
+                            {{ opt }}
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <hr>
         {% endfor %}
-      </div>
-      <hr>
-    {% endfor %}
-    <button type="submit">Submit</button>
-  </form>
+
+    {% else %}
+        <form method="POST">
+            {% for i, q in enumerate(questions) %}
+                <div>
+                    <p><b>Q{{ i+1 }}. {{ q.question }}</b></p>
+                    {% for opt in q.options %}
+                        <label>
+                            <input type="checkbox" name="q{{ i }}" value="{{ opt }}">
+                            {{ opt }}
+                        </label><br>
+                    {% endfor %}
+                </div>
+                <hr>
+            {% endfor %}
+            <button type="submit">Submit</button>
+        </form>
+    {% endif %}
 </body>
 </html>
