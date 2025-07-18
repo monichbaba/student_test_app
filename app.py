@@ -1,55 +1,39 @@
-from flask import Flask, render_template, request, redirect, session
+from flask import Flask, render_template, request
 import json
 import os
 
 app = Flask(__name__)
-app.secret_key = 'any-secret-key-you-like'
 app.jinja_env.globals.update(enumerate=enumerate)
 
-# Load questions once
-with open('mcqs/questions.json'
-", encoding="utf-8") as f:
-    questions = json.load(f)
-
 @app.route('/', methods=['GET', 'POST'])
-def login():
-    error = None
-    if request.method == 'POST':
-        if request.form.get('password') == '1234':
-            session['authenticated'] = True
-            return redirect('/test')
-        else:
-            error = '❌ Incorrect password'
-    return render_template('login.html', error=error)
-
-@app.route('/test', methods=['GET', 'POST'])
 def test():
-    if not session.get('authenticated'):
-        return redirect('/')
+    filepath = 'mcqs/questions.json'
+    if not os.path.exists(filepath):
+        return "❌ File mcqs/questions.json not found"
+
+    with open(filepath, encoding="utf-8") as f:
+        questions = json.load(f)
+
+    result = []
+    score = 0
+    submitted = False
 
     if request.method == 'POST':
-        results = []
-        score = 0
-
+        submitted = True
         for i, q in enumerate(questions):
             selected = request.form.getlist(f'q{i}')
-            selected = list(map(int, selected)) if selected else []
-
             correct = q['answer']
-            is_correct = sorted(selected) == sorted(correct)
-            if is_correct:
-                score += 1
-
-            results.append({
+            is_correct = set(selected) == set(correct)
+            score += int(is_correct)
+            result.append({
                 'question': q['question'],
                 'options': q['options'],
                 'selected': selected,
-                'correct': correct
+                'correct': correct,
+                'is_correct': is_correct
             })
 
-        return render_template('result.html', results=results, score=score, total=len(questions))
-
-    return render_template('test.html', questions=questions)
+    return render_template('test.html', questions=questions, result=result, submitted=submitted, score=score)
 
 if __name__ == '__main__':
     app.run(debug=True)
