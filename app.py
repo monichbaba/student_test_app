@@ -1,11 +1,23 @@
-from flask import Flask, render_template, request
-import json
-import os
+from flask import Flask, render_template, request, redirect, url_for
+import json, os
 
 app = Flask(__name__)
 app.jinja_env.globals.update(enumerate=enumerate)
 
+PASSWORD = "jaihind"
+
 @app.route('/', methods=['GET', 'POST'])
+def password_check():
+    if request.method == 'POST':
+        entered_password = request.form.get('password')
+        if entered_password == PASSWORD:
+            return redirect(url_for('test'))
+        else:
+            return render_template('password.html', error="❌ Incorrect Password")
+    return render_template('password.html')
+
+
+@app.route('/test', methods=['GET', 'POST'])
 def test():
     filepath = 'mcqs/questions.json'
     if not os.path.exists(filepath):
