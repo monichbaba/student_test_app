@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "question": "कृषि के लिए कौन-कौन सी जलवायु परिस्थितियाँ उपयुक्त हैं?\nWhich climatic conditions are suitable for agriculture?",
     "options": [
       "अल्प वर्षा और रेतीली मिट्टी / Low rainfall and sandy soil",
@@ -7,9 +8,13 @@
       "बहुत अधिक वर्षा और दलदली मिट्टी / Heavy rainfall and marshy soil",
       "उच्च तापमान और सिंचाई की सुविधा / High temperature with irrigation facilities"
     ],
-    "answer": [1, 3]
+    "answer": [
+      "मध्यम तापमान और भरपूर वर्षा / Moderate temperature and adequate rainfall",
+      "उच्च तापमान और सिंचाई की सुविधा / High temperature with irrigation facilities"
+    ]
   },
   {
+    "id": 2,
     "question": "भारत की प्रमुख ग्रीष्मकालीन फसलों में कौन-कौन सी फसलें शामिल हैं?\nWhich of the following are major Kharif crops in India?",
     "options": [
       "चावल / Rice",
@@ -17,9 +22,13 @@
       "मक्का / Maize",
       "चना / Chickpea"
     ],
-    "answer": [0, 2]
+    "answer": [
+      "चावल / Rice",
+      "मक्का / Maize"
+    ]
   },
   {
+    "id": 3,
     "question": "भारत के कौन-कौन से राज्य प्रमुख कपास उत्पादक हैं?\nWhich of the following states are major producers of cotton in India?",
     "options": [
       "महाराष्ट्र / Maharashtra",
@@ -27,9 +36,13 @@
       "गुजरात / Gujarat",
       "ओडिशा / Odisha"
     ],
-    "answer": [0, 2]
+    "answer": [
+      "महाराष्ट्र / Maharashtra",
+      "गुजरात / Gujarat"
+    ]
   },
   {
+    "id": 4,
     "question": "भारत की कौन-कौन सी नदियाँ डेल्टा बनाती हैं?\nWhich of the following rivers form deltas in India?",
     "options": [
       "गंगा / Ganga",
@@ -37,9 +50,14 @@
       "नर्मदा / Narmada",
       "महानदी / Mahanadi"
     ],
-    "answer": [0, 1, 3]
+    "answer": [
+      "गंगा / Ganga",
+      "गोदावरी / Godavari",
+      "महानदी / Mahanadi"
+    ]
   },
   {
+    "id": 5,
     "question": "निम्न में से कौन-कौन से संसाधन नवीकरणीय हैं?\nWhich of the following are renewable resources?",
     "options": [
       "कोयला / Coal",
@@ -47,9 +65,13 @@
       "सौर ऊर्जा / Solar Energy",
       "खनिज तेल / Mineral Oil"
     ],
-    "answer": [1, 2]
+    "answer": [
+      "जल / Water",
+      "सौर ऊर्जा / Solar Energy"
+    ]
   },
   {
+    "id": 6,
     "question": "भारत की कौन-कौन सी पर्वतमालाएं युवा मोड़दार पर्वतों की श्रेणी में आती हैं?\nWhich of the following mountain ranges are examples of young fold mountains?",
     "options": [
       "हिमालय / Himalayas",
@@ -57,9 +79,13 @@
       "पश्चिमी घाट / Western Ghats",
       "काराकोरम / Karakoram"
     ],
-    "answer": [0, 3]
+    "answer": [
+      "हिमालय / Himalayas",
+      "काराकोरम / Karakoram"
+    ]
   },
   {
+    "id": 7,
     "question": "मृदा अपरदन को रोकने के लिए कौन-कौन से उपाय उपयुक्त हैं?\nWhich of the following are suitable measures to prevent soil erosion?",
     "options": [
       "झूम खेती / Slash and burn cultivation",
@@ -67,9 +93,13 @@
       "वनों की कटाई / Deforestation",
       "कृषि वानिकी / Agroforestry"
     ],
-    "answer": [1, 3]
+    "answer": [
+      "पर्वतीय क्षेत्रों में सीढ़ीदार खेती / Terracing in hilly areas",
+      "कृषि वानिकी / Agroforestry"
+    ]
   },
   {
+    "id": 8,
     "question": "भारत की कौन-कौन सी झीलें खारी जल की हैं?\nWhich of the following lakes are saltwater lakes in India?",
     "options": [
       "सम्भर झील / Sambhar Lake",
@@ -77,9 +107,13 @@
       "चिल्का झील / Chilika Lake",
       "लोकटक झील / Loktak Lake"
     ],
-    "answer": [0, 2]
+    "answer": [
+      "सम्भर झील / Sambhar Lake",
+      "चिल्का झील / Chilika Lake"
+    ]
   },
   {
+    "id": 9,
     "question": "जनसंख्या वृद्धि के कौन-कौन से प्रभाव होते हैं?\nWhich of the following are effects of population growth?",
     "options": [
       "बेरोजगारी में वृद्धि / Increase in unemployment",
@@ -87,9 +121,14 @@
       "पर्यावरण संरक्षण / Environmental conservation",
       "शहरीकरण में वृद्धि / Rise in urbanization"
     ],
-    "answer": [0, 1, 3]
+    "answer": [
+      "बेरोजगारी में वृद्धि / Increase in unemployment",
+      "प्राकृतिक संसाधनों पर दबाव / Pressure on natural resources",
+      "शहरीकरण में वृद्धि / Rise in urbanization"
+    ]
   },
   {
+    "id": 10,
     "question": "भारत में किस किस क्षेत्र में काले मिट्टी (ब्लैक सॉइल) पाई जाती है?\nIn which regions of India is black soil found?",
     "options": [
       "दक्कन का पठार / Deccan Plateau",
@@ -97,6 +136,9 @@
       "गुजरात / Gujarat",
       "राजस्थान / Rajasthan"
     ],
-    "answer": [0, 2]
+    "answer": [
+      "दक्कन का पठार / Deccan Plateau",
+      "गुजरात / Gujarat"
+    ]
   }
 ]

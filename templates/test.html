@@ -1,15 +1,24 @@
-{% for i, q in enumerate(questions) %}
-  <div>
-    <p><strong>Q{{ i+1 }}. {{ q["question"] }}</strong></p>
-    {% for option in q["options"] %}
-      {% set is_correct = option in q["answer"] %}
-      {% set is_selected = option in user_answers[i] %}
-      <div
-        style="color: {% if is_correct %}green{% elif is_selected %}red{% else %}black{% endif %};"
-      >
-        {{ option }}
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MCQ Test</title>
+</head>
+<body>
+  <h2>📘 MCQ Test</h2>
+  <form method="post">
+    {% for idx, q in enumerate(questions) %}
+      <div>
+        <p><strong>{{ idx+1 }}. {{ q.question }}</strong></p>
+        {% for opt in q.options %}
+          <label>
+            <input type="checkbox" name="{{ q.id }}" value="{{ opt }}">
+            {{ opt }}
+          </label><br>
+        {% endfor %}
       </div>
+      <hr>
     {% endfor %}
-    <br>
-  </div>
-{% endfor %}
+    <button type="submit">Submit Test</button>
+  </form>
+</body>
+</html>

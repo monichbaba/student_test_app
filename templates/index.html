@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student Test</title>
+  <style>
+    .correct { color: green; font-weight: bold; }
+    .wrong { color: red; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h2>📘 Geography Class 10 - Test</h2>
+
+  {% if password_required %}
+    <form method="post">
+      <input type="password" name="password" placeholder="Enter Password" required>
+      <button type="submit">Start Test</button>
+      {% if error %}<p style="color:red;">{{ error }}</p>{% endif %}
+    </form>
+  {% elif submitted %}
+    <p>✅ Score: {{ score }}/{{ total }}</p>
+    <ol>
+    {% for i, q in enumerate(questions) %}
+      <li>
+        <p><b>{{ q.question }}</b></p>
+        <ul>
+        {% for j, opt in enumerate(q.options) %}
+          {% set opt_id = chr(65 + j) %}
+          {% set selected = opt_id in correct_answers[q.id|string]['selected'] %}
+          {% set is_correct = opt_id in correct_answers[q.id|string]['correct'] %}
+          <li class="{% if is_correct %}correct{% elif selected %}wrong{% endif %}">
+            {{ opt_id }}. {{ opt }}
+          </li>
+        {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+    </ol>
+  {% endif %}
+</body>
+</html>

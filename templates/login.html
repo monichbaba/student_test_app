@@ -4,13 +4,13 @@
   <title>Login</title>
 </head>
 <body>
-  <h2>Enter Password to Start Test</h2>
-  <form method="POST">
-    <input type="password" name="password" placeholder="Password" required>
-    <button type="submit">Enter</button>
-  </form>
+  <h2>🧠 Enter Test Password</h2>
   {% if error %}
-    <p style="color:red;">{{ error }}</p>
+    <p style="color: red;">{{ error }}</p>
   {% endif %}
+  <form method="post">
+    <input type="password" name="password" placeholder="Enter password" required>
+    <button type="submit">Start Test</button>
+  </form>
 </body>
 </html>
