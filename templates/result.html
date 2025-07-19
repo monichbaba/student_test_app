@@ -1,31 +1,54 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Result</title>
-  <style>
-    .correct { color: green; }
-    .wrong { color: red; }
-  </style>
+    <meta charset="utf-8">
+    <title>Geography Test</title>
+    <style>
+        body { font-family: sans-serif; margin: 30px; }
+        .correct { color: green; font-weight: bold; }
+        .wrong { color: red; font-weight: bold; }
+    </style>
 </head>
 <body>
-  <h2>Your Score: {{ score }}/{{ total }}</h2>
-  <hr>
-  {% for r in results %}
-    <div>
-      <p><b>Q{{ loop.index }}. {{ r.question }}</b></p>
-      {% for i, opt in enumerate(r.options) %}
-        {% if i in r.correct %}
-          {% if i in r.selected %}
-            <span class="correct">✔️ {{ opt }}</span><br>
-          {% else %}
-            <span class="correct">✔️ {{ opt }}</span><br>
-          {% endif %}
-        {% elif i in r.selected %}
-          <span class="wrong">❌ {{ opt }}</span><br>
-        {% endif %}
-      {% endfor %}
-    </div>
-    <hr>
-  {% endfor %}
+    <h2>🧭 Class 10 Geography MCQ Test</h2>
+
+    {% if error %}
+        <p style="color:red;">{{ error }}</p>
+    {% endif %}
+
+    {% if not submitted %}
+    <form method="post">
+        <p><b>Enter Password:</b> <input type="password" name="password" required></p>
+        <hr>
+        {% for i, q in enumerate(questions) %}
+            <p><b>Q{{ i+1 }}. {{ q.question }}</b></p>
+            {% for opt in q.options %}
+                <label>
+                    <input type="checkbox" name="{{ i }}" value="{{ opt }}">
+                    {{ opt }}
+                </label><br>
+            {% endfor %}
+            <br>
+        {% endfor %}
+        <button type="submit">Submit</button>
+    </form>
+
+    {% else %}
+        <h3>✅ Your Score: {{ score }}/{{ questions|length }}</h3>
+        <hr>
+        {% for i, q in enumerate(questions) %}
+            <div>
+                <p><b>Q{{ i+1 }}. {{ q.question }}</b></p>
+                {% for opt in q.options %}
+                    {% set is_correct = opt in q.answer %}
+                    {% set is_selected = opt in user_answers[i] %}
+                    <div class="{% if is_correct %}correct{% elif is_selected %}wrong{% endif %}">
+                        {{ opt }}
+                    </div>
+                {% endfor %}
+                <br>
+            </div>
+        {% endfor %}
+    {% endif %}
 </body>
 </html>
