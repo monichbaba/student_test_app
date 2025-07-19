@@ -5,7 +5,8 @@ import os
 app = Flask(__name__)
 app.jinja_env.globals.update(enumerate=enumerate, chr=chr)
 
-PASSWORD = "1234"  # ✅ Change if needed
+# ✅ Update this if needed
+PASSWORD = "jaishreeram"
 
 @app.route('/', methods=['GET', 'POST'])
 def login():
@@ -31,14 +32,15 @@ def test():
         results = []
 
         for q in questions:
-            qid = str(q['id'])
+            qid = str(q.get('id', ''))
             selected = user_answers.getlist(qid)
-            correct = q['answer']
+            correct = q.get('answer', [])
+
             is_correct = set(selected) == set(correct)
 
             results.append({
-                'question': q['question'],
-                'options': q['options'],
+                'question': q.get('question', ''),
+                'options': q.get('options', []),
                 'selected': selected,
                 'correct': correct,
                 'is_correct': is_correct
@@ -47,6 +49,6 @@ def test():
         return render_template('result.html', results=results)
 
     return render_template('test.html', questions=questions)
+
 if __name__ == '__main__':
     app.run(debug=True)
-

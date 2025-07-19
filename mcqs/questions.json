@@ -1,144 +1,122 @@
 [
   {
-    "id": 1,
-    "question": "कृषि के लिए कौन-कौन सी जलवायु परिस्थितियाँ उपयुक्त हैं?\nWhich climatic conditions are suitable for agriculture?",
-    "options": [
-      "अल्प वर्षा और रेतीली मिट्टी / Low rainfall and sandy soil",
-      "मध्यम तापमान और भरपूर वर्षा / Moderate temperature and adequate rainfall",
-      "बहुत अधिक वर्षा और दलदली मिट्टी / Heavy rainfall and marshy soil",
-      "उच्च तापमान और सिंचाई की सुविधा / High temperature with irrigation facilities"
-    ],
-    "answer": [
-      "मध्यम तापमान और भरपूर वर्षा / Moderate temperature and adequate rainfall",
-      "उच्च तापमान और सिंचाई की सुविधा / High temperature with irrigation facilities"
-    ]
+    "id": "q1",
+    "question": "भारत में कृषि की किस प्रणाली को 'गहन और श्रम-प्रधान' प्रणाली माना जाता है? Which farming system in India is considered intensive and labor-intensive?",
+    "options": ["स्थूल कृषि / Extensive farming", "व्यावसायिक कृषि / Commercial farming", "कृषि आधारित उद्योग / Agro-based industry", "आत्मनिर्भर कृषि / Subsistence farming"],
+    "correct": ["व्यावसायिक कृषि / Commercial farming", "आत्मनिर्भर कृषि / Subsistence farming"]
   },
   {
-    "id": 2,
-    "question": "भारत की प्रमुख ग्रीष्मकालीन फसलों में कौन-कौन सी फसलें शामिल हैं?\nWhich of the following are major Kharif crops in India?",
-    "options": [
-      "चावल / Rice",
-      "गेहूं / Wheat",
-      "मक्का / Maize",
-      "चना / Chickpea"
-    ],
-    "answer": [
-      "चावल / Rice",
-      "मक्का / Maize"
-    ]
+    "id": "q2",
+    "question": "भारत में 'ब्लैक कॉटन सॉयल' मुख्यतः किस फसल के लिए उपयुक्त मानी जाती है? Black cotton soil in India is most suitable for which crops?",
+    "options": ["चावल / Rice", "गन्ना / Sugarcane", "कपास / Cotton", "चना / Gram"],
+    "correct": ["कपास / Cotton", "चना / Gram"]
   },
   {
-    "id": 3,
-    "question": "भारत के कौन-कौन से राज्य प्रमुख कपास उत्पादक हैं?\nWhich of the following states are major producers of cotton in India?",
-    "options": [
-      "महाराष्ट्र / Maharashtra",
-      "पंजाब / Punjab",
-      "गुजरात / Gujarat",
-      "ओडिशा / Odisha"
-    ],
-    "answer": [
-      "महाराष्ट्र / Maharashtra",
-      "गुजरात / Gujarat"
-    ]
+    "id": "q3",
+    "question": "भारत के किन क्षेत्रों में झूम कृषि प्रचलित है? In which regions of India is 'Jhum Cultivation' practiced?",
+    "options": ["गंगा के मैदान / Indo-Gangetic plains", "पूर्वोत्तर राज्य / North-Eastern States", "राजस्थान का मरुस्थल / Thar Desert", "हिमालय की तराई / Himalayan Terai"],
+    "correct": ["पूर्वोत्तर राज्य / North-Eastern States", "हिमालय की तराई / Himalayan Terai"]
   },
   {
-    "id": 4,
-    "question": "भारत की कौन-कौन सी नदियाँ डेल्टा बनाती हैं?\nWhich of the following rivers form deltas in India?",
-    "options": [
-      "गंगा / Ganga",
-      "गोदावरी / Godavari",
-      "नर्मदा / Narmada",
-      "महानदी / Mahanadi"
-    ],
-    "answer": [
-      "गंगा / Ganga",
-      "गोदावरी / Godavari",
-      "महानदी / Mahanadi"
-    ]
+    "id": "q4",
+    "question": "हरित क्रांति का प्रभाव किन प्रमुख फसलों पर पड़ा? Green Revolution in India primarily impacted which crops?",
+    "options": ["गेहूं / Wheat", "चावल / Rice", "चना / Chickpea", "ज्वार / Jowar"],
+    "correct": ["गेहूं / Wheat", "चावल / Rice"]
   },
   {
-    "id": 5,
-    "question": "निम्न में से कौन-कौन से संसाधन नवीकरणीय हैं?\nWhich of the following are renewable resources?",
-    "options": [
-      "कोयला / Coal",
-      "जल / Water",
-      "सौर ऊर्जा / Solar Energy",
-      "खनिज तेल / Mineral Oil"
-    ],
-    "answer": [
-      "जल / Water",
-      "सौर ऊर्जा / Solar Energy"
-    ]
+    "id": "q5",
+    "question": "भारत में मुख्य खाद्य फसलें कौन-कौन सी हैं? Which of the following are major food crops in India?",
+    "options": ["गेहूं / Wheat", "सरसों / Mustard", "चावल / Rice", "चना / Gram"],
+    "correct": ["गेहूं / Wheat", "चावल / Rice", "चना / Gram"]
   },
   {
-    "id": 6,
-    "question": "भारत की कौन-कौन सी पर्वतमालाएं युवा मोड़दार पर्वतों की श्रेणी में आती हैं?\nWhich of the following mountain ranges are examples of young fold mountains?",
-    "options": [
-      "हिमालय / Himalayas",
-      "अरावली / Aravalli",
-      "पश्चिमी घाट / Western Ghats",
-      "काराकोरम / Karakoram"
-    ],
-    "answer": [
-      "हिमालय / Himalayas",
-      "काराकोरम / Karakoram"
-    ]
+    "id": "q6",
+    "question": "कौन-कौन से राज्य कपास उत्पादन में अग्रणी हैं? Which Indian states lead in cotton production?",
+    "options": ["महाराष्ट्र / Maharashtra", "गुजरात / Gujarat", "बिहार / Bihar", "तेलंगाना / Telangana"],
+    "correct": ["महाराष्ट्र / Maharashtra", "गुजरात / Gujarat", "तेलंगाना / Telangana"]
   },
   {
-    "id": 7,
-    "question": "मृदा अपरदन को रोकने के लिए कौन-कौन से उपाय उपयुक्त हैं?\nWhich of the following are suitable measures to prevent soil erosion?",
-    "options": [
-      "झूम खेती / Slash and burn cultivation",
-      "पर्वतीय क्षेत्रों में सीढ़ीदार खेती / Terracing in hilly areas",
-      "वनों की कटाई / Deforestation",
-      "कृषि वानिकी / Agroforestry"
-    ],
-    "answer": [
-      "पर्वतीय क्षेत्रों में सीढ़ीदार खेती / Terracing in hilly areas",
-      "कृषि वानिकी / Agroforestry"
-    ]
+    "id": "q7",
+    "question": "कौन-कौन सी खनिज धातुएँ फेरस (Fe) आधारित हैं? Which of the following minerals are ferrous?",
+    "options": ["मैगनीज / Manganese", "बॉक्साइट / Bauxite", "लोहा / Iron", "तांबा / Copper"],
+    "correct": ["मैगनीज / Manganese", "लोहा / Iron"]
   },
   {
-    "id": 8,
-    "question": "भारत की कौन-कौन सी झीलें खारी जल की हैं?\nWhich of the following lakes are saltwater lakes in India?",
-    "options": [
-      "सम्भर झील / Sambhar Lake",
-      "वूलर झील / Wular Lake",
-      "चिल्का झील / Chilika Lake",
-      "लोकटक झील / Loktak Lake"
-    ],
-    "answer": [
-      "सम्भर झील / Sambhar Lake",
-      "चिल्का झील / Chilika Lake"
-    ]
+    "id": "q8",
+    "question": "कौन-कौन से नवीकरणीय ऊर्जा स्रोत हैं? Which of the following are renewable sources of energy?",
+    "options": ["कोयला / Coal", "पवन ऊर्जा / Wind energy", "सौर ऊर्जा / Solar energy", "पेट्रोलियम / Petroleum"],
+    "correct": ["पवन ऊर्जा / Wind energy", "सौर ऊर्जा / Solar energy"]
   },
   {
-    "id": 9,
-    "question": "जनसंख्या वृद्धि के कौन-कौन से प्रभाव होते हैं?\nWhich of the following are effects of population growth?",
-    "options": [
-      "बेरोजगारी में वृद्धि / Increase in unemployment",
-      "प्राकृतिक संसाधनों पर दबाव / Pressure on natural resources",
-      "पर्यावरण संरक्षण / Environmental conservation",
-      "शहरीकरण में वृद्धि / Rise in urbanization"
-    ],
-    "answer": [
-      "बेरोजगारी में वृद्धि / Increase in unemployment",
-      "प्राकृतिक संसाधनों पर दबाव / Pressure on natural resources",
-      "शहरीकरण में वृद्धि / Rise in urbanization"
-    ]
+    "id": "q9",
+    "question": "भारत में कौन-कौन सी नदियाँ डेल्टा बनाती हैं? Which Indian rivers form a delta?",
+    "options": ["गंगा / Ganga", "ब्रह्मपुत्र / Brahmaputra", "नर्मदा / Narmada", "गोदावरी / Godavari"],
+    "correct": ["गंगा / Ganga", "ब्रह्मपुत्र / Brahmaputra", "गोदावरी / Godavari"]
   },
   {
-    "id": 10,
-    "question": "भारत में किस किस क्षेत्र में काले मिट्टी (ब्लैक सॉइल) पाई जाती है?\nIn which regions of India is black soil found?",
-    "options": [
-      "दक्कन का पठार / Deccan Plateau",
-      "गंगा के मैदान / Gangetic Plains",
-      "गुजरात / Gujarat",
-      "राजस्थान / Rajasthan"
-    ],
-    "answer": [
-      "दक्कन का पठार / Deccan Plateau",
-      "गुजरात / Gujarat"
-    ]
+    "id": "q10",
+    "question": "किस प्रकार की मिट्टी में सबसे ज्यादा जलधारण क्षमता होती है? Which soil has the highest water retention capacity?",
+    "options": ["रेतीली मिट्टी / Sandy", "काली मिट्टी / Black soil", "दोमट मिट्टी / Loamy", "लाल मिट्टी / Red soil"],
+    "correct": ["काली मिट्टी / Black soil", "दोमट मिट्टी / Loamy"]
+  },
+  {
+    "id": "q11",
+    "question": "भारत के किन राज्यों में गन्ने की खेती प्रमुख है? In which Indian states is sugarcane farming prominent?",
+    "options": ["उत्तर प्रदेश / Uttar Pradesh", "पंजाब / Punjab", "बिहार / Bihar", "महाराष्ट्र / Maharashtra"],
+    "correct": ["उत्तर प्रदेश / Uttar Pradesh", "पंजाब / Punjab", "महाराष्ट्र / Maharashtra"]
+  },
+  {
+    "id": "q12",
+    "question": "भारत में प्राकृतिक गैस के प्रमुख उत्पादक क्षेत्र कौन से हैं? Which are major natural gas producing areas in India?",
+    "options": ["कृष्णा-गोदावरी बेसिन / Krishna-Godavari Basin", "मुंबई हाई / Mumbai High", "झरिया / Jharia", "असम / Assam"],
+    "correct": ["कृष्णा-गोदावरी बेसिन / Krishna-Godavari Basin", "मुंबई हाई / Mumbai High", "असम / Assam"]
+  },
+  {
+    "id": "q13",
+    "question": "कौन-कौन से जल स्रोत भूजल में योगदान करते हैं? Which sources contribute to groundwater recharge?",
+    "options": ["वर्षा / Rainfall", "बर्फ पिघलना / Snow melt", "नहरें / Canals", "कुएं / Wells"],
+    "correct": ["वर्षा / Rainfall", "बर्फ पिघलना / Snow melt", "नहरें / Canals"]
+  },
+  {
+    "id": "q14",
+    "question": "भारत की प्रमुख रबी फसलें कौन-कौन सी हैं? Which of the following are major Rabi crops in India?",
+    "options": ["गेहूं / Wheat", "सरसों / Mustard", "धान / Paddy", "चना / Gram"],
+    "correct": ["गेहूं / Wheat", "सरसों / Mustard", "चना / Gram"]
+  },
+  {
+    "id": "q15",
+    "question": "निम्नलिखित में से किन उद्योगों को कृषि आधारित माना जाता है? Which of the following are agro-based industries?",
+    "options": ["कपड़ा उद्योग / Textile", "इस्पात उद्योग / Steel", "चीनी उद्योग / Sugar", "चाय उद्योग / Tea"],
+    "correct": ["कपड़ा उद्योग / Textile", "चीनी उद्योग / Sugar", "चाय उद्योग / Tea"]
+  },
+  {
+    "id": "q16",
+    "question": "भारत में कौन-कौन से बंदरगाह प्राकृतिक हैं? Which of the following Indian ports are natural?",
+    "options": ["मुंबई / Mumbai", "कोचीन / Cochin", "कांडला / Kandla", "विशाखापत्तनम / Visakhapatnam"],
+    "correct": ["मुंबई / Mumbai", "कोचीन / Cochin", "विशाखापत्तनम / Visakhapatnam"]
+  },
+  {
+    "id": "q17",
+    "question": "कौन-कौन से भारत में उगाए जाने वाले नकदी फसलें हैं? Which of the following are cash crops in India?",
+    "options": ["कपास / Cotton", "गन्ना / Sugarcane", "धान / Rice", "चाय / Tea"],
+    "correct": ["कपास / Cotton", "गन्ना / Sugarcane", "चाय / Tea"]
+  },
+  {
+    "id": "q18",
+    "question": "भारत में किस प्रकार की बिजली सबसे ज्यादा उत्पादित होती है? What type of power is mostly produced in India?",
+    "options": ["हाइड्रो पावर / Hydropower", "कोयला आधारित / Thermal", "सौर ऊर्जा / Solar", "नाभिकीय ऊर्जा / Nuclear"],
+    "correct": ["कोयला आधारित / Thermal"]
+  },
+  {
+    "id": "q19",
+    "question": "भारत में कौन-कौन से प्रमुख लौह अयस्क के क्षेत्र हैं? Which are major iron ore regions in India?",
+    "options": ["बस्तर / Bastar", "सिंहभूम / Singhbhum", "रांची / Ranchi", "बेल्लारी / Bellary"],
+    "correct": ["बस्तर / Bastar", "सिंहभूम / Singhbhum", "बेल्लारी / Bellary"]
+  },
+  {
+    "id": "q20",
+    "question": "भारत में कौन-कौन सी फसलें खरीफ मौसम में बोई जाती हैं? Which crops are sown during Kharif season in India?",
+    "options": ["चावल / Rice", "मक्का / Maize", "चना / Gram", "सोयाबीन / Soybean"],
+    "correct": ["चावल / Rice", "मक्का / Maize", "सोयाबीन / Soybean"]
   }
 ]
