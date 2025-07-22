@@ -1,16 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Result</title>
+  <title>Test Result</title>
   <style>
-    .correct-answer {
-      background-color: #d4edda;
-      padding: 5px;
-    }
-    .wrong-answer {
-      background-color: #f8d7da;
-      padding: 5px;
-    }
+    .correct-answer { background-color: #d4edda; padding: 5px; }
+    .wrong-answer { background-color: #f8d7da; padding: 5px; }
     .question-box {
       border: 1px solid #ccc;
       margin-bottom: 15px;
@@ -20,17 +14,15 @@
   </style>
 </head>
 <body>
-  <h2>✅ Your Results</h2>
-
-  {% for r in results %}
+  <h2>📊 Test Results</h2>
+  {% for res in results %}
     <div class="question-box">
-      <p><strong>{{ loop.index }}. {{ r.question }}</strong></p>
-
-      {% if r.is_correct %}
-        <p class="correct-answer">✅ Your Answer: {{ r.selected | join(', ') }}</p>
+      <p><strong>{{ loop.index }}. {{ res.question }}</strong></p>
+      {% if res.is_correct %}
+        <p class="correct-answer">✅ Your Answer: {{ res.selected | join(", ") }}</p>
       {% else %}
-        <p class="wrong-answer">❌ Your Answer: {{ r.selected | join(', ') if r.selected else "No answer selected" }}</p>
-        <p class="correct-answer">✅ Correct Answer: {{ r.correct | join(', ') }}</p>
+        <p class="wrong-answer">❌ Your Answer: {{ res.selected | join(", ") if res.selected else "No answer selected" }}</p>
+        <p class="correct-answer">✅ Correct Answer: {{ res.correct | join(", ") }}</p>
       {% endif %}
     </div>
   {% endfor %}
