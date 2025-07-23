@@ -2,111 +2,23 @@
   {
     "question": "भारत में संसाधनों के संरक्षण के कौन-कौन से तरीके अपनाए गए हैं?",
     "question_en": "Which of the following are methods of resource conservation in India?",
-    "options": {
-      "A": "संसाधनों का पुनः उपयोग (Reuse of resources)",
-      "B": "अपशिष्ट पदार्थों का पुनर्चक्रण (Recycling of waste materials)",
-      "C": "मिश्रित कृषि को बढ़ावा देना (Promoting mixed farming)",
-      "D": "संसाधनों का अधिकतम दोहन (Maximizing exploitation of resources)"
-    },
-    "correct_answers": ["A", "B", "C"]
+    "options": [
+      "संसाधनों का पुनः उपयोग (Reuse of resources)",
+      "अपशिष्ट पदार्थों का पुनर्चक्रण (Recycling of waste materials)",
+      "मिश्रित कृषि को बढ़ावा देना (Promoting mixed farming)",
+      "संसाधनों का अधिकतम दोहन (Maximizing exploitation of resources)"
+    ],
+    "correct_answers": [0, 1, 2]
   },
   {
     "question": "निम्नलिखित में से कौन-से स्थायी संसाधन (renewable resources) के उदाहरण हैं?",
     "question_en": "Which of the following are examples of renewable resources?",
-    "options": {
-      "A": "जल (Water)",
-      "B": "पेट्रोल (Petrol)",
-      "C": "सौर ऊर्जा (Solar energy)",
-      "D": "कोयला (Coal)"
-    },
-    "correct_answers": ["A", "C"]
-  },
-  {
-    "question": "‘रिसोर्स प्लानिंग’ के चरण क्या हैं?",
-    "question_en": "What are the phases of resource planning?",
-    "options": {
-      "A": "संसाधनों की पहचान (Identification of resources)",
-      "B": "राजनीतिक समर्थन (Political support)",
-      "C": "संसाधन विकास की योजना (Planning for resource development)",
-      "D": "योजना कार्यान्वयन (Implementation of plans)"
-    },
-    "correct_answers": ["A", "C", "D"]
-  },
-  {
-    "question": "निम्नलिखित में से कौन-से कारण हैं जिससे मिट्टी का क्षरण होता है?",
-    "question_en": "Which of the following cause soil erosion?",
-    "options": {
-      "A": "अधिक वर्षा (Heavy rainfall)",
-      "B": "वनों की कटाई (Deforestation)",
-      "C": "अधिक सिंचाई (Excess irrigation)",
-      "D": "समोच्च हल चलाना (Contour ploughing)"
-    },
-    "correct_answers": ["A", "B", "C"]
-  },
-  {
-    "question": "‘रेगुर मिट्टी’ की कौन-सी विशेषताएँ सही हैं?",
-    "question_en": "Which of the following are characteristics of Regur (Black) soil?",
-    "options": {
-      "A": "यह कपास के लिए उपयुक्त होती है (Suitable for cotton)",
-      "B": "इसमें जल धारण क्षमता अधिक होती है (High water retention)",
-      "C": "यह अम्लीय होती है (It is acidic)",
-      "D": "इसमें काली रंग की ऊपरी परत होती है (Dark surface layer)"
-    },
-    "correct_answers": ["A", "B", "D"]
-  },
-  {
-    "question": "कौन-कौन से कृषि प्रकार भारत में पाए जाते हैं?",
-    "question_en": "Which types of farming are practiced in India?",
-    "options": {
-      "A": "वाणिज्यिक कृषि (Commercial farming)",
-      "B": "स्थायी कृषि (Subsistence farming)",
-      "C": "स्थानांतरण कृषि (Shifting agriculture)",
-      "D": "समेकित कृषि (Integrated farming)"
-    },
-    "correct_answers": ["A", "B", "C", "D"]
-  },
-  {
-    "question": "भारत में हरित क्रांति के प्रभाव क्या थे?",
-    "question_en": "What were the effects of Green Revolution in India?",
-    "options": {
-      "A": "अनाज उत्पादन में वृद्धि (Increase in food grain production)",
-      "B": "पारंपरिक बीजों की वापसी (Return of traditional seeds)",
-      "C": "रासायनिक खादों का अत्यधिक प्रयोग (Overuse of chemical fertilizers)",
-      "D": "क्षेत्रीय विषमता (Regional imbalance)"
-    },
-    "correct_answers": ["A", "C", "D"]
-  },
-  {
-    "question": "निम्नलिखित में से कौन-से फसलें खरीफ मौसम में उगाई जाती हैं?",
-    "question_en": "Which of the following are Kharif crops?",
-    "options": {
-      "A": "धान (Paddy)",
-      "B": "गेहूं (Wheat)",
-      "C": "मक्का (Maize)",
-      "D": "कपास (Cotton)"
-    },
-    "correct_answers": ["A", "C", "D"]
-  },
-  {
-    "question": "भारत में कौन-कौन से खनिज गैर-धात्विक हैं?",
-    "question_en": "Which of the following are non-metallic minerals found in India?",
-    "options": {
-      "A": "चूना पत्थर (Limestone)",
-      "B": "डोलोमाइट (Dolomite)",
-      "C": "बॉक्साइट (Bauxite)",
-      "D": "अभ्रक (Mica)"
-    },
-    "correct_answers": ["A", "B", "D"]
-  },
-  {
-    "question": "भारत में खनिजों का वितरण किस प्रकार है?",
-    "question_en": "How is mineral distribution in India characterized?",
-    "options": {
-      "A": "समरूप रूप से वितरित (Uniformly distributed)",
-      "B": "क्षेत्रीय असमानता (Regional imbalance)",
-      "C": "कुछ राज्यों में उच्च सघनता (High concentration in some states)",
-      "D": "केवल पहाड़ी क्षेत्रों में उपलब्ध (Only in hilly areas)"
-    },
-    "correct_answers": ["B", "C"]
+    "options": [
+      "जल (Water)",
+      "पेट्रोल (Petrol)",
+      "सौर ऊर्जा (Solar energy)",
+      "कोयला (Coal)"
+    ],
+    "correct_answers": [0, 2]
   }
 ]
