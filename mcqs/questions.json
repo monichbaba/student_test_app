@@ -7,116 +7,116 @@
   },
   {
     "id": "q2",
-    "question": "Which of the following rivers originate in India? / निम्नलिखित में से कौन सी नदियाँ भारत में उत्पन्न होती हैं?",
-    "options": ["Ganga / गंगा", "Brahmaputra / ब्रह्मपुत्र", "Yamuna / यमुना", "Indus / सिंधु"],
-    "answer": ["Ganga / गंगा", "Yamuna / यमुना"]
+    "question": "Which of the following practices help in soil conservation? / निम्नलिखित में से कौन-सी प्रथाएं मृदा संरक्षण में सहायक हैं?",
+    "options": ["Contour ploughing / समोच्च हल चलाना", "Shifting cultivation / स्थानांतरित खेती", "Afforestation / वनीकरण", "Overgrazing / अत्यधिक चराई"],
+    "answer": ["Contour ploughing / समोच्च हल चलाना", "Afforestation / वनीकरण"]
   },
   {
     "id": "q3",
-    "question": "Which crops are grown in Kharif season? / खरीफ ऋतु में कौन सी फसलें उगाई जाती हैं?",
-    "options": ["Rice / चावल", "Wheat / गेहूं", "Maize / मक्का", "Cotton / कपास"],
-    "answer": ["Rice / चावल", "Maize / मक्का", "Cotton / कपास"]
+    "question": "Which of these are major iron ore producing states of India? / इनमें से कौन से राज्य भारत में प्रमुख लौह अयस्क उत्पादक राज्य हैं?",
+    "options": ["Odisha / ओडिशा", "Punjab / पंजाब", "Chhattisgarh / छत्तीसगढ़", "Tamil Nadu / तमिलनाडु"],
+    "answer": ["Odisha / ओडिशा", "Chhattisgarh / छत्तीसगढ़"]
   },
   {
     "id": "q4",
-    "question": "Which of the following are soil types found in India? / भारत में पाए जाने वाले मृदा प्रकार कौन से हैं?",
-    "options": ["Alluvial / जलोढ़", "Black / काली", "Desert / मरुस्थली", "Red / लाल"],
-    "answer": ["Alluvial / जलोढ़", "Black / काली", "Red / लाल"]
+    "question": "Which of the following are non-conventional sources of energy? / निम्नलिखित में से कौन से अपारंपरिक ऊर्जा स्रोत हैं?",
+    "options": ["Solar energy / सौर ऊर्जा", "Thermal power / तापीय ऊर्जा", "Biogas / बायोगैस", "Hydroelectricity / जलविद्युत"],
+    "answer": ["Solar energy / सौर ऊर्जा", "Biogas / बायोगैस"]
   },
   {
     "id": "q5",
-    "question": "Which are major coal producing states of India? / भारत के प्रमुख कोयला उत्पादक राज्य कौन से हैं?",
-    "options": ["Jharkhand / झारखंड", "Chhattisgarh / छत्तीसगढ़", "Punjab / पंजाब", "Odisha / ओडिशा"],
-    "answer": ["Jharkhand / झारखंड", "Chhattisgarh / छत्तीसगढ़", "Odisha / ओडिशा"]
+    "question": "Which minerals are used in the production of fertilizers? / उर्वरक उत्पादन में किन खनिजों का उपयोग होता है?",
+    "options": ["Phosphate / फॉस्फेट", "Mica / अभ्रक", "Potash / पोटाश", "Limestone / चूना पत्थर"],
+    "answer": ["Phosphate / फॉस्फेट", "Potash / पोटाश"]
   },
   {
     "id": "q6",
-    "question": "Which of the following are uses of mica? / निम्नलिखित में से कौन-कौन से अभ्रक के उपयोग हैं?",
-    "options": ["Electrical industry / विद्युत उद्योग", "Paints / पेंट", "Fertilizers / उर्वरक", "Cosmetics / सौंदर्य प्रसाधन"],
-    "answer": ["Electrical industry / विद्युत उद्योग", "Paints / पेंट", "Cosmetics / सौंदर्य प्रसाधन"]
+    "question": "Which of the following are causes of land degradation? / निम्नलिखित में से कौन भूमि क्षरण के कारण हैं?",
+    "options": ["Deforestation / वनों की कटाई", "Over irrigation / अधिक सिंचाई", "Organic farming / जैविक खेती", "Industrial effluents / औद्योगिक अपशिष्ट"],
+    "answer": ["Deforestation / वनों की कटाई", "Over irrigation / अधिक सिंचाई", "Industrial effluents / औद्योगिक अपशिष्ट"]
   },
   {
     "id": "q7",
-    "question": "Which industries are based on agriculture? / कौन-कौन सी उद्योग कृषि पर आधारित हैं?",
-    "options": ["Cotton textile / कपास वस्त्र", "Sugar / चीनी", "Cement / सीमेंट", "Jute / जूट"],
-    "answer": ["Cotton textile / कपास वस्त्र", "Sugar / चीनी", "Jute / जूट"]
+    "question": "Which of the following crops are grown in Rabi season? / निम्नलिखित फसलों में से कौन सी रबी ऋतु में उगाई जाती हैं?",
+    "options": ["Wheat / गेहूं", "Rice / चावल", "Barley / जौ", "Gram / चना"],
+    "answer": ["Wheat / गेहूं", "Barley / जौ", "Gram / चना"]
   },
   {
     "id": "q8",
-    "question": "Which are methods of rainwater harvesting? / वर्षा जल संचयन के कौन-कौन से तरीके हैं?",
-    "options": ["Ponds / तालाब", "Check dams / चेक डैम", "Canals / नहरें", "Tanks / टैंक"],
-    "answer": ["Ponds / तालाब", "Check dams / चेक डैम", "Tanks / टैंक"]
+    "question": "Which of the following help in water conservation? / निम्नलिखित में से कौन जल संरक्षण में सहायक है?",
+    "options": ["Rainwater harvesting / वर्षा जल संचयन", "Dams / बांध", "Drip irrigation / ड्रिप सिंचाई", "Open drainage / खुली जल निकासी"],
+    "answer": ["Rainwater harvesting / वर्षा जल संचयन", "Drip irrigation / ड्रिप सिंचाई"]
   },
   {
     "id": "q9",
-    "question": "Which factors affect resource development? / संसाधनों के विकास को कौन-कौन से कारक प्रभावित करते हैं?",
-    "options": ["Technology / तकनीक", "Population / जनसंख्या", "Climate / जलवायु", "Political will / राजनीतिक इच्छाशक्ति"],
-    "answer": ["Technology / तकनीक", "Population / जनसंख्या", "Political will / राजनीतिक इच्छाशक्ति"]
+    "question": "Which of the following are plantation crops? / निम्नलिखित में से कौन सी बागान फसलें हैं?",
+    "options": ["Tea / चाय", "Coffee / कॉफी", "Wheat / गेहूं", "Rubber / रबड़"],
+    "answer": ["Tea / चाय", "Coffee / कॉफी", "Rubber / रबड़"]
   },
   {
     "id": "q10",
-    "question": "Which minerals are found in igneous rocks? / आग्नेय चट्टानों में कौन-कौन से खनिज पाए जाते हैं?",
-    "options": ["Gold / सोना", "Copper / तांबा", "Coal / कोयला", "Iron / लोहा"],
-    "answer": ["Gold / सोना", "Copper / तांबा", "Iron / लोहा"]
+    "question": "Which of the following rivers originate from the Himalayas? / निम्नलिखित में से कौन सी नदियाँ हिमालय से निकलती हैं?",
+    "options": ["Ganga / गंगा", "Brahmaputra / ब्रह्मपुत्र", "Godavari / गोदावरी", "Indus / सिंधु"],
+    "answer": ["Ganga / गंगा", "Brahmaputra / ब्रह्मपुत्र", "Indus / सिंधु"]
   },
   {
     "id": "q11",
-    "question": "Which of the following are components of resource planning? / संसाधन योजना के कौन-कौन से घटक हैं?",
-    "options": ["Identification / पहचान", "Planning structure / योजना संरचना", "Implementation / कार्यान्वयन", "Marketing / विपणन"],
-    "answer": ["Identification / पहचान", "Planning structure / योजना संरचना", "Implementation / कार्यान्वयन"]
+    "question": "Which of the following are examples of tidal energy use? / निम्नलिखित में से ज्वारीय ऊर्जा के उपयोग के उदाहरण कौन से हैं?",
+    "options": ["Tidal barrage / ज्वारीय बाँध", "Wave power / तरंग शक्ति", "Nuclear plant / परमाणु संयंत्र", "Coal plant / कोयला संयंत्र"],
+    "answer": ["Tidal barrage / ज्वारीय बाँध", "Wave power / तरंग शक्ति"]
   },
   {
     "id": "q12",
-    "question": "Which of the following are physical features of India? / भारत की भौतिक विशेषताएं कौन-कौन सी हैं?",
-    "options": ["The Himalayas / हिमालय", "The Northern Plains / उत्तरी मैदान", "The Peninsular Plateau / प्रायद्वीपी पठार", "The Great Basin / महान बेसिन"],
-    "answer": ["The Himalayas / हिमालय", "The Northern Plains / उत्तरी मैदान", "The Peninsular Plateau / प्रायद्वीपी पठार"]
+    "question": "Which of the following minerals are found in sedimentary rocks? / निम्नलिखित में से कौन से खनिज अवसादी चट्टानों में पाए जाते हैं?",
+    "options": ["Gypsum / जिप्सम", "Halite / नमक", "Granite / ग्रेनाइट", "Limestone / चूना पत्थर"],
+    "answer": ["Gypsum / जिप्सम", "Halite / नमक", "Limestone / चूना पत्थर"]
   },
   {
     "id": "q13",
-    "question": "Which of the following are examples of biodiversity hotspots in India? / भारत में जैव विविधता हॉटस्पॉट के उदाहरण कौन से हैं?",
-    "options": ["Western Ghats / पश्चिमी घाट", "Sundarbans / सुंदरबन", "Thar Desert / थार रेगिस्तान", "Himalayas / हिमालय"],
-    "answer": ["Western Ghats / पश्चिमी घाट", "Sundarbans / सुंदरबन", "Himalayas / हिमालय"]
+    "question": "Which of these human activities contribute to global warming? / इनमें से कौन सी मानवीय गतिविधियाँ वैश्विक ऊष्मीकरण में योगदान देती हैं?",
+    "options": ["Burning fossil fuels / जीवाश्म ईंधन जलाना", "Deforestation / वनों की कटाई", "Carpooling / साझा वाहन", "Reforestation / पुनर्वनीकरण"],
+    "answer": ["Burning fossil fuels / जीवाश्म ईंधन जलाना", "Deforestation / वनों की कटाई"]
   },
   {
     "id": "q14",
-    "question": "Which of the following help in soil conservation? / निम्नलिखित में से कौन-कौन से मृदा संरक्षण में सहायक हैं?",
-    "options": ["Contour ploughing / समोच्च हल चलाना", "Terrace farming / सीढ़ीदार खेती", "Overgrazing / अत्यधिक चराई", "Shelter belts / वृक्ष पट्टियाँ"],
-    "answer": ["Contour ploughing / समोच्च हल चलाना", "Terrace farming / सीढ़ीदार खेती", "Shelter belts / वृक्ष पट्टियाँ"]
+    "question": "Which of the following are nuclear fuels? / निम्नलिखित में से कौन-कौन से परमाणु ईंधन हैं?",
+    "options": ["Uranium / यूरेनियम", "Thorium / थोरियम", "Coal / कोयला", "Diesel / डीजल"],
+    "answer": ["Uranium / यूरेनियम", "Thorium / थोरियम"]
   },
   {
     "id": "q15",
-    "question": "Which of the following are oilfields in India? / भारत में तेल क्षेत्र कौन-कौन से हैं?",
-    "options": ["Bombay High / बॉम्बे हाई", "Digboi / डिगबोई", "Kochi / कोच्चि", "Ankleshwar / अंकलेश्वर"],
-    "answer": ["Bombay High / बॉम्बे हाई", "Digboi / डिगबोई", "Ankleshwar / अंकलेश्वर"]
+    "question": "Which rivers are part of the Peninsular river system? / कौन सी नदियाँ प्रायद्वीपीय नदी तंत्र का हिस्सा हैं?",
+    "options": ["Krishna / कृष्णा", "Cauvery / कावेरी", "Yamuna / यमुना", "Mahanadi / महानदी"],
+    "answer": ["Krishna / कृष्णा", "Cauvery / कावेरी", "Mahanadi / महानदी"]
   },
   {
     "id": "q16",
-    "question": "Which of the following regions receive winter rainfall due to western disturbances? / पश्चिमी विक्षोभों के कारण शीतकालीन वर्षा कहाँ होती है?",
-    "options": ["Punjab / पंजाब", "Haryana / हरियाणा", "Kerala / केरल", "Rajasthan / राजस्थान"],
-    "answer": ["Punjab / पंजाब", "Haryana / हरियाणा", "Rajasthan / राजस्थान"]
+    "question": "Which of the following are examples of cash crops? / निम्नलिखित में से कौन-कौन सी नकदी फसलें हैं?",
+    "options": ["Cotton / कपास", "Jute / जूट", "Millets / बाजरा", "Sugarcane / गन्ना"],
+    "answer": ["Cotton / कपास", "Jute / जूट", "Sugarcane / गन्ना"]
   },
   {
     "id": "q17",
-    "question": "Which of the following are non-conventional energy sources? / निम्नलिखित में से कौन-कौन से गैर-पारंपरिक ऊर्जा स्रोत हैं?",
-    "options": ["Solar / सौर", "Wind / पवन", "Biogas / बायोगैस", "Natural gas / प्राकृतिक गैस"],
-    "answer": ["Solar / सौर", "Wind / पवन", "Biogas / बायोगैस"]
+    "question": "Which states produce black soil in India? / भारत में कौन-कौन से राज्य काली मिट्टी प्रदान करते हैं?",
+    "options": ["Maharashtra / महाराष्ट्र", "Gujarat / गुजरात", "Punjab / पंजाब", "Madhya Pradesh / मध्य प्रदेश"],
+    "answer": ["Maharashtra / महाराष्ट्र", "Gujarat / गुजरात", "Madhya Pradesh / मध्य प्रदेश"]
   },
   {
     "id": "q18",
-    "question": "Which of the following are types of farming in India? / भारत में खेती के कौन-कौन से प्रकार हैं?",
-    "options": ["Subsistence / निर्वाह", "Commercial / व्यावसायिक", "Shifting / स्थानांतरण", "Intensive / गहन"],
-    "answer": ["Subsistence / निर्वाह", "Commercial / व्यावसायिक", "Shifting / स्थानांतरण"]
+    "question": "Which of the following are metallic minerals? / निम्नलिखित में से कौन-कौन से धात्विक खनिज हैं?",
+    "options": ["Iron / लोहा", "Copper / तांबा", "Mica / अभ्रक", "Gold / सोना"],
+    "answer": ["Iron / लोहा", "Copper / तांबा", "Gold / सोना"]
   },
   {
     "id": "q19",
-    "question": "Which of the following states are major rice producers? / कौन-कौन से राज्य चावल के प्रमुख उत्पादक हैं?",
-    "options": ["West Bengal / पश्चिम बंगाल", "Punjab / पंजाब", "Uttar Pradesh / उत्तर प्रदेश", "Rajasthan / राजस्थान"],
-    "answer": ["West Bengal / पश्चिम बंगाल", "Punjab / पंजाब", "Uttar Pradesh / उत्तर प्रदेश"]
+    "question": "Which movements promoted resource conservation in India? / भारत में संसाधन संरक्षण को बढ़ावा देने वाले आंदोलन कौन से थे?",
+    "options": ["Chipko Movement / चिपको आंदोलन", "Bhoodan Movement / भूदान आंदोलन", "Swadeshi Movement / स्वदेशी आंदोलन", "Quit India Movement / भारत छोड़ो आंदोलन"],
+    "answer": ["Chipko Movement / चिपको आंदोलन", "Bhoodan Movement / भूदान आंदोलन"]
   },
   {
     "id": "q20",
-    "question": "Which are features of Indian monsoon? / भारतीय मानसून की विशेषताएँ कौन-कौन सी हैं?",
-    "options": ["Seasonal reversal / मौसमी परिवर्तन", "Sudden onset / अचानक आरंभ", "Uneven distribution / असमान वितरण", "Predictable timing / पूर्वानुमान योग्य समय"],
-    "answer": ["Seasonal reversal / मौसमी परिवर्तन", "Sudden onset / अचानक आरंभ", "Uneven distribution / असमान वितरण"]
+    "question": "Which of the following are forms of sustainable development? / निम्नलिखित में से कौन सतत विकास के रूप हैं?",
+    "options": ["Solar lighting / सौर प्रकाश", "Plastic usage / प्लास्टिक का उपयोग", "Organic farming / जैविक खेती", "Rainwater harvesting / वर्षा जल संचयन"],
+    "answer": ["Solar lighting / सौर प्रकाश", "Organic farming / जैविक खेती", "Rainwater harvesting / वर्षा जल संचयन"]
   }
 ]
