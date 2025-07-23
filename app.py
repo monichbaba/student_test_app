@@ -22,7 +22,7 @@ def index():
 def password():
     if request.method == "POST":
         entered = request.form.get("password")
-        if entered == "letmein":
+        if entered == "jaishreeram":
             session["authenticated"] = True
             return redirect("/test")
         else:
