@@ -1,122 +1,112 @@
 [
   {
-    "id": "q1",
-    "question": "Which of the following are renewable resources? / निम्नलिखित में से कौन से अक्षय संसाधन हैं?",
-    "options": ["Solar energy / सौर ऊर्जा", "Coal / कोयला", "Wind energy / पवन ऊर्जा", "Petroleum / पेट्रोलियम"],
-    "answer": ["Solar energy / सौर ऊर्जा", "Wind energy / पवन ऊर्जा"]
+    "question": "भारत में संसाधनों के संरक्षण के कौन-कौन से तरीके अपनाए गए हैं?",
+    "question_en": "Which of the following are methods of resource conservation in India?",
+    "options": {
+      "A": "संसाधनों का पुनः उपयोग (Reuse of resources)",
+      "B": "अपशिष्ट पदार्थों का पुनर्चक्रण (Recycling of waste materials)",
+      "C": "मिश्रित कृषि को बढ़ावा देना (Promoting mixed farming)",
+      "D": "संसाधनों का अधिकतम दोहन (Maximizing exploitation of resources)"
+    },
+    "correct_answers": ["A", "B", "C"]
   },
   {
-    "id": "q2",
-    "question": "Which of the following practices help in soil conservation? / निम्नलिखित में से कौन-सी प्रथाएं मृदा संरक्षण में सहायक हैं?",
-    "options": ["Contour ploughing / समोच्च हल चलाना", "Shifting cultivation / स्थानांतरित खेती", "Afforestation / वनीकरण", "Overgrazing / अत्यधिक चराई"],
-    "answer": ["Contour ploughing / समोच्च हल चलाना", "Afforestation / वनीकरण"]
+    "question": "निम्नलिखित में से कौन-से स्थायी संसाधन (renewable resources) के उदाहरण हैं?",
+    "question_en": "Which of the following are examples of renewable resources?",
+    "options": {
+      "A": "जल (Water)",
+      "B": "पेट्रोल (Petrol)",
+      "C": "सौर ऊर्जा (Solar energy)",
+      "D": "कोयला (Coal)"
+    },
+    "correct_answers": ["A", "C"]
   },
   {
-    "id": "q3",
-    "question": "Which of these are major iron ore producing states of India? / इनमें से कौन से राज्य भारत में प्रमुख लौह अयस्क उत्पादक राज्य हैं?",
-    "options": ["Odisha / ओडिशा", "Punjab / पंजाब", "Chhattisgarh / छत्तीसगढ़", "Tamil Nadu / तमिलनाडु"],
-    "answer": ["Odisha / ओडिशा", "Chhattisgarh / छत्तीसगढ़"]
+    "question": "‘रिसोर्स प्लानिंग’ के चरण क्या हैं?",
+    "question_en": "What are the phases of resource planning?",
+    "options": {
+      "A": "संसाधनों की पहचान (Identification of resources)",
+      "B": "राजनीतिक समर्थन (Political support)",
+      "C": "संसाधन विकास की योजना (Planning for resource development)",
+      "D": "योजना कार्यान्वयन (Implementation of plans)"
+    },
+    "correct_answers": ["A", "C", "D"]
   },
   {
-    "id": "q4",
-    "question": "Which of the following are non-conventional sources of energy? / निम्नलिखित में से कौन से अपारंपरिक ऊर्जा स्रोत हैं?",
-    "options": ["Solar energy / सौर ऊर्जा", "Thermal power / तापीय ऊर्जा", "Biogas / बायोगैस", "Hydroelectricity / जलविद्युत"],
-    "answer": ["Solar energy / सौर ऊर्जा", "Biogas / बायोगैस"]
+    "question": "निम्नलिखित में से कौन-से कारण हैं जिससे मिट्टी का क्षरण होता है?",
+    "question_en": "Which of the following cause soil erosion?",
+    "options": {
+      "A": "अधिक वर्षा (Heavy rainfall)",
+      "B": "वनों की कटाई (Deforestation)",
+      "C": "अधिक सिंचाई (Excess irrigation)",
+      "D": "समोच्च हल चलाना (Contour ploughing)"
+    },
+    "correct_answers": ["A", "B", "C"]
   },
   {
-    "id": "q5",
-    "question": "Which minerals are used in the production of fertilizers? / उर्वरक उत्पादन में किन खनिजों का उपयोग होता है?",
-    "options": ["Phosphate / फॉस्फेट", "Mica / अभ्रक", "Potash / पोटाश", "Limestone / चूना पत्थर"],
-    "answer": ["Phosphate / फॉस्फेट", "Potash / पोटाश"]
+    "question": "‘रेगुर मिट्टी’ की कौन-सी विशेषताएँ सही हैं?",
+    "question_en": "Which of the following are characteristics of Regur (Black) soil?",
+    "options": {
+      "A": "यह कपास के लिए उपयुक्त होती है (Suitable for cotton)",
+      "B": "इसमें जल धारण क्षमता अधिक होती है (High water retention)",
+      "C": "यह अम्लीय होती है (It is acidic)",
+      "D": "इसमें काली रंग की ऊपरी परत होती है (Dark surface layer)"
+    },
+    "correct_answers": ["A", "B", "D"]
   },
   {
-    "id": "q6",
-    "question": "Which of the following are causes of land degradation? / निम्नलिखित में से कौन भूमि क्षरण के कारण हैं?",
-    "options": ["Deforestation / वनों की कटाई", "Over irrigation / अधिक सिंचाई", "Organic farming / जैविक खेती", "Industrial effluents / औद्योगिक अपशिष्ट"],
-    "answer": ["Deforestation / वनों की कटाई", "Over irrigation / अधिक सिंचाई", "Industrial effluents / औद्योगिक अपशिष्ट"]
+    "question": "कौन-कौन से कृषि प्रकार भारत में पाए जाते हैं?",
+    "question_en": "Which types of farming are practiced in India?",
+    "options": {
+      "A": "वाणिज्यिक कृषि (Commercial farming)",
+      "B": "स्थायी कृषि (Subsistence farming)",
+      "C": "स्थानांतरण कृषि (Shifting agriculture)",
+      "D": "समेकित कृषि (Integrated farming)"
+    },
+    "correct_answers": ["A", "B", "C", "D"]
   },
   {
-    "id": "q7",
-    "question": "Which of the following crops are grown in Rabi season? / निम्नलिखित फसलों में से कौन सी रबी ऋतु में उगाई जाती हैं?",
-    "options": ["Wheat / गेहूं", "Rice / चावल", "Barley / जौ", "Gram / चना"],
-    "answer": ["Wheat / गेहूं", "Barley / जौ", "Gram / चना"]
+    "question": "भारत में हरित क्रांति के प्रभाव क्या थे?",
+    "question_en": "What were the effects of Green Revolution in India?",
+    "options": {
+      "A": "अनाज उत्पादन में वृद्धि (Increase in food grain production)",
+      "B": "पारंपरिक बीजों की वापसी (Return of traditional seeds)",
+      "C": "रासायनिक खादों का अत्यधिक प्रयोग (Overuse of chemical fertilizers)",
+      "D": "क्षेत्रीय विषमता (Regional imbalance)"
+    },
+    "correct_answers": ["A", "C", "D"]
   },
   {
-    "id": "q8",
-    "question": "Which of the following help in water conservation? / निम्नलिखित में से कौन जल संरक्षण में सहायक है?",
-    "options": ["Rainwater harvesting / वर्षा जल संचयन", "Dams / बांध", "Drip irrigation / ड्रिप सिंचाई", "Open drainage / खुली जल निकासी"],
-    "answer": ["Rainwater harvesting / वर्षा जल संचयन", "Drip irrigation / ड्रिप सिंचाई"]
+    "question": "निम्नलिखित में से कौन-से फसलें खरीफ मौसम में उगाई जाती हैं?",
+    "question_en": "Which of the following are Kharif crops?",
+    "options": {
+      "A": "धान (Paddy)",
+      "B": "गेहूं (Wheat)",
+      "C": "मक्का (Maize)",
+      "D": "कपास (Cotton)"
+    },
+    "correct_answers": ["A", "C", "D"]
   },
   {
-    "id": "q9",
-    "question": "Which of the following are plantation crops? / निम्नलिखित में से कौन सी बागान फसलें हैं?",
-    "options": ["Tea / चाय", "Coffee / कॉफी", "Wheat / गेहूं", "Rubber / रबड़"],
-    "answer": ["Tea / चाय", "Coffee / कॉफी", "Rubber / रबड़"]
+    "question": "भारत में कौन-कौन से खनिज गैर-धात्विक हैं?",
+    "question_en": "Which of the following are non-metallic minerals found in India?",
+    "options": {
+      "A": "चूना पत्थर (Limestone)",
+      "B": "डोलोमाइट (Dolomite)",
+      "C": "बॉक्साइट (Bauxite)",
+      "D": "अभ्रक (Mica)"
+    },
+    "correct_answers": ["A", "B", "D"]
   },
   {
-    "id": "q10",
-    "question": "Which of the following rivers originate from the Himalayas? / निम्नलिखित में से कौन सी नदियाँ हिमालय से निकलती हैं?",
-    "options": ["Ganga / गंगा", "Brahmaputra / ब्रह्मपुत्र", "Godavari / गोदावरी", "Indus / सिंधु"],
-    "answer": ["Ganga / गंगा", "Brahmaputra / ब्रह्मपुत्र", "Indus / सिंधु"]
-  },
-  {
-    "id": "q11",
-    "question": "Which of the following are examples of tidal energy use? / निम्नलिखित में से ज्वारीय ऊर्जा के उपयोग के उदाहरण कौन से हैं?",
-    "options": ["Tidal barrage / ज्वारीय बाँध", "Wave power / तरंग शक्ति", "Nuclear plant / परमाणु संयंत्र", "Coal plant / कोयला संयंत्र"],
-    "answer": ["Tidal barrage / ज्वारीय बाँध", "Wave power / तरंग शक्ति"]
-  },
-  {
-    "id": "q12",
-    "question": "Which of the following minerals are found in sedimentary rocks? / निम्नलिखित में से कौन से खनिज अवसादी चट्टानों में पाए जाते हैं?",
-    "options": ["Gypsum / जिप्सम", "Halite / नमक", "Granite / ग्रेनाइट", "Limestone / चूना पत्थर"],
-    "answer": ["Gypsum / जिप्सम", "Halite / नमक", "Limestone / चूना पत्थर"]
-  },
-  {
-    "id": "q13",
-    "question": "Which of these human activities contribute to global warming? / इनमें से कौन सी मानवीय गतिविधियाँ वैश्विक ऊष्मीकरण में योगदान देती हैं?",
-    "options": ["Burning fossil fuels / जीवाश्म ईंधन जलाना", "Deforestation / वनों की कटाई", "Carpooling / साझा वाहन", "Reforestation / पुनर्वनीकरण"],
-    "answer": ["Burning fossil fuels / जीवाश्म ईंधन जलाना", "Deforestation / वनों की कटाई"]
-  },
-  {
-    "id": "q14",
-    "question": "Which of the following are nuclear fuels? / निम्नलिखित में से कौन-कौन से परमाणु ईंधन हैं?",
-    "options": ["Uranium / यूरेनियम", "Thorium / थोरियम", "Coal / कोयला", "Diesel / डीजल"],
-    "answer": ["Uranium / यूरेनियम", "Thorium / थोरियम"]
-  },
-  {
-    "id": "q15",
-    "question": "Which rivers are part of the Peninsular river system? / कौन सी नदियाँ प्रायद्वीपीय नदी तंत्र का हिस्सा हैं?",
-    "options": ["Krishna / कृष्णा", "Cauvery / कावेरी", "Yamuna / यमुना", "Mahanadi / महानदी"],
-    "answer": ["Krishna / कृष्णा", "Cauvery / कावेरी", "Mahanadi / महानदी"]
-  },
-  {
-    "id": "q16",
-    "question": "Which of the following are examples of cash crops? / निम्नलिखित में से कौन-कौन सी नकदी फसलें हैं?",
-    "options": ["Cotton / कपास", "Jute / जूट", "Millets / बाजरा", "Sugarcane / गन्ना"],
-    "answer": ["Cotton / कपास", "Jute / जूट", "Sugarcane / गन्ना"]
-  },
-  {
-    "id": "q17",
-    "question": "Which states produce black soil in India? / भारत में कौन-कौन से राज्य काली मिट्टी प्रदान करते हैं?",
-    "options": ["Maharashtra / महाराष्ट्र", "Gujarat / गुजरात", "Punjab / पंजाब", "Madhya Pradesh / मध्य प्रदेश"],
-    "answer": ["Maharashtra / महाराष्ट्र", "Gujarat / गुजरात", "Madhya Pradesh / मध्य प्रदेश"]
-  },
-  {
-    "id": "q18",
-    "question": "Which of the following are metallic minerals? / निम्नलिखित में से कौन-कौन से धात्विक खनिज हैं?",
-    "options": ["Iron / लोहा", "Copper / तांबा", "Mica / अभ्रक", "Gold / सोना"],
-    "answer": ["Iron / लोहा", "Copper / तांबा", "Gold / सोना"]
-  },
-  {
-    "id": "q19",
-    "question": "Which movements promoted resource conservation in India? / भारत में संसाधन संरक्षण को बढ़ावा देने वाले आंदोलन कौन से थे?",
-    "options": ["Chipko Movement / चिपको आंदोलन", "Bhoodan Movement / भूदान आंदोलन", "Swadeshi Movement / स्वदेशी आंदोलन", "Quit India Movement / भारत छोड़ो आंदोलन"],
-    "answer": ["Chipko Movement / चिपको आंदोलन", "Bhoodan Movement / भूदान आंदोलन"]
-  },
-  {
-    "id": "q20",
-    "question": "Which of the following are forms of sustainable development? / निम्नलिखित में से कौन सतत विकास के रूप हैं?",
-    "options": ["Solar lighting / सौर प्रकाश", "Plastic usage / प्लास्टिक का उपयोग", "Organic farming / जैविक खेती", "Rainwater harvesting / वर्षा जल संचयन"],
-    "answer": ["Solar lighting / सौर प्रकाश", "Organic farming / जैविक खेती", "Rainwater harvesting / वर्षा जल संचयन"]
+    "question": "भारत में खनिजों का वितरण किस प्रकार है?",
+    "question_en": "How is mineral distribution in India characterized?",
+    "options": {
+      "A": "समरूप रूप से वितरित (Uniformly distributed)",
+      "B": "क्षेत्रीय असमानता (Regional imbalance)",
+      "C": "कुछ राज्यों में उच्च सघनता (High concentration in some states)",
+      "D": "केवल पहाड़ी क्षेत्रों में उपलब्ध (Only in hilly areas)"
+    },
+    "correct_answers": ["B", "C"]
   }
 ]
