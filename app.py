@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, redirect, session, url_for
+from flask import Flask, render_template, request, redirect, session
 import json
 
 app = Flask(__name__)
@@ -38,23 +38,19 @@ def test():
         results = []
 
         for idx, question in enumerate(questions):
-            selected = request.form.getlist(f"q{idx}")
-            correct = set(question["answer"])
-            selected_set = set(selected)
-            is_correct = selected_set == correct
+            # ✅ Clean selected and correct answers — remove repeats
+            selected_raw = request.form.getlist(f"q{idx}")
+            selected = list(set(selected_raw))  # Remove duplicate user answers
+            correct = list(set(question["answer"]))  # Remove duplicate correct options
 
-            # Map keys to text
-            option_map = question["options"]
-            selected_texts = [option_map[key] for key in selected]
-            correct_texts = [option_map[key] for key in correct]
-
+            is_correct = set(selected) == set(correct)
             if is_correct:
                 score += 1
 
             results.append({
                 "question": question["question"],
-                "selected": selected_texts,
-                "correct": correct_texts,
+                "selected": selected,
+                "correct": correct,
                 "is_correct": is_correct
             })
 
