@@ -1,24 +1,112 @@
 [
   {
     "id": 1,
-    "question": "भारत में संसाधनों के संरक्षण के कौन-कौन से तरीके अपनाए गए हैं? (Which of the following are methods of resource conservation in India?)",
+    "question": "भूगोल किस प्रकार का अनुशासन है? (Geography is which type of discipline?)",
     "options": {
-      "A": "संसाधनों का पुनः उपयोग (Reuse of resources)",
-      "B": "अपशिष्ट पदार्थों का पुनर्चक्रण (Recycling of waste materials)",
-      "C": "मिश्रित कृषि को बढ़ावा देना (Promoting mixed farming)",
-      "D": "संसाधनों का अधिकतम दोहन (Maximizing exploitation of resources)"
+      "A": "भौतिक विज्ञान (Physical Science)",
+      "B": "सामाजिक विज्ञान (Social Science)",
+      "C": "मानविकी (Humanities)",
+      "D": "प्रौद्योगिकी (Technology)"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 2,
+    "question": "निम्नलिखित में से कौन-सी विशेषताएं भूगोल को एक क्षेत्रीय विज्ञान बनाती हैं? (Which features make geography a regional science?)",
+    "options": {
+      "A": "स्थानिक विविधता (Spatial diversity)",
+      "B": "प्राकृतिक संसाधनों का वितरण (Distribution of natural resources)",
+      "C": "इतिहास का अध्ययन (Study of history)",
+      "D": "स्थानीय संस्कृति का प्रभाव (Influence of local culture)"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 3,
+    "question": "मानचित्र निर्माण में कौन-कौन सी तकनीकें प्रयुक्त होती हैं? (Which techniques are used in map-making?)",
+    "options": {
+      "A": "फोटोग्रेमेट्री (Photogrammetry)",
+      "B": "GPS (Global Positioning System)",
+      "C": "जैव प्रौद्योगिकी (Biotechnology)",
+      "D": "GIS (Geographic Information System)"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 4,
+    "question": "मानव भूगोल की विशेषताओं में क्या शामिल है? (What are the features of human geography?)",
+    "options": {
+      "A": "सांस्कृतिक परिदृश्य का अध्ययन (Study of cultural landscape)",
+      "B": "जनसंख्या का वितरण (Population distribution)",
+      "C": "भूकंपीय तरंगों का विश्लेषण (Analysis of seismic waves)",
+      "D": "आर्थिक क्रियाओं का स्थानिक वितरण (Spatial distribution of economic activities)"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 5,
+    "question": "भारत में मानसून की कौन-कौन सी शाखाएँ हैं? (What are the branches of monsoon in India?)",
+    "options": {
+      "A": "अरब सागर शाखा (Arabian Sea branch)",
+      "B": "बंगाल की खाड़ी शाखा (Bay of Bengal branch)",
+      "C": "हिमालयी शाखा (Himalayan branch)",
+      "D": "दक्षिणी ध्रुव शाखा (Antarctic branch)"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 6,
+    "question": "कौन-कौन से भू-आकृतिक कारक भारत की जलवायु को प्रभावित करते हैं? (Which geomorphic factors influence India’s climate?)",
+    "options": {
+      "A": "हिमालय पर्वत (Himalayas)",
+      "B": "थार मरुस्थल (Thar Desert)",
+      "C": "पठारी क्षेत्र (Plateau region)",
+      "D": "सतपुड़ा श्रेणी (Satpura range)"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 7,
+    "question": "नदी अपवहन तंत्र की विशेषताएं क्या हैं? (What are the features of a river drainage system?)",
+    "options": {
+      "A": "नदी घाटी का आकार (Shape of river valley)",
+      "B": "जलप्रवाह की दिशा (Direction of water flow)",
+      "C": "वर्षा की मात्रा (Amount of rainfall)",
+      "D": "धाराओं का मिलन (Confluence of streams)"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 8,
+    "question": "भारतीय उपमहाद्वीप को उपमहाद्वीप क्यों कहा जाता है? (Why is Indian subcontinent called a subcontinent?)",
+    "options": {
+      "A": "भू-आकृतिक विविधता (Physiographic diversity)",
+      "B": "जलवायविक विशेषताएं (Climatic uniqueness)",
+      "C": "भाषाई समानता (Linguistic uniformity)",
+      "D": "विस्तृत क्षेत्रफल (Large area)"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 9,
+    "question": "प्राकृतिक संसाधनों का वर्गीकरण किन आधारों पर किया जाता है? (On what basis are natural resources classified?)",
+    "options": {
+      "A": "पुनः प्रयोग क्षमता (Renewability)",
+      "B": "मूल्य (Value)",
+      "C": "उत्पत्ति का स्रोत (Origin source)",
+      "D": "भौगोलिक स्थिति (Geographic location)"
     },
     "answer": ["A", "B", "C"]
   },
   {
-    "id": 2,
-    "question": "निम्नलिखित में से कौन-से स्थायी संसाधन हैं? (Which of the following are renewable resources?)",
+    "id": 10,
+    "question": "भारत में मृदा अपरदन के कारण क्या हैं? (What are the causes of soil erosion in India?)",
     "options": {
-      "A": "जल (Water)",
-      "B": "पेट्रोल (Petrol)",
-      "C": "सौर ऊर्जा (Solar energy)",
-      "D": "कोयला (Coal)"
+      "A": "अत्यधिक चराई (Overgrazing)",
+      "B": "वनों की कटाई (Deforestation)",
+      "C": "भूमिगत खनन (Underground mining)",
+      "D": "अनियंत्रित सिंचाई (Uncontrolled irrigation)"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "B", "D"]
   }
 ]
