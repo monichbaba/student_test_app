@@ -3,20 +3,24 @@
     "id": 1,
     "question": "भारत में संसाधनों के संरक्षण के कौन-कौन से तरीके अपनाए गए हैं?",
     "question_en": "Which of the following are methods of resource conservation in India?",
-    "A": "संसाधनों का पुनः उपयोग (Reuse of resources)",
-    "B": "अपशिष्ट पदार्थों का पुनर्चक्रण (Recycling of waste materials)",
-    "C": "मिश्रित कृषि को बढ़ावा देना (Promoting mixed farming)",
-    "D": "संसाधनों का अधिकतम दोहन (Maximizing exploitation of resources)",
+    "options": {
+      "A": "संसाधनों का पुनः उपयोग (Reuse of resources)",
+      "B": "अपशिष्ट पदार्थों का पुनर्चक्रण (Recycling of waste materials)",
+      "C": "मिश्रित कृषि को बढ़ावा देना (Promoting mixed farming)",
+      "D": "संसाधनों का अधिकतम दोहन (Maximizing exploitation of resources)"
+    },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 2,
     "question": "निम्नलिखित में से कौन-से स्थायी संसाधन (renewable resources) के उदाहरण हैं?",
     "question_en": "Which of the following are examples of renewable resources?",
-    "A": "जल (Water)",
-    "B": "पेट्रोल (Petrol)",
-    "C": "सौर ऊर्जा (Solar energy)",
-    "D": "कोयला (Coal)",
+    "options": {
+      "A": "जल (Water)",
+      "B": "पेट्रोल (Petrol)",
+      "C": "सौर ऊर्जा (Solar energy)",
+      "D": "कोयला (Coal)"
+    },
     "answer": ["A", "C"]
   }
 ]
