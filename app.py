@@ -47,12 +47,16 @@ def test():
             is_correct = selected_set == correct
             if is_correct:
                 score += 1
-            results.append({
-                "question": question["question"],
-                "selected": selected,
-                "correct": list(correct),
-                "is_correct": is_correct
-            })
+            # map keys to text for selected and correct
+selected_text = [question["options"][k] for k in selected if k in question["options"]]
+correct_text = [question["options"][k] for k in question["answer"] if k in question["options"]]
+
+results.append({
+    "question": question["question"],
+    "selected": selected_text,
+    "correct": correct_text,
+    "is_correct": is_correct
+})
 
         return render_template("result.html", results=results, score=score, total=len(questions))
 
