@@ -1,24 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Geography Test</title>
+    <title>MCQ Test</title>
 </head>
 <body>
-    <h1>Geography MCQ Test</h1>
+    <h2>📝 Answer All Questions</h2>
     <form method="POST">
-        {% for idx, q in questions %}
-            <div style="margin-bottom: 20px;">
-                <strong>Q{{ idx + 1 }}: {{ q.question }}</strong><br>
-                {% for opt in q.options %}
+        {% for q in questions %}
+            <div>
+                <p><strong>{{ loop.index }}. {{ q.question }}</strong></p>
+                {% for key, text in q.options.items() %}
                     <label>
-                        <input type="checkbox" name="q{{ idx }}" value="{{ opt }}">
-                        {{ opt }}
+                        <input type="checkbox" name="q{{ loop.index0 }}" value="{{ key }}"> {{ text }}
                     </label><br>
                 {% endfor %}
             </div>
         {% endfor %}
-        <button type="submit">Submit Answers</button>
+        <button type="submit">Submit</button>
     </form>
 </body>
 </html>
