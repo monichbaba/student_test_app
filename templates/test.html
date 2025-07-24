@@ -37,7 +37,7 @@ def test():
         score = 0
         results = []
         for idx, question in enumerate(questions):
-            selected = list(set(request.form.getlist(f"q{idx}")))  # remove duplicates
+            selected = list(set(request.form.getlist(f"q{idx}")))
             correct = set(question["answer"])
             selected_set = set(selected)
             is_correct = selected_set == correct
