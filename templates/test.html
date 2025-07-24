@@ -9,10 +9,9 @@
         {% for q in questions %}
             <div>
                 <p><strong>{{ loop.index }}. {{ q.question }}</strong></p>
-                {% for key, val in q.options.items() %}
+                {% for key, text in q.options.items() %}
                     <label>
-                        <input type="checkbox" name="{{ q.id }}" value="{{ key }}">
-                        {{ val }}
+                        <input type="checkbox" name="q{{ loop.index0 }}" value="{{ key }}"> {{ text }}
                     </label><br>
                 {% endfor %}
             </div>
