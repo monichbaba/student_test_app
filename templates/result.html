@@ -1,29 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Test Result</title>
-  <style>
-    .correct-answer { background-color: #d4edda; padding: 5px; }
-    .wrong-answer { background-color: #f8d7da; padding: 5px; }
-    .question-box {
-      border: 1px solid #ccc;
-      margin-bottom: 15px;
-      padding: 10px;
-      border-radius: 5px;
-    }
-  </style>
+  <title>Result</title>
 </head>
 <body>
-  <h2>📊 Test Results</h2>
-  {% for res in results %}
-    <div class="question-box">
-      <p><strong>{{ loop.index }}. {{ res.question }}</strong></p>
-      {% if res.is_correct %}
-        <p class="correct-answer">✅ Your Answer: {{ res.selected | join(", ") }}</p>
-      {% else %}
-        <p class="wrong-answer">❌ Your Answer: {{ res.selected | join(", ") if res.selected else "No answer selected" }}</p>
-        <p class="correct-answer">✅ Correct Answer: {{ res.correct | join(", ") }}</p>
-      {% endif %}
+  <h2>Your Score: {{ score }} / {{ total }}</h2>
+  <hr>
+  {% for r in results %}
+    <div>
+      <p><strong>{{ loop.index }}. {{ r.question }}</strong></p>
+      {% for key, value in r.options.items() %}
+        {% set option_str = value %}
+        {% if key in r.correct %}
+          ✅ Correct: {{ option_str }}<br>
+        {% endif %}
+        {% if key in r.selected and key not in r.correct %}
+          ❌ Your Answer: {{ option_str }}<br>
+        {% endif %}
+      {% endfor %}
+      <br>
     </div>
   {% endfor %}
 </body>

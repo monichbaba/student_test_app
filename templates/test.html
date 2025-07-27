@@ -1,20 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>MCQ Test</title>
+  <title>Test</title>
 </head>
 <body>
-    <h2>📝 Answer All Questions</h2>
-    <form method="POST">
-        {% for q in questions %}
-            <div>
-                <p><strong>{{ loop.index }}. {{ q.question }}</strong></p>
-                {% for opt in q.options %}
-                    <label><input type="checkbox" name="{{ q.id }}" value="{{ opt }}"> {{ opt }}</label><br>
-                {% endfor %}
-            </div>
+  <h2>Geography MCQ Test</h2>
+  <form method="post" action="{{ url_for('result') }}">
+    {% for q in questions %}
+      <div>
+        <p><strong>{{ q.id }}. {{ q.question }}</strong></p>
+        {% for key, value in q.options.items() %}
+          <label>
+            <input type="checkbox" name="{{ q.id }}" value="{{ key }}">
+            {{ value }}
+          </label><br>
         {% endfor %}
-        <button type="submit">Submit</button>
-    </form>
+      </div>
+      <br>
+    {% endfor %}
+    <button type="submit">Submit</button>
+  </form>
 </body>
 </html>
