@@ -1,5 +1,36 @@
 [
   {
+<<<<<<< HEAD
+    "id": 1,
+    "question": "निम्नलिखित में से कौन-कौन से स्थल भारत में वर्षा छाया (rain shadow) क्षेत्र में आते हैं? / Which of the following places fall in the rain shadow region in India?",
+    "options": {
+      "A": "पुणे / Pune",
+      "B": "मुंबई / Mumbai",
+      "C": "बेंगलुरु / Bengaluru",
+      "D": "मधुरै / Madurai"
+    },
+    "answer": ["A", "D"]
+  },
+  {
+    "id": 2,
+    "question": "हिमालय की उत्पत्ति के कारण कौन-कौन से वाक्य सही हैं? / Which of the following statements are true regarding the origin of Himalayas?",
+    "options": {
+      "A": "यह प्लेट टेक्टॉनिक्स सिद्धांत से जुड़ा है / It is related to plate tectonics theory",
+      "B": "यह विवर्तनिक बलों का परिणाम है / It is a result of tectonic forces",
+      "C": "यह प्राचीन अवसादी चट्टानों का घर्षण है / It is friction of ancient sedimentary rocks",
+      "D": "यह एक प्राचीन वलित पर्वत है / It is an old folded mountain"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 3,
+    "question": "निम्नलिखित में से कौन-से तत्व भारत में भूमि क्षरण के लिए उत्तरदायी हैं? / Which of the following factors are responsible for land degradation in India?",
+    "options": {
+      "A": "अत्यधिक सिंचाई / Excessive irrigation",
+      "B": "खनिज खनन / Mineral mining",
+      "C": "वनों की कटाई / Deforestation",
+      "D": "ज्वालामुखी विस्फोट / Volcanic eruption"
+=======
     "id": 21,
     "question": "भारत में मृदा अपरदन को रोकने की उन्नत पद्धतियाँ कौन-कौन सी हैं? / Which are the advanced methods to prevent soil erosion in India?",
     "options": {
@@ -7,10 +38,20 @@
       "B": "पवन अवरोध / Wind barriers",
       "C": "ढाल खेती / Terrace farming",
       "D": "सतही सिंचाई / Surface irrigation"
+>>>>>>> db7c2023cf9d40d12392b4a50e0e61278ec5341e
     },
     "answer": ["A", "B", "C"]
   },
   {
+<<<<<<< HEAD
+    "id": 4,
+    "question": "भारत की मुख्य जलवायु विशेषताएँ कौन-कौन सी हैं? / What are the major climatic characteristics of India?",
+    "options": {
+      "A": "मौसमी प्रवाहिता / Monsoonal flow",
+      "B": "वर्षा का स्थानिक असमान वितरण / Spatial variability of rainfall",
+      "C": "एक ऋतु की प्रधानता / Dominance of one season",
+      "D": "ध्रुवीय जलवायु प्रभाव / Polar climate influence"
+=======
     "id": 22,
     "question": "निम्नलिखित में से किन नदियों द्वारा अल्ट्रा-एक्टिव डेल्टा (active delta) का निर्माण होता है? / Which of the following rivers create ultra-active deltas?",
     "options": {
@@ -40,10 +81,77 @@
       "B": "फॉस्फेट / Phosphate",
       "C": "थर्मल अपशिष्ट / Thermal waste",
       "D": "सोडियम क्लोराइड / Sodium chloride"
+>>>>>>> db7c2023cf9d40d12392b4a50e0e61278ec5341e
     },
     "answer": ["A", "B", "C"]
   },
   {
+<<<<<<< HEAD
+    "id": 5,
+    "question": "भारत के कौन-कौन से तटीय भाग रामसर स्थल घोषित किए गए हैं? / Which of the following coastal areas of India have been declared Ramsar sites?",
+    "options": {
+      "A": "चिल्का झील / Chilika Lake",
+      "B": "पुलीकट झील / Pulicat Lake",
+      "C": "एस्टुअरी ऑफ गोदावरी / Estuary of Godavari",
+      "D": "सारसिका झील / Sarsika Lake"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 6,
+    "question": "भारत की प्रमुख मिट्टियों की विशेषताएँ कौन-कौन सी हैं? / What are the characteristics of major soils in India?",
+    "options": {
+      "A": "काली मिट्टी जल धारण करने में सक्षम होती है / Black soil has high water retention",
+      "B": "जलोढ़ मिट्टी सभी क्षेत्रों में समान होती है / Alluvial soil is uniform throughout the region",
+      "C": "लाल मिट्टी में लोहे की मात्रा अधिक होती है / Red soil is rich in iron",
+      "D": "मरुस्थलीय मिट्टी में कार्बनिक पदार्थ अधिक होता है / Desert soil is rich in organic matter"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 7,
+    "question": "निम्नलिखित में से कौन-सी नदियाँ डेल्टा नहीं बनाती हैं? / Which of the following rivers do not form a delta?",
+    "options": {
+      "A": "नर्मदा / Narmada",
+      "B": "ताप्ती / Tapi",
+      "C": "गोदावरी / Godavari",
+      "D": "कावेरी / Kaveri"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 8,
+    "question": "निम्नलिखित में से कौन-कौन सी विशेषताएँ छत्तीसगढ़ के पठार को परिभाषित करती हैं? / Which of the following features define the Chhattisgarh plateau?",
+    "options": {
+      "A": "खनिज संसाधनों से समृद्ध / Rich in mineral resources",
+      "B": "ज्वालामुखीय उत्पत्ति / Volcanic origin",
+      "C": "घने जंगलों से आच्छादित / Covered with dense forests",
+      "D": "मैदानी नदी तंत्र / Plain river network"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 9,
+    "question": "भारत में किस प्रकार की वनस्पति अधिक वर्षा वाले क्षेत्रों में पाई जाती है? / What type of vegetation is found in high rainfall regions in India?",
+    "options": {
+      "A": "पर्णपाती वन / Deciduous forests",
+      "B": "शुष्क झाड़ी / Dry thorny vegetation",
+      "C": "मानसूनी सदाबहार वन / Monsoonal evergreen forests",
+      "D": "उष्णकटिबंधीय घास के मैदान / Tropical grasslands"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 10,
+    "question": "निम्नलिखित में से कौन-कौन से राज्य हिमालय पर्वत प्रणाली का भाग नहीं हैं? / Which of the following states are not part of the Himalayan mountain system?",
+    "options": {
+      "A": "उत्तराखंड / Uttarakhand",
+      "B": "हरियाणा / Haryana",
+      "C": "बिहार / Bihar",
+      "D": "पश्चिम बंगाल / West Bengal"
+    },
+    "answer": ["B", "C"]
+=======
     "id": 25,
     "question": "भारत में प्रमुख पठारी क्षेत्र कौन-कौन से हैं? / Which are the major plateau regions in India?",
     "options": {
@@ -218,5 +326,6 @@
       "D": "सूक्ष्म सिंचाई / Micro irrigation"
     },
     "answer": ["A", "B", "D"]
+>>>>>>> db7c2023cf9d40d12392b4a50e0e61278ec5341e
   }
 ]
