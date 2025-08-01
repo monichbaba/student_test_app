@@ -27,7 +27,7 @@
   },
   {
     "id": 3,
-    "question": "जलवायु परिवर्तन के संदर्भ में 'क्रॉप डाइवर्सिफिकेशन' नीति का मुख्य लाभ क्या है? / What is the primary benefit of 'Crop Diversification' policy in context of climate change?",
+    "question": "जलवायु परिवर्तन के संदर्भ में क्रॉप डाइवर्सिफिकेशन नीति का मुख्य लाभ क्या है? / What is the primary benefit of Crop Diversification policy in context of climate change?",
     "options": {
       "A": "नकद फसल उत्पादन बढ़ाना / Increase cash crop production.",
       "B": "खाद की खपत बढ़ाना / Increase fertilizer usage.",
@@ -40,7 +40,7 @@
   },
   {
     "id": 4,
-    "question": "ग्लोबल वॉर्मिंग का भारत में चीनी उद्योग पर प्रभाव क्या हो सकता है? / What could be the impact of global warming on India's sugar industry?",
+    "question": "ग्लोबल वॉर्मिंग का भारत में चीनी उद्योग पर प्रभाव क्या हो सकता है? / What could be the impact of global warming on Indias sugar industry?",
     "options": {
       "A": "गन्ने की मिठास बढ़ेगी / Sugarcane sweetness will increase.",
       "B": "कम सिंचाई से उपज बढ़ेगी / Less irrigation will boost yield.",
@@ -118,7 +118,7 @@
   },
   {
     "id": 10,
-    "question": "भारत की ‘राष्ट्रीय जैव ऊर्जा नीति’ किस जलवायु लक्ष्य से जुड़ी है? / Indias National Bio-Energy Policy is associated with which climate goal?",
+    "question": "भारत की  राष्ट्रीय जैव ऊर्जा नीति किस जलवायु लक्ष्य से जुड़ी है? / India’s National Bio-Energy Policy is associated with which climate goal?",
     "options": {
       "A": "जलवायु प्रवास नियंत्रण / Control climate migration",
       "B": "ग्रीनहाउस गैस उत्सर्जन में कटौती / Reduce greenhouse gas emissions",
@@ -128,112 +128,5 @@
     "answer": [
       "B"
     ]
-    "question": "कौन-सा स्थलाकृतिक कारक मानसूनी हवाओं की तीव्रता को सबसे अधिक प्रभावित करता है? / Which topographical factor most strongly influences the intensity of monsoon winds?",
-    "options": {
-      "A": "घाटों की ऊँचाई / Height of the Ghats",
-      "B": "हिमालय की निरंतरता / Continuity of Himalayas",
-      "C": "थार मरुस्थल की स्थिति / Location of Thar Desert",
-      "D": "पूर्वी घाटों की ऊँचाई / Elevation of Eastern Ghats"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 2,
-    "question": "यदि पृथ्वी की घूर्णन गति दोगुनी कर दी जाए तो किस प्रभाव में सर्वाधिक परिवर्तन होगा? / If Earths rotation speed is doubled, which effect would change the most?",
-    "options": {
-      "A": "दिन-रात की अवधि / Duration of day and night",
-      "B": "ज्वार-भाटा की आवृत्ति / Frequency of tides",
-      "C": "कोरिओलिस बल / Coriolis force",
-      "D": "वायुदाब वितरण / Air pressure distribution"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 3,
-    "question": "वर्षा छाया क्षेत्र प्रायः कहाँ पाए जाते हैं? / Rain shadow regions are typically found:",
-    "options": {
-      "A": "मुख्य पवन की ओर वाले ढलान पर / Windward slopes",
-      "B": "मुख्य पवन से विपरीत ढलान पर / Leeward slopes",
-      "C": "नदी घाटियों में / River valleys",
-      "D": "मैदानी क्षेत्रों में / Plains"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 4,
-    "question": "भारतीय उपमहाद्वीप की जलवायु विविधता का मुख्य कारण क्या है? / What is the primary reason for climate diversity in the Indian subcontinent?",
-    "options": {
-      "A": "समुद्र की निकटता / Proximity to oceans",
-      "B": "पर्वतीय बाधाएं / Mountain barriers",
-      "C": "भूमि विस्तार और अक्षांशीय फैलाव / Large landmass and latitudinal spread",
-      "D": "मानव हस्तक्षेप / Human intervention"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 5,
-    "question": "तटीय अपक्षरण का कौन-सा प्रकार मुख्यतः समुद्री लहरों द्वारा होता है? / Which type of coastal erosion is primarily caused by wave action?",
-    "options": {
-      "A": "हाइड्रॉलिक एक्शन / Hydraulic action",
-      "B": "सल्फेट अपघटन / Sulfate decay",
-      "C": "ऑक्सीडेशन / Oxidation",
-      "D": "अंतराल प्रवाह / Intermittent flow"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 6,
-    "question": "यदि चक्रवात भूमध्य रेखा के बहुत निकट बन जाए तो क्या प्रभाव होगा? / What happens if a cyclone forms very close to the Equator?",
-    "options": {
-      "A": "वह अधिक तीव्र होता है / It becomes more intense",
-      "B": "वह दिशा बदल लेता है / It changes direction suddenly",
-      "C": "वह घूम नहीं पाएगा / It will not rotate",
-      "D": "वह स्थिर रहता है / It remains stationary"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 7,
-    "question": "वायुदाब और तापमान के बीच क्या संबंध होता है? / What is the relationship between air pressure and temperature?",
-    "options": {
-      "A": "सीधा / Direct",
-      "B": "प्रतिलोम / Inverse",
-      "C": "कोई संबंध नहीं / No relation",
-      "D": "अवधि पर निर्भर / Depends on duration"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 8,
-    "question": "जलवायु परिवर्तन के संदर्भ में 'अल्बीडो' का महत्व क्या है? / What is the significance of 'albedo' in the context of climate change?",
-    "options": {
-      "A": "वायुमंडलीय दबाव को दर्शाता है / Indicates atmospheric pressure",
-      "B": "पृथ्वी की परावर्तन क्षमता को दर्शाता है / Measures Earth’s reflectivity",
-      "C": "सूर्य की ऊर्जा को अवशोषित करता है / Absorbs solar energy",
-      "D": "ग्लेशियर की मोटाई को दर्शाता है / Indicates glacier thickness"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 9,
-    "question": "निम्नलिखित में से कौन सा समुद्री धाराओं को प्रभावित नहीं करता है? / Which of the following does not influence ocean currents?",
-    "options": {
-      "A": "पवन प्रणाली / Wind systems",
-      "B": "कोरिओलिस बल / Coriolis force",
-      "C": "महासागरीय खारापन / Ocean salinity",
-      "D": "पर्वत श्रृंखलाएं / Mountain ranges"
-    },
-    "answer": ["D"]
-  },
-  {
-    "id": 10,
-    "question": "यदि भारत में पश्चिमी विक्षोभ नहीं आए तो किस क्षेत्र की कृषि सबसे अधिक प्रभावित होगी? / If Western Disturbances stop reaching India, which region's agriculture will be most affected?",
-    "options": {
-      "A": "पंजाब और हरियाणा / Punjab and Haryana",
-      "B": "गुजरात और राजस्थान / Gujarat and Rajasthan",
-      "C": "तमिलनाडु और केरल / Tamil Nadu and Kerala",
-      "D": "उड़ीसा और झारखंड / Odisha and Jharkhand"
-    },
-    "answer": ["A"]
   }
 ]
