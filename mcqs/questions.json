@@ -1,7 +1,6 @@
-question: [
+[
   {
-    "id": 2,
-    "question": "भारत में मानसून की अस्थिरता किस प्रकार से कृषि उत्पादन को प्रभावित करती है? / How does monsoon variability in India impact agricultural output?",
+    "id": 1,
     "question": "2024 में 'डेटा संरक्षण अधिनियम' (DPDP Act) को लेकर कौन-कौन सी वैधानिक चिंताएं उठाई गईं? (Which legal concerns were raised regarding the DPDP Act 2024?)",
     "options": {
       "A": "सरकार द्वारा अत्यधिक डेटा एक्सेस (Excessive data access by government)",
