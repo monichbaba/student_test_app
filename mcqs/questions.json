@@ -1,4 +1,4 @@
-[
+question: [
   {
     "id": 2,
     "question": "भारत में मानसून की अस्थिरता किस प्रकार से कृषि उत्पादन को प्रभावित करती है? / How does monsoon variability in India impact agricultural output?",
@@ -25,7 +25,6 @@
   {
     "id": 3,
     "question": "2024 में UCC (समान नागरिक संहिता) के प्रस्ताव पर कौन-कौन सी सामाजिक/संवैधानिक आपत्तियाँ सामने आईं? (What objections were raised on the Uniform Civil Code proposal in 2024?)",
->>>>>>> f2a2b6b (Updated questions.json with latest 15 tough current affairs MCQs)
     "options": {
       "A": "धार्मिक विविधता का उल्लंघन (Violation of religious diversity)",
       "B": "राज्यों के अधिकारों में हस्तक्षेप (Encroachment on states' powers)",
@@ -109,9 +108,6 @@
       "C": "काम के घंटे में लचीलापन कंपनियों के पक्ष में (Work-hour flexibility favors employers)",
       "D": "सरकारी निगरानी की अनुपस्थिति (Absence of government inspection)"
     },
-    "answer": [
-      "B"
-    ]
     "answer": "A, B, C"
   },
   {
