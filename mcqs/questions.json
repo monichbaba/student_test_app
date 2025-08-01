@@ -1,7 +1,6 @@
 [
   {
     "id": 1,
-<<<<<<< HEAD
     "question": "भारत में मानसून की अस्थिरता किस प्रकार से कृषि उत्पादन को प्रभावित करती है? / How does monsoon variability in India impact agricultural output?",
     "options": {
       "A": "यह केवल खरीफ फसल को प्रभावित करता है / It only affects Kharif crops.",
@@ -54,7 +53,7 @@
   },
   {
     "id": 5,
-    "question": "‘राष्ट्रीय कृषि विकास योजना’ का एक उद्देश्य क्या है? / What is one of the objectives of the Rashtriya Krishi Vikas Yojana (RKVY)?",
+    "question": "राष्ट्रीय कृषि विकास योजना का एक उद्देश्य क्या है? / What is one of the objectives of the Rashtriya Krishi Vikas Yojana (RKVY)?",
     "options": {
       "A": "सिर्फ जैविक खेती को बढ़ावा देना / Promote only organic farming.",
       "B": "राज्यों को कृषि निवेश निर्णयों में लचीलापन देना / Give states flexibility in agricultural investments.",
@@ -106,7 +105,7 @@
   },
   {
     "id": 9,
-    "question": "जलवायु परिवर्तन का भारतीय चाय उद्योग पर दीर्घकालिक प्रभाव क्या हो सकता है? / What could be the long-term impact of climate change on India’s tea industry?",
+    "question": "जलवायु परिवर्तन का भारतीय चाय उद्योग पर दीर्घकालिक प्रभाव क्या हो सकता है? / What could be the long-term impact of climate change on Indias tea industry?",
     "options": {
       "A": "उत्पादन लागत घटेगी / Lower production costs",
       "B": "सभी क्षेत्रों में चाय उगाने में वृद्धि / Tea cultivation will expand everywhere",
@@ -119,7 +118,7 @@
   },
   {
     "id": 10,
-    "question": "भारत की ‘राष्ट्रीय जैव ऊर्जा नीति’ किस जलवायु लक्ष्य से जुड़ी है? / India’s National Bio-Energy Policy is associated with which climate goal?",
+    "question": "भारत की ‘राष्ट्रीय जैव ऊर्जा नीति’ किस जलवायु लक्ष्य से जुड़ी है? / Indias National Bio-Energy Policy is associated with which climate goal?",
     "options": {
       "A": "जलवायु प्रवास नियंत्रण / Control climate migration",
       "B": "ग्रीनहाउस गैस उत्सर्जन में कटौती / Reduce greenhouse gas emissions",
@@ -141,7 +140,7 @@
   },
   {
     "id": 2,
-    "question": "यदि पृथ्वी की घूर्णन गति दोगुनी कर दी जाए तो किस प्रभाव में सर्वाधिक परिवर्तन होगा? / If Earth's rotation speed is doubled, which effect would change the most?",
+    "question": "यदि पृथ्वी की घूर्णन गति दोगुनी कर दी जाए तो किस प्रभाव में सर्वाधिक परिवर्तन होगा? / If Earths rotation speed is doubled, which effect would change the most?",
     "options": {
       "A": "दिन-रात की अवधि / Duration of day and night",
       "B": "ज्वार-भाटा की आवृत्ति / Frequency of tides",
@@ -237,6 +236,5 @@
       "D": "उड़ीसा और झारखंड / Odisha and Jharkhand"
     },
     "answer": ["A"]
->>>>>>> a6549293a5ed820c0b916c34ba38077cb992581f
   }
 ]
