@@ -1,167 +1,112 @@
 [
   {
     "id": 1,
-    "question": "2024 में 'डेटा संरक्षण अधिनियम' (DPDP Act) को लेकर कौन-कौन सी वैधानिक चिंताएं उठाई गईं? (Which legal concerns were raised regarding the DPDP Act 2024?)",
+    "question": "मानव भूगोल का वैज्ञानिक विकास किन मुख्य विचार धाराओं पर आधारित रहा है? / On which main ideological bases has Human Geography evolved as a scientific discipline?",
     "options": {
-      "A": "सरकार द्वारा अत्यधिक डेटा एक्सेस (Excessive data access by government)",
-      "B": "न्यायिक निगरानी की कमी (Lack of judicial oversight)",
-      "C": "डेटा लोकलाइजेशन की अनिवार्यता (Mandatory data localization)",
-      "D": "निजता के मौलिक अधिकार को खतरा (Threat to right to privacy)"
+      "A": "डिटरमिनिज्म (Determinism)",
+      "B": "पॉज़िटिविज़्म (Positivism)",
+      "C": "नियो-डिटरमिनिज्म (Neo-determinism)",
+      "D": "मौलिकवाद (Fundamentalism)"
     },
-    "answer": "A, B, D"
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 2,
-    "question": "2024 के बजट में किस आलोचना को सबसे प्रमुख माना गया? (What were the major criticisms of the 2024 Union Budget?)",
+    "question": "कृषि व्यवस्था को प्रभावित करने वाले प्रमुख सांस्कृतिक तत्व कौन-कौन से हैं? / Which cultural factors strongly influence agricultural systems?",
     "options": {
-      "A": "बेरोजगारी के लिए कोई ठोस योजना नहीं (No concrete plan for unemployment)",
-      "B": "स्वास्थ्य क्षेत्र में व्यय घटाया गया (Reduced allocation to health sector)",
-      "C": "पुनर्वितरण की बजाय पूंजीगत व्यय पर जोर (Focus on capital over redistribution)",
-      "D": "राज्यों को वित्तीय सहायता की कटौती (Cut in financial aid to states)"
+      "A": "धार्मिक परंपराएँ / Religious traditions",
+      "B": "स्थानीय खानपान की आदतें / Local food habits",
+      "C": "जलवायु परिवर्तन / Climate change",
+      "D": "भूमि स्वामित्व के अधिकार / Land ownership rights"
     },
-    "answer": "A, B, C"
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 3,
-    "question": "2024 में UCC (समान नागरिक संहिता) के प्रस्ताव पर कौन-कौन सी सामाजिक/संवैधानिक आपत्तियाँ सामने आईं? (What objections were raised on the Uniform Civil Code proposal in 2024?)",
+    "question": "कृषि के गहनकरण (Intensification) से क्या प्रभाव होते हैं? / What are the effects of agricultural intensification?",
     "options": {
-      "A": "धार्मिक विविधता का उल्लंघन (Violation of religious diversity)",
-      "B": "राज्यों के अधिकारों में हस्तक्षेप (Encroachment on states' powers)",
-      "C": "महिला अधिकारों की उपेक्षा (Neglect of women's rights)",
-      "D": "विधायी प्रक्रिया की पारदर्शिता की कमी (Lack of legislative transparency)"
+      "A": "जैव विविधता में वृद्धि / Increase in biodiversity",
+      "B": "भूमि क्षरण की संभावना / Risk of land degradation",
+      "C": "उपज बढ़ सकती है / Potential increase in yield",
+      "D": "पारंपरिक खेती में वापसी / Return to traditional farming"
     },
-    "answer": "A, B, D"
+    "answer": ["B", "C"]
   },
   {
     "id": 4,
-    "question": "2024 में संसद में पारित नारी शक्ति वंदन अधिनियम को लेकर किस प्रकार की आलोचनाएं हुईं? (What were the criticisms of the Womens Reservation Act 2023-24?)",
+    "question": "भारत में औद्योगीकरण की प्रक्रिया में निम्नलिखित में से कौन-से कारण क्षेत्रीय विषमता बढ़ाने में योगदान करते हैं? / Which of the following factors contribute to regional imbalance during industrialization in India?",
     "options": {
-      "A": "तत्काल लागू नहीं किया गया (Not implemented immediately)",
-      "B": "क्वोटा के भीतर ओबीसी प्रतिनिधित्व नहीं (No OBC quota within reservation)",
-      "C": "राज्य विधानसभाओं को छोड़ दिया गया (Left out state assemblies)",
-      "D": "SC-ST के लिए मौजूदा कोटा में बदलाव (Altering existing SC-ST quotas)"
+      "A": "असमान पूंजी निवेश / Uneven capital investment",
+      "B": "पुलिस व्यवस्था / Policing structure",
+      "C": "कच्चे माल की असमान उपलब्धता / Unequal availability of raw materials",
+      "D": "सरकारी नीति पूर्वाग्रह / Policy bias"
     },
-    "answer": "A, B, C"
+    "answer": ["A", "C", "D"]
   },
   {
     "id": 5,
-     "question": "भारतीय मतदाता सूची में पाई गई त्रुटियों को लेकर 2024 में कौन से मुद्दे उठाए गए? (What issues were raised about the electoral rolls in 2024?)",
+    "question": "मानव विकास सूचकांक (HDI) को प्रभावित करने वाले घटकों में कौन-कौन से शामिल हैं? / Which factors are included in the Human Development Index (HDI)?",
     "options": {
-      "A": "नामों की बेमौसम डिलीशन (Arbitrary deletion of names)",
-      "B": "मतदाता पहचान की दोहराव (Duplicate voter IDs)",
-      "C": "डिजिटल सत्यापन में भेदभाव (Discrimination in digital verification)",
-      "D": "ECI द्वारा डेटा निजी कंपनियों को देना (Data sharing with private entities by ECI)"
+      "A": "औसत जीवन प्रत्याशा / Life expectancy",
+      "B": "प्रति व्यक्ति आय / Per capita income",
+      "C": "साक्षरता और शिक्षा / Literacy and education",
+      "D": "लिंग अनुपात / Sex ratio"
     },
-    "answer": "A, B, C, D"
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 6,
-    "question": "2024 में दिल्ली LG बनाम मुख्यमंत्री विवाद किन संवैधानिक सिद्धांतों पर सवाल उठाता है? (The 2024 Delhi LG vs CM conflict raises concerns on which constitutional principles?)",
+    "question": "भारत में हरित क्रांति का किस प्रकार का स्थानिक प्रभाव पड़ा? / What kind of spatial impact did the Green Revolution have in India?",
     "options": {
-      "A": "संविधान के अनुच्छेद 239AA की व्याख्या (Interpretation of Article 239AA)",
-      "B": "संघवाद का संतुलन (Balance of federalism)",
-      "C": "न्यायपालिका की निष्पक्षता (Judicial neutrality)",
-      "D": "विधायिका की स्वायत्तता (Autonomy of legislature)"
+      "A": "उत्तर भारत में केंद्रित / Concentrated in North India",
+      "B": "पूरे देश में समान रूप से फैली / Evenly spread across the country",
+      "C": "प्रारंभ में पंजाब, हरियाणा में सीमित / Initially confined to Punjab, Haryana",
+      "D": "पूर्वोत्तर में सबसे अधिक प्रभाव / Most impact in North-East"
     },
-    "answer": "A, B, D"
+    "answer": ["A", "C"]
   },
   {
     "id": 7,
-    "question": "नई शिक्षा नीति (NEP 2020) के कार्यान्वयन में अब तक क्या प्रमुख आलोचनाएं रही हैं? (What major criticisms have been raised against NEP 2020 implementation?)",
+    "question": "उद्योगों के स्थान निर्धारण में कौन-कौन से कारक महत्वपूर्ण होते हैं? / What factors are crucial in industrial location?",
     "options": {
-      "A": "शहरी-ग्रामीण असमानता बनी रही (Urban-rural divide remains)",
-      "B": "बहुभाषिक शिक्षा की अनदेखी (Neglect of multilingualism)",
-      "C": "शिक्षक प्रशिक्षण की कमी (Lack of teacher training)",
-      "D": "राष्ट्रीयकरण का आरोप (Accusation of centralization)"
+      "A": "कच्चा माल / Raw materials",
+      "B": "मजदूरों की उपलब्धता / Availability of labor",
+      "C": "बाजार की निकटता / Market proximity",
+      "D": "भू-चुंबकीय स्थिति / Geomagnetic location"
     },
-    "answer": "A, C, D"
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 8,
-    "question": "भारत के 2024 के जलवायु लक्ष्यों को लेकर कौन-कौन सी चुनौतियाँ सामने आई हैं? (What challenges have emerged regarding Indias 2024 climate goals?)",
+    "question": "स्थायी कृषि (Sustainable agriculture) की अवधारणाओं में क्या शामिल है? / What does sustainable agriculture include?",
     "options": {
-      "A": "ग्रीन एनर्जी परियोजनाओं की धीमी गति (Slow pace of green energy projects)",
-      "B": "कोयला उत्पादन में वृद्धि (Increase in coal production)",
-      "C": "कार्बन टैक्स की अनुपस्थिति (Lack of carbon taxation)",
-      "D": "राज्यों में पर्यावरण नियमन की असमानता (Unequal regulation across states)"
+      "A": "रासायनिक उर्वरकों का अंधाधुंध प्रयोग / Indiscriminate use of fertilizers",
+      "B": "जैविक कृषि प्रणाली / Organic farming systems",
+      "C": "पारिस्थितिक संतुलन बनाए रखना / Maintaining ecological balance",
+      "D": "भूमि के दीर्घकालिक उपयोग की योजना / Planning long-term use of land"
     },
-    "answer": "A, B, D"
+    "answer": ["B", "C", "D"]
   },
   {
     "id": 9,
-    "question": "2024 में मनरेगा पर क्या मुख्य आलोचनाएं की गईं? (What were the key criticisms of MGNREGA in 2024?)",
+    "question": "भारत में ग्रामीण-शहरी प्रवासन के कौन-कौन से कारण होते हैं? / What are the causes of rural-to-urban migration in India?",
     "options": {
-      "A": "भुगतान में देरी (Delayed payments)",
-      "B": "शहरी गरीबों को बाहर रखना (Exclusion of urban poor)",
-      "C": "स्थायी परिसंपत्तियाँ नहीं बनीं (No lasting assets created)",
-      "D": "डिजिटल हाजिरी से मजदूरों का शोषण (Exploitation through digital attendance)"
+      "A": "ग्रामीण क्षेत्रों में बेरोजगारी / Unemployment in rural areas",
+      "B": "शहरों में बेहतर स्वास्थ्य सेवाएँ / Better healthcare in cities",
+      "C": "पारिवारिक विवाद / Family disputes",
+      "D": "शहरी जीवन शैली की चाह / Desire for urban lifestyle"
     },
-    "answer": "A, B, D"
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 10,
-    "question": "भारतीय श्रम कोड 2024 को लेकर श्रमिक संगठनों ने किन बातों पर आपत्ति जताई? (What objections did labor unions raise against Indian Labor Codes 2024?)",
+    "question": "मानव भूगोल में 'संभाव्यता सिद्धांत' (Possibilism) का क्या निष्कर्ष है? / What is the conclusion of the 'Possibilism' theory in Human Geography?",
     "options": {
-      "A": "कंट्रैक्ट कर्मचारियों को न्यूनतम सुरक्षा (Minimal protection for contract workers)",
-      "B": "संगठनों पर नियंत्रण (Control on trade unions)",
-      "C": "काम के घंटे में लचीलापन कंपनियों के पक्ष में (Work-hour flexibility favors employers)",
-      "D": "सरकारी निगरानी की अनुपस्थिति (Absence of government inspection)"
+      "A": "प्रकृति मनुष्य की गतिविधियों को पूर्ण रूप से नियंत्रित करती है / Nature fully controls human activity",
+      "B": "मनुष्य अपने वातावरण के अनुसार ढलता है / Humans adapt completely to their environment",
+      "C": "मनुष्य पर्यावरण को रूपांतरित करने की क्षमता रखता है / Humans can transform their environment",
+      "D": "मनुष्य के पास विकल्प होते हैं, प्रकृति सीमाएँ तय करती है / Humans have choices, nature sets limits"
     },
-    "answer": "A, B, C"
-  },
-  {
-    "id": 11,
-    "question": "भारत के 2024 के खाद्य सुरक्षा नेटवर्क में किसे सबसे कमजोर कड़ी माना गया? (What is the weakest link in Indias 2024 food security system?)",
-    "options": {
-      "A": "डिजिटल राशन कार्ड का दुरुपयोग (Misuse of digital ration cards)",
-      "B": "मध्यान्ह भोजन योजना की गुणवत्ता (Midday meal quality issues)",
-      "C": "पीडीएस में लीकेज (Leakage in PDS)",
-      "D": "न्यूनतम समर्थन मूल्य नीति में असमानता (Inequality in MSP policy)"
-    },
-    "answer": "A, C, D"
-  },
-  {
-    "id": 12,
-    "question": "भारत में 2024 में न्यायिक लंबित मामलों को लेकर कौन से सुधार प्रस्तावित हुए? (What reforms were proposed for Indias judicial pendency in 2024?)",
-    "options": {
-      "A": "मिशन मोड केस निपटान (Mission-mode case disposal)",
-      "B": "आर्टिफिशियल इंटेलिजेंस आधारित ट्रैकिंग (AI-based case tracking)",
-      "C": "स्थायी न्यायिक आयोग का गठन (Formation of permanent judicial commission)",
-      "D": "राज्य हाईकोर्ट को विशेष शक्तियाँ (Special powers to State High Courts)"
-    },
-    "answer": "A, B, C"
-  },
-  {
-    "id": 13,
-    "question": "स्वास्थ्य क्षेत्र में 2024 में कौन सी असमानताएं स्पष्ट रूप से उभरीं? (What inequalities became visible in health sector in 2024?)",
-    "options": {
-      "A": "ग्रामीण क्षेत्रों में डॉक्टरों की भारी कमी (Acute shortage of doctors in rural areas)",
-      "B": "सार्वजनिक अस्पतालों में संसाधनों की कमी (Resource deficit in public hospitals)",
-      "C": "स्वास्थ्य बीमा योजनाओं में निजीकरण का दबाव (Privatization pressure in health insurance)",
-      "D": "आदिवासी इलाकों में सेवाओं की उपेक्षा (Neglect of services in tribal areas)"
-    },
-    "answer": "A, B, D"
-  },
-  {
-    "id": 14,
-    "question": "भारत में 2024 में किए गए चुनावी सुधारों पर कौन-कौन से बिंदु विवादास्पद रहे? (What points of the electoral reforms in 2024 were controversial?)",
-    "options": {
-      "A": "वोटिंग उम्र को घटाने का प्रस्ताव (Proposal to lower voting age)",
-      "B": "एक राष्ट्र, एक चुनाव नीति (One Nation, One Election policy)",
-      "C": "ईवीएम पारदर्शिता की कमी (Lack of transparency in EVMs)",
-      "D": "चंदा देने वालों की गोपनीयता को कानूनी संरक्षण (Legal protection to donor anonymity)"
-    },
-    "answer": "B, C, D"
-  },
-  {
-    "id": 15,
-    "question": "2024 में भारतीय अर्थव्यवस्था की कौन-कौन सी कमजोरियाँ नीति आयोग ने रिपोर्ट में चिन्हित कीं? (Which weaknesses of Indian economy were highlighted by NITI Aayog in 2024?)",
-    "options": {
-      "A": "सकल घरेलू उत्पाद में कृषि का गिरता योगदान (Declining agri share in GDP)",
-      "B": "युवाओं में disguised unemployment (Disguised unemployment among youth)",
-      "C": "निर्यात में तकनीकी उत्पादों की भागीदारी कम (Low tech exports)",
-      "D": "MSME क्षेत्र में ऋण पहुँच की समस्या (Poor credit access to MSMEs)"
-    },
-    "answer": "A, B, D"
+    "answer": ["C", "D"]
   }
 ]
