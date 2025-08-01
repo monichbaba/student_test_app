@@ -1,427 +1,112 @@
 [
   {
     "id": 1,
-    "question": "निम्नलिखित में से कौन-कौन से स्थल भारत में वर्षा छाया (rain shadow) क्षेत्र में आते हैं? / Which of the following places fall in the rain shadow region in India?",
+    "question": "कौन-सा स्थलाकृतिक कारक मानसूनी हवाओं की तीव्रता को सबसे अधिक प्रभावित करता है? / Which topographical factor most strongly influences the intensity of monsoon winds?",
     "options": {
-      "A": "पुणे / Pune",
-      "B": "मुंबई / Mumbai",
-      "C": "बेंगलुरु / Bengaluru",
-      "D": "मधुरै / Madurai"
-<<<<<<< HEAD
+      "A": "घाटों की ऊँचाई / Height of the Ghats",
+      "B": "हिमालय की निरंतरता / Continuity of Himalayas",
+      "C": "थार मरुस्थल की स्थिति / Location of Thar Desert",
+      "D": "पूर्वी घाटों की ऊँचाई / Elevation of Eastern Ghats"
     },
-    "answer": ["A", "D"]
+    "answer": ["B"]
   },
   {
     "id": 2,
-    "question": "हिमालय की उत्पत्ति के कारण कौन-कौन से वाक्य सही हैं? / Which of the following statements are true regarding the origin of Himalayas?",
+    "question": "यदि पृथ्वी की घूर्णन गति दोगुनी कर दी जाए तो किस प्रभाव में सर्वाधिक परिवर्तन होगा? / If Earth's rotation speed is doubled, which effect would change the most?",
     "options": {
-      "A": "यह प्लेट टेक्टॉनिक्स सिद्धांत से जुड़ा है / It is related to plate tectonics theory",
-      "B": "यह विवर्तनिक बलों का परिणाम है / It is a result of tectonic forces",
-      "C": "यह प्राचीन अवसादी चट्टानों का घर्षण है / It is friction of ancient sedimentary rocks",
-      "D": "यह एक प्राचीन वलित पर्वत है / It is an old folded mountain"
+      "A": "दिन-रात की अवधि / Duration of day and night",
+      "B": "ज्वार-भाटा की आवृत्ति / Frequency of tides",
+      "C": "कोरिओलिस बल / Coriolis force",
+      "D": "वायुदाब वितरण / Air pressure distribution"
     },
-    "answer": ["A", "B"]
+    "answer": ["C"]
   },
   {
     "id": 3,
-    "question": "निम्नलिखित में से कौन-से तत्व भारत में भूमि क्षरण के लिए उत्तरदायी हैं? / Which of the following factors are responsible for land degradation in India?",
+    "question": "वर्षा छाया क्षेत्र प्रायः कहाँ पाए जाते हैं? / Rain shadow regions are typically found:",
     "options": {
-      "A": "अत्यधिक सिंचाई / Excessive irrigation",
-      "B": "खनिज खनन / Mineral mining",
-      "C": "वनों की कटाई / Deforestation",
-      "D": "ज्वालामुखी विस्फोट / Volcanic eruption" 
+      "A": "मुख्य पवन की ओर वाले ढलान पर / Windward slopes",
+      "B": "मुख्य पवन से विपरीत ढलान पर / Leeward slopes",
+      "C": "नदी घाटियों में / River valleys",
+      "D": "मैदानी क्षेत्रों में / Plains"
     },
-    "answer": ["A", "B"]
+    "answer": ["B"]
   },
   {
     "id": 4,
-    "question": "भारत में मृदा अपरदन को रोकने की उन्नत पद्धतियाँ कौन-कौन सी हैं? / Which are the advanced methods to prevent soil erosion in India?",
+    "question": "भारतीय उपमहाद्वीप की जलवायु विविधता का मुख्य कारण क्या है? / What is the primary reason for climate diversity in the Indian subcontinent?",
     "options": {
-      "A": "पट्टी खेती / Strip cropping",
-      "B": "पवन अवरोध / Wind barriers",
-      "C": "ढाल खेती / Terrace farming",
-      "D": "सतही सिंचाई / Surface irrigation"
+      "A": "समुद्र की निकटता / Proximity to oceans",
+      "B": "पर्वतीय बाधाएं / Mountain barriers",
+      "C": "भूमि विस्तार और अक्षांशीय फैलाव / Large landmass and latitudinal spread",
+      "D": "मानव हस्तक्षेप / Human intervention"
     },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 4,
-    "question": "भारत की मुख्य जलवायु विशेषताएँ कौन-कौन सी हैं? / What are the major climatic characteristics of India?",
-    "options": {
-      "A": "मौसमी प्रवाहिता / Monsoonal flow",
-      "B": "वर्षा का स्थानिक असमान वितरण / Spatial variability of rainfall",
-      "C": "एक ऋतु की प्रधानता / Dominance of one season",
-      "D": "ध्रुवीय जलवायु प्रभाव / Polar climate influence"
-    },
-    "answer": ["A", "B", "C"]
+    "answer": ["C"]
   },
   {
     "id": 5,
-    "question": "निम्नलिखित में से किन नदियों द्वारा अल्ट्रा-एक्टिव डेल्टा (active delta) का निर्माण होता है? / Which of the following rivers create ultra-active deltas?",
+    "question": "तटीय अपक्षरण का कौन-सा प्रकार मुख्यतः समुद्री लहरों द्वारा होता है? / Which type of coastal erosion is primarily caused by wave action?",
     "options": {
-      "A": "गंगा / Ganga",
-      "B": "ब्रह्मपुत्र / Brahmaputra",
-      "C": "महानदी / Mahanadi",
-      "D": "नर्मदा / Narmada"
+      "A": "हाइड्रॉलिक एक्शन / Hydraulic action",
+      "B": "सल्फेट अपघटन / Sulfate decay",
+      "C": "ऑक्सीडेशन / Oxidation",
+      "D": "अंतराल प्रवाह / Intermittent flow"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 6,
-    "question": "रबी फसलों की वृद्धि के लिए निम्न में से कौन-से पर्यावरणीय कारक अनिवार्य हैं? / Which environmental conditions are essential for Rabi crops?",
+    "question": "यदि चक्रवात भूमध्य रेखा के बहुत निकट बन जाए तो क्या प्रभाव होगा? / What happens if a cyclone forms very close to the Equator?",
     "options": {
-      "A": "कम तापमान / Low temperature",
-      "B": "लंबी फोटोपिरियड / Long photoperiod",
-      "C": "उच्च आर्द्रता / High humidity",
-      "D": "ठंडी सूखी हवा / Cold dry winds"
+      "A": "वह अधिक तीव्र होता है / It becomes more intense",
+      "B": "वह दिशा बदल लेता है / It changes direction suddenly",
+      "C": "वह घूम नहीं पाएगा / It will not rotate",
+      "D": "वह स्थिर रहता है / It remains stationary"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["C"]
   },
   {
     "id": 7,
-    "question": "निम्नलिखित में से कौन-कौन से प्रदूषक जल के जैविक ऑक्सीजन माँग (BOD) को प्रभावित करते हैं? / Which pollutants affect Biological Oxygen Demand (BOD) of water?",
+    "question": "वायुदाब और तापमान के बीच क्या संबंध होता है? / What is the relationship between air pressure and temperature?",
     "options": {
-      "A": "नाइट्रेट / Nitrate",
-      "B": "फॉस्फेट / Phosphate",
-      "C": "थर्मल अपशिष्ट / Thermal waste",
-      "D": "सोडियम क्लोराइड / Sodium chloride"
-=======
->>>>>>> d97e2b8 (Updated questions.json with new MCQs)
+      "A": "सीधा / Direct",
+      "B": "प्रतिलोम / Inverse",
+      "C": "कोई संबंध नहीं / No relation",
+      "D": "अवधि पर निर्भर / Depends on duration"
     },
-    "answer": ["A", "B", "C"]
-  },
-  {
-<<<<<<< HEAD
-    "id": 8,
-    "question": "भारत के कौन-कौन से तटीय भाग रामसर स्थल घोषित किए गए हैं? / Which of the following coastal areas of India have been declared Ramsar sites?",
-    "options": {
-=======
-    "id": 2,
-    "question": "हिमालय की उत्पत्ति के कारण कौन-कौन से वाक्य सही हैं? / Which of the following statements are true regarding the origin of Himalayas?",
-    "options": {
-      "A": "यह प्लेट टेक्टॉनिक्स सिद्धांत से जुड़ा है / It is related to plate tectonics theory",
-      "B": "यह विवर्तनिक बलों का परिणाम है / It is a result of tectonic forces",
-      "C": "यह प्राचीन अवसादी चट्टानों का घर्षण है / It is friction of ancient sedimentary rocks",
-      "D": "यह एक प्राचीन वलित पर्वत है / It is an old folded mountain"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 3,
-    "question": "निम्नलिखित में से कौन-से तत्व भारत में भूमि क्षरण के लिए उत्तरदायी हैं? / Which of the following factors are responsible for land degradation in India?",
-    "options": {
-      "A": "अत्यधिक सिंचाई / Excessive irrigation",
-      "B": "खनिज खनन / Mineral mining",
-      "C": "वनों की कटाई / Deforestation",
-      "D": "ज्वालामुखी विस्फोट / Volcanic eruption"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 4,
-    "question": "भारत की मुख्य जलवायु विशेषताएँ कौन-कौन सी हैं? / What are the major climatic characteristics of India?",
-    "options": {
-      "A": "मौसमी प्रवाहिता / Monsoonal flow",
-      "B": "वर्षा का स्थानिक असमान वितरण / Spatial variability of rainfall",
-      "C": "एक ऋतु की प्रधानता / Dominance of one season",
-      "D": "ध्रुवीय जलवायु प्रभाव / Polar climate influence"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 5,
-    "question": "भारत के कौन-कौन से तटीय भाग रामसर स्थल घोषित किए गए हैं? / Which of the following coastal areas of India have been declared Ramsar sites?",
-    "options": {
->>>>>>> d97e2b8 (Updated questions.json with new MCQs)
-      "A": "चिल्का झील / Chilika Lake",
-      "B": "पुलीकट झील / Pulicat Lake",
-      "C": "एस्टुअरी ऑफ गोदावरी / Estuary of Godavari",
-      "D": "सारसिका झील / Sarsika Lake"
-<<<<<<< HEAD
-=======
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 6,
-    "question": "भारत की प्रमुख मिट्टियों की विशेषताएँ कौन-कौन सी हैं? / What are the characteristics of major soils in India?",
-    "options": {
-      "A": "काली मिट्टी जल धारण करने में सक्षम होती है / Black soil has high water retention",
-      "B": "जलोढ़ मिट्टी सभी क्षेत्रों में समान होती है / Alluvial soil is uniform throughout the region",
-      "C": "लाल मिट्टी में लोहे की मात्रा अधिक होती है / Red soil is rich in iron",
-      "D": "मरुस्थलीय मिट्टी में कार्बनिक पदार्थ अधिक होता है / Desert soil is rich in organic matter"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 7,
-    "question": "निम्नलिखित में से कौन-सी नदियाँ डेल्टा नहीं बनाती हैं? / Which of the following rivers do not form a delta?",
-    "options": {
-      "A": "नर्मदा / Narmada",
-      "B": "ताप्ती / Tapi",
-      "C": "गोदावरी / Godavari",
-      "D": "कावेरी / Kaveri"
-    },
-    "answer": ["A", "B"]
+    "answer": ["B"]
   },
   {
     "id": 8,
-    "question": "निम्नलिखित में से कौन-कौन सी विशेषताएँ छत्तीसगढ़ के पठार को परिभाषित करती हैं? / Which of the following features define the Chhattisgarh plateau?",
+    "question": "जलवायु परिवर्तन के संदर्भ में 'अल्बीडो' का महत्व क्या है? / What is the significance of 'albedo' in the context of climate change?",
     "options": {
-      "A": "खनिज संसाधनों से समृद्ध / Rich in mineral resources",
-      "B": "ज्वालामुखीय उत्पत्ति / Volcanic origin",
-      "C": "घने जंगलों से आच्छादित / Covered with dense forests",
-      "D": "मैदानी नदी तंत्र / Plain river network"
->>>>>>> d97e2b8 (Updated questions.json with new MCQs)
+      "A": "वायुमंडलीय दबाव को दर्शाता है / Indicates atmospheric pressure",
+      "B": "पृथ्वी की परावर्तन क्षमता को दर्शाता है / Measures Earth’s reflectivity",
+      "C": "सूर्य की ऊर्जा को अवशोषित करता है / Absorbs solar energy",
+      "D": "ग्लेशियर की मोटाई को दर्शाता है / Indicates glacier thickness"
     },
-    "answer": ["A", "B"]
+    "answer": ["B"]
   },
   {
     "id": 9,
-<<<<<<< HEAD
-    "question": "भारत की प्रमुख मिट्टियों की विशेषताएँ कौन-कौन सी हैं? / What are the characteristics of major soils in India?",
+    "question": "निम्नलिखित में से कौन सा समुद्री धाराओं को प्रभावित नहीं करता है? / Which of the following does not influence ocean currents?",
     "options": {
-      "A": "काली मिट्टी जल धारण करने में सक्षम होती है / Black soil has high water retention",
-      "B": "जलोढ़ मिट्टी सभी क्षेत्रों में समान होती है / Alluvial soil is uniform throughout the region",
-      "C": "लाल मिट्टी में लोहे की मात्रा अधिक होती है / Red soil is rich in iron",
-      "D": "मरुस्थलीय मिट्टी में कार्बनिक पदार्थ अधिक होता है / Desert soil is rich in organic matter"
-=======
-    "question": "भारत में किस प्रकार की वनस्पति अधिक वर्षा वाले क्षेत्रों में पाई जाती है? / What type of vegetation is found in high rainfall regions in India?",
-    "options": {
-      "A": "पर्णपाती वन / Deciduous forests",
-      "B": "शुष्क झाड़ी / Dry thorny vegetation",
-      "C": "मानसूनी सदाबहार वन / Monsoonal evergreen forests",
-      "D": "उष्णकटिबंधीय घास के मैदान / Tropical grasslands"
->>>>>>> d97e2b8 (Updated questions.json with new MCQs)
+      "A": "पवन प्रणाली / Wind systems",
+      "B": "कोरिओलिस बल / Coriolis force",
+      "C": "महासागरीय खारापन / Ocean salinity",
+      "D": "पर्वत श्रृंखलाएं / Mountain ranges"
     },
-    "answer": ["C"]
+    "answer": ["D"]
   },
   {
     "id": 10,
-<<<<<<< HEAD
-    "question": "निम्नलिखित में से कौन-सी नदियाँ डेल्टा नहीं बनाती हैं? / Which of the following rivers do not form a delta?",
+    "question": "यदि भारत में पश्चिमी विक्षोभ नहीं आए तो किस क्षेत्र की कृषि सबसे अधिक प्रभावित होगी? / If Western Disturbances stop reaching India, which region's agriculture will be most affected?",
     "options": {
-      "A": "नर्मदा / Narmada",
-      "B": "ताप्ती / Tapi",
-      "C": "गोदावरी / Godavari",
-      "D": "कावेरी / Kaveri"
+      "A": "पंजाब और हरियाणा / Punjab and Haryana",
+      "B": "गुजरात और राजस्थान / Gujarat and Rajasthan",
+      "C": "तमिलनाडु और केरल / Tamil Nadu and Kerala",
+      "D": "उड़ीसा और झारखंड / Odisha and Jharkhand"
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 11,
-    "question": "निम्नलिखित में से कौन-कौन सी विशेषताएँ छत्तीसगढ़ के पठार को परिभाषित करती हैं? / Which of the following features define the Chhattisgarh plateau?",
-    "options": {
-      "A": "खनिज संसाधनों से समृद्ध / Rich in mineral resources",
-      "B": "ज्वालामुखीय उत्पत्ति / Volcanic origin",
-      "C": "घने जंगलों से आच्छादित / Covered with dense forests",
-      "D": "मैदानी नदी तंत्र / Plain river network"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 12,
-    "question": "भारत में किस प्रकार की वनस्पति अधिक वर्षा वाले क्षेत्रों में पाई जाती है? / What type of vegetation is found in high rainfall regions in India?",
-    "options": {
-      "A": "पर्णपाती वन / Deciduous forests",
-      "B": "शुष्क झाड़ी / Dry thorny vegetation",
-      "C": "मानसूनी सदाबहार वन / Monsoonal evergreen forests",
-      "D": "उष्णकटिबंधीय घास के मैदान / Tropical grasslands"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 13,
-    "question": "निम्नलिखित में से कौन-कौन से राज्य हिमालय पर्वत प्रणाली का भाग नहीं हैं? / Which of the following states are not part of the Himalayan mountain system?",
-    "options": {
-=======
-    "question": "निम्नलिखित में से कौन-कौन से राज्य हिमालय पर्वत प्रणाली का भाग नहीं हैं? / Which of the following states are not part of the Himalayan mountain system?",
-    "options": {
->>>>>>> d97e2b8 (Updated questions.json with new MCQs)
-      "A": "उत्तराखंड / Uttarakhand",
-      "B": "हरियाणा / Haryana",
-      "C": "बिहार / Bihar",
-      "D": "पश्चिम बंगाल / West Bengal"
-    },
-    "answer": ["B", "C"]
-<<<<<<< HEAD
-  },
-  {
-    "id": 14,
-    "question": "भारत में प्रमुख पठारी क्षेत्र कौन-कौन से हैं? / Which are the major plateau regions in India?",
-    "options": {
-      "A": "दक्कन पठार / Deccan Plateau",
-      "B": "छोटा नागपुर पठार / Chotanagpur Plateau",
-      "C": "मालवा पठार / Malwa Plateau",
-      "D": "मरुस्थलीय पठार / Desert Plateau"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 15,
-    "question": "भारत के पर्वतीय पर्यटन स्थलों के पारिस्थितिक खतरों में क्या-क्या शामिल हैं? / What are the ecological threats to India's mountain tourism sites?",
-    "options": {
-      "A": "कचरा और प्लास्टिक संचयन / Waste and plastic accumulation",
-      "B": "भूस्खलन की संवेदनशीलता / Landslide vulnerability",
-      "C": "नदी के स्रोतों पर अतिक्रमण / Encroachment on river sources",
-      "D": "पवन अपरदन / Wind erosion"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 16,
-    "question": "जलवायु क्षेत्रीकरण में निम्नलिखित में से कौन-कौन से आधार माने जाते हैं? / Which of the following are used as basis for climate classification?",
-    "options": {
-      "A": "तापमान / Temperature",
-      "B": "वर्षा / Rainfall",
-      "C": "पवन की दिशा / Wind direction",
-      "D": "सौर विकिरण / Solar radiation"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 17,
-    "question": "भारत में बायोस्फीयर रिजर्व की संरचना में कौन-कौन से क्षेत्र शामिल होते हैं? / What are the zones included in the structure of Biosphere Reserves?",
-    "options": {
-      "A": "कोर क्षेत्र / Core zone",
-      "B": "बफर क्षेत्र / Buffer zone",
-      "C": "सहभागिता क्षेत्र / Transition zone",
-      "D": "निषिद्ध क्षेत्र / Prohibited zone"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 18,
-    "question": "भारत के तटीय क्षेत्रों में समुद्री पारिस्थितिकी तंत्र को कौन-कौन सी चुनौतियाँ हैं? / What are the threats to coastal ecosystems in India?",
-    "options": {
-      "A": "कोरल ब्लिचिंग / Coral bleaching",
-      "B": "तटीय अपरदन / Coastal erosion",
-      "C": "मैंग्रोव की कटाई / Mangrove deforestation",
-      "D": "पर्वतीय कटाव / Mountain erosion"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 19,
-    "question": "भारत में कौन-कौन से जल प्रपात जलविद्युत उत्पादन हेतु उपयुक्त माने जाते हैं? / Which waterfalls in India are suitable for hydroelectric power generation?",
-    "options": {
-      "A": "जोग प्रपात / Jog Falls",
-      "B": "शिवसमुंद्रम / Shivanasamudra",
-      "C": "धुआंधार / Dhuandhar",
-      "D": "अथिरप्पल्ली / Athirappilly"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 20,
-    "question": "भारत के किन क्षेत्रों में ग्रीन रिवोल्यूशन का अधिकतम प्रभाव पड़ा? / Which regions of India were most impacted by the Green Revolution?",
-    "options": {
-      "A": "पंजाब / Punjab",
-      "B": "हरियाणा / Haryana",
-      "C": "उत्तर प्रदेश / Uttar Pradesh",
-      "D": "बिहार / Bihar"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 21,
-    "question": "निम्न में से कौन-कौन से ऊर्जा स्रोत न्यूनतम पर्यावरणीय प्रभाव रखते हैं? / Which of the following energy sources have minimal environmental impact?",
-    "options": {
-      "A": "हाइड्रोजन सेल / Hydrogen fuel cell",
-      "B": "सौर ऊर्जा / Solar power",
-      "C": "नाभिकीय संलयन / Nuclear fusion",
-      "D": "कोयला गैसीकरण / Coal gasification"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 22,
-    "question": "भारत में किस प्रकार की वनस्पति हिमालय क्षेत्र में पाई जाती है? / What types of vegetation are found in the Himalayan region of India?",
-    "options": {
-      "A": "शंकुधारी वन / Coniferous forests",
-      "B": "टुंड्रा वनस्पति / Tundra vegetation",
-      "C": "उष्णकटिबंधीय सदाबहार / Tropical evergreen",
-      "D": "आर्द्र-पर्णपाती वन / Moist deciduous forests"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 23,
-    "question": "भारत की पर्वत श्रृंखलाओं के निर्माण की प्रक्रिया में कौन-कौन सी भूगर्भीय क्रियाएँ शामिल होती हैं? / Which geological processes are involved in formation of mountain ranges in India?",
-    "options": {
-      "A": "अपवर्तन / Subduction",
-      "B": "संचलन / Plate convergence",
-      "C": "वलन क्रिया / Folding",
-      "D": "सर्वनाशकारी विस्फोट / Catastrophic eruption"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 24,
-    "question": "भारत में कौन-कौन सी फसलें जायद ऋतु में बोई जाती हैं? / Which crops are grown in the Zaid season in India?",
-    "options": {
-      "A": "तरबूज / Watermelon",
-      "B": "ककड़ी / Cucumber",
-      "C": "मक्का / Maize",
-      "D": "मूंग / Moong"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 25,
-    "question": "हिमालय से निकलने वाली नदियों की प्रमुख विशेषताएँ क्या हैं? / What are the key features of rivers originating from Himalayas?",
-    "options": {
-      "A": "बारहमासी प्रवाह / Perennial flow",
-      "B": "हिमनद पोषण / Glacier-fed",
-      "C": "गहराई वाली घाटियाँ / Deep gorges",
-      "D": "खारे पानी का बहाव / Saline discharge"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 26,
-    "question": "भारत के कौन-कौन से क्षेत्र उच्च भूकंपीय जोखिम में आते हैं? / Which regions in India fall under high seismic risk zones?",
-    "options": {
-      "A": "उत्तर-पूर्व भारत / North-East India",
-      "B": "हिमालयी क्षेत्र / Himalayan zone",
-      "C": "गुजरात का कच्छ क्षेत्र / Kutch region of Gujarat",
-      "D": "छत्तीसगढ़ का पठार / Chhattisgarh Plateau"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 27,
-    "question": "भारत में पर्यावरणीय संतुलन हेतु कौन-कौन से उपाय सबसे प्रभावी हैं? / Which are the most effective measures for environmental balance in India?",
-    "options": {
-      "A": "कार्बन उत्सर्जन में कटौती / Carbon emission reduction",
-      "B": "वनीकरण / Afforestation",
-      "C": "सौर ऊर्जा को अपनाना / Adoption of solar energy",
-      "D": "जलाशयों का निर्माण / Construction of dams"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 28,
-    "question": "भारत में मानसून की विफलता का किस-किस क्षेत्र पर सर्वाधिक प्रभाव होता है? / Which regions are most affected by monsoon failure in India?",
-    "options": {
-      "A": "विदर्भ / Vidarbha",
-      "B": "मराठवाड़ा / Marathwada",
-      "C": "पश्चिमी राजस्थान / Western Rajasthan",
-      "D": "कावेरी डेल्टा / Kaveri Delta"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 29,
-    "question": "भारत में कौन-कौन सी सिंचाई विधियाँ जल दक्षता में सहायक हैं? / Which irrigation methods help in improving water-use efficiency in India?",
-    "options": {
-      "A": "ड्रिप सिंचाई / Drip irrigation",
-      "B": "स्प्रिंकलर सिंचाई / Sprinkler irrigation",
-      "C": "बाढ़ सिंचाई / Flood irrigation",
-      "D": "सूक्ष्म सिंचाई / Micro irrigation"
-    },
-    "answer": ["A", "B", "D"]
-=======
->>>>>>> d97e2b8 (Updated questions.json with new MCQs)
+    "answer": ["A"]
   }
 ]
