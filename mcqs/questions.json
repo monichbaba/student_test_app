@@ -1,221 +1,166 @@
 [
   {
     "id": 1,
-    "question": "मानव भूगोल का स्वरूप निम्नलिखित में से किन विशेषताओं द्वारा परिभाषित किया जाता है?\nWhich of the following features define the nature of Human Geography?",
+    "question": "मानव विकास सूचकांक (HDI) में किन संकेतकों को शामिल किया जाता है?\nWhich indicators are included in the Human Development Index (HDI)?",
     "options": {
-      "A": "अंतरविषयकता / Interdisciplinary nature",
-      "B": "मानव-प्रकृति संवाद / Human-nature interaction",
-      "C": "आर्थिक भौगोलिक अध्ययन / Economic geographic focus",
-      "D": "खगोलीय घटनाओं का अध्ययन / Study of astronomical events"
+      "A": "प्रति व्यक्ति आय / Per capita income",
+      "B": "शिक्षा स्तर / Education level",
+      "C": "जीवन प्रत्याशा / Life expectancy",
+      "D": "भ्रष्टाचार दर / Corruption rate"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 2,
-    "question": "मानव भूगोल में स्थानिक वितरण को प्रभावित करने वाले कारकों में कौन-कौन से शामिल हैं?\nWhich of the following influence spatial distribution in Human Geography?",
+    "question": "वैश्विक भुखमरी सूचकांक (GHI) में कौन-कौन से घटक शामिल हैं?\nWhich components are included in the Global Hunger Index (GHI)?",
     "options": {
-      "A": "भौतिक कारक / Physical factors",
-      "B": "सांस्कृतिक कारक / Cultural factors",
-      "C": "तकनीकी विकास / Technological advancement",
-      "D": "प्लेट टेक्टोनिक्स / Plate tectonics"
+      "A": "बाल मृत्युदर / Child mortality",
+      "B": "खाद्य आपूर्ति / Food supply",
+      "C": "बाल अल्पपोषण / Child undernutrition",
+      "D": "खाद्य मूल्य सूचकांक / Food price index"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 3,
-    "question": "जनसंख्या वृद्धि दर को प्रभावित करने वाले तत्व कौन से हैं?\nWhich of the following factors influence population growth rate?",
+    "question": "भारत का प्रदर्शन निम्नलिखित सूचकों में कमजोर रहा है:\nIndia has shown poor performance in which of the following indexes?",
     "options": {
-      "A": "प्रजनन दर / Birth rate",
-      "B": "मृत्यु दर / Death rate",
-      "C": "प्रवासन / Migration",
-      "D": "मृदा अपरदन / Soil erosion"
+      "A": "Environmental Performance Index / पर्यावरणीय प्रदर्शन सूचकांक",
+      "B": "Global Hunger Index / वैश्विक भुखमरी सूचकांक",
+      "C": "Ease of Doing Business / व्यापार सुगमता सूचकांक",
+      "D": "World Press Freedom Index / विश्व प्रेस स्वतंत्रता सूचकांक"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 4,
-    "question": "मानव विकास सूचकांक (HDI) के प्रमुख घटक कौन-कौन से हैं?\nWhat are the key components of Human Development Index (HDI)?",
+    "question": "NITI Aayog द्वारा प्रकाशित 'SDG India Index' के बारे में सही कथन कौन-कौन से हैं?\nWhich of the following statements about SDG India Index are correct?",
     "options": {
-      "A": "प्रति व्यक्ति आय / Per capita income",
-      "B": "शैक्षिक स्तर / Education level",
-      "C": "जीवन प्रत्याशा / Life expectancy",
-      "D": "जनसंख्या घनत्व / Population density"
+      "A": "यह सतत विकास लक्ष्यों की प्रगति को मापता है / It measures progress on Sustainable Development Goals",
+      "B": "यह राज्य-स्तरीय प्रदर्शन को रैंक करता है / It ranks state-level performance",
+      "C": "यह विश्व बैंक द्वारा प्रकाशित होता है / Published by World Bank",
+      "D": "इसमें 17 लक्ष्य शामिल होते हैं / It includes 17 goals"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 5,
-    "question": "जनसंख्या की वृद्धावस्था (Ageing) के प्रभावों में क्या शामिल हैं?\nWhat are the effects of ageing population?",
+    "question": "निम्नलिखित में से किन सूचकांकों में भारत की रैंक 2024 में गिरी है?\nIn which of the following indexes did India’s rank decline in 2024?",
     "options": {
-      "A": "कार्यबल में कमी / Decline in workforce",
-      "B": "स्वास्थ्य सेवाओं पर दबाव / Pressure on healthcare",
-      "C": "शिशु मृत्यु दर में वृद्धि / Rise in infant mortality",
-      "D": "पेंशन व्यय में वृद्धि / Increase in pension expenditure"
+      "A": "Global Peace Index",
+      "B": "World Press Freedom Index",
+      "C": "Human Development Index",
+      "D": "Corruption Perception Index"
     },
     "answer": ["A", "B", "D"]
   },
   {
     "id": 6,
-    "question": "प्रवासन के धक्के (Push) कारकों में निम्नलिखित में से कौन शामिल हैं?\nWhich of the following are push factors of migration?",
+    "question": "Ease of Living Index 2023 के बारे में कौन से कथन सत्य हैं?\nWhich statements about Ease of Living Index 2023 are true?",
     "options": {
-      "A": "बेरोजगारी / Unemployment",
-      "B": "राजनीतिक अस्थिरता / Political instability",
-      "C": "बेहतर स्वास्थ्य सेवाएँ / Better healthcare",
-      "D": "प्राकृतिक आपदाएँ / Natural disasters"
+      "A": "यह आवास और नागरिक सुविधाओं को मापता है / It measures housing and civic amenities",
+      "B": "यह MoHUA द्वारा प्रकाशित होता है / Published by MoHUA",
+      "C": "यह केवल ग्रामीण क्षेत्रों को कवर करता है / Covers only rural areas",
+      "D": "बेंगलुरु शीर्ष पर था / Bengaluru topped the ranking"
     },
     "answer": ["A", "B", "D"]
   },
   {
     "id": 7,
-    "question": "शहरीकरण के सामाजिक प्रभावों में क्या-क्या आता है?\nWhat are the social effects of urbanization?",
+    "question": "पर्यावरण प्रदर्शन सूचकांक (EPI) के घटक कौन से हैं?\nWhat are the components of Environmental Performance Index (EPI)?",
     "options": {
-      "A": "स्लम की वृद्धि / Growth of slums",
-      "B": "अपराध दर में वृद्धि / Increase in crime rate",
-      "C": "सामाजिक गतिशीलता / Social mobility",
-      "D": "वनों की कटाई / Deforestation"
+      "A": "जलवायु नीति / Climate policy",
+      "B": "वायु गुणवत्ता / Air quality",
+      "C": "जैव विविधता संरक्षण / Biodiversity protection",
+      "D": "परमाणु हथियार / Nuclear weapons"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 8,
-    "question": "स्थायी विकास के सिद्धांतों में कौन-कौन से तत्व आते हैं?\nWhich elements are included in the principles of sustainable development?",
+    "question": "Multidimensional Poverty Index (MPI) में कौन-कौन से संकेतक शामिल हैं?\nWhich indicators are included in the Multidimensional Poverty Index (MPI)?",
     "options": {
-      "A": "प्राकृतिक संसाधनों का संरक्षण / Conservation of natural resources",
-      "B": "वर्तमान की आवश्यकताओं की पूर्ति / Fulfilling present needs",
-      "C": "भविष्य की पीढ़ियों के अधिकार / Rights of future generations",
-      "D": "अविकसितता की स्थिति बनाए रखना / Maintaining underdevelopment"
+      "A": "स्वास्थ्य / Health",
+      "B": "शिक्षा / Education",
+      "C": "जीवन स्तर / Standard of living",
+      "D": "प्राकृतिक आपदाएँ / Natural disasters"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 9,
-    "question": "आदिकालीन बस्तियाँ किस आधार पर स्थित होती थीं?\nAncient human settlements were based on which factors?",
+    "question": "Global Liveability Index के अनुसार जीवन की गुणवत्ता को प्रभावित करने वाले कारक कौन से हैं?\nAccording to the Global Liveability Index, which factors affect quality of life?",
     "options": {
-      "A": "जल स्रोतों की उपलब्धता / Availability of water",
-      "B": "उपजाऊ भूमि / Fertile land",
-      "C": "प्लावन क्षेत्र / Flood-prone areas",
-      "D": "शिकार की सुविधा / Availability of hunting"
+      "A": "स्वास्थ्य सेवाएँ / Healthcare",
+      "B": "संस्कृति और पर्यावरण / Culture & Environment",
+      "C": "शिक्षा प्रणाली / Education system",
+      "D": "मुद्रास्फीति दर / Inflation rate"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 10,
-    "question": "ग्रामीण बस्तियों की विशेषताएँ क्या हैं?\nWhat are the features of rural settlements?",
+    "question": "World Risk Index किस पर केंद्रित होता है?\nWhat is the focus of World Risk Index?",
     "options": {
-      "A": "कम जनसंख्या घनत्व / Low population density",
-      "B": "प्राथमिक आर्थिक गतिविधियाँ / Primary economic activities",
-      "C": "परमाणु ऊर्जा संयंत्र / Nuclear power plants",
-      "D": "स्वस्थ पर्यावरण / Healthy environment"
+      "A": "प्राकृतिक आपदा जोखिम / Natural disaster risk",
+      "B": "आपदा की तैयारी / Disaster preparedness",
+      "C": "सैन्य शक्ति / Military power",
+      "D": "सामाजिक भेदभाव / Social discrimination"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B"]
   },
   {
     "id": 11,
-    "question": "शहरी बस्तियों में कौन-कौन से घटक प्रमुख हैं?\nWhich are the major components of urban settlements?",
+    "question": "‘Global Peace Index’ को प्रकाशित करता है:\nWho publishes the Global Peace Index?",
     "options": {
-      "A": "अवसंरचना विकास / Infrastructure development",
-      "B": "सेवा क्षेत्र की प्रधानता / Dominance of service sector",
-      "C": "कम जनसंख्या घनत्व / Low population density",
-      "D": "वाणिज्यिक गतिविधियाँ / Commercial activities"
+      "A": "Economist Intelligence Unit (EIU)",
+      "B": "Institute for Economics & Peace (IEP)",
+      "C": "World Bank",
+      "D": "UNDP"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 12,
+    "question": "भारत निम्नलिखित में से किन वैश्विक सूचकांकों में शीर्ष 10 में नहीं आता?\nIndia does NOT rank in the top 10 of which of the following indexes?",
+    "options": {
+      "A": "Global Hunger Index",
+      "B": "Environmental Performance Index",
+      "C": "SDG India Index",
+      "D": "Multidimensional Poverty Index"
     },
     "answer": ["A", "B", "D"]
   },
   {
-    "id": 12,
-    "question": "योजनाबद्ध विकास की रणनीतियों में क्या शामिल है?\nWhat is included in planned development strategies?",
-    "options": {
-      "A": "क्षेत्रीय असमानता में वृद्धि / Increase in regional inequality",
-      "B": "संसाधनों का इष्टतम उपयोग / Optimum resource utilization",
-      "C": "संतुलित क्षेत्रीय विकास / Balanced regional development",
-      "D": "अनौपचारिक क्षेत्र का विस्तार / Expansion of informal sector"
-    },
-    "answer": ["B", "C"]
-  },
-  {
     "id": 13,
-    "question": "भारत में मानव भूगोल का विकास किन क्षेत्रों पर केंद्रित रहा है?\nIn India, development of Human Geography has focused on which areas?",
+    "question": "Ease of Doing Business Index को कौन प्रकाशित करता है?\nWho publishes the Ease of Doing Business Index?",
     "options": {
-      "A": "जनसंख्या अध्ययन / Population studies",
-      "B": "भौतिक भूगोल / Physical geography",
-      "C": "नगरीयकरण / Urbanization",
-      "D": "परिवहन नेटवर्क / Transport network"
+      "A": "World Bank",
+      "B": "UNDP",
+      "C": "IMF",
+      "D": "WTO"
     },
-    "answer": ["A", "C", "D"]
+    "answer": ["A"]
   },
   {
     "id": 14,
-    "question": "संसाधनों की बर्बादी रोकने के उपाय कौन-कौन से हैं?\nWhich of the following are measures to prevent resource wastage?",
+    "question": "SDG India Index में शामिल लक्ष्यों में कौन से प्रमुख हैं?\nWhich major goals are included in the SDG India Index?",
     "options": {
-      "A": "पुनर्चक्रण / Recycling",
-      "B": "क्षेत्रीय नियोजन / Regional planning",
-      "C": "भंडारण सुविधा / Storage facility",
-      "D": "भौगोलिक अलगाव / Geographical isolation"
+      "A": "गरीबी उन्मूलन / No Poverty",
+      "B": "भूख समाप्ति / Zero Hunger",
+      "C": "सार्वभौमिक शिक्षा / Quality Education",
+      "D": "सैन्य आधुनिकीकरण / Military Modernization"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 15,
-    "question": "स्थानिक विषमता (Spatial Inequality) के कारण क्या हैं?\nWhat are the causes of spatial inequality?",
+    "question": "निम्न में से कौन से सूचकांक 'पर्यावरणीय स्थिरता' को मापते हैं?\nWhich of the following indexes measure environmental sustainability?",
     "options": {
-      "A": "असमान संसाधन वितरण / Unequal resource distribution",
-      "B": "अविकसित बुनियादी ढाँचा / Underdeveloped infrastructure",
-      "C": "समान शिक्षा व्यवस्था / Uniform education system",
-      "D": "राजनीतिक उपेक्षा / Political neglect"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 16,
-    "question": "बाजार केंद्रित बस्तियों की पहचान क्या है?\nWhat identifies market-oriented settlements?",
-    "options": {
-      "A": "व्यापारिक गतिविधियों की प्रधानता / Dominance of commercial activities",
-      "B": "कृषि आधारित संरचना / Agricultural base",
-      "C": "उद्योग आधारित योजनाएं / Industry-based planning",
-      "D": "सुरक्षित आवास / Secured housing"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 17,
-    "question": "नागरिक सुविधाओं के असमान वितरण से क्या प्रभाव होता है?\nWhat are the effects of unequal distribution of civic amenities?",
-    "options": {
-      "A": "ग्रामीण-शहरी विभाजन / Rural-urban divide",
-      "B": "नागरिक असंतोष / Civil dissatisfaction",
-      "C": "समान अवसर / Equal opportunity",
-      "D": "स्थानीय प्रवासन / Local migration"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 18,
-    "question": "मूलभूत सेवाओं में क्या-क्या शामिल होता है?\nWhat is included under basic services?",
-    "options": {
-      "A": "पेयजल आपूर्ति / Drinking water supply",
-      "B": "स्वास्थ्य सेवाएँ / Healthcare services",
-      "C": "सेना की तैनाती / Military deployment",
-      "D": "शिक्षा सुविधा / Educational facilities"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 19,
-    "question": "भारत में मानव विकास रिपोर्ट के प्रमुख उपयोग क्या हैं?\nWhat are major uses of Human Development Report in India?",
-    "options": {
-      "A": "नीतिगत निर्माण में सहायक / Aids in policy formation",
-      "B": "वित्तीय बजट तैयार करना / Budget planning",
-      "C": "क्षेत्रीय असमानता का मूल्यांकन / Regional disparity assessment",
-      "D": "पारिस्थितिकी तंत्र अध्ययन / Ecosystem study"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 20,
-    "question": "‘मानव भूगोल’ किन-किन विषयों से सम्बंधित है?\nHuman Geography is related to which of the following subjects?",
-    "options": {
-      "A": "अर्थशास्त्र / Economics",
-      "B": "समाजशास्त्र / Sociology",
-      "C": "भाषाविज्ञान / Linguistics",
-      "D": "खगोलशास्त्र / Astronomy"
+      "A": "Environmental Performance Index",
+      "B": "Climate Risk Index",
+      "C": "SDG India Index (Goal 13)",
+      "D": "World Competitiveness Index"
     },
     "answer": ["A", "B", "C"]
   }
