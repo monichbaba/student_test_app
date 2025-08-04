@@ -1,112 +1,112 @@
 [
   {
     "id": 1,
-    "question": "भारत में कुल गेहूं उत्पादन (2023) में शीर्ष राज्य कौन से हैं (अधिक से कम)?\nWhich are the top wheat producing states in India (2023) in descending order?",
+    "question": "भारत में पोल्ट्री उत्पादन के प्रमुख राज्य कौन-कौन से हैं?\nWhich of the following are major poultry-producing states in India?",
     "options": {
-      "A": "उत्तर प्रदेश / Uttar Pradesh",
-      "B": "पंजाब / Punjab",
-      "C": "हरियाणा / Haryana",
-      "D": "बिहार / Bihar"
+      "A": "तेलंगाना / Telangana",
+      "B": "तमिलनाडु / Tamil Nadu",
+      "C": "पंजाब / Punjab",
+      "D": "महाराष्ट्र / Maharashtra"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 2,
-    "question": "धान की प्रति हेक्टेयर उत्पादकता (productivity) के आधार पर शीर्ष राज्य कौन से हैं?\nWhich are the top states in rice productivity (yield per hectare)?",
+    "question": "निम्न में से कौन-कौन सी अंडा देने वाली मुर्गी नस्लें हैं?\nWhich of the following are egg-laying poultry breeds?",
     "options": {
-      "A": "पंजाब / Punjab",
-      "B": "तमिलनाडु / Tamil Nadu",
-      "C": "हरियाणा / Haryana",
-      "D": "बिहार / Bihar"
+      "A": "लेगहॉर्न / Leghorn",
+      "B": "रनर / Runner",
+      "C": "बेल्जियन / Belgian",
+      "D": "हाइलाइन / Hyline"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "D"]
   },
   {
     "id": 3,
-    "question": "भारत में गन्ना उत्पादन में निम्नलिखित राज्यों को घटते क्रम में क्रमबद्ध करें।\nArrange the following states in descending order of sugarcane production in India.",
+    "question": "निम्न में से कौन-कौन सी भेड़ की नस्लें ऊन उत्पादन के लिए प्रसिद्ध हैं?\nWhich of the following sheep breeds are known for wool production?",
     "options": {
-      "A": "उत्तर प्रदेश / Uttar Pradesh",
-      "B": "महाराष्ट्र / Maharashtra",
-      "C": "कर्नाटक / Karnataka",
-      "D": "गुजरात / Gujarat"
+      "A": "रामबूइलेट / Rambouillet",
+      "B": "नैली / Nali",
+      "C": "मरवाड़ी / Marwari",
+      "D": "पाटनवाड़ी / Patanwadi"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 4,
-    "question": "दुग्ध उत्पादन (2023) के अनुसार निम्नलिखित राज्यों को अधिक से कम क्रम में व्यवस्थित करें।\nArrange the following states in descending order of milk production (2023).",
+    "question": "भारत में सूअर पालन (piggery) के लिए उपयुक्त नस्लें कौन-कौन सी हैं?\nWhich are suitable pig breeds for piggery in India?",
     "options": {
-      "A": "उत्तर प्रदेश / Uttar Pradesh",
-      "B": "राजस्थान / Rajasthan",
-      "C": "आंध्र प्रदेश / Andhra Pradesh",
-      "D": "पंजाब / Punjab"
+      "A": "घोटुल / Ghungroo",
+      "B": "हैमशायर / Hampshire",
+      "C": "यॉर्कशायर / Yorkshire",
+      "D": "मुर्रा / Murrah"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 5,
-    "question": "विश्व में गेहूं उत्पादन के शीर्ष देश कौन हैं (descending order)?\nWhich are the top wheat producing countries in descending order?",
+    "question": "भारत के किन राज्यों में भेड़ पालन की प्रमुखता है?\nIn which states is sheep rearing a dominant activity?",
     "options": {
-      "A": "चीन / China",
-      "B": "भारत / India",
-      "C": "रूस / Russia",
-      "D": "संयुक्त राज्य अमेरिका / USA"
+      "A": "राजस्थान / Rajasthan",
+      "B": "तेलंगाना / Telangana",
+      "C": "कर्नाटक / Karnataka",
+      "D": "मध्य प्रदेश / Madhya Pradesh"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 6,
-    "question": "सब्ज़ियों की उत्पादकता (प्रति हेक्टेयर) में निम्नलिखित राज्यों को व्यवस्थित करें (descending order)।\nArrange the following Indian states in descending order of vegetable productivity (yield per hectare).",
+    "question": "निम्न में से कौन-कौन सी नस्लें मीट उत्पादन के लिए पोल्ट्री में प्रसिद्ध हैं?\nWhich poultry breeds are known for meat production?",
     "options": {
-      "A": "पश्चिम बंगाल / West Bengal",
-      "B": "तमिलनाडु / Tamil Nadu",
-      "C": "पंजाब / Punjab",
-      "D": "हरियाणा / Haryana"
+      "A": "बॉयलर / Broiler",
+      "B": "कड़कनाथ / Kadaknath",
+      "C": "असेल / Aseel",
+      "D": "लेगहॉर्न / Leghorn"
     },
-    "answer": ["C", "D", "B"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 7,
-    "question": "भारत में कपास की उत्पादकता में अग्रणी राज्य कौन से हैं?\nWhich states lead in cotton productivity in India?",
+    "question": "भारत में पोल्ट्री अनुसंधान संस्थान कहाँ स्थित है?\nWhere is the Central Poultry Development Organisation (CPDO) located in India?",
     "options": {
-      "A": "तेलंगाना / Telangana",
-      "B": "गुजरात / Gujarat",
-      "C": "महाराष्ट्र / Maharashtra",
-      "D": "पंजाब / Punjab"
+      "A": "बेंगलुरु / Bengaluru",
+      "B": "हैदराबाद / Hyderabad",
+      "C": "भुवनेश्वर / Bhubaneswar",
+      "D": "नैनीताल / Nainital"
     },
-    "answer": ["B", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 8,
-    "question": "निम्न में से किन राज्यों की मछली उत्पादन में हिस्सेदारी सबसे अधिक है?\nWhich of the following states contribute the most to fish production in India?",
+    "question": "कड़कनाथ मुर्गी नस्ल से संबंधित तथ्य कौन-कौन से सही हैं?\nWhich of the following facts are true about Kadaknath chicken breed?",
     "options": {
-      "A": "आंध्र प्रदेश / Andhra Pradesh",
-      "B": "पश्चिम बंगाल / West Bengal",
-      "C": "ओडिशा / Odisha",
-      "D": "कर्नाटक / Karnataka"
+      "A": "यह मध्य प्रदेश से है / Native to Madhya Pradesh",
+      "B": "इसका मांस काला होता है / Its meat is black",
+      "C": "यह अंडों के लिए जानी जाती है / Known for egg-laying",
+      "D": "यह आयरन में समृद्ध है / Rich in Iron"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 9,
-    "question": "निम्नलिखित ऊर्जा स्रोतों की कुल उत्पादन क्षमता को घटते क्रम में व्यवस्थित करें (भारत, 2024):\nArrange the following energy sources in descending order of installed capacity (India, 2024):",
+    "question": "निम्नलिखित में से कौन-कौन सी विदेशी सूअर नस्लें हैं जिन्हें भारत में पालने की अनुमति है?\nWhich of the following are exotic pig breeds allowed in India?",
     "options": {
-      "A": "कोयला / Coal",
-      "B": "पवन ऊर्जा / Wind Energy",
-      "C": "सौर ऊर्जा / Solar Energy",
-      "D": "जलविद्युत / Hydro Power"
+      "A": "लार्ज व्हाइट यॉर्कशायर / Large White Yorkshire",
+      "B": "ड्यूरॉक / Duroc",
+      "C": "बर्कशायर / Berkshire",
+      "D": "जाफराबादी / Jaffrabadi"
     },
-    "answer": ["A", "C", "D", "B"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 10,
-    "question": "भारत में औद्योगिक उत्पादन में निम्नलिखित राज्यों को descending order में व्यवस्थित करें:\nArrange the following states in descending order of industrial production (India):",
+    "question": "भारत में भेड़ पालन किस उद्देश्य से अधिकतर किया जाता है?\nSheep rearing in India is primarily done for which of the following purposes?",
     "options": {
-      "A": "महाराष्ट्र / Maharashtra",
-      "B": "गुजरात / Gujarat",
-      "C": "तमिलनाडु / Tamil Nadu",
-      "D": "कर्नाटक / Karnataka"
+      "A": "ऊन / Wool",
+      "B": "मांस / Meat",
+      "C": "दूध / Milk",
+      "D": "खेती में काम / Farm Labour"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B"]
   }
 ]
