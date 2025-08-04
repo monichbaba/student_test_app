@@ -1,57 +1,171 @@
 [
   {
     "id": 1,
-    "question": "निम्नलिखित को मिलाइए: मिट्टी और उसके लिए उपयुक्त फसलें\nMatch the following soil types with the crops best suited to them:",
+    "question": "निम्न उत्पादों को निर्यात मूल्य के अनुसार बढ़ते क्रम में लगाएं (2023 डेटा के अनुसार):\nArrange the following products in ascending order of export value (as per 2023):",
     "options": {
-      "A": "1. काली मिट्टी (Black soil) – a. कपास (Cotton)",
-      "B": "2. लाल मिट्टी (Red soil) – b. मूंगफली (Groundnut)",
-      "C": "3. जलोढ़ मिट्टी (Alluvial soil) – c. गेहूँ (Wheat)",
-      "D": "4. बलुई मिट्टी (Sandy soil) – d. तरबूज (Watermelon)"
+      "A": "A. शहद / Honey",
+      "B": "B. अंडा / Eggs",
+      "C": "C. डेयरी उत्पाद / Dairy Products",
+      "D": "D. भैंस का मांस / Buffalo Meat"
     },
     "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 2,
-    "question": "मिट्टी के प्रकारों को उनके प्रमुख कृषि क्षेत्रों से मिलाइए:\nMatch the soil types with their major agricultural regions:",
+    "question": "निम्न कृषि उत्पादों को 2023-24 में निर्यात मात्रा के अनुसार घटते क्रम में लगाइए:\nArrange the following agri-products in descending order of export quantity (2023-24):",
     "options": {
-      "A": "1. जलोढ़ मिट्टी – a. गंगा-ब्रह्मपुत्र घाटी",
-      "B": "2. काली मिट्टी – b. दक्कन पठार",
-      "C": "3. मरुस्थलीय मिट्टी – c. राजस्थान",
-      "D": "4. पहाड़ी मिट्टी – d. उत्तर पूर्व भारत"
+      "A": "A. चावल / Rice",
+      "B": "B. गेहूं / Wheat",
+      "C": "C. मक्का / Maize",
+      "D": "D. दालें / Pulses"
     },
     "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 3,
-    "question": "मिट्टी को उनकी उपजाऊता के आधार पर उपयुक्त फसलों से मिलाइए:\nMatch the soil types to crops based on fertility:",
+    "question": "पशु-आधारित उत्पादों को 2023 में निर्यात मूल्य के आधार पर घटते क्रम में लगाइए:\nArrange the following animal-based products in descending order of export value in 2023:",
     "options": {
-      "A": "1. जलोढ़ मिट्टी – a. धान, गन्ना",
-      "B": "2. काली मिट्टी – b. कपास, तुअर",
-      "C": "3. लेटराइट मिट्टी – c. काजू, कॉफी",
-      "D": "4. पहाड़ी मिट्टी – d. आलू, जौ"
+      "A": "A. Buffalo Meat / भैंस मांस",
+      "B": "B. Dairy Products / दुग्ध उत्पाद",
+      "C": "C. Egg Powder / अंडा पाउडर",
+      "D": "D. Honey / शहद"
     },
     "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 4,
-    "question": "निम्नलिखित मिलाइए: मिट्टी और उसके अनुकूल फसलें\nMatch the soil types and the most compatible crops:",
+    "question": "निम्नलिखित फलों को उनके भारत से निर्यात मात्रा (2023) के अनुसार घटते क्रम में लगाइए:\nArrange the following fruits in descending order of their export volume from India (2023):",
     "options": {
-      "A": "1. लेटराइट मिट्टी – a. रबर, चाय",
-      "B": "2. काली मिट्टी – b. सोयाबीन, कपास",
-      "C": "3. जलोढ़ मिट्टी – c. गेहूं, धान",
-      "D": "4. बलुई मिट्टी – d. मूली, मूंग"
+      "A": "A. आम / Mango",
+      "B": "B. अंगूर / Grapes",
+      "C": "C. केला / Banana",
+      "D": "D. अनार / Pomegranate"
+    },
+    "answer": ["C", "B", "D", "A"]
+  },
+  {
+    "id": 5,
+    "question": "निम्न राज्यों को दूध उत्पादन (2023) के आधार पर घटते क्रम में लगाइए:\nArrange the following states in descending order of milk production (2023):",
+    "options": {
+      "A": "A. उत्तर प्रदेश / Uttar Pradesh",
+      "B": "B. राजस्थान / Rajasthan",
+      "C": "C. मध्य प्रदेश / Madhya Pradesh",
+      "D": "D. गुजरात / Gujarat"
+    },
+    "answer": ["A", "B", "D", "C"]
+  },
+  {
+    "id": 6,
+    "question": "निम्नलिखित देशों को भारतीय पशु उत्पादों के निर्यात (Export) के मूल्य के अनुसार घटते क्रम (Descending Order) में लगाएं:\nArrange the following countries in descending order of export value of Indian animal products:",
+    "options": {
+      "A": "1. वियतनाम / Vietnam",
+      "B": "2. सऊदी अरब / Saudi Arabia",
+      "C": "3. मलेशिया / Malaysia",
+      "D": "4. बांग्लादेश / Bangladesh"
+    },
+    "answer": ["B", "A", "C", "D"]
+  },
+  {
+    "id": 7,
+    "question": "निम्नलिखित उत्पादों को भारत से पशुपालन आधारित निर्यात मूल्य के अनुसार क्रमबद्ध करें:\nRank the following animal husbandry products by their export value (highest to lowest):",
+    "options": {
+      "A": "1. भैंस का मांस / Buffalo meat",
+      "B": "2. दूध और डेयरी उत्पाद / Milk and dairy products",
+      "C": "3. चमड़ा / Leather",
+      "D": "4. अंडा / Egg"
     },
     "answer": ["A", "B", "C", "D"]
   },
   {
-    "id": 5,
-    "question": "इन मिट्टियों को उनके सामान्य pH स्तर और उपयुक्त फसलों से मिलाइए:\nMatch these soils with their typical pH and ideal crops:",
+    "id": 8,
+    "question": "निम्नलिखित फलों को भारत से उनके निर्यात के आधार पर घटते क्रम में रखें:\nArrange the following fruits by their export value from India (Descending order):",
     "options": {
-      "A": "1. लाल मिट्टी – a. pH 5.5–7.0 – मूंगफली",
-      "B": "2. काली मिट्टी – b. pH 6.5–8.5 – कपास",
-      "C": "3. लेटराइट मिट्टी – c. pH 4.5–6.0 – काजू",
-      "D": "4. जलोढ़ मिट्टी – d. pH 6.8–8.4 – गेहूं"
+      "A": "1. आम / Mango",
+      "B": "2. अंगूर / Grapes",
+      "C": "3. अनार / Pomegranate",
+      "D": "4. कीवी / Kiwi"
+    },
+    "answer": ["B", "A", "C", "D"]
+  },
+  {
+    "id": 9,
+    "question": "भारत में राज्य-वार पशु आधारित उत्पादों के निर्यात में योगदान (Descending Order):\nArrange the following states by their contribution to animal-based exports (Descending Order):",
+    "options": {
+      "A": "1. उत्तर प्रदेश / Uttar Pradesh",
+      "B": "2. महाराष्ट्र / Maharashtra",
+      "C": "3. आंध्र प्रदेश / Andhra Pradesh",
+      "D": "4. पंजाब / Punjab"
+    },
+    "answer": ["A", "C", "B", "D"]
+  },
+  {
+    "id": 10,
+    "question": "निम्नलिखित पशु उत्पादों को उनके वैश्विक निर्यात मूल्य के अनुसार बढ़ते क्रम (Ascending Order) में लगाएं:\nArrange the following animal products in ascending order of their global export value:",
+    "options": {
+      "A": "1. ऊन / Wool",
+      "B": "2. अंडा / Egg",
+      "C": "3. दुग्ध उत्पाद / Dairy products",
+      "D": "4. मांस / Meat"
+    },
+    "answer": ["A", "B", "C", "D"]
+  },
+  {
+    "id": 11,
+    "question": "निम्नलिखित पशु उत्पादों में से किन्हें भौगोलिक संकेत (GI) टैग प्राप्त है?\nWhich of the following animal-based products have received a Geographical Indication (GI) tag?",
+    "options": {
+      "A": "A. बनारसी पश्मीना ऊन / Banarasi Pashmina Wool",
+      "B": "B. बीदरी कंबल ऊन / Bidri Wool Blanket",
+      "C": "C. मालाबार काली मिर्च शहद / Malabar Pepper Honey",
+      "D": "D. पलानी हिल्स बकरा / Palani Hills Goat"
+    },
+    "answer": ["C", "D"]
+  },
+  {
+    "id": 12,
+    "question": "निम्न GI टैग उत्पादों में कौन से विशेष रूप से पशु आधारित हैं?\nWhich of the following GI-tagged products are specifically animal-based?",
+    "options": {
+      "A": "A. नागपुरी तासगांव चप्पल / Nagpuri Tasgaon Leather Slipper",
+      "B": "B. कांगायम बैल / Kangayam Bull",
+      "C": "C. बक्शीपुर बकरी / Bakshipur Goat",
+      "D": "D. केरल हनी / Kerala Honey"
+    },
+    "answer": ["B", "C", "D"]
+  },
+  {
+    "id": 13,
+    "question": "निम्न जलवायु क्षेत्रों में कौन से फसलें भारत से निर्यात में प्रमुख भूमिका निभाती हैं?\nWhich of the following crops are major contributors to India's exports from the given climatic zones?",
+    "options": {
+      "A": "A. उष्णकटिबंधीय क्षेत्र – केला / Tropical – Banana",
+      "B": "B. समशीतोष्ण क्षेत्र – सेब / Temperate – Apple",
+      "C": "C. शुष्क क्षेत्र – ज्वार / Arid – Jowar (Sorghum)",
+      "D": "D. आर्द्र क्षेत्र – धान / Humid – Rice"
+    },
+    "answer": ["A", "B", "C", "D"]
+  },
+  {
+    "id": 14,
+    "question": "निम्न फसलें भारत के किस जलवायु क्षेत्र से निर्यात की जाती हैं?\nMatch the crops with their respective Indian climate export zones:",
+    "options": {
+      "A": "A. अंगूर – अर्धशुष्क / Grapes – Semi-Arid",
+      "B": "B. अनार – शुष्क / Pomegranate – Arid",
+      "C": "C. चाय – आर्द्र / Tea – Humid",
+      "D": "D. गेहूं – समशीतोष्ण / Wheat – Temperate"
+    },
+    "answer": ["A", "B", "C", "D"]
+  },
+  {
+    "id": 15,
+    "question": "निम्न GI टैग प्राप्त जानवरों को सही रूप से मिलान करें:\nMatch the following GI-tagged animals correctly:",
+    "options": {
+      "A": "A. कांगायम बैल – तमिलनाडु / Kangayam Bull – Tamil Nadu",
+      "B": "B. बक्शीपुर बकरी – बिहार / Bakshipur Goat – Bihar",
+      "C": "C. मालाबार शहद – केरल / Malabar Honey – Kerala",
+      "D": "D. पुंगनूर गाय – आंध्र प्रदेश / Punganur Cow – Andhra Pradesh"
     },
     "answer": ["A", "B", "C", "D"]
   }
 ]
+
+
+
+
