@@ -1,112 +1,57 @@
 [
   {
     "id": 1,
-    "question": "भारत में पोल्ट्री उत्पादन के प्रमुख राज्य कौन-कौन से हैं?\nWhich of the following are major poultry-producing states in India?",
+    "question": "निम्नलिखित में से कौन सा फल किस स्थान से प्रसिद्ध है?\nMatch the following fruits with their associated places:",
     "options": {
-      "A": "तेलंगाना / Telangana",
-      "B": "तमिलनाडु / Tamil Nadu",
-      "C": "पंजाब / Punjab",
-      "D": "महाराष्ट्र / Maharashtra"
+      "A": "1. आम (Mango) – a. मालिहाबाद (Malihabad)",
+      "B": "2. अंगूर (Grapes) – b. नासिक (Nashik)",
+      "C": "3. लीची (Litchi) – c. मुज़फ्फरपुर (Muzaffarpur)",
+      "D": "4. संतरा (Orange) – d. नागपुर (Nagpur)"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 2,
-    "question": "निम्न में से कौन-कौन सी अंडा देने वाली मुर्गी नस्लें हैं?\nWhich of the following are egg-laying poultry breeds?",
+    "question": "फलों को उनके प्रसिद्ध राज्यों से मिलाइए:\nMatch the following fruits with their famous states:",
     "options": {
-      "A": "लेगहॉर्न / Leghorn",
-      "B": "रनर / Runner",
-      "C": "बेल्जियन / Belgian",
-      "D": "हाइलाइन / Hyline"
+      "A": "1. अनार (Pomegranate) – a. महाराष्ट्र",
+      "B": "2. कीवी (Kiwi) – b. अरुणाचल प्रदेश",
+      "C": "3. सेब (Apple) – c. जम्मू-कश्मीर",
+      "D": "4. केला (Banana) – d. तमिलनाडु"
     },
-    "answer": ["A", "D"]
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 3,
-    "question": "निम्न में से कौन-कौन सी भेड़ की नस्लें ऊन उत्पादन के लिए प्रसिद्ध हैं?\nWhich of the following sheep breeds are known for wool production?",
+    "question": "फलों को उनके भौगोलिक संकेतक स्थानों से मिलाइए:\nMatch the fruits with their Geographical Indication (GI) tagged places:",
     "options": {
-      "A": "रामबूइलेट / Rambouillet",
-      "B": "नैली / Nali",
-      "C": "मरवाड़ी / Marwari",
-      "D": "पाटनवाड़ी / Patanwadi"
+      "A": "1. नागपुर संतरा – a. महाराष्ट्र",
+      "B": "2. दशहरी आम – b. उत्तर प्रदेश",
+      "C": "3. बनारसी लंगड़ा – c. वाराणसी",
+      "D": "4. Gir केसर आम – d. गुजरात"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 4,
-    "question": "भारत में सूअर पालन (piggery) के लिए उपयुक्त नस्लें कौन-कौन सी हैं?\nWhich are suitable pig breeds for piggery in India?",
+    "question": "इन विदेशी फलों को भारत में उत्पादक क्षेत्रों से मिलाइए:\nMatch the exotic fruits with their production zones in India:",
     "options": {
-      "A": "घोटुल / Ghungroo",
-      "B": "हैमशायर / Hampshire",
-      "C": "यॉर्कशायर / Yorkshire",
-      "D": "मुर्रा / Murrah"
+      "A": "1. ड्रैगन फ्रूट – a. गुजरात",
+      "B": "2. कीवी – b. सिक्किम",
+      "C": "3. एवोकाडो – c. कर्नाटक",
+      "D": "4. स्ट्रॉबेरी – d. महाबलेश्वर"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 5,
-    "question": "भारत के किन राज्यों में भेड़ पालन की प्रमुखता है?\nIn which states is sheep rearing a dominant activity?",
+    "question": "निम्नलिखित फलों को उनके प्रमुख निर्यात केंद्रों से जोड़िए:\nMatch the fruits with their main export hubs:",
     "options": {
-      "A": "राजस्थान / Rajasthan",
-      "B": "तेलंगाना / Telangana",
-      "C": "कर्नाटक / Karnataka",
-      "D": "मध्य प्रदेश / Madhya Pradesh"
+      "A": "1. आम – a. मुंबई पोर्ट",
+      "B": "2. अनार – b. मुंबई / नासिक",
+      "C": "3. अंगूर – c. नासिक / पुणे",
+      "D": "4. कीनू – d. पंजाब / हिमाचल"
     },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 6,
-    "question": "निम्न में से कौन-कौन सी नस्लें मीट उत्पादन के लिए पोल्ट्री में प्रसिद्ध हैं?\nWhich poultry breeds are known for meat production?",
-    "options": {
-      "A": "बॉयलर / Broiler",
-      "B": "कड़कनाथ / Kadaknath",
-      "C": "असेल / Aseel",
-      "D": "लेगहॉर्न / Leghorn"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 7,
-    "question": "भारत में पोल्ट्री अनुसंधान संस्थान कहाँ स्थित है?\nWhere is the Central Poultry Development Organisation (CPDO) located in India?",
-    "options": {
-      "A": "बेंगलुरु / Bengaluru",
-      "B": "हैदराबाद / Hyderabad",
-      "C": "भुवनेश्वर / Bhubaneswar",
-      "D": "नैनीताल / Nainital"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 8,
-    "question": "कड़कनाथ मुर्गी नस्ल से संबंधित तथ्य कौन-कौन से सही हैं?\nWhich of the following facts are true about Kadaknath chicken breed?",
-    "options": {
-      "A": "यह मध्य प्रदेश से है / Native to Madhya Pradesh",
-      "B": "इसका मांस काला होता है / Its meat is black",
-      "C": "यह अंडों के लिए जानी जाती है / Known for egg-laying",
-      "D": "यह आयरन में समृद्ध है / Rich in Iron"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 9,
-    "question": "निम्नलिखित में से कौन-कौन सी विदेशी सूअर नस्लें हैं जिन्हें भारत में पालने की अनुमति है?\nWhich of the following are exotic pig breeds allowed in India?",
-    "options": {
-      "A": "लार्ज व्हाइट यॉर्कशायर / Large White Yorkshire",
-      "B": "ड्यूरॉक / Duroc",
-      "C": "बर्कशायर / Berkshire",
-      "D": "जाफराबादी / Jaffrabadi"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 10,
-    "question": "भारत में भेड़ पालन किस उद्देश्य से अधिकतर किया जाता है?\nSheep rearing in India is primarily done for which of the following purposes?",
-    "options": {
-      "A": "ऊन / Wool",
-      "B": "मांस / Meat",
-      "C": "दूध / Milk",
-      "D": "खेती में काम / Farm Labour"
-    },
-    "answer": ["A", "B"]
+    "answer": ["A", "B", "C", "D"]
   }
 ]
