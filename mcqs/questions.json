@@ -1,166 +1,111 @@
 [
   {
     "id": 1,
-    "question": "मानव विकास सूचकांक (HDI) में किन संकेतकों को शामिल किया जाता है?\nWhich indicators are included in the Human Development Index (HDI)?",
+    "question": "भारत में कुल गेहूं उत्पादन (2023) में शीर्ष राज्य कौन से हैं (अधिक से कम)?\nWhich are the top wheat producing states in India (2023) in descending order?",
     "options": {
-      "A": "प्रति व्यक्ति आय / Per capita income",
-      "B": "शिक्षा स्तर / Education level",
-      "C": "जीवन प्रत्याशा / Life expectancy",
-      "D": "भ्रष्टाचार दर / Corruption rate"
+      "A": "उत्तर प्रदेश / Uttar Pradesh",
+      "B": "पंजाब / Punjab",
+      "C": "हरियाणा / Haryana",
+      "D": "बिहार / Bihar"
     },
     "answer": ["A", "B", "C"]
   },
   {
     "id": 2,
-    "question": "वैश्विक भुखमरी सूचकांक (GHI) में कौन-कौन से घटक शामिल हैं?\nWhich components are included in the Global Hunger Index (GHI)?",
+    "question": "धान की प्रति हेक्टेयर उत्पादकता (productivity) के आधार पर शीर्ष राज्य कौन से हैं?\nWhich are the top states in rice productivity (yield per hectare)?",
     "options": {
-      "A": "बाल मृत्युदर / Child mortality",
-      "B": "खाद्य आपूर्ति / Food supply",
-      "C": "बाल अल्पपोषण / Child undernutrition",
-      "D": "खाद्य मूल्य सूचकांक / Food price index"
+      "A": "पंजाब / Punjab",
+      "B": "तमिलनाडु / Tamil Nadu",
+      "C": "हरियाणा / Haryana",
+      "D": "बिहार / Bihar"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "C"]
   },
   {
     "id": 3,
-    "question": "भारत का प्रदर्शन निम्नलिखित सूचकों में कमजोर रहा है:\nIndia has shown poor performance in which of the following indexes?",
+    "question": "भारत में गन्ना उत्पादन में निम्नलिखित राज्यों को घटते क्रम में क्रमबद्ध करें।\nArrange the following states in descending order of sugarcane production in India.",
     "options": {
-      "A": "Environmental Performance Index / पर्यावरणीय प्रदर्शन सूचकांक",
-      "B": "Global Hunger Index / वैश्विक भुखमरी सूचकांक",
-      "C": "Ease of Doing Business / व्यापार सुगमता सूचकांक",
-      "D": "World Press Freedom Index / विश्व प्रेस स्वतंत्रता सूचकांक"
+      "A": "उत्तर प्रदेश / Uttar Pradesh",
+      "B": "महाराष्ट्र / Maharashtra",
+      "C": "कर्नाटक / Karnataka",
+      "D": "गुजरात / Gujarat"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 4,
-    "question": "NITI Aayog द्वारा प्रकाशित 'SDG India Index' के बारे में सही कथन कौन-कौन से हैं?\nWhich of the following statements about SDG India Index are correct?",
+    "question": "दुग्ध उत्पादन (2023) के अनुसार निम्नलिखित राज्यों को अधिक से कम क्रम में व्यवस्थित करें।\nArrange the following states in descending order of milk production (2023).",
     "options": {
-      "A": "यह सतत विकास लक्ष्यों की प्रगति को मापता है / It measures progress on Sustainable Development Goals",
-      "B": "यह राज्य-स्तरीय प्रदर्शन को रैंक करता है / It ranks state-level performance",
-      "C": "यह विश्व बैंक द्वारा प्रकाशित होता है / Published by World Bank",
-      "D": "इसमें 17 लक्ष्य शामिल होते हैं / It includes 17 goals"
+      "A": "उत्तर प्रदेश / Uttar Pradesh",
+      "B": "राजस्थान / Rajasthan",
+      "C": "आंध्र प्रदेश / Andhra Pradesh",
+      "D": "पंजाब / Punjab"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 5,
-    "question": "निम्नलिखित में से किन सूचकांकों में भारत की रैंक 2024 में गिरी है?\nIn which of the following indexes did India’s rank decline in 2024?",
+    "question": "विश्व में गेहूं उत्पादन के शीर्ष देश कौन हैं (descending order)?\nWhich are the top wheat producing countries in descending order?",
     "options": {
-      "A": "Global Peace Index",
-      "B": "World Press Freedom Index",
-      "C": "Human Development Index",
-      "D": "Corruption Perception Index"
+      "A": "चीन / China",
+      "B": "भारत / India",
+      "C": "रूस / Russia",
+      "D": "संयुक्त राज्य अमेरिका / USA"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 6,
-    "question": "Ease of Living Index 2023 के बारे में कौन से कथन सत्य हैं?\nWhich statements about Ease of Living Index 2023 are true?",
+    "question": "सब्ज़ियों की उत्पादकता (प्रति हेक्टेयर) में निम्नलिखित राज्यों को व्यवस्थित करें (descending order)।\nArrange the following Indian states in descending order of vegetable productivity (yield per hectare).",
     "options": {
-      "A": "यह आवास और नागरिक सुविधाओं को मापता है / It measures housing and civic amenities",
-      "B": "यह MoHUA द्वारा प्रकाशित होता है / Published by MoHUA",
-      "C": "यह केवल ग्रामीण क्षेत्रों को कवर करता है / Covers only rural areas",
-      "D": "बेंगलुरु शीर्ष पर था / Bengaluru topped the ranking"
+      "A": "पश्चिम बंगाल / West Bengal",
+      "B": "तमिलनाडु / Tamil Nadu",
+      "C": "पंजाब / Punjab",
+      "D": "हरियाणा / Haryana"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["C", "D", "B"]
   },
   {
     "id": 7,
-    "question": "पर्यावरण प्रदर्शन सूचकांक (EPI) के घटक कौन से हैं?\nWhat are the components of Environmental Performance Index (EPI)?",
+    "question": "भारत में कपास की उत्पादकता में अग्रणी राज्य कौन से हैं?\nWhich states lead in cotton productivity in India?",
     "options": {
-      "A": "जलवायु नीति / Climate policy",
-      "B": "वायु गुणवत्ता / Air quality",
-      "C": "जैव विविधता संरक्षण / Biodiversity protection",
-      "D": "परमाणु हथियार / Nuclear weapons"
+      "A": "तेलंगाना / Telangana",
+      "B": "गुजरात / Gujarat",
+      "C": "महाराष्ट्र / Maharashtra",
+      "D": "पंजाब / Punjab"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["B", "D"]
   },
   {
     "id": 8,
-    "question": "Multidimensional Poverty Index (MPI) में कौन-कौन से संकेतक शामिल हैं?\nWhich indicators are included in the Multidimensional Poverty Index (MPI)?",
+    "question": "निम्न में से किन राज्यों की मछली उत्पादन में हिस्सेदारी सबसे अधिक है?\nWhich of the following states contribute the most to fish production in India?",
     "options": {
-      "A": "स्वास्थ्य / Health",
-      "B": "शिक्षा / Education",
-      "C": "जीवन स्तर / Standard of living",
-      "D": "प्राकृतिक आपदाएँ / Natural disasters"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 9,
-    "question": "Global Liveability Index के अनुसार जीवन की गुणवत्ता को प्रभावित करने वाले कारक कौन से हैं?\nAccording to the Global Liveability Index, which factors affect quality of life?",
-    "options": {
-      "A": "स्वास्थ्य सेवाएँ / Healthcare",
-      "B": "संस्कृति और पर्यावरण / Culture & Environment",
-      "C": "शिक्षा प्रणाली / Education system",
-      "D": "मुद्रास्फीति दर / Inflation rate"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 10,
-    "question": "World Risk Index किस पर केंद्रित होता है?\nWhat is the focus of World Risk Index?",
-    "options": {
-      "A": "प्राकृतिक आपदा जोखिम / Natural disaster risk",
-      "B": "आपदा की तैयारी / Disaster preparedness",
-      "C": "सैन्य शक्ति / Military power",
-      "D": "सामाजिक भेदभाव / Social discrimination"
+      "A": "आंध्र प्रदेश / Andhra Pradesh",
+      "B": "पश्चिम बंगाल / West Bengal",
+      "C": "ओडिशा / Odisha",
+      "D": "कर्नाटक / Karnataka"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 11,
-    "question": "‘Global Peace Index’ को प्रकाशित करता है:\nWho publishes the Global Peace Index?",
+    "id": 9,
+    "question": "निम्नलिखित ऊर्जा स्रोतों की कुल उत्पादन क्षमता को घटते क्रम में व्यवस्थित करें (भारत, 2024):\nArrange the following energy sources in descending order of installed capacity (India, 2024):",
     "options": {
-      "A": "Economist Intelligence Unit (EIU)",
-      "B": "Institute for Economics & Peace (IEP)",
-      "C": "World Bank",
-      "D": "UNDP"
+      "A": "कोयला / Coal",
+      "B": "पवन ऊर्जा / Wind Energy",
+      "C": "सौर ऊर्जा / Solar Energy",
+      "D": "जलविद्युत / Hydro Power"
     },
-    "answer": ["B"]
+    "answer": ["A", "C", "D", "B"]
   },
   {
-    "id": 12,
-    "question": "भारत निम्नलिखित में से किन वैश्विक सूचकांकों में शीर्ष 10 में नहीं आता?\nIndia does NOT rank in the top 10 of which of the following indexes?",
+    "id": 10,
+    "question": "भारत में औद्योगिक उत्पादन में निम्नलिखित राज्यों को descending order में व्यवस्थित करें:\nArrange the following states in descending order of industrial production (India):",
     "options": {
-      "A": "Global Hunger Index",
-      "B": "Environmental Performance Index",
-      "C": "SDG India Index",
-      "D": "Multidimensional Poverty Index"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 13,
-    "question": "Ease of Doing Business Index को कौन प्रकाशित करता है?\nWho publishes the Ease of Doing Business Index?",
-    "options": {
-      "A": "World Bank",
-      "B": "UNDP",
-      "C": "IMF",
-      "D": "WTO"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 14,
-    "question": "SDG India Index में शामिल लक्ष्यों में कौन से प्रमुख हैं?\nWhich major goals are included in the SDG India Index?",
-    "options": {
-      "A": "गरीबी उन्मूलन / No Poverty",
-      "B": "भूख समाप्ति / Zero Hunger",
-      "C": "सार्वभौमिक शिक्षा / Quality Education",
-      "D": "सैन्य आधुनिकीकरण / Military Modernization"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 15,
-    "question": "निम्न में से कौन से सूचकांक 'पर्यावरणीय स्थिरता' को मापते हैं?\nWhich of the following indexes measure environmental sustainability?",
-    "options": {
-      "A": "Environmental Performance Index",
-      "B": "Climate Risk Index",
-      "C": "SDG India Index (Goal 13)",
-      "D": "World Competitiveness Index"
+      "A": "महाराष्ट्र / Maharashtra",
+      "B": "गुजरात / Gujarat",
+      "C": "तमिलनाडु / Tamil Nadu",
+      "D": "कर्नाटक / Karnataka"
     },
     "answer": ["A", "B", "C"]
   }
