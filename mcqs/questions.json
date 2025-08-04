@@ -1,56 +1,56 @@
 [
   {
     "id": 1,
-    "question": "निम्नलिखित में से कौन सा फल किस स्थान से प्रसिद्ध है?\nMatch the following fruits with their associated places:",
+    "question": "निम्नलिखित को मिलाइए: मिट्टी और उसके लिए उपयुक्त फसलें\nMatch the following soil types with the crops best suited to them:",
     "options": {
-      "A": "1. आम (Mango) – a. मालिहाबाद (Malihabad)",
-      "B": "2. अंगूर (Grapes) – b. नासिक (Nashik)",
-      "C": "3. लीची (Litchi) – c. मुज़फ्फरपुर (Muzaffarpur)",
-      "D": "4. संतरा (Orange) – d. नागपुर (Nagpur)"
+      "A": "1. काली मिट्टी (Black soil) – a. कपास (Cotton)",
+      "B": "2. लाल मिट्टी (Red soil) – b. मूंगफली (Groundnut)",
+      "C": "3. जलोढ़ मिट्टी (Alluvial soil) – c. गेहूँ (Wheat)",
+      "D": "4. बलुई मिट्टी (Sandy soil) – d. तरबूज (Watermelon)"
     },
     "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 2,
-    "question": "फलों को उनके प्रसिद्ध राज्यों से मिलाइए:\nMatch the following fruits with their famous states:",
+    "question": "मिट्टी के प्रकारों को उनके प्रमुख कृषि क्षेत्रों से मिलाइए:\nMatch the soil types with their major agricultural regions:",
     "options": {
-      "A": "1. अनार (Pomegranate) – a. महाराष्ट्र",
-      "B": "2. कीवी (Kiwi) – b. अरुणाचल प्रदेश",
-      "C": "3. सेब (Apple) – c. जम्मू-कश्मीर",
-      "D": "4. केला (Banana) – d. तमिलनाडु"
+      "A": "1. जलोढ़ मिट्टी – a. गंगा-ब्रह्मपुत्र घाटी",
+      "B": "2. काली मिट्टी – b. दक्कन पठार",
+      "C": "3. मरुस्थलीय मिट्टी – c. राजस्थान",
+      "D": "4. पहाड़ी मिट्टी – d. उत्तर पूर्व भारत"
     },
     "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 3,
-    "question": "फलों को उनके भौगोलिक संकेतक स्थानों से मिलाइए:\nMatch the fruits with their Geographical Indication (GI) tagged places:",
+    "question": "मिट्टी को उनकी उपजाऊता के आधार पर उपयुक्त फसलों से मिलाइए:\nMatch the soil types to crops based on fertility:",
     "options": {
-      "A": "1. नागपुर संतरा – a. महाराष्ट्र",
-      "B": "2. दशहरी आम – b. उत्तर प्रदेश",
-      "C": "3. बनारसी लंगड़ा – c. वाराणसी",
-      "D": "4. Gir केसर आम – d. गुजरात"
+      "A": "1. जलोढ़ मिट्टी – a. धान, गन्ना",
+      "B": "2. काली मिट्टी – b. कपास, तुअर",
+      "C": "3. लेटराइट मिट्टी – c. काजू, कॉफी",
+      "D": "4. पहाड़ी मिट्टी – d. आलू, जौ"
     },
     "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 4,
-    "question": "इन विदेशी फलों को भारत में उत्पादक क्षेत्रों से मिलाइए:\nMatch the exotic fruits with their production zones in India:",
+    "question": "निम्नलिखित मिलाइए: मिट्टी और उसके अनुकूल फसलें\nMatch the soil types and the most compatible crops:",
     "options": {
-      "A": "1. ड्रैगन फ्रूट – a. गुजरात",
-      "B": "2. कीवी – b. सिक्किम",
-      "C": "3. एवोकाडो – c. कर्नाटक",
-      "D": "4. स्ट्रॉबेरी – d. महाबलेश्वर"
+      "A": "1. लेटराइट मिट्टी – a. रबर, चाय",
+      "B": "2. काली मिट्टी – b. सोयाबीन, कपास",
+      "C": "3. जलोढ़ मिट्टी – c. गेहूं, धान",
+      "D": "4. बलुई मिट्टी – d. मूली, मूंग"
     },
     "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 5,
-    "question": "निम्नलिखित फलों को उनके प्रमुख निर्यात केंद्रों से जोड़िए:\nMatch the fruits with their main export hubs:",
+    "question": "इन मिट्टियों को उनके सामान्य pH स्तर और उपयुक्त फसलों से मिलाइए:\nMatch these soils with their typical pH and ideal crops:",
     "options": {
-      "A": "1. आम – a. मुंबई पोर्ट",
-      "B": "2. अनार – b. मुंबई / नासिक",
-      "C": "3. अंगूर – c. नासिक / पुणे",
-      "D": "4. कीनू – d. पंजाब / हिमाचल"
+      "A": "1. लाल मिट्टी – a. pH 5.5–7.0 – मूंगफली",
+      "B": "2. काली मिट्टी – b. pH 6.5–8.5 – कपास",
+      "C": "3. लेटराइट मिट्टी – c. pH 4.5–6.0 – काजू",
+      "D": "4. जलोढ़ मिट्टी – d. pH 6.8–8.4 – गेहूं"
     },
     "answer": ["A", "B", "C", "D"]
   }
