@@ -1,382 +1,112 @@
 [
   {
     "id": 1,
-    "question": "भारत के पहले राष्ट्रपति कौन थे जिन्होंने दो कार्यकाल पूरे किए?\nWho was the first President of India to complete two terms?",
+    "question": "Rajya Sabha mein 'Operation Sindoor' par debate kin ministers dwara ki gayi thi?\nWhich ministers led the debate on 'Operation Sindoor' in Rajya Sabha?",
     "options": {
-      "A": "डॉ. राजेन्द्र प्रसाद / Dr. Rajendra Prasad",
-      "B": "डॉ. राधाकृष्णन / Dr. Radhakrishnan",
-      "C": "वी.वी. गिरी / V.V. Giri",
-      "D": "राम नाथ कोविंद / Ram Nath Kovind"
+      "A": "A. Amit Shah",
+      "B": "B. Jaishankar",
+      "C": "C. Mallikarjun Kharge",
+      "D": "D. JP Nadda"
     },
-    "correct_answers": ["A"],
-    "correct_answers_text": [
-      "A – डॉ. राजेन्द्र प्रसाद / Dr. Rajendra Prasad"
-    ]
+    "answer": ["A", "D"]
   },
   {
     "id": 2,
-    "question": "निम्नलिखित में से किस राष्ट्रपति की पद पर मृत्यु हो गई थी?\nWhich President of India died while in office?",
+    "question": "Opposition ka walkout kis event ke dauran hua?\nDuring which event did the Opposition walk out of Rajya Sabha?",
     "options": {
-      "A": "डॉ. ज़ाकिर हुसैन / Dr. Zakir Hussain",
-      "B": "फखरुद्दीन अली अहमद / Fakhruddin Ali Ahmed",
-      "C": "आर. वेंकटरमण / R. Venkataraman",
-      "D": "प्रणब मुखर्जी / Pranab Mukherjee"
+      "A": "A. PM Modi ke absence par Operation Sindoor debate",
+      "B": "B. Women Reservation Bill debate",
+      "C": "C. President’s Address Motion",
+      "D": "D. Budget Session"
     },
-    "correct_answers": ["A", "B"],
-    "correct_answers_text": [
-      "A – डॉ. ज़ाकिर हुसैन / Dr. Zakir Hussain",
-      "B – फखरुद्दीन अली अहमद / Fakhruddin Ali Ahmed"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 3,
-    "question": "कौन से राष्ट्रपति 'आपातकाल' के दौरान पद पर थे?\nWhich President was in office during the Emergency (1975–77)?",
+    "question": "Rajya Sabha mein election commissioner officers ke prati threats ko lekar debate kyun mangi gayi?\nWhy was a debate called in Rajya Sabha concerning threats to Election Commission officers?",
     "options": {
-      "A": "नीलम संजीव रेड्डी / Neelam Sanjiva Reddy",
-      "B": "फखरुद्दीन अली अहमद / Fakhruddin Ali Ahmed",
-      "C": "ज्ञानी ज़ैल सिंह / Giani Zail Singh",
-      "D": "डॉ. एपीजे अब्दुल कलाम / Dr. A.P.J. Abdul Kalam"
+      "A": "A. To discuss constitutional autonomy of EC",
+      "B": "B. To endorse state government authority over EC",
+      "C": "C. To protest EC interference",
+      "D": "D. To support intimidation of EC officials"
     },
-    "correct_answers": ["B"],
-    "correct_answers_text": [
-      "B – फखरुद्दीन अली अहमद / Fakhruddin Ali Ahmed"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 4,
-    "question": "भारत की पहली महिला राष्ट्रपति कौन थीं?\nWho was the first female President of India?",
+    "question": "वित्तीय सुरक्षा से संबंधित कानून सुझाव देना कौनसा बिल था जिसे Rajya Sabha ne pass kiya?\nWhich amendment bill related to financial security (banking nominees) was passed in the Rajya Sabha recently?",
     "options": {
-      "A": "द्रौपदी मुर्मू / Droupadi Murmu",
-      "B": "प्रतिभा पाटिल / Pratibha Patil",
-      "C": "मीरा कुमार / Meira Kumar",
-      "D": "सुषमा स्वराज / Sushma Swaraj"
+      "A": "A. Banking Laws (Amendment) Bill, 2024",
+      "B": "B. Fiscal Responsibility Act",
+      "C": "C. Commodity Regulation Act",
+      "D": "D. Digital Personal Data Protection Act"
     },
-    "correct_answers": ["B"],
-    "correct_answers_text": [
-      "B – प्रतिभा पाटिल / Pratibha Patil"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 5,
-    "question": "भारत के राष्ट्रपति बनने से पहले कौन लोकसभा स्पीकर रह चुके थे?\nWho served as Lok Sabha Speaker before becoming the President of India?",
+    "question": "Rajya Sabha mein '264 questions deleted' ka mudda kis incident se juda hai?\nThe issue of '264 questions deleted' in the Rajya Sabha is associated with which incident?",
     "options": {
-      "A": "नीलम संजीव रेड्डी / Neelam Sanjiva Reddy",
-      "B": "के.आर. नारायणन / K.R. Narayanan",
-      "C": "फखरुद्दीन अली अहमद / Fakhruddin Ali Ahmed",
-      "D": "डॉ. ज़ाकिर हुसैन / Dr. Zakir Hussain"
+      "A": "A. Suspension of opposition MPs after Parliament breach",
+      "B": "B. Introduction of Women's Reservation Bill",
+      "C": "C. Delay in One Nation One Election Bills",
+      "D": "D. Debate on election threats"
     },
-    "correct_answers": ["A"],
-    "correct_answers_text": [
-      "A – नीलम संजीव रेड्डी / Neelam Sanjiva Reddy"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 6,
-    "question": "निम्न में से कौन भारत के 'दलित' राष्ट्रपति रहे?\nWhich of the following were Dalit Presidents of India?",
+    "question": "One Hundred and Sixth Amendment (Women's Reservation Bill) ko Rajya Sabha ne kab pass kiya tha?\nWhen was the One Hundred and Sixth Amendment (Women's Reservation Bill) passed by Rajya Sabha?",
     "options": {
-      "A": "राम नाथ कोविंद / Ram Nath Kovind",
-      "B": "के.आर. नारायणन / K.R. Narayanan",
-      "C": "द्रौपदी मुर्मू / Droupadi Murmu",
-      "D": "ज्ञानी ज़ैल सिंह / Giani Zail Singh"
+      "A": "A. 21 September 2023",
+      "B": "B. 21 September 2024",
+      "C": "C. 21 September 2025",
+      "D": "D. 21 December 2023"
     },
-    "correct_answers": ["A", "B"],
-    "correct_answers_text": [
-      "A – राम नाथ कोविंद / Ram Nath Kovind",
-      "B – के.आर. नारायणन / K.R. Narayanan"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 7,
-    "question": "भारत की पहली आदिवासी महिला राष्ट्रपति कौन हैं?\nWho is the first tribal woman President of India?",
+    "question": "Who claimed 'terrorism almost ended since 2014' in Rajya Sabha debate on Operation Sindoor?\n",
     "options": {
-      "A": "द्रौपदी मुर्मू / Droupadi Murmu",
-      "B": "प्रतिभा पाटिल / Pratibha Patil",
-      "C": "मीरा कुमार / Meira Kumar",
-      "D": "सुमित्रा महाजन / Sumitra Mahajan"
+      "A": "A. JP Nadda",
+      "B": "B. Amit Shah",
+      "C": "C. S. Jaishankar",
+      "D": "D. Mallikarjun Kharge"
     },
-    "correct_answers": ["A"],
-    "correct_answers_text": [
-      "A – द्रौपदी मुर्मू / Droupadi Murmu"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 8,
-    "question": "इनमें से किस राष्ट्रपति को 'मिसाइल मैन' के नाम से जाना जाता है?\nWhich President is known as the 'Missile Man of India'?",
+    "question": "Which Rajya Sabha leader criticised Opposition over Indus Waters Treaty stance and said some are 'uncomfortable with history'?",
     "options": {
-      "A": "डॉ. सर्वपल्ली राधाकृष्णन / Dr. Radhakrishnan",
-      "B": "डॉ. एपीजे अब्दुल कलाम / Dr. A.P.J. Abdul Kalam",
-      "C": "डॉ. राजेन्द्र प्रसाद / Dr. Rajendra Prasad",
-      "D": "आर. वेंकटरमण / R. Venkataraman"
+      "A": "A. S. Jaishankar",
+      "B": "B. Amit Shah",
+      "C": "C. JP Nadda",
+      "D": "D. Mallikarjun Kharge"
     },
-    "correct_answers": ["B"],
-    "correct_answers_text": [
-      "B – डॉ. एपीजे अब्दुल कलाम / Dr. A.P.J. Abdul Kalam"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 9,
-    "question": "किस राष्ट्रपति ने संविधान सभा के अध्यक्ष के रूप में कार्य किया?\nWhich President served as the Chairman of the Constituent Assembly?",
+    "question": "Opposition ne Rajya Sabha mein kya maanga jiske absence par walkout kiya gaya?\nOpposition demanded whose presence which led to a walkout when he did not respond?",
     "options": {
-      "A": "डॉ. बी.आर. अंबेडकर / Dr. B.R. Ambedkar",
-      "B": "डॉ. राजेन्द्र प्रसाद / Dr. Rajendra Prasad",
-      "C": "डॉ. राधाकृष्णन / Dr. Radhakrishnan",
-      "D": "सच्चिदानंद सिन्हा / Sachchidananda Sinha"
+      "A": "A. Home Minister",
+      "B": "B. President",
+      "C": "C. PM Modi",
+      "D": "D. Leader of Opposition"
     },
-    "correct_answers": ["B"],
-    "correct_answers_text": [
-      "B – डॉ. राजेन्द्र प्रसाद / Dr. Rajendra Prasad"
-    ]
+    "answer": ["C"]
   },
   {
     "id": 10,
-    "question": "भारत के पहले मुस्लिम राष्ट्रपति कौन थे?\nWho was the first Muslim President of India?",
+    "question": "Rajya Sabha mein 'SIR of electoral rolls in Bihar' issue pe protest kis party dwara hua tha?\nWhich party protested over the 'SIR of electoral rolls in Bihar' in Rajya Sabha?",
     "options": {
-      "A": "फखरुद्दीन अली अहमद / Fakhruddin Ali Ahmed",
-      "B": "डॉ. ज़ाकिर हुसैन / Dr. Zakir Hussain",
-      "C": "ज्ञानी ज़ैल सिंह / Giani Zail Singh",
-      "D": "डॉ. राधाकृष्णन / Dr. Radhakrishnan"
-    },
-    "correct_answers": ["B"],
-    "correct_answers_text": [
-      "B – डॉ. ज़ाकिर हुसैन / Dr. Zakir Hussain"
-    ]
-  },
-  {
-    "id": 11,
-    "question": "भारत के राष्ट्रपति का चुनाव किस प्रकार के निर्वाचक मंडल द्वारा किया जाता है? / What type of electoral college elects the President of India?",
-    "options": {
-      "A": "संसद के सभी सदस्य / All members of Parliament",
-      "B": "संसद के निर्वाचित सदस्य और राज्य विधानसभाओं के निर्वाचित सदस्य / Elected members of Parliament and State Legislative Assemblies",
-      "C": "केवल राज्यसभा के निर्वाचित सदस्य / Only elected members of Rajya Sabha",
-      "D": "संसद के मनोनीत सदस्य भी भाग लेते हैं / Nominated members of Parliament also participate"
+      "A": "A. Congress",
+      "B": "B. TMC",
+      "C": "C. BJP",
+      "D": "D. RJD"
     },
     "answer": ["B"]
-  },
-  {
-    "id": 12,
-    "question": "भारत के राष्ट्रपति का चुनाव किस प्रणाली से होता है? / What is the method of election of the President of India?",
-    "options": {
-      "A": "प्रत्यक्ष मतदान / Direct election",
-      "B": "समान प्रतिनिधित्व प्रणाली / System of equal representation",
-      "C": "एकल संक्रमणीय मत प्रणाली / Single transferable vote system",
-      "D": "अनुपातिक प्रतिनिधित्व प्रणाली / Proportional representation system"
-    },
-    "answer": ["C", "D"]
-  },
-  {
-    "id": 13,
-    "question": "राष्ट्रपति चुनाव में राज्यसभा और लोकसभा के किस प्रकार के सदस्य भाग लेते हैं? / What type of members of Rajya Sabha and Lok Sabha participate in Presidential elections?",
-    "options": {
-      "A": "केवल निर्वाचित सदस्य / Only elected members",
-      "B": "केवल मनोनीत सदस्य / Only nominated members",
-      "C": "निर्वाचित और मनोनीत दोनों सदस्य / Both elected and nominated members",
-      "D": "केवल लोकसभा के सदस्य / Only Lok Sabha members"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 14,
-    "question": "उपराष्ट्रपति का चुनाव कौन करता है? / Who elects the Vice-President of India?",
-    "options": {
-      "A": "केवल संसद के निर्वाचित सदस्य / Only elected members of Parliament",
-      "B": "संसद के निर्वाचित और मनोनीत दोनों सदस्य / Elected and nominated members of Parliament",
-      "C": "राज्य विधानसभाओं के सदस्य / Members of State Legislative Assemblies",
-      "D": "केवल लोकसभा के सदस्य / Only members of Lok Sabha"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 15,
-    "question": "भारत के राष्ट्रपति के चुनाव में किसका वोट अधिक मूल्य रखता है? / Whose vote has higher value in the Presidential election?",
-    "options": {
-      "A": "राज्य विधानसभाओं के सदस्यों का / Members of State Legislative Assemblies",
-      "B": "संसद सदस्यों का / Members of Parliament",
-      "C": "राज्यसभा के मनोनीत सदस्यों का / Nominated members of Rajya Sabha",
-      "D": "लोकसभा के स्पीकर का / Speaker of Lok Sabha"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 16,
-    "question": "राष्ट्रपति चुनाव में किस प्रणाली का उपयोग किया जाता है? / Which system is used in the Presidential election?",
-    "options": {
-      "A": "फर्स्ट पास्ट द पोस्ट / First-past-the-post",
-      "B": "एकल संक्रमणीय मत प्रणाली / Single transferable vote system",
-      "C": "बहुसंख्यक प्रणाली / Majority system",
-      "D": "प्रत्येक मतदाता को एक मत / One vote per voter"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 17,
-    "question": "भारत में उपराष्ट्रपति के चुनाव में राज्य विधानसभाएं क्यों भाग नहीं लेतीं? / Why do State Legislative Assemblies not participate in Vice-President's election?",
-    "options": {
-      "A": "क्योंकि उपराष्ट्रपति केवल संसद का सदस्य होता है / Because Vice-President is only a part of Parliament",
-      "B": "यह राज्य का पद नहीं है / It is not a state-level office",
-      "C": "संविधान में राज्य विधानसभाओं को शामिल नहीं किया गया है / The Constitution excludes State Assemblies",
-      "D": "यह राष्ट्रपति की तरह प्रत्यक्ष चुनाव नहीं है / It is not a direct election like President's"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 18,
-    "question": "भारत के राष्ट्रपति के चुनाव में मत मूल्य किसके आधार पर तय होता है? / On what basis is the value of votes decided in the Presidential election?",
-    "options": {
-      "A": "जनसंख्या और सदस्य संख्या / Population and number of members",
-      "B": "राज्य के क्षेत्रफल पर / On the area of the state",
-      "C": "राज्य की आय पर / On the income of the state",
-      "D": "राज्य के विधानसभा क्षेत्रों की संख्या पर / On the number of Assembly constituencies"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 19,
-    "question": "उपराष्ट्रपति चुनाव की प्रक्रिया निम्नलिखित में से किस अनुच्छेद में वर्णित है? / Which Article of the Constitution describes the Vice-President's election?",
-    "options": {
-      "A": "अनुच्छेद 63 / Article 63",
-      "B": "अनुच्छेद 64 / Article 64",
-      "C": "अनुच्छेद 66 / Article 66",
-      "D": "अनुच्छेद 68 / Article 68"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 20,
-    "question": "भारत में राष्ट्रपति के चुनाव में कौन शामिल नहीं होता है? / Who does NOT participate in the election of the President in India?",
-    "options": {
-      "A": "राज्य विधानसभाओं के निर्वाचित सदस्य / Elected members of State Legislative Assemblies",
-      "B": "लोकसभा के निर्वाचित सदस्य / Elected members of Lok Sabha",
-      "C": "राज्य विधान परिषदों के सदस्य / Members of State Legislative Councils",
-      "D": "राज्यसभा के निर्वाचित सदस्य / Elected members of Rajya Sabha"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 21,
-    "question": "भारत के राष्ट्रपति के चुनाव में वोट के मूल्य की गणना करते समय निम्न में से किन दो घटकों को ध्यान में रखा जाता है?\nWhich of the following two components are considered while calculating the value of votes in Presidential election?",
-    "options": {
-      "A": "राज्य के जनसंख्या आंकड़े / Population of the State",
-      "B": "राज्य के विधायकों की संख्या / Number of MLAs in the State",
-      "C": "राज्य का GDP / GDP of the State",
-      "D": "राज्य के संसदीय क्षेत्रों की संख्या / Number of Parliamentary Constituencies"
-    },
-    "answer": ["A", "B"],
-    "correct_answers": ["A – राज्य के जनसंख्या आंकड़े / Population of the State", "B – राज्य के विधायकों की संख्या / Number of MLAs in the State"]
-  },
-  {
-    "id": 22,
-    "question": "राष्ट्रपति चुनाव में सांसद के वोट का मूल्य कैसे निर्धारित होता है?\nHow is the value of MP’s vote determined in Presidential election?",
-    "options": {
-      "A": "MLAs के कुल वोट मूल्य को सांसदों की कुल संख्या से विभाजित कर / Total value of MLAs' votes divided by number of MPs",
-      "B": "MP के राज्य में वोटरों की संख्या के आधार पर / Based on number of voters in MP's state",
-      "C": "MP की सीनियरिटी पर / Based on MP's seniority",
-      "D": "लोकसभा में पार्टी की ताकत पर / Based on party strength in Lok Sabha"
-    },
-    "answer": ["A"],
-    "correct_answers": ["A – MLAs के कुल वोट मूल्य को सांसदों की कुल संख्या से विभाजित कर / Total value of MLAs' votes divided by number of MPs"]
-  },
-  {
-    "id": 23,
-    "question": "राष्ट्रपति चुनाव के लिए वोटिंग प्रणाली कौन-सी है?\nWhat is the voting system used for Presidential elections?",
-    "options": {
-      "A": "First-Past-the-Post",
-      "B": "Proportional Representation by means of Single Transferable Vote",
-      "C": "Open Ballot System",
-      "D": "Mixed Member Proportional Representation"
-    },
-    "answer": ["B", "C"],
-    "correct_answers": ["B – Proportional Representation by means of Single Transferable Vote", "C – Open Ballot System"]
-  },
-  {
-    "id": 24,
-    "question": "राष्ट्रपति चुनाव में वोट का मूल्य निर्धारित करते समय किस जनगणना को आधार बनाया जाता है?\nWhich census is taken as the base for calculating value of votes in Presidential election?",
-    "options": {
-      "A": "1991 की जनगणना / 1991 Census",
-      "B": "2001 की जनगणना / 2001 Census",
-      "C": "1971 की जनगणना / 1971 Census",
-      "D": "2011 की जनगणना / 2011 Census"
-    },
-    "answer": ["C"],
-    "correct_answers": ["C – 1971 की जनगणना / 1971 Census"]
-  },
-  {
-    "id": 25,
-    "question": "यदि राष्ट्रपति पद के लिए केवल एक उम्मीदवार हो तो क्या प्रक्रिया अपनाई जाती है?\nWhat is the procedure if there is only one candidate for the post of President?",
-    "options": {
-      "A": "उसे निर्विरोध निर्वाचित घोषित किया जाता है / Declared elected unopposed",
-      "B": "जनता से पुष्टि ली जाती है / Public confirmation required",
-      "C": "उसे संसद से अनुमोदन लेना होता है / Needs Parliament's approval",
-      "D": "चुनाव आयोग नए उम्मीदवार खोजता है / Election Commission invites new candidates"
-    },
-    "answer": ["A"],
-    "correct_answers": ["A – उसे निर्विरोध निर्वाचित घोषित किया जाता है / Declared elected unopposed"]
-  },
-  {
-    "id": 26,
-    "question": "राष्ट्रपति चुनाव में सभी राज्यों के विधायकों के वोट का मूल्य समान क्यों नहीं होता?\nWhy is the value of MLAs' votes different across states in Presidential election?",
-    "options": {
-      "A": "राज्यों की जनसंख्या अलग-अलग होती है / Different population sizes",
-      "B": "विधानसभा की सीटें अलग-अलग होती हैं / Different number of MLAs",
-      "C": "संसद की सीटों पर आधारित / Based on Parliament seats",
-      "D": "राज्यों के GDP पर आधारित / Based on GDP of states"
-    },
-    "answer": ["A", "B"],
-    "correct_answers": ["A – राज्यों की जनसंख्या अलग-अलग होती है / Different population sizes", "B – विधानसभा की सीटें अलग-अलग होती हैं / Different number of MLAs"]
-  },
-  {
-    "id": 27,
-    "question": "भारत के राष्ट्रपति चुनाव में कौन-कौन भाग लेते हैं?\nWho all participate in the election of the President of India?",
-    "options": {
-      "A": "सभी लोकसभा और राज्यसभा सदस्य / All Lok Sabha & Rajya Sabha members",
-      "B": "राज्य विधानसभाओं के निर्वाचित सदस्य / Elected members of State Legislative Assemblies",
-      "C": "राज्यसभा के मनोनीत सदस्य / Nominated members of Rajya Sabha",
-      "D": "UTs के विधानसभाओं के सदस्य / Members of Legislative Assemblies of UTs"
-    },
-    "answer": ["A", "B", "D"],
-    "correct_answers": ["A – सभी लोकसभा और राज्यसभा सदस्य / All Lok Sabha & Rajya Sabha members", "B – राज्य विधानसभाओं के निर्वाचित सदस्य / Elected members of State Legislative Assemblies", "D – UTs के विधानसभाओं के सदस्य / Members of Legislative Assemblies of UTs"]
-  },
-  {
-    "id": 28,
-    "question": "क्या राष्ट्रपति चुनाव में नामांकन के लिए एक निश्चित संख्या में प्रस्तावक और अनुमोदक की आवश्यकता होती है?\nIs a minimum number of proposers and seconders required for Presidential nomination?",
-    "options": {
-      "A": "हाँ, 50 प्रस्तावक और 50 अनुमोदक / Yes, 50 proposers and 50 seconders",
-      "B": "नहीं, कोई सीमा नहीं है / No limit",
-      "C": "हाँ, 100 प्रस्तावक और 100 अनुमोदक / Yes, 100 each",
-      "D": "केवल सांसद ही प्रस्तावक हो सकते हैं / Only MPs can propose"
-    },
-    "answer": ["A"],
-    "correct_answers": ["A – हाँ, 50 प्रस्तावक और 50 अनुमोदक / Yes, 50 proposers and 50 seconders"]
-  },
-  {
-    "id": 29,
-    "question": "Presidential election में कौन-सा अधिकार Election Commission को होता है?\nWhat is the role of the Election Commission in Presidential elections?",
-    "options": {
-      "A": "चुनाव कार्यक्रम तय करना / Deciding election schedule",
-      "B": "मतगणना करना / Counting votes",
-      "C": "चुनाव परिणाम घोषित करना / Declaring results",
-      "D": "चुनाव के लिए अधिसूचना जारी करना / Issuing election notification"
-    },
-    "answer": ["A", "B", "C", "D"],
-    "correct_answers": [
-      "A – चुनाव कार्यक्रम तय करना / Deciding election schedule",
-      "B – मतगणना करना / Counting votes",
-      "C – चुनाव परिणाम घोषित करना / Declaring results",
-      "D – चुनाव के लिए अधिसूचना जारी करना / Issuing election notification"
-    ]
-  },
-  {
-    "id": 30,
-    "question": "राष्ट्रपति चुनाव में वोट मूल्य निर्धारण के पीछे कौन-सा उद्देश्य है?\nWhat is the primary objective behind vote value calculation in Presidential election?",
-    "options": {
-      "A": "राज्य और केंद्र के बीच संतुलन बनाए रखना / Balance between State and Centre",
-      "B": "बड़े राज्यों को अधिक शक्ति देना / Give more power to larger states",
-      "C": "संसद को सर्वोपरि बनाना / Make Parliament supreme",
-      "D": "राज्यों के मतों को बराबर करना / Equalize votes of states"
-    },
-    "answer": ["A"],
-    "correct_answers": ["A – राज्य और केंद्र के बीच संतुलन बनाए रखना / Balance between State and Centre"]
   }
 ]
-
-
-
