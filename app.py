@@ -12,7 +12,7 @@ with open('mcqs/questions.json', 'r', encoding='utf-8') as f:
 def index():
     error = None
     if request.method == 'POST':
-        if request.form['password'] == 'mentor123':
+        if request.form['password'] == '123':
             session['authenticated'] = True
             return redirect(url_for('test'))
         else:
