@@ -1,112 +1,566 @@
 [
   {
     "id": 1,
-    "question": "Rajya Sabha mein 'Operation Sindoor' par debate kin ministers dwara ki gayi thi?\nWhich ministers led the debate on 'Operation Sindoor' in Rajya Sabha?",
+    "question": "उत्तर प्रदेश में मंत्रिपरिषद की नियुक्ति से संबंधित निम्न में से कौन-से कथन सही हैं? / Which of the following statements about the appointment of Council of Ministers in Uttar Pradesh are correct?",
     "options": {
-      "A": "A. Amit Shah",
-      "B": "B. Jaishankar",
-      "C": "C. Mallikarjun Kharge",
-      "D": "D. JP Nadda"
+      "A": "मुख्यमंत्री की नियुक्ति राज्यपाल करता है / The Chief Minister is appointed by the Governor",
+      "B": "अन्य मंत्रियों की नियुक्ति मुख्यमंत्री की सलाह पर राज्यपाल करता है / Other ministers are appointed by the Governor on the advice of the Chief Minister",
+      "C": "राज्यपाल स्वतंत्र रूप से मंत्रियों का चयन कर सकता है / Governor can independently select the ministers",
+      "D": "राज्यपाल विधानसभा अध्यक्ष की सलाह पर मंत्रियों की नियुक्ति करता है / Governor appoints ministers on the advice of the Speaker"
     },
-    "answer": ["A", "D"]
+    "answer": ["A", "B"],
+    "correct_answers": [
+      "A – मुख्यमंत्री की नियुक्ति राज्यपाल करता है / The Chief Minister is appointed by the Governor",
+      "B – अन्य मंत्रियों की नियुक्ति मुख्यमंत्री की सलाह पर राज्यपाल करता है / Other ministers are appointed by the Governor on the advice of the Chief Minister"
+    ]
   },
   {
     "id": 2,
-    "question": "Opposition ka walkout kis event ke dauran hua?\nDuring which event did the Opposition walk out of Rajya Sabha?",
+    "question": "उत्तर प्रदेश की मंत्रिपरिषद की सामूहिक जिम्मेदारी किसके प्रति होती है? / The Council of Ministers in Uttar Pradesh is collectively responsible to whom?",
     "options": {
-      "A": "A. PM Modi ke absence par Operation Sindoor debate",
-      "B": "B. Women Reservation Bill debate",
-      "C": "C. President’s Address Motion",
-      "D": "D. Budget Session"
+      "A": "राज्यपाल / Governor",
+      "B": "राज्य विधानसभा / State Legislative Assembly",
+      "C": "मुख्यमंत्री / Chief Minister",
+      "D": "राज्यसभा / Rajya Sabha"
     },
-    "answer": ["A"]
+    "answer": ["B"],
+    "correct_answers": [
+      "B – राज्य विधानसभा / State Legislative Assembly"
+    ]
   },
   {
     "id": 3,
-    "question": "Rajya Sabha mein election commissioner officers ke prati threats ko lekar debate kyun mangi gayi?\nWhy was a debate called in Rajya Sabha concerning threats to Election Commission officers?",
+    "question": "संविधान के किस अनुच्छेद के अंतर्गत राज्य मंत्रिपरिषद की सामूहिक जिम्मेदारी की व्यवस्था की गई है? / Under which Article is the collective responsibility of State Council of Ministers provided?",
     "options": {
-      "A": "A. To discuss constitutional autonomy of EC",
-      "B": "B. To endorse state government authority over EC",
-      "C": "C. To protest EC interference",
-      "D": "D. To support intimidation of EC officials"
+      "A": "अनुच्छेद 163 / Article 163",
+      "B": "अनुच्छेद 164 / Article 164",
+      "C": "अनुच्छेद 167 / Article 167",
+      "D": "अनुच्छेद 168 / Article 168"
     },
-    "answer": ["A"]
+    "answer": ["B"],
+    "correct_answers": [
+      "B – अनुच्छेद 164 / Article 164"
+    ]
   },
   {
     "id": 4,
-    "question": "वित्तीय सुरक्षा से संबंधित कानून सुझाव देना कौनसा बिल था जिसे Rajya Sabha ne pass kiya?\nWhich amendment bill related to financial security (banking nominees) was passed in the Rajya Sabha recently?",
+    "question": "राज्यपाल, मुख्यमंत्री की सलाह से मंत्री को बर्खास्त कर सकता है — यह सिद्धांत किस निर्णय से स्पष्ट हुआ? / The principle that Governor can dismiss a minister on the advice of the CM was clarified in which SC decision?",
     "options": {
-      "A": "A. Banking Laws (Amendment) Bill, 2024",
-      "B": "B. Fiscal Responsibility Act",
-      "C": "C. Commodity Regulation Act",
-      "D": "D. Digital Personal Data Protection Act"
+      "A": "शमशेर सिंह बनाम पंजाब राज्य / Shamsher Singh vs State of Punjab",
+      "B": "SR बोम्मई केस / SR Bommai Case",
+      "C": "बोम्मई बनाम भारत संघ / Bommai vs Union of India",
+      "D": "नाबम रेबिया केस / Nabam Rebia Case"
     },
-    "answer": ["A"]
+    "answer": ["A", "D"],
+    "correct_answers": [
+      "A – शमशेर सिंह बनाम पंजाब राज्य / Shamsher Singh vs State of Punjab",
+      "D – नाबम रेबिया केस / Nabam Rebia Case"
+    ]
   },
   {
     "id": 5,
-    "question": "Rajya Sabha mein '264 questions deleted' ka mudda kis incident se juda hai?\nThe issue of '264 questions deleted' in the Rajya Sabha is associated with which incident?",
+    "question": "उत्तर प्रदेश में मंत्रिपरिषद के आकार पर किस संवैधानिक संशोधन ने प्रभाव डाला है? / Which constitutional amendment impacted the size of the Council of Ministers in Uttar Pradesh?",
     "options": {
-      "A": "A. Suspension of opposition MPs after Parliament breach",
-      "B": "B. Introduction of Women's Reservation Bill",
-      "C": "C. Delay in One Nation One Election Bills",
-      "D": "D. Debate on election threats"
+      "A": "91वां संशोधन / 91st Amendment",
+      "B": "73वां संशोधन / 73rd Amendment",
+      "C": "42वां संशोधन / 42nd Amendment",
+      "D": "86वां संशोधन / 86th Amendment"
     },
-    "answer": ["A"]
+    "answer": ["A"],
+    "correct_answers": [
+      "A – 91वां संशोधन / 91st Amendment"
+    ]
   },
   {
     "id": 6,
-    "question": "One Hundred and Sixth Amendment (Women's Reservation Bill) ko Rajya Sabha ne kab pass kiya tha?\nWhen was the One Hundred and Sixth Amendment (Women's Reservation Bill) passed by Rajya Sabha?",
+    "question": "मंत्रिपरिषद की अधिकतम संख्या की सीमा क्या है उत्तर प्रदेश में? / What is the maximum permissible limit of Council of Ministers in Uttar Pradesh?",
     "options": {
-      "A": "A. 21 September 2023",
-      "B": "B. 21 September 2024",
-      "C": "C. 21 September 2025",
-      "D": "D. 21 December 2023"
+      "A": "15% विधानसभा की कुल सदस्य संख्या का / 15% of total strength of Legislative Assembly",
+      "B": "10% विधान परिषद की कुल सदस्य संख्या का / 10% of total strength of Legislative Council",
+      "C": "25% विधानसभा की कुल संख्या का / 25% of total strength of Legislative Assembly",
+      "D": "20 सदस्य अधिकतम / Maximum 20 members"
     },
-    "answer": ["A"]
+    "answer": ["A"],
+    "correct_answers": [
+      "A – 15% विधानसभा की कुल सदस्य संख्या का / 15% of total strength of Legislative Assembly"
+    ]
   },
   {
     "id": 7,
-    "question": "Who claimed 'terrorism almost ended since 2014' in Rajya Sabha debate on Operation Sindoor?\n",
+    "question": "क्या उत्तर प्रदेश में विधान परिषद की सदस्यता मंत्री बनने के लिए आवश्यक है? / Is membership of Legislative Council necessary to become a minister in UP?",
     "options": {
-      "A": "A. JP Nadda",
-      "B": "B. Amit Shah",
-      "C": "C. S. Jaishankar",
-      "D": "D. Mallikarjun Kharge"
+      "A": "हाँ, विधान परिषद का सदस्य होना जरूरी है / Yes, it is mandatory",
+      "B": "नहीं, विधानसभा सदस्य भी बन सकता है / No, even an MLA can become a minister",
+      "C": "कोई भी नागरिक मंत्री बन सकता है / Any citizen can become minister",
+      "D": "गैर-सदस्य अधिकतम 6 महीने तक मंत्री रह सकता है / Non-member can stay minister up to 6 months"
     },
-    "answer": ["A"]
+    "answer": ["B", "D"],
+    "correct_answers": [
+      "B – नहीं, विधानसभा सदस्य भी बन सकता है / No, even an MLA can become a minister",
+      "D – गैर-सदस्य अधिकतम 6 महीने तक मंत्री रह सकता है / Non-member can stay minister up to 6 months"
+    ]
   },
   {
     "id": 8,
-    "question": "Which Rajya Sabha leader criticised Opposition over Indus Waters Treaty stance and said some are 'uncomfortable with history'?",
+    "question": "हाल में उत्तर प्रदेश मंत्रिपरिषद में किन मंत्रालयों को जोड़ने पर विवाद हुआ था? / Recently, which ministerial portfolios added in UP created controversy?",
     "options": {
-      "A": "A. S. Jaishankar",
-      "B": "B. Amit Shah",
-      "C": "C. JP Nadda",
-      "D": "D. Mallikarjun Kharge"
+      "A": "जनसंख्या नियंत्रण / Population Control",
+      "B": "मातृ शक्ति मंत्रालय / Ministry of Women's Empowerment",
+      "C": "धर्मांतरण नियंत्रण / Religious Conversion Control",
+      "D": "गो रक्षा मंत्रालय / Cow Protection Ministry"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"],
+    "correct_answers": [
+      "A – जनसंख्या नियंत्रण / Population Control",
+      "C – धर्मांतरण नियंत्रण / Religious Conversion Control"
+    ]
   },
   {
     "id": 9,
-    "question": "Opposition ne Rajya Sabha mein kya maanga jiske absence par walkout kiya gaya?\nOpposition demanded whose presence which led to a walkout when he did not respond?",
+    "question": "उत्तर प्रदेश के मंत्रियों के वेतन और भत्तों को नियंत्रित करने वाला कौन-सा कानून है? / Which law governs the salaries and allowances of Ministers in Uttar Pradesh?",
     "options": {
-      "A": "A. Home Minister",
-      "B": "B. President",
-      "C": "C. PM Modi",
-      "D": "D. Leader of Opposition"
+      "A": "उत्तर प्रदेश वेतन अधिनियम, 1981 / UP Salaries Act, 1981",
+      "B": "राज्य मंत्री वेतन अधिनियम, 1977 / State Ministers' Salary Act, 1977",
+      "C": "उत्तर प्रदेश मंत्रीगण वेतन, भत्ता एवं अन्य सुविधाएं अधिनियम, 1981 / UP Ministers' Salaries, Allowances & Miscellaneous Facilities Act, 1981",
+      "D": "मंत्रियों की नियुक्ति व वेतन अधिनियम, 1952 / Ministers Appointment and Salaries Act, 1952"
     },
-    "answer": ["C"]
+    "answer": ["C"],
+    "correct_answers": [
+      "C – उत्तर प्रदेश मंत्रीगण वेतन, भत्ता एवं अन्य सुविधाएं अधिनियम, 1981 / UP Ministers' Salaries, Allowances & Miscellaneous Facilities Act, 1981"
+    ]
   },
   {
     "id": 10,
-    "question": "Rajya Sabha mein 'SIR of electoral rolls in Bihar' issue pe protest kis party dwara hua tha?\nWhich party protested over the 'SIR of electoral rolls in Bihar' in Rajya Sabha?",
+    "question": "मंत्रिपरिषद के कार्यों में पारदर्शिता सुनिश्चित करने हेतु किस हालिया तकनीकी उपाय को अपनाया गया है? / Which recent technological measure has been adopted to ensure transparency in ministerial functions?",
     "options": {
-      "A": "A. Congress",
-      "B": "B. TMC",
-      "C": "C. BJP",
-      "D": "D. RJD"
+      "A": "E-Cabinet प्रणाली / E-Cabinet system",
+      "B": "Digital Assembly Monitoring / डिजिटल विधानसभा निगरानी",
+      "C": "Blockchain governance module / ब्लॉकचेन गवर्नेंस",
+      "D": "AI आधारित नीतिगत विश्लेषण / AI-based policy analytics"
     },
-    "answer": ["B"]
+    "answer": ["A"],
+    "correct_answers": [
+      "A – E-Cabinet प्रणाली / E-Cabinet system"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "उत्तर प्रदेश मंत्रिपरिषद की नियुक्ति व कार्यप्रणाली से संबंधित निम्न में से कौन-कौन से कथन संविधानिक रूप से सही हैं? / Which of the following are constitutionally correct regarding the appointment and functioning of the Council of Ministers in Uttar Pradesh?",
+    "options": {
+      "A": "मुख्यमंत्री की नियुक्ति राज्यपाल करता है / The Chief Minister is appointed by the Governor",
+      "B": "अन्य मंत्रियों की नियुक्ति मुख्यमंत्री की सलाह पर राज्यपाल करता है / Other ministers are appointed by the Governor on the advice of the Chief Minister",
+      "C": "राज्यपाल मंत्रिपरिषद की बैठकों की अध्यक्षता करता है / Governor presides over the Council of Ministers' meetings",
+      "D": "राज्य मंत्री विधानमंडल को उत्तरदायी नहीं होते / State ministers are not accountable to the legislature"
+    },
+    "correct_answers": [
+      "A – मुख्यमंत्री की नियुक्ति राज्यपाल करता है / The Chief Minister is appointed by the Governor",
+      "B – अन्य मंत्रियों की नियुक्ति मुख्यमंत्री की सलाह पर राज्यपाल करता है / Other ministers are appointed by the Governor on the advice of the Chief Minister"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "42वें संशोधन अधिनियम, 1976 का मंत्रिपरिषद पर क्या प्रभाव पड़ा? / What was the impact of the 42nd Amendment Act, 1976 on the Council of Ministers?",
+    "options": {
+      "A": "राज्यपाल को निर्देशों की शक्ति दी गई / Governor was given directive powers",
+      "B": "मंत्रिपरिषद की सलाह राज्यपाल पर बाध्यकारी कर दी गई / The advice of the Council of Ministers was made binding on the Governor",
+      "C": "मुख्यमंत्री को राज्यपाल के विरुद्ध असहमति व्यक्त करने की छूट दी गई / CM was allowed to disagree with the Governor",
+      "D": "राज्यपाल को मंत्रियों को हटाने की स्वतंत्र शक्ति दी गई / Governor was empowered to remove ministers at will"
+    },
+    "correct_answers": [
+      "B – मंत्रिपरिषद की सलाह राज्यपाल पर बाध्यकारी कर दी गई / The advice of the Council of Ministers was made binding on the Governor"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "सुप्रीम कोर्ट के 'Nabam Rebia v Deputy Speaker' केस (2016) का मंत्रिपरिषद पर क्या प्रभाव पड़ा? / What was the effect of the Supreme Court's decision in 'Nabam Rebia v Deputy Speaker' (2016) on the Council of Ministers?",
+    "options": {
+      "A": "राज्यपाल मंत्रिपरिषद की सलाह के बिना सदन भंग कर सकता है / Governor can dissolve House without Council's advice",
+      "B": "राज्यपाल मंत्रिपरिषद की सलाह के बिना सत्र नहीं बुला सकता / Governor cannot summon the session without Council's advice",
+      "C": "मुख्यमंत्री को हटाने की शक्ति राष्ट्रपति को दी गई / Power to remove CM was given to the President",
+      "D": "राज्यपाल की विवेकाधीन शक्तियाँ सीमित कर दी गईं / Governor's discretionary powers were restricted"
+    },
+    "correct_answers": [
+      "B – राज्यपाल मंत्रिपरिषद की सलाह के बिना सत्र नहीं बुला सकता / Governor cannot summon the session without Council's advice",
+      "D – राज्यपाल की विवेकाधीन शक्तियाँ सीमित कर दी गईं / Governor's discretionary powers were restricted"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "किस संशोधन द्वारा यह सुनिश्चित किया गया कि राज्यपाल मंत्रिपरिषद की सलाह से बंधा होगा? / Through which amendment was it ensured that the Governor shall act on the aid and advice of the Council of Ministers?",
+    "options": {
+      "A": "42वां संशोधन / 42nd Amendment",
+      "B": "44वां संशोधन / 44th Amendment",
+      "C": "91वां संशोधन / 91st Amendment",
+      "D": "86वां संशोधन / 86th Amendment"
+    },
+    "correct_answers": [
+      "A – 42वां संशोधन / 42nd Amendment"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "91वें संशोधन अधिनियम, 2003 का राज्य मंत्रिपरिषद पर क्या प्रभाव पड़ा? / What was the impact of the 91st Amendment Act, 2003 on the State Council of Ministers?",
+    "options": {
+      "A": "मंत्रियों की संख्या को सीमित किया गया / Limited number of ministers",
+      "B": "दल-बदल करने वाले सदस्य मंत्रिपरिषद में नहीं रह सकते / Defectors cannot remain in Council",
+      "C": "राज्यपाल मंत्रिपरिषद को भंग कर सकता है / Governor can dissolve Council",
+      "D": "राज्य में विधान परिषद की समाप्ति कर दी गई / Abolition of Legislative Council in state"
+    },
+    "correct_answers": [
+      "A – मंत्रियों की संख्या को सीमित किया गया / Limited number of ministers",
+      "B – दल-बदल करने वाले सदस्य मंत्रिपरिषद में नहीं रह सकते / Defectors cannot remain in Council"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "राज्य मंत्रिपरिषद की सामूहिक उत्तरदायित्व किस अनुच्छेद के अंतर्गत है? / Under which Article is the collective responsibility of the State Council of Ministers provided?",
+    "options": {
+      "A": "अनुच्छेद 163 / Article 163",
+      "B": "अनुच्छेद 164 / Article 164",
+      "C": "अनुच्छेद 167 / Article 167",
+      "D": "अनुच्छेद 164(2) / Article 164(2)"
+    },
+    "correct_answers": [
+      "D – अनुच्छेद 164(2) / Article 164(2)"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "उत्तर प्रदेश मंत्रिपरिषद के गठन में अनुसूचित जातियों के लिए क्या प्रावधान है? / What is the provision for Scheduled Castes in the formation of the Council of Ministers in Uttar Pradesh?",
+    "options": {
+      "A": "कोई संवैधानिक बाध्यता नहीं है / No constitutional mandate",
+      "B": "अनुच्छेद 164(1A) में आरक्षण अनिवार्य है / Reservation is mandatory under Article 164(1A)",
+      "C": "राज्यपाल विशेष प्रतिनिधि नियुक्त कर सकते हैं / Governor can appoint special representatives",
+      "D": "मुख्यमंत्री के विवेक पर निर्भर करता है / Depends on the discretion of the Chief Minister"
+    },
+    "correct_answers": [
+      "A – कोई संवैधानिक बाध्यता नहीं है / No constitutional mandate"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "अगर मुख्यमंत्री इस्तीफा देता है, तो मंत्रिपरिषद का क्या होता है? / What happens to the Council of Ministers if the Chief Minister resigns?",
+    "options": {
+      "A": "मंत्रिपरिषद स्वतः भंग हो जाती है / Council is automatically dissolved",
+      "B": "राज्यपाल नया मुख्यमंत्री नियुक्त करता है / Governor appoints a new CM",
+      "C": "शेष मंत्री कार्य करते रहते हैं / Other ministers continue functioning",
+      "D": "मंत्रिपरिषद स्थायी होती है / Council is permanent"
+    },
+    "correct_answers": [
+      "A – मंत्रिपरिषद स्वतः भंग हो जाती है / Council is automatically dissolved",
+      "B – राज्यपाल नया मुख्यमंत्री नियुक्त करता है / Governor appoints a new CM"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "उत्तर प्रदेश मंत्रिपरिषद की शक्तियाँ संविधान के किस अनुच्छेद में वर्णित हैं? / Powers of the Council of Ministers in UP are mentioned in which Article?",
+    "options": {
+      "A": "अनुच्छेद 163 / Article 163",
+      "B": "अनुच्छेद 174 / Article 174",
+      "C": "अनुच्छेद 167 / Article 167",
+      "D": "अनुच्छेद 164 / Article 164"
+    },
+    "correct_answers": [
+      "A – अनुच्छेद 163 / Article 163",
+      "D – अनुच्छेद 164 / Article 164"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "राज्यपाल को मंत्रिपरिषद की सलाह के बिना कब कार्य करने की अनुमति है? / When is the Governor allowed to act without the aid and advice of the Council of Ministers?",
+    "options": {
+      "A": "जब राष्ट्रपति शासन लागू हो / During President’s Rule",
+      "B": "जब विधानसभा भंग हो चुकी हो / When the Assembly is dissolved",
+      "C": "अपने विवेक से सीमित विषयों पर / On limited discretionary matters",
+      "D": "कभी नहीं / Never"
+    },
+    "correct_answers": [
+      "A – जब राष्ट्रपति शासन लागू हो / During President’s Rule",
+      "C – अपने विवेक से सीमित विषयों पर / On limited discretionary matters"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "उत्तर प्रदेश विधान परिषद की स्थापना भारतीय संविधान के किस अनुच्छेद के तहत होती है? / Under which Article of the Indian Constitution is the Uttar Pradesh Legislative Council established?",
+    "options": {
+      "A": "अनुच्छेद 169 / Article 169",
+      "B": "अनुच्छेद 171 / Article 171",
+      "C": "अनुच्छेद 168 / Article 168",
+      "D": "अनुच्छेद 170 / Article 170"
+    },
+    "correct_answers": [
+      "अनुच्छेद 169 / Article 169",
+      "अनुच्छेद 168 / Article 168"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "विधान परिषद की सदस्य संख्या विधान सभा की संख्या का अधिकतम कितना प्रतिशत हो सकता है? / What is the maximum percentage of members in the Legislative Council relative to the Legislative Assembly?",
+    "options": {
+      "A": "50%",
+      "B": "33.3%",
+      "C": "25%",
+      "D": "15%"
+    },
+    "correct_answers": [
+      "33.3%"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "UP विधान परिषद के सदस्य कितने वर्षों के लिए निर्वाचित होते हैं? / What is the term duration for members of the UP Legislative Council?",
+    "options": {
+      "A": "6 साल / 6 years",
+      "B": "5 साल / 5 years",
+      "C": "4 साल / 4 years",
+      "D": "2 साल / 2 years"
+    },
+    "correct_answers": [
+      "6 साल / 6 years"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "UP विधान परिषद में कितने प्रतिशत सदस्य राज्यपाल द्वारा मनोनीत किए जाते हैं? / What percentage of members in the UP Legislative Council are nominated by the Governor?",
+    "options": {
+      "A": "1/12",
+      "B": "1/6",
+      "C": "1/8",
+      "D": "1/3"
+    },
+    "correct_answers": [
+      "1/6"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "UP विधान परिषद में शिक्षक निर्वाचन क्षेत्र से चुने गए सदस्यों की संख्या कितनी होती है? / How many members of the UP Legislative Council are elected from the teachers' constituency?",
+    "options": {
+      "A": "6",
+      "B": "4",
+      "C": "2",
+      "D": "1"
+    },
+    "correct_answers": [
+      "2"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "UP विधान परिषद को समाप्त करने के लिए कौन-सी प्रक्रिया अपनाई जाती है? / What is the procedure to abolish the UP Legislative Council?",
+    "options": {
+      "A": "राज्य विधानसभा द्वारा विशेष बहुमत से प्रस्ताव पास कर केंद्र को भेजना / Special majority resolution in State Assembly and recommendation to Centre",
+      "B": "राष्ट्रपति की सहमति / President's assent",
+      "C": "संसद द्वारा साधारण विधेयक पारित करना / Simple bill by Parliament",
+      "D": "राज्यपाल की सहमति से / With Governor's consent"
+    },
+    "correct_answers": [
+      "राज्य विधानसभा द्वारा विशेष बहुमत से प्रस्ताव पास कर केंद्र को भेजना / Special majority resolution in State Assembly and recommendation to Centre",
+      "संसद द्वारा साधारण विधेयक पारित करना / Simple bill by Parliament"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "UP विधान परिषद में 'स्थानीय प्राधिकरण' क्षेत्र से सदस्यों का निर्वाचन किसके द्वारा होता है? / Members from 'Local Authorities' constituency in UP Legislative Council are elected by:",
+    "options": {
+      "A": "नगर निगम और पंचायत प्रतिनिधियों द्वारा / Representatives of municipalities and panchayats",
+      "B": "विधानसभा सदस्य / MLAs",
+      "C": "जनता / General public",
+      "D": "राज्यपाल / Governor"
+    },
+    "correct_answers": [
+      "नगर निगम और पंचायत प्रतिनिधियों द्वारा / Representatives of municipalities and panchayats"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "SC ने किस निर्णय में कहा कि विधान परिषद की भूमिका द्विसदनीयता की भावना को बढ़ावा देती है? / In which SC decision was it held that Legislative Councils enhance bicameralism?",
+    "options": {
+      "A": "Kesavananda Bharati v. State of Kerala",
+      "B": "SR Bommai v. Union of India",
+      "C": "Rameshwar Prasad v. Union of India",
+      "D": "None of the above"
+    },
+    "correct_answers": [
+      "Kesavananda Bharati v. State of Kerala"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "विधान परिषद की सबसे प्रमुख भूमिका कौन-सी है? / What is the most significant role of the Legislative Council?",
+    "options": {
+      "A": "विधेयकों पर पुनर्विचार / Reconsideration of bills",
+      "B": "वित्त विधेयक पारित करना / Passing financial bills",
+      "C": "विश्वास मत में भूमिका / Role in confidence motion",
+      "D": "राज्यपाल की नियुक्ति / Appointment of Governor"
+    },
+    "correct_answers": [
+      "विधेयकों पर पुनर्विचार / Reconsideration of bills"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "भारत के किन राज्यों में विधान परिषद वर्तमान में कार्यरत है? / In which states of India is the Legislative Council currently functional?",
+    "options": {
+      "A": "उत्तर प्रदेश / Uttar Pradesh",
+      "B": "बिहार / Bihar",
+      "C": "तेलंगाना / Telangana",
+      "D": "तमिलनाडु / Tamil Nadu"
+    },
+    "correct_answers": [
+      "उत्तर प्रदेश / Uttar Pradesh",
+      "बिहार / Bihar",
+      "तेलंगाना / Telangana"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "उत्तर प्रदेश विधान परिषद की स्थापना किस वर्ष में हुई थी? / In which year was the Uttar Pradesh Legislative Council established?",
+    "options": {
+      "A": "1937",
+      "B": "1950",
+      "C": "1952",
+      "D": "1962"
+    },
+    "answer": ["A", "C"],
+    "correct_answers": [
+      "A – 1937",
+      "C – 1952"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "उत्तर प्रदेश विधान परिषद में सदस्यों की अधिकतम संख्या क्या है? / What is the maximum number of members in the UP Legislative Council?",
+    "options": {
+      "A": "100",
+      "B": "108",
+      "C": "90",
+      "D": "85"
+    },
+    "answer": ["B"],
+    "correct_answers": [
+      "B – 108"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "विधान परिषद के सदस्यों का कार्यकाल कितना होता है? / What is the term of members of the Legislative Council?",
+    "options": {
+      "A": "5 वर्ष / 5 years",
+      "B": "6 वर्ष / 6 years",
+      "C": "3 वर्ष / 3 years",
+      "D": "अनिश्चित / Indefinite"
+    },
+    "answer": ["B"],
+    "correct_answers": [
+      "B – 6 वर्ष / 6 years"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "विधान परिषद में कितने प्रतिशत सदस्य हर दो वर्ष में सेवानिवृत्त होते हैं? / What percentage of members retire every two years in the Legislative Council?",
+    "options": {
+      "A": "1/3",
+      "B": "1/4",
+      "C": "1/6",
+      "D": "1/2"
+    },
+    "answer": ["A"],
+    "correct_answers": [
+      "A – 1/3"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "भारत के संविधान के कौन से अनुच्छेद में विधान परिषद की रचना का वर्णन है? / Which Article of the Constitution describes the composition of the Legislative Council?",
+    "options": {
+      "A": "Article 169",
+      "B": "Article 171",
+      "C": "Article 170",
+      "D": "Article 168"
+    },
+    "answer": ["B", "D"],
+    "correct_answers": [
+      "B – Article 171",
+      "D – Article 168"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "विधान परिषद के सदस्य निम्न में से किन तरीकों से निर्वाचित या मनोनीत होते हैं? / Legislative Council members are elected/nominated through which of the following methods?",
+    "options": {
+      "A": "स्थानीय निकायों द्वारा / By local bodies",
+      "B": "राज्यपाल द्वारा नामांकन / Nomination by Governor",
+      "C": "विधानसभा द्वारा / By Legislative Assembly",
+      "D": "राज्यसभा द्वारा / By Rajya Sabha"
+    },
+    "answer": ["A", "B", "C"],
+    "correct_answers": [
+      "A – स्थानीय निकायों द्वारा / By local bodies",
+      "B – राज्यपाल द्वारा नामांकन / Nomination by Governor",
+      "C – विधानसभा द्वारा / By Legislative Assembly"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "विधान परिषद को समाप्त करने के लिए संसद को कौन सा प्रस्ताव पास करना होता है? / What kind of resolution must Parliament pass to abolish a Legislative Council?",
+    "options": {
+      "A": "साधारण बहुमत / Simple Majority",
+      "B": "विशेष बहुमत / Special Majority",
+      "C": "2/3 बहुमत / Two-thirds majority",
+      "D": "राज्य विधानसभा का संकल्प आवश्यक / Resolution from State Legislative Assembly required"
+    },
+    "answer": ["A", "D"],
+    "correct_answers": [
+      "A – साधारण बहुमत / Simple Majority",
+      "D – राज्य विधानसभा का संकल्प आवश्यक / Resolution from State Legislative Assembly required"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "उत्तर प्रदेश विधान परिषद की कार्यवाही में निम्न में से कौन अध्यक्षता करता है? / Who presides over the proceedings of the UP Legislative Council?",
+    "options": {
+      "A": "मुख्यमंत्री / Chief Minister",
+      "B": "विधान परिषद अध्यक्ष / Chairman of the Council",
+      "C": "राज्यपाल / Governor",
+      "D": "विधानसभा अध्यक्ष / Speaker of the Assembly"
+    },
+    "answer": ["B"],
+    "correct_answers": [
+      "B – विधान परिषद अध्यक्ष / Chairman of the Council"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "विधान परिषद से संबंधित कौन सा कथन असत्य है? / Which of the following statements is incorrect regarding Legislative Council?",
+    "options": {
+      "A": "यह स्थायी सदन होता है / It is a permanent house",
+      "B": "इसे राष्ट्रपति द्वारा भंग किया जा सकता है / It can be dissolved by the President",
+      "C": "इसके सदस्य आंशिक रूप से हर दो साल में सेवानिवृत्त होते हैं / Members retire partially every two years",
+      "D": "यह राज्य विधानमंडल का उच्च सदन है / It is the Upper House of the State Legislature"
+    },
+    "answer": ["B"],
+    "correct_answers": [
+      "B – इसे राष्ट्रपति द्वारा भंग किया जा सकता है / It can be dissolved by the President"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "भारत के किन राज्यों में विधान परिषद है? / Which of the following Indian states have Legislative Councils?",
+    "options": {
+      "A": "उत्तर प्रदेश / Uttar Pradesh",
+      "B": "बिहार / Bihar",
+      "C": "कर्नाटक / Karnataka",
+      "D": "गुजरात / Gujarat"
+    },
+    "answer": ["A", "B", "C"],
+    "correct_answers": [
+      "A – उत्तर प्रदेश / Uttar Pradesh",
+      "B – बिहार / Bihar",
+      "C – कर्नाटक / Karnataka"
+    ]
   }
 ]
+
+
+
