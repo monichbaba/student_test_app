@@ -1,197 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Part IX-A संविधान में किस विषय से संबंधित है? / What does Part IX-A of the Constitution deal with?",
+    "question": "Part XIII of the Constitution of India is related to which subject? / भारतीय संविधान का भाग XIII किस विषय से संबंधित है?",
     "options": {
-      "A": "राज्य विधायिका / State Legislature",
-      "B": "नगरपालिका / Municipalities",
-      "C": "न्यायपालिका / Judiciary",
-      "D": "ग्राम पंचायत / Gram Panchayat"
+      "A": "Trade, Commerce and Intercourse within the Territory of India / भारत की सीमा के भीतर व्यापार, वाणिज्य और आवागमन",
+      "B": "Union and its Territory / संघ और उसका क्षेत्र",
+      "C": "Finance, Property and Contracts / वित्त, संपत्ति और अनुबंध",
+      "D": "Services under the Union and the States / संघ और राज्यों के अधीन सेवाएँ"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 2,
-    "question": "Part IX-A संविधान में किस संशोधन द्वारा जोड़ा गया था? / By which amendment was Part IX-A added to the Constitution?",
+    "question": "Which Articles are included in Part XIII of the Indian Constitution? / भारतीय संविधान के भाग XIII में कौन-कौन से अनुच्छेद शामिल हैं?",
     "options": {
-      "A": "42वां संशोधन / 42nd Amendment",
-      "B": "44वां संशोधन / 44th Amendment",
-      "C": "73वां संशोधन / 73rd Amendment",
-      "D": "74वां संशोधन / 74th Amendment"
+      "A": "Articles 301 to 307 / अनुच्छेद 301 से 307",
+      "B": "Articles 264 to 300A",
+      "C": "Articles 245 to 263",
+      "D": "Articles 14 to 18"
     },
-    "answer": [
-      "D"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 3,
-    "question": "अनुच्छेद 243Q के अनुसार नगर पालिका की स्थापना किस आधार पर होती है? / As per Article 243Q, the establishment of municipalities is based on:",
+    "question": "What is the main provision under Article 301? / अनुच्छेद 301 के तहत मुख्य प्रावधान क्या है?",
     "options": {
-      "A": "राज्यपाल की इच्छा / Will of Governor",
-      "B": "जनसंख्या / Population",
-      "C": "राज्य सरकार की अधिसूचना / State government notification",
-      "D": "राज्य विधानसभा का प्रस्ताव / State Assembly resolution"
+      "A": "Freedom of trade, commerce and intercourse throughout the territory of India / सम्पूर्ण भारत में व्यापार, वाणिज्य एवं आवगमन की स्वतंत्रता",
+      "B": "Power of Parliament to make law on trade / संसद को व्यापार पर कानून बनाने की शक्ति",
+      "C": "Restriction on legislative powers / विधायी शक्तियों पर प्रतिबंध",
+      "D": "Power to appoint authority for implementation / क्रियान्वयन के लिए प्राधिकरण नियुक्त करने की शक्ति"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 4,
-    "question": "नगरपालिका की तीन श्रेणियाँ कौन-सी हैं? / What are the three types of Municipalities?",
+    "question": "According to Article 302, Parliament can impose restrictions on trade in which condition? / अनुच्छेद 302 के अनुसार, संसद किन परिस्थितियों में व्यापार पर प्रतिबंध लगा सकती है?",
     "options": {
-      "A": "नगर पंचायत, नगरपालिका, नगर निगम / Nagar Panchayat, Municipal Council, Municipal Corporation",
-      "B": "ग्राम पंचायत, तालुका पंचायत, जिला परिषद / Gram Panchayat, Taluka Panchayat, Zila Parishad",
-      "C": "शहर समिति, नगर समिति, जिला समिति / City Committee, Town Committee, District Committee",
-      "D": "केवल दो प्रकार / Only two types"
+      "A": "In public interest / लोकहित में",
+      "B": "For protecting tribal rights / जनजातीय अधिकारों की रक्षा हेतु",
+      "C": "For internal security / आंतरिक सुरक्षा हेतु",
+      "D": "For external affairs / बाह्य मामलों हेतु"
     },
-    "answer": [
-      "A"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 5,
-    "question": "Article 243W संबंधित है: / Article 243W is related to:",
+    "question": "Article 303 puts restrictions on which legislative body regarding trade between states? / अनुच्छेद 303 किस विधायी निकाय पर राज्यों के बीच व्यापार के संबंध में प्रतिबंध लगाता है?",
     "options": {
-      "A": "राज्य सरकार की शक्तियाँ / Powers of State Government",
-      "B": "नगरपालिकाओं के कार्य और शक्तियाँ / Powers and responsibilities of Municipalities",
-      "C": "नगर निगमों के चुनाव / Elections of Corporations",
-      "D": "शहरी भूमि सुधार / Urban land reforms"
+      "A": "Parliament / संसद",
+      "B": "State Legislatures / राज्य विधानसभाएँ",
+      "C": "Panchayats / पंचायतें",
+      "D": "Supreme Court / उच्चतम न्यायालय"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["A", "B"]
   },
   {
     "id": 6,
-    "question": "12वीं अनुसूची में कितने विषय शामिल हैं? / How many subjects are listed in the 12th Schedule?",
+    "question": "What is stipulated under Article 304 regarding state powers? / अनुच्छेद 304 के तहत राज्य को कौन–सी शक्तियाँ दी गई हैं?",
     "options": {
-      "A": "18",
-      "B": "20",
-      "C": "21",
-      "D": "29"
+      "A": "To impose reasonable restrictions on trade in public interest / लोकहित में व्यापार पर युक्तियुक्त प्रतिबंध लगाने की शक्ति",
+      "B": "To levy taxes on goods imported from other states under certain conditions / अन्य राज्यों से आयातित वस्तुओं पर कुछ शर्तों के तहत कर लगाने की शक्ति",
+      "C": "To make laws for agriculture only / केवल कृषि के लिए कानून बनाने की शक्ति",
+      "D": "To regulate interstate trade absolutely / राज्यों के बीच व्यापार पर पूर्ण नियंत्रण"
     },
-    "answer": [
-      "A"
-    ]
+    "answer": ["A", "B"]
   },
   {
     "id": 7,
-    "question": "राज्य वित्त आयोग की सिफारिशें नगरपालिकाओं को कब दी जाती हैं? / When are the recommendations of the State Finance Commission given to Municipalities?",
+    "question": "Article 305 provides which kind of exception? / अनुच्छेद 305 किस प्रकार की व्यतिक्रम (exception) की व्यवस्था करता है?",
     "options": {
-      "A": "हर 2 वर्ष / Every 2 years",
-      "B": "हर 5 वर्ष / Every 5 years",
-      "C": "हर 7 वर्ष / Every 7 years",
-      "D": "सालाना / Annually"
+      "A": "Saving of existing laws relating to state monopolies / राज्य एकाधिकार से संबंधित मौजूदा कानूनों का संरक्षण",
+      "B": "Immunity to President / राष्ट्रपति को प्रतिरक्षा",
+      "C": "Reservation for SC/ST / अनुसूचित जाति/जनजाति के लिए आरक्षण",
+      "D": "Emergency powers / आपातकालीन शक्तियाँ"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 8,
-    "question": "Article 243U किस विषय से संबंधित है? / Article 243U relates to:",
+    "question": "Which Article in Part XIII was repealed by the 7th Constitutional Amendment? / भाग XIII में कौन सा अनुच्छेद संविधान (सातवां संशोधन) द्वारा निरस्त किया गया?",
     "options": {
-      "A": "नगरपालिका का कार्यकाल / Duration of Municipality",
-      "B": "चुनाव प्रक्रिया / Election Process",
-      "C": "आरक्षण नीति / Reservation Policy",
-      "D": "राज्य सरकार का नियंत्रण / State Government control"
+      "A": "Article 306",
+      "B": "Article 303",
+      "C": "Article 304A",
+      "D": "Article 302"
     },
-    "answer": [
-      "A"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 9,
-    "question": "Article 243ZF संबंधित है: / Article 243ZF relates to:",
+    "question": "Article 307 empowers whom to appoint authority for facilitating trade within India? / अनुच्छेद 307 के अनुसार भारत में व्यापार को सुविधाजनक बनाने के लिए कौन प्राधिकरण नियुक्त करता है?",
     "options": {
-      "A": "नगर परिषद की शक्तियाँ / Powers of Municipal Council",
-      "B": "स्थानीय संस्थाओं का संक्रमण / Transitional provision for local bodies",
-      "C": "राज्य निर्वाचन आयोग / State Election Commission",
-      "D": "नगरपालिका निधि / Municipal Funds"
+      "A": "President of India / भारत के राष्ट्रपति",
+      "B": "Chief Justice of India / मुख्य न्यायाधीश",
+      "C": "Home Minister / गृह मंत्री",
+      "D": "Finance Commission / वित्त आयोग"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 10,
-    "question": "नगर पालिका के लिए न्यूनतम आयु सीमा क्या है? / What is the minimum age to contest for Municipality?",
+    "question": "Which country’s constitution inspired the provisions of Part XIII? / भाग XIII के प्रावधान किन देशों के संविधान से प्रेरित हैं?",
     "options": {
-      "A": "18 वर्ष / 18 years",
-      "B": "21 वर्ष / 21 years",
-      "C": "25 वर्ष / 25 years",
-      "D": "30 वर्ष / 30 years"
+      "A": "Australian Constitution / ऑस्ट्रेलियाई संविधान",
+      "B": "US Constitution / अमेरिकी संविधान",
+      "C": "Irish Constitution / आयरिश संविधान",
+      "D": "Canadian Constitution / कनाडाई संविधान"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 11,
-    "question": "राज्य चुनाव आयोग की शक्तियाँ अनुच्छेद ____ में दी गई हैं। / Powers of State Election Commission are given under Article:",
+    "question": "The leading Supreme Court judgement discussing Article 301 and the freedom of trade is: / अनुच्छेद 301 और व्यापार की स्वतंत्रता पर सर्वोच्च न्यायालय का प्रमुख निर्णय कौन सा है?",
     "options": {
-      "A": "243ZA",
-      "B": "243W",
-      "C": "243U",
-      "D": "243ZH"
+      "A": "Atiabari Tea Co. case (1961)",
+      "B": "State of Bombay vs. R.M.D. Chamarbaugwala",
+      "C": "Bennett Coleman vs Union of India",
+      "D": "Automobile Transport (Rajasthan) Ltd. vs State of Rajasthan (1962)"
     },
-    "answer": [
-      "A"
-    ]
+    "answer": ["A", "D"]
   },
   {
     "id": 12,
-    "question": "12वीं अनुसूची संविधान में कब जोड़ी गई थी? / When was the 12th Schedule added to the Constitution?",
+    "question": "What principle did the Supreme Court lay down in the Atiabari Tea Co. and Automobile Transport cases? / Atiabari Tea Co. और Automobile Transport मामलों में सर्वोच्च न्यायालय ने कौन सा सिद्धांत स्थापित किया?",
     "options": {
-      "A": "1976",
-      "B": "1989",
-      "C": "1992",
-      "D": "1993"
+      "A": "Freedom of trade covers both direct and indirect restrictions / व्यापार की स्वतंत्रता प्रत्यक्ष एवं अप्रत्यक्ष दोनों प्रकार के प्रतिबंधों पर लागू होती है",
+      "B": "States can impose arbitrary taxes / राज्य मनमाने कर लगा सकते हैं",
+      "C": "Reasonable restrictions for public interest are allowed / सार्वजनिक हित के लिए युक्तियुक्त प्रतिबंध लगाए जा सकते हैं",
+      "D": "No restriction is permitted at all / कोई भी प्रतिबंध कतई मान्य नहीं"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["A", "C"]
   },
   {
     "id": 13,
-    "question": "Article 243V संबंधित है: / Article 243V relates to:",
+    "question": "Which amendment omitted Article 306 and what was its effect? / किस संशोधन ने अनुच्छेद 306 को हटाया और उसका क्या प्रभाव हुआ?",
     "options": {
-      "A": "नगरपालिका की संरचना / Composition of Municipalities",
-      "B": "सदस्यता की योग्यता और अयोग्यता / Qualifications and disqualifications of members",
-      "C": "वित्तीय अधिकार / Financial Powers",
-      "D": "स्थानीय भाषा / Local language"
+      "A": "7th Constitutional Amendment, state authority on trade with Part B states ended / 7वां संविधान संशोधन – पार्ट B राज्यों हेतु प्रावधान का अंत",
+      "B": "42nd Amendment, Emergency Provisions / 42वां संविधान संशोधन – आपातकाल प्रावधान",
+      "C": "73rd Amendment, Panchayati Raj / 73वां संशोधन – पंचायती राज",
+      "D": "44th Amendment, Right to Property / 44वां संशोधन – संपत्ति का अधिकार"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 14,
-    "question": "नगरपालिकाओं को वित्तीय सहायता कौन देता है? / Who provides financial assistance to Municipalities?",
+    "question": "According to Article 304(b), which restrictions can states impose on trade? / अनुच्छेद 304(b) के अनुसार राज्य कौन-कौन से प्रतिबंध लगा सकते हैं?",
     "options": {
-      "A": "केवल राज्य सरकार / Only State Government",
-      "B": "केवल केंद्र सरकार / Only Central Government",
-      "C": "राज्य एवं केंद्र सरकार दोनों / Both State and Central Government",
-      "D": "सिर्फ निजी संस्थाएं / Only private bodies"
+      "A": "Reasonable restrictions in the public interest / सार्वजनिक हित में युक्तियुक्त प्रतिबंध",
+      "B": "Discriminatory taxes favoring their own goods / अपने राज्य के उत्पाद को बढ़ावा देने हेतु भेदभावपूर्ण कर",
+      "C": "Restrictions needing Presidential assent / राष्ट्रपति की अनुमति के बाद प्रतिबंध",
+      "D": "Ban on all imports / सभी आयात पर प्रतिबंध"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["A", "C"]
   },
   {
     "id": 15,
-    "question": "नगरपालिका में महिला आरक्षण का प्रावधान किस अनुच्छेद में है? / Article providing for women's reservation in Municipality is:",
+    "question": "What is the significance of 'public interest' in Part XIII? / भाग XIII में 'लोकहित' शब्द का महत्व क्या है?",
     "options": {
-      "A": "243D",
-      "B": "243T",
-      "C": "243U",
-      "D": "243V"
+      "A": "Basis for restricting trade under Article 302 and 304(b) / अनुच्छेद 302 और 304(ख) में व्यापार पर प्रतिबंध हेतु आधार",
+      "B": "Use for suspending fundamental rights / मौलिक अधिकार निलंबित करने हेतु",
+      "C": "Grounds for excluding SC protection / सर्वोच्च न्यायालय की सुरक्षा से बाहर होने का आधार",
+      "D": "Making reservations in Parliament / संसद में आरक्षण का आधार"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["A"]
+  },
+  {
+    "id": 16,
+    "question": "Can a state make a law restricting trade with other states under Article 304 without Presidential sanction? / क्या अनुच्छेद 304 के तहत राज्य राष्ट्रपति की अनुमति के बिना व्यापार पर प्रतिबंध लगा सकता है?",
+    "options": {
+      "A": "No, prior Presidential sanction is needed for bills under 304(b) / नहीं, 304(ख) के तहत विधेयकों के लिए राष्ट्रपति की अनुमति आवश्यक है",
+      "B": "Yes, state can do so independently / हाँ, राज्य स्वतः कर सकता है",
+      "C": "Depends on Centre's notification / केंद्र की अधिसूचना पर निर्भर",
+      "D": "Yes, only in case of emergencies / हाँ, केवल आपातकाल में"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 17,
+    "question": "What type of taxes are disallowed under Article 304(a)? / अनुच्छेद 304(अ) के तहत कौन से कर अवैध माने गए हैं?",
+    "options": {
+      "A": "Discriminatory taxes against goods from other states / अन्य राज्यों से आयातित वस्तुओं पर भेदभावपूर्ण कर",
+      "B": "Reasonable equal taxes / समान युक्तियुक्त कर",
+      "C": "Exclusive import/export taxes / विशेष आयात/निर्यात कर",
+      "D": "Taxes on services / सेवाओं पर कर"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 18,
+    "question": "Which principle is known as the 'Doctrine of Direct and Immediate Effect' in context to Article 301? / अनुच्छेद 301 के संदर्भ में 'डायरेक्ट एंड इमीडिएट इफेक्ट' सिद्धांत किसे कहा जाता है?",
+    "options": {
+      "A": "Restriction must have direct and immediate impact on trade freedom / प्रतिबंध का व्यापारिक स्वतंत्रता पर प्रत्यक्ष व त्वरित प्रभाव होना चाहिए",
+      "B": "Only indirect effect matters / केवल अप्रत्यक्ष प्रभाव महत्वपूर्ण",
+      "C": "Judicial review excluded / न्यायिक समीक्षा वर्जित",
+      "D": "State power absolute / राज्य शक्ति पूर्ण"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 19,
+    "question": "What is the effect if a state enacts a law violating Article 301? / यदि कोई राज्य अनुच्छेद 301 का उल्लंघन करने वाला कानून बनाता है तो क्या प्रभाव होगा?",
+    "options": {
+      "A": "Law can be struck down by the courts / अदालत ऐसे कानून को रद्द कर सकती है",
+      "B": "President can promulgate ordinance / राष्ट्रपति अधिसूचना जारी कर सकते हैं",
+      "C": "Centre must approve / केंद्र की स्वीकृति आवश्यक",
+      "D": "Citizens can file writ petition / नागरिक रिट याचिका दायर कर सकते हैं"
+    },
+    "answer": ["A", "D"]
+  },
+  {
+    "id": 20,
+    "question": "Which landmark controversy led to the clarification of trade freedom between states? / कौन सा विवाद राज्यों के बीच व्यापारिक स्वतंत्रता की व्याख्या का कारण बना?",
+    "options": {
+      "A": "Atiabari Tea Co. vs. State of Assam",
+      "B": "Automobile Transport Ltd. vs State of Rajasthan",
+      "C": "Kesavananda Bharati vs State of Kerala",
+      "D": "Raj Narain vs Indira Gandhi"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 21,
+    "question": "Can states create monopolies in trade under Part XIII? / क्या राज्यों को भाग XIII के अंतर्गत व्यापार में एकाधिकार (राज्य मोनोपॉली) बनाने की अनुमति है?",
+    "options": {
+      "A": "Yes, as protected under Article 305 / हाँ, अनुच्छेद 305 के संरक्षण के तहत",
+      "B": "No, it is prohibited / नहीं, यह निषिद्ध है",
+      "C": "Only for food grains / केवल अनाज हेतु",
+      "D": "Only with Parliament's consent / केवल संसद की अनुमति से"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 22,
+    "question": "Who can challenge the validity of state laws restricting inter-state trade? / राज्यों द्वारा अंतराज्यीय व्यापार रोकने वाले कानूनों की वैधता को कौन चुनौती दे सकता है?",
+    "options": {
+      "A": "Any affected citizen / कोई भी प्रभावित नागरिक",
+      "B": "Only the President / केवल राष्ट्रपति",
+      "C": "A business entity / कोई व्यावसायिक निकाय",
+      "D": "Supreme Court suo motu / स्वतः सुप्रीम कोर्ट"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 23,
+    "question": "Which statement is true regarding the legislative competence for state-level restrictions under Part XIII? / भाग XIII के अंतर्गत राज्य-स्तरीय प्रतिबंधों की विधायी योग्यता के बारे में कौन सा कथन सही है?",
+    "options": {
+      "A": "State legislature can impose non-discriminatory taxes / राज्य विधानमंडल गैर-भेदभावपूर्ण कर लगा सकता है",
+      "B": "State legislature can make discriminatory tax laws freely / राज्य विधानमंडल मुक्त रूप से भेदभावयुक्त कर कानून बना सकता है",
+      "C": "Presidential assent is mandatory in some cases / कुछ मामलों में राष्ट्रपति की स्वीकृति आवश्यक है",
+      "D": "States are completely barred from imposing any restriction / राज्यों को किसी भी प्रतिबंध हेतु पूर्णतः प्रतिबंधित किया गया है"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 24,
+    "question": "Which institution can be designated under Article 307 for implementation of Part XIII? / अनुच्छेद 307 के अधीन भाग XIII के क्रियान्वयन हेतु किस संस्था को नामांकित किया जा सकता है?",
+    "options": {
+      "A": "Any authority appointed by the President / राष्ट्रपति द्वारा नियुक्त कोई प्राधिकरण",
+      "B": "Reserve Bank of India / भारतीय रिज़र्व बैंक",
+      "C": "Election Commission / निर्वाचन आयोग",
+      "D": "Finance Commission / वित्त आयोग"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is a consequence of the 7th Amendment Act, 1956, regarding Part XIII? / भाग XIII के संबंध में 1956 के 7वें संशोधन अधिनियम का कौन सा परिणाम था?",
+    "options": {
+      "A": "Omission of Article 306 / अनुच्छेद 306 की विलोपन",
+      "B": "Redefinition of states and territories / राज्यों और क्षेत्रों की पुनः परिभाषा",
+      "C": "Introduction of Union Territories / केंद्रशासित प्रदेशों का समावेश",
+      "D": "Repeal of Part VII / भाग VII का निरसन"
+    },
+    "answer": ["A", "B", "C", "D"]
   }
 ]
