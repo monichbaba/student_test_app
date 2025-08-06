@@ -1,223 +1,197 @@
 [
   {
     "id": 1,
-    "question": "7वां संविधान संशोधन अधिनियम किस वर्ष लागू हुआ था? / In which year was the 7th Constitutional Amendment Act implemented?",
+    "question": "Part IX-A संविधान में किस विषय से संबंधित है? / What does Part IX-A of the Constitution deal with?",
     "options": {
-      "A": "1950",
-      "B": "1952",
-      "C": "1956",
-      "D": "1962"
+      "A": "राज्य विधायिका / State Legislature",
+      "B": "नगरपालिका / Municipalities",
+      "C": "न्यायपालिका / Judiciary",
+      "D": "ग्राम पंचायत / Gram Panchayat"
     },
-    "answer": ["C"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 2,
-    "question": "7वें संशोधन का मुख्य उद्देश्य क्या था? / What was the primary objective of the 7th Amendment?",
+    "question": "Part IX-A संविधान में किस संशोधन द्वारा जोड़ा गया था? / By which amendment was Part IX-A added to the Constitution?",
     "options": {
-      "A": "Fundamental Duties जोड़ना",
-      "B": "राज्यों का भाषाई आधार पर पुनर्गठन",
-      "C": "Emergency powers बढ़ाना",
-      "D": "Preamble में संशोधन करना"
+      "A": "42वां संशोधन / 42nd Amendment",
+      "B": "44वां संशोधन / 44th Amendment",
+      "C": "73वां संशोधन / 73rd Amendment",
+      "D": "74वां संशोधन / 74th Amendment"
     },
-    "answer": ["B"]
+    "answer": [
+      "D"
+    ]
   },
   {
     "id": 3,
-    "question": "7वें संशोधन के तहत निम्नलिखित में से कौन-सा अनुच्छेद हटा दिया गया था? / Which Article was repealed under the 7th Amendment?",
+    "question": "अनुच्छेद 243Q के अनुसार नगर पालिका की स्थापना किस आधार पर होती है? / As per Article 243Q, the establishment of municipalities is based on:",
     "options": {
-      "A": "Article 370",
-      "B": "Article 238",
-      "C": "Article 35A",
-      "D": "Article 352"
+      "A": "राज्यपाल की इच्छा / Will of Governor",
+      "B": "जनसंख्या / Population",
+      "C": "राज्य सरकार की अधिसूचना / State government notification",
+      "D": "राज्य विधानसभा का प्रस्ताव / State Assembly resolution"
     },
-    "answer": ["B"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 4,
-    "question": "7वें संशोधन ने संविधान का कौन-सा भाग समाप्त कर दिया? / Which Part of the Constitution was deleted by the 7th Amendment?",
+    "question": "नगरपालिका की तीन श्रेणियाँ कौन-सी हैं? / What are the three types of Municipalities?",
     "options": {
-      "A": "Part VI",
-      "B": "Part VII",
-      "C": "Part IX",
-      "D": "Part XIV"
+      "A": "नगर पंचायत, नगरपालिका, नगर निगम / Nagar Panchayat, Municipal Council, Municipal Corporation",
+      "B": "ग्राम पंचायत, तालुका पंचायत, जिला परिषद / Gram Panchayat, Taluka Panchayat, Zila Parishad",
+      "C": "शहर समिति, नगर समिति, जिला समिति / City Committee, Town Committee, District Committee",
+      "D": "केवल दो प्रकार / Only two types"
     },
-    "answer": ["B"]
+    "answer": [
+      "A"
+    ]
   },
   {
     "id": 5,
-    "question": "राज्य पुनर्गठन आयोग (SRC) की स्थापना कब हुई थी? / When was the States Reorganisation Commission established?",
+    "question": "Article 243W संबंधित है: / Article 243W is related to:",
     "options": {
-      "A": "1950",
-      "B": "1953",
-      "C": "1956",
-      "D": "1960"
+      "A": "राज्य सरकार की शक्तियाँ / Powers of State Government",
+      "B": "नगरपालिकाओं के कार्य और शक्तियाँ / Powers and responsibilities of Municipalities",
+      "C": "नगर निगमों के चुनाव / Elections of Corporations",
+      "D": "शहरी भूमि सुधार / Urban land reforms"
     },
-    "answer": ["B"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 6,
-    "question": "SRC (States Reorganisation Commission) के अध्यक्ष कौन थे? / Who was the chairman of the SRC?",
+    "question": "12वीं अनुसूची में कितने विषय शामिल हैं? / How many subjects are listed in the 12th Schedule?",
     "options": {
-      "A": "K.M. Munshi",
-      "B": "S.K. Dhar",
-      "C": "Fazl Ali",
-      "D": "B.R. Ambedkar"
+      "A": "18",
+      "B": "20",
+      "C": "21",
+      "D": "29"
     },
-    "answer": ["C"]
+    "answer": [
+      "A"
+    ]
   },
   {
     "id": 7,
-    "question": "1956 में कितने नए राज्य बनाए गए थे? / How many states were reorganised in 1956?",
+    "question": "राज्य वित्त आयोग की सिफारिशें नगरपालिकाओं को कब दी जाती हैं? / When are the recommendations of the State Finance Commission given to Municipalities?",
     "options": {
-      "A": "10",
-      "B": "14",
-      "C": "16",
-      "D": "21"
+      "A": "हर 2 वर्ष / Every 2 years",
+      "B": "हर 5 वर्ष / Every 5 years",
+      "C": "हर 7 वर्ष / Every 7 years",
+      "D": "सालाना / Annually"
     },
-    "answer": ["B"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 8,
-    "question": "7वें संशोधन के बाद भारत में राज्य कितनी श्रेणियों में वर्गीकृत किए गए? / After the 7th Amendment, how were the states categorized?",
+    "question": "Article 243U किस विषय से संबंधित है? / Article 243U relates to:",
     "options": {
-      "A": "A, B, C, D",
-      "B": "Only A and B",
-      "C": "कोई श्रेणी नहीं रही",
-      "D": "A, B and Union Territories"
+      "A": "नगरपालिका का कार्यकाल / Duration of Municipality",
+      "B": "चुनाव प्रक्रिया / Election Process",
+      "C": "आरक्षण नीति / Reservation Policy",
+      "D": "राज्य सरकार का नियंत्रण / State Government control"
     },
-    "answer": ["C"]
+    "answer": [
+      "A"
+    ]
   },
   {
     "id": 9,
-    "question": "7वें संशोधन ने किन Part-B राज्यों को समाप्त कर दिया? / Which of the following was abolished by ending Part-B states?",
+    "question": "Article 243ZF संबंधित है: / Article 243ZF relates to:",
     "options": {
-      "A": "Travancore-Cochin",
-      "B": "Hyderabad",
-      "C": "Bhopal",
-      "D": "All of the above / उपरोक्त सभी"
+      "A": "नगर परिषद की शक्तियाँ / Powers of Municipal Council",
+      "B": "स्थानीय संस्थाओं का संक्रमण / Transitional provision for local bodies",
+      "C": "राज्य निर्वाचन आयोग / State Election Commission",
+      "D": "नगरपालिका निधि / Municipal Funds"
     },
-    "answer": ["D"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 10,
-    "question": "राज्यों के भाषाई आधार पर पुनर्गठन की सिफारिश किस आयोग ने की थी? / Which commission recommended linguistic reorganisation of states?",
+    "question": "नगर पालिका के लिए न्यूनतम आयु सीमा क्या है? / What is the minimum age to contest for Municipality?",
     "options": {
-      "A": "Punchhi Commission",
-      "B": "Sarkaria Commission",
-      "C": "States Reorganisation Commission",
-      "D": "Administrative Reforms Commission"
+      "A": "18 वर्ष / 18 years",
+      "B": "21 वर्ष / 21 years",
+      "C": "25 वर्ष / 25 years",
+      "D": "30 वर्ष / 30 years"
     },
-    "answer": ["C"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 11,
-    "question": "महाराष्ट्र और गुजरात राज्य का गठन किस अधिनियम के तहत हुआ था? / Maharashtra and Gujarat were created under which Act?",
+    "question": "राज्य चुनाव आयोग की शक्तियाँ अनुच्छेद ____ में दी गई हैं। / Powers of State Election Commission are given under Article:",
     "options": {
-      "A": "Bombay Reorganisation Act, 1956",
-      "B": "States Reorganisation Act, 1956",
-      "C": "Bombay Reorganisation Act, 1960",
-      "D": "Maharashtra-Gujarat Formation Act, 1961"
+      "A": "243ZA",
+      "B": "243W",
+      "C": "243U",
+      "D": "243ZH"
     },
-    "answer": ["C"]
+    "answer": [
+      "A"
+    ]
   },
   {
     "id": 12,
-    "question": "छत्तीसगढ़ राज्य का गठन किस वर्ष हुआ? / In which year was the state of Chhattisgarh formed?",
+    "question": "12वीं अनुसूची संविधान में कब जोड़ी गई थी? / When was the 12th Schedule added to the Constitution?",
     "options": {
-      "A": "1999",
-      "B": "2000",
-      "C": "2001",
-      "D": "2002"
+      "A": "1976",
+      "B": "1989",
+      "C": "1992",
+      "D": "1993"
     },
-    "answer": ["B"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 13,
-    "question": "उत्तराखंड राज्य की स्थापना किस राज्य से की गई थी? / Uttarakhand was carved out from which state?",
+    "question": "Article 243V संबंधित है: / Article 243V relates to:",
     "options": {
-      "A": "Uttar Pradesh",
-      "B": "Himachal Pradesh",
-      "C": "Bihar",
-      "D": "Madhya Pradesh"
+      "A": "नगरपालिका की संरचना / Composition of Municipalities",
+      "B": "सदस्यता की योग्यता और अयोग्यता / Qualifications and disqualifications of members",
+      "C": "वित्तीय अधिकार / Financial Powers",
+      "D": "स्थानीय भाषा / Local language"
     },
-    "answer": ["A"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 14,
-    "question": "झारखंड राज्य का गठन किस राज्य से हुआ था? / Jharkhand was formed from which of the following states?",
+    "question": "नगरपालिकाओं को वित्तीय सहायता कौन देता है? / Who provides financial assistance to Municipalities?",
     "options": {
-      "A": "West Bengal",
-      "B": "Bihar",
-      "C": "Odisha",
-      "D": "Madhya Pradesh"
+      "A": "केवल राज्य सरकार / Only State Government",
+      "B": "केवल केंद्र सरकार / Only Central Government",
+      "C": "राज्य एवं केंद्र सरकार दोनों / Both State and Central Government",
+      "D": "सिर्फ निजी संस्थाएं / Only private bodies"
     },
-    "answer": ["B"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 15,
-    "question": "तेलंगाना भारत का कौन-सा राज्य बना? / Telangana became which number state of India?",
+    "question": "नगरपालिका में महिला आरक्षण का प्रावधान किस अनुच्छेद में है? / Article providing for women's reservation in Municipality is:",
     "options": {
-      "A": "28th",
-      "B": "29th",
-      "C": "30th",
-      "D": "27th"
+      "A": "243D",
+      "B": "243T",
+      "C": "243U",
+      "D": "243V"
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 16,
-    "question": "तेलंगाना राज्य किस अधिनियम के तहत गठित हुआ था? / Telangana was created under which Act?",
-    "options": {
-      "A": "States Reorganisation Act, 2013",
-      "B": "Andhra Pradesh Reorganisation Act, 2014",
-      "C": "Telangana Formation Act, 2014",
-      "D": "Article 371(D)"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 17,
-    "question": "जम्मू और कश्मीर को केंद्र शासित प्रदेश कब बनाया गया? / When was Jammu & Kashmir made a Union Territory?",
-    "options": {
-      "A": "15 August 2019",
-      "B": "31 October 2019",
-      "C": "5 August 2019",
-      "D": "1 January 2020"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 18,
-    "question": "जम्मू-कश्मीर पुनर्गठन अधिनियम 2019 के अनुसार कितने केंद्र शासित प्रदेश बनाए गए? / According to the J&K Reorganisation Act, 2019, how many UTs were created?",
-    "options": {
-      "A": "1",
-      "B": "2",
-      "C": "3",
-      "D": "4"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 19,
-    "question": "लद्दाख किस वर्ष केंद्र शासित प्रदेश बना? / Ladakh became a Union Territory in which year?",
-    "options": {
-      "A": "2014",
-      "B": "2018",
-      "C": "2019",
-      "D": "2020"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 20,
-    "question": "किस अनुच्छेद के अंतर्गत जम्मू-कश्मीर का विशेष दर्जा समाप्त किया गया? / Under which Article was J&K's special status removed?",
-    "options": {
-      "A": "Article 370",
-      "B": "Article 371",
-      "C": "Article 368",
-      "D": "Article 35A"
-    },
-    "answer": ["A"]
+    "answer": [
+      "B"
+    ]
   }
 ]
-
