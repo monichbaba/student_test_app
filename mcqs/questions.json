@@ -1,386 +1,595 @@
 [
-  {
-    "id": 1,
-    "theme": "Question Hour",
-    "question": "प्रश्नकाल (Question Hour) कब शुरू होता है और इसका उद्देश्य क्या है? / When does the Question Hour start and what is its purpose?",
-    "options": {
-      "A": "सत्र की पहली घंटा, केंद्र सरकार से प्रश्न पूछने के लिए / First hour of the sitting, to ask questions to central government",
-      "B": "दोपहर 2‑3 बजे, बिलों पर चर्चा हेतु / 2–3 PM, to debate bills",
-      "C": "सत्र के आखिर में, विधेयकों पर मतदान के लिए / End of session, to vote on bills",
-      "D": "रात्रि सत्र में, आपात स्थिति के लिए / Night session, for emergencies"
+    {
+        "id": 1,
+        "question": "निम्नलिखित में से कौन-से कारक भारत में मुद्रास्फीति को प्रभावित करते हैं? / Which of the following factors affect inflation in India?",
+        "options": {
+            "A": "खाद्य वस्तुओं की कीमतें / Prices of food items",
+            "B": "मौद्रिक नीति / Monetary policy",
+            "C": "शेयर बाजार में गिरावट / Fall in stock market",
+            "D": "ईंधन की कीमतें / Fuel prices"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 2,
-    "theme": "Question Hour",
-    "question": "कौन‑से प्रकार के प्रश्न Question Hour में पूछे जा सकते हैं? / Which types of questions are allowed during Question Hour?",
-    "options": {
-      "A": "स्टारड (oral) प्रश्न, अनस्टारड (written) प्रश्न, शॉर्ट‑नोटिस प्रश्न / Starred (oral), Unstarred (written), and Short‑notice questions",
-      "B": "केवल लिखित प्रश्न / Only written questions",
-      "C": "केवल मौखिक प्रश्न / Only oral questions",
-      "D": "प्रश्न और नारे / Questions and slogans"
+    {
+        "id": 2,
+        "question": "भारत सरकार की निम्नलिखित में से कौन-सी योजनाएँ प्रत्यक्ष नकद लाभ (DBT) से जुड़ी हैं? / Which of the following schemes of Government of India are linked to Direct Benefit Transfer (DBT)?",
+        "options": {
+            "A": "उज्ज्वला योजना / Ujjwala Yojana",
+            "B": "मनरेगा / MGNREGA",
+            "C": "पीएम किसान / PM-KISAN",
+            "D": "राष्ट्रीय खाद्य सुरक्षा अधिनियम / National Food Security Act"
+        },
+        "answer": [
+            "A",
+            "C"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 3,
-    "theme": "Zero Hour",
-    "question": "शून्यकाल (Zero Hour) कब शुरू होता है और इसका उद्देश्य क्या है? / When does the Zero Hour start and what is its purpose?",
-    "options": {
-      "A": "प्रश्नकाल खत्म होते ही, तत्काल सार्वजनिक महत्व के मुद्दे उठाने के लिए / Immediately after Question Hour, to raise urgent public issues",
-      "B": "सत्र की पहली शुरुआत में, सत्र खोलने हेतु / At start of sitting, to open session",
-      "C": "दोपहर भोजन में, संसदीय अवकाश हेतु / At lunch break, for adjournment",
-      "D": "भोजन के बाद, मुख्य व्यापार शुरू होने से पहले / After lunch, before main business"
+    {
+        "id": 3,
+        "question": "निम्नलिखित में से कौन-से क्षेत्र सकल घरेलू उत्पाद (GDP) में योगदान करते हैं? / Which of the following sectors contribute to the Gross Domestic Product (GDP)?",
+        "options": {
+            "A": "कृषि क्षेत्र / Agriculture sector",
+            "B": "सेवा क्षेत्र / Service sector",
+            "C": "निर्माण क्षेत्र / Manufacturing sector",
+            "D": "न्यायपालिका / Judiciary"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 4,
-    "theme": "Zero Hour",
-    "question": "Zero Hour प्रक्रिया के बारे में निम्न में से क्या सही है? / Which of the following is true about Zero Hour?",
-    "options": {
-      "A": "यह नियमों में नहीं लिखा है / It is not mentioned in rules of procedure",
-      "B": "हर MP बिना कोई नोटिस दिए बोल सकता है / Any MP can speak without any notice",
-      "C": "Duration लगभग 30 मिनट होता है / Duration is usually around 30 minutes",
-      "D": "किसी मंत्री को जवाब देना अनिवार्य होता है / Minister must reply"
+    {
+        "id": 4,
+        "question": "निम्नलिखित में से कौन-से संकेतक भारत में बेरोजगारी को मापने के लिए प्रयुक्त होते हैं? / Which of the following indicators are used to measure unemployment in India?",
+        "options": {
+            "A": "श्रम बल भागीदारी दर / Labour Force Participation Rate",
+            "B": "कार्यबल दर / Workforce Participation Rate",
+            "C": "बेरोजगारी दर / Unemployment Rate",
+            "D": "मुद्रास्फीति दर / Inflation Rate"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 5,
-    "theme": "Comparison",
-    "question": "Question Hour और Zero Hour में क्या मुख्य अंतर है? / What is the main difference between Question Hour and Zero Hour?",
-    "options": {
-      "A": "Question Hour प्रश्न‑उत्तर सत्र है, Zero Hour बिना सूचना के मुद्दे उठाने का समय / Question Hour is Q&A session, Zero Hour is for raising unscheduled issues",
-      "B": "Zero Hour संसदीय नियमों में है, Question Hour नहीं / Zero Hour is in rules, Question Hour is not",
-      "C": "Question Hour के दौरान मंत्री जवाब देते हैं, Zero Hour में नहीं / Ministers answer in Question Hour but not in Zero Hour",
-      "D": "दोनों की समयसीमा 2 घंटे होती है / Both have duration of 2 hours"
+    {
+        "id": 5,
+        "question": "निम्नलिखित में से कौन-से पूंजीगत व्यय (Capital Expenditure) माने जाते हैं? / Which of the following are considered capital expenditure?",
+        "options": {
+            "A": "सड़क निर्माण / Construction of roads",
+            "B": "ब्याज भुगतान / Interest payments",
+            "C": "रक्षा उपकरण खरीद / Purchase of defence equipment",
+            "D": "वेतन और पेंशन / Salaries and pensions"
+        },
+        "answer": [
+            "A",
+            "C"
+        ]
     },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 7,
-    "question": "लोकसभा में 'Half-Hour Discussion' का उद्देश्य क्या होता है?\nWhat is the objective of 'Half-Hour Discussion' in Lok Sabha?",
-    "options": {
-      "A": "गंभीर सार्वजनिक मामलों पर चर्चा / Discussion on serious public matters",
-      "B": "किसी उत्तर में अस्पष्टता को स्पष्ट करना / To seek clarification on ambiguous answers",
-      "C": "संसदीय कार्यों की समीक्षा / Review of parliamentary work",
-      "D": "आपातकालीन कानून पर चर्चा / Discussion on emergency laws"
+    {
+        "id": 6,
+        "question": "भारत के केंद्रीय बजट में 'राजकोषीय घाटा' को प्रभावित करने वाले कौन-से कारक हैं? / Which of the following factors affect the fiscal deficit in Indias Union Budget?",
+        "options": {
+            "A": "सरकारी व्यय / Government expenditure",
+            "B": "कर राजस्व / Tax revenue",
+            "C": "ब्याज दर / Interest rate",
+            "D": "राजस्व घाटा / Revenue deficit"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 8,
-    "question": "'Call-Attention Motion' की क्या विशेषता है?\nWhat is a key feature of a 'Call-Attention Motion'?",
-    "options": {
-      "A": "यह नियम 197 के तहत आता है / Comes under Rule 197",
-      "B": "सदस्यों को मंत्री का ध्यान गंभीर मामले पर आकर्षित करने का अधिकार देता है / Allows members to draw Ministers attention to a serious matter",
-      "C": "मत विभाजन की आवश्यकता होती है / Requires division of votes",
-      "D": "इस पर बहस नहीं होती / No debate allowed"
+    {
+        "id": 7,
+        "question": "निम्नलिखित में से कौन-सी मदें 'राजस्व व्यय' में आती हैं? / Which of the following items fall under Revenue Expenditure?",
+        "options": {
+            "A": "पेंशन भुगतान / Pension payments",
+            "B": "नए पुलों का निर्माण / Construction of new bridges",
+            "C": "सरकारी कर्मचारियों का वेतन / Salaries of government employees",
+            "D": "कृषि सब्सिडी / Agricultural subsidy"
+        },
+        "answer": [
+            "A",
+            "C",
+            "D"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 9,
-    "question": "निम्नलिखित में से 'Adjournment Motion' के बारे में सही कथन कौन-से हैं?\nWhich of the following statements are correct regarding 'Adjournment Motion'?",
-    "options": {
-      "A": "यह सरकार के खिलाफ अविश्वास का सूचक हो सकता है / Can imply no-confidence against the government",
-      "B": "यह लोकसभा में ही लाया जा सकता है / Can be introduced only in Lok Sabha",
-      "C": "यह किसी विशेष और तात्कालिक मुद्दे पर ध्यान केंद्रित करता है / Focuses on a specific and urgent matter",
-      "D": "यह राष्ट्रपति द्वारा लाया जाता है / It is moved by the President"
+    {
+        "id": 8,
+        "question": "बजट 2024-25 में भारत सरकार द्वारा घोषित कौन-सी योजनाएं अवसंरचना (infrastructure) से संबंधित हैं? / Which of the following schemes announced in Budget 2024-25 are related to infrastructure?",
+        "options": {
+            "A": "PM गतिशक्ति योजना / PM Gati Shakti Yojana",
+            "B": "PM आवास योजना / PM Awas Yojana",
+            "C": "स्वनिधि योजना / Swanidhi Yojana",
+            "D": "नेशनल लॉजिस्टिक्स पॉलिसी / National Logistics Policy"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 10,
-    "question": "निम्नलिखित में से कौन-से उपकरण कार्यपालिका की जवाबदेही सुनिश्चित करने में सहायक हैं?\nWhich of the following tools help ensure Executive accountability?",
-    "options": {
-      "A": "प्रश्न काल / Question Hour",
-      "B": "शून्य काल / Zero Hour",
-      "C": "स्थगन प्रस्ताव / Adjournment Motion",
-      "D": "ध्यानाकर्षण प्रस्ताव / Call-Attention Motion"
+    {
+        "id": 9,
+        "question": "बजट प्रस्तुति के संबंध में निम्नलिखित में से कौन-से कथन सही हैं? / Which of the following statements are correct regarding Union Budget presentation?",
+        "options": {
+            "A": "यह राष्ट्रपति द्वारा संसद में प्रस्तुत किया जाता है / It is presented in Parliament by the President",
+            "B": "यह वित्त मंत्री द्वारा लोकसभा में प्रस्तुत किया जाता है / It is presented in Lok Sabha by the Finance Minister",
+            "C": "इसमें राजस्व और व्यय का वार्षिक अनुमान होता है / It contains annual estimates of revenue and expenditure",
+            "D": "यह संविधान के अनुच्छेद 112 के अंतर्गत आता है / It comes under Article 112 of the Constitution"
+        },
+        "answer": [
+            "B",
+            "C",
+            "D"
+        ]
     },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 11,
-    "question": "No-Confidence Motion के संदर्भ में निम्नलिखित कथनों पर विचार करें।\nConsider the following statements about the No-Confidence Motion:",
-    "options": {
-      "A": "यह केवल लोकसभा में लाया जा सकता है / It can be introduced only in the Lok Sabha",
-      "B": "यह एक कार्यवाही के माध्यम से सरकार की वैधता को चुनौती देता है / It challenges the legitimacy of the government",
-      "C": "इसमें राष्ट्रपति की अनुमति आवश्यक है / Requires President's approval",
-      "D": "यह एक विशेष बहुमत द्वारा पारित किया जाता है / Passed by a special majority"
+    {
+        "id": 10,
+        "question": "केंद्र सरकार की बजट प्रक्रिया में 'वित्त विधेयक' (Finance Bill) से जुड़ी कौन-सी बातें सही हैं? / Which of the following statements about Finance Bill in the Union Budget are correct?",
+        "options": {
+            "A": "यह एक धन विधेयक होता है / It is a Money Bill",
+            "B": "राज्यसभा इसे अस्वीकार कर सकती है / Rajya Sabha can reject it",
+            "C": "यह केवल लोकसभा में पारित होना आवश्यक है / It only requires passage in Lok Sabha",
+            "D": "इसमें नए कर प्रावधान होते हैं / It contains provisions related to new taxes"
+        },
+        "answer": [
+            "A",
+            "C",
+            "D"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 12,
-    "question": "Confidence Motion के बारे में निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\nWhich of the following statements about Confidence Motion are correct?",
-    "options": {
-      "A": "यह प्रधानमंत्री द्वारा लाया जाता है / Moved by the Prime Minister",
-      "B": "यह सरकार द्वारा अपनी बहुमत सिद्ध करने हेतु लाया जाता है / Brought to prove the government's majority",
-      "C": "यह केवल राष्ट्रपति द्वारा लाया जा सकता है / Can only be moved by the President",
-      "D": "यह राज्यसभा में भी लाया जा सकता है / Can be moved in Rajya Sabha"
+    {
+        "id": 11,
+        "question": "बजट 2024-25 में निम्नलिखित में से कौन-से लक्ष्य रखे गए हैं? / Which of the following targets were set in Union Budget 2024–25?",
+        "options": {
+            "A": "राजकोषीय घाटा GDP का 5.1% रखने का लक्ष्य / Fiscal deficit target of 5.1% of GDP",
+            "B": "पूंजीगत व्यय ₹11.11 लाख करोड़ / Capital expenditure of ₹11.11 lakh crore",
+            "C": "रक्षा बजट ₹6.21 लाख करोड़ / Defence budget of ₹6.21 lakh crore",
+            "D": "कृषि ऋण लक्ष्य ₹20 लाख करोड़ / Agriculture credit target of ₹20 lakh crore"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 13,
-    "question": "Censure Motion और No-Confidence Motion में मुख्य अंतर क्या है?\nWhat is the main difference between Censure Motion and No-Confidence Motion?",
-    "options": {
-      "A": "Censure Motion को कारण के साथ पेश किया जाता है / Censure Motion is moved with specific reasons",
-      "B": "Censure Motion के पारित होने पर सरकार गिरती है / Passing of Censure Motion leads to fall of government",
-      "C": "No-Confidence Motion पूरे मंत्रिमंडल पर लागू होता है / No-Confidence applies to entire Council of Ministers",
-      "D": "Censure Motion केवल प्रश्नकाल में उठाया जा सकता है / Censure can only be raised during Question Hour"
+    {
+        "id": 12,
+        "question": "बजट 2024-25 के अनुसार निम्नलिखित में से कौन-से क्षेत्र सर्वोच्च पूंजीगत आवंटन प्राप्त करने वाले हैं? / According to Budget 2024–25, which sectors received highest capital allocation?",
+        "options": {
+            "A": "रेलवे / Railways",
+            "B": "सड़क परिवहन और राजमार्ग / Road Transport and Highways",
+            "C": "कृषि और किसान कल्याण / Agriculture and Farmers Welfare",
+            "D": "रक्षा / Defence"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 14,
-    "question": "Privilege Motion के बारे में निम्नलिखित में से कौन-से कथन सही हैं?\nWhich of the following statements about Privilege Motion are correct?",
-    "options": {
-      "A": "यह सदस्य या समिति की विशेषाधिकार हनन के लिए लाया जाता है / Brought in case of breach of privilege",
-      "B": "यह केवल लोकसभा में लाया जा सकता है / Can be moved only in Lok Sabha",
-      "C": "यह सरकार को जवाबदेह ठहराता है / Holds government accountable",
-      "D": "यह Speaker या Chairman की अनुमति से ही स्वीकार किया जाता है / Accepted only with permission of Speaker/Chairman"
+    {
+        "id": 13,
+        "question": "बजट 2024–25 में निम्न में से कौन-से कर संबंधी प्रस्ताव किए गए हैं? / Which of the following tax-related proposals were made in Budget 2024–25?",
+        "options": {
+            "A": "कोई नया कर नहीं लगाया गया / No new taxes imposed",
+            "B": "पुरानी कर दरें बरकरार रखी गईं / Existing tax rates retained",
+            "C": "कॉर्पोरेट टैक्स में 5% की वृद्धि / 5% hike in corporate tax",
+            "D": "डिजिटल ट्रांजैक्शन पर छूट / Rebate on digital transactions"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A", "D"]
-  },
-  {
-    "id": 15,
-    "question": "निम्नलिखित में से कौन-से Motion संसद में कार्यपालिका की ज़िम्मेदारी तय करने में सहायक हैं?\nWhich of the following motions help determine executive accountability in Parliament?",
-    "options": {
-      "A": "No-Confidence Motion",
-      "B": "Privilege Motion",
-      "C": "Censure Motion",
-      "D": "Confidence Motion"
+    {
+        "id": 14,
+        "question": "बजट 2024-25 में निम्नलिखित में से कौन-सी घोषणाएं सामाजिक क्षेत्र से संबंधित हैं? / Which of the following announcements in Budget 2024–25 are related to the social sector?",
+        "options": {
+            "A": "75 लाख नए आवास निर्माण की घोषणा / Announcement of 75 lakh new houses",
+            "B": "PM Awas Yojana के लिए अतिरिक्त फंडिंग / Additional funding for PM Awas Yojana",
+            "C": "One Nation One Anganwadi योजना की शुरुआत / Launch of One Nation One Anganwadi",
+            "D": "राष्ट्रीय पोषण मिशन बंद करने की घोषणा / Announcement to discontinue National Nutrition Mission"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 16,
-    "question": "Cut Motions के संदर्भ में निम्नलिखित कथनों पर विचार करें।\nConsider the following statements regarding Cut Motions:",
-    "options": {
-      "A": "ये सरकार को जिम्मेदार ठहराने का उपकरण होते हैं / These are tools to hold the government accountable",
-      "B": "ये केवल वित्तीय मांगों पर प्रस्तावित किए जा सकते हैं / Can be moved only on demands for grants",
-      "C": "ये राज्यसभा में भी लाए जा सकते हैं / Can be moved in Rajya Sabha",
-      "D": "ये केवल प्रधानमंत्री द्वारा लाए जाते हैं / Moved only by the Prime Minister"
+    {
+        "id": 15,
+        "question": "बजट 2024-25 में निम्नलिखित में से कौन-से कदम हरित (ग्रीन) विकास के लिए लिए गए हैं? / Which of the following steps were taken for green growth in Budget 2024–25?",
+        "options": {
+            "A": "हरित ऊर्जा गलियारा विस्तार / Expansion of green energy corridors",
+            "B": "कम्प्रेस्ड बायोगैस के लिए पॉलिसी / Policy for compressed biogas",
+            "C": "कोयला आयात को बढ़ावा / Promotion of coal imports",
+            "D": "ई-बसों के लिए फंडिंग / Funding for electric buses"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 17,
-    "question": "Policy Cut Motion के बारे में निम्नलिखित में से कौन-से कथन सही हैं?\nWhich of the following statements about Policy Cut Motion are correct?",
-    "options": {
-      "A": "यह पूरी मांग को ₹1 तक घटाने का प्रस्ताव करता है / Proposes to reduce the demand to ₹1",
-      "B": "यह सरकारी नीति की असहमति को दर्शाता है / Indicates disapproval of government policy",
-      "C": "यह किसी विशेष कार्य या सेवा के विरुद्ध होता है / Against specific expenditure item",
-      "D": "यह वित्त विधेयक का हिस्सा होता है / Part of Finance Bill"
+    {
+        "id": 16,
+        "question": "बजट 2024-25 में घोषित निम्नलिखित में से कौन-सी योजनाएं महिलाओं के सशक्तिकरण से संबंधित हैं? / Which of the following schemes announced in Budget 2024–25 relate to women empowerment?",
+        "options": {
+            "A": "लखपति दीदी योजना विस्तार / Expansion of Lakhpati Didi Yojana",
+            "B": "नारी शक्ति मिशन / Nari Shakti Mission",
+            "C": "महिला स्टार्टअप योजना / Mahila Startup Yojana",
+            "D": "बेटी बचाओ योजना को बंद करना / Discontinuation of Beti Bachao Yojana"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 18,
-    "question": "Economy Cut Motion के बारे में निम्नलिखित में से कौन-से कथन सही हैं?\nWhich of the following statements about Economy Cut Motion are correct?",
-    "options": {
-      "A": "यह व्यय को कम करने का सुझाव देता है / Suggests reduction of expenditure",
-      "B": "यह पूरी राशि को ₹1 तक घटाने का प्रस्ताव करता है / Reduces amount to ₹1",
-      "C": "यह सरकार की कार्यक्षमता पर प्रश्न उठाता है / Questions government's efficiency",
-      "D": "यह राज्यसभा में पारित होता है / Passed in Rajya Sabha"
+    {
+        "id": 17,
+        "question": "बजट 2024–25 में शुरू की गई निम्नलिखित में से कौन-सी योजनाएं युवाओं और कौशल विकास पर केंद्रित हैं? / Which of the following schemes introduced in Budget 2024–25 focus on youth and skill development?",
+        "options": {
+            "A": "PM कौशल विकास 4.0 योजना / PM Kaushal Vikas 4.0 Yojana",
+            "B": "डिजिटल स्किलिंग प्लेटफ़ॉर्म / Digital Skilling Platform",
+            "C": "स्टार्टअप इंडिया एक्सीलरेटर योजना / Startup India Accelerator Scheme",
+            "D": "राष्ट्रीय युवा संविदा योजना / National Youth Contract Scheme"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 19,
-    "question": "Token Cut Motion का उद्देश्य क्या होता है?\nWhat is the objective of Token Cut Motion?",
-    "options": {
-      "A": "किसी विशिष्ट नीति में कमी की ओर ध्यान आकर्षित करना / To highlight a specific policy lapse",
-      "B": "वित्त विधेयक में संशोधन का प्रयास / To amend Finance Bill",
-      "C": "मांग को ₹100 तक घटाने का प्रस्ताव / Proposes to reduce the demand by ₹100",
-      "D": "सरकार के विरुद्ध अविश्वास प्रकट करना / To express no-confidence in the government"
+    {
+        "id": 18,
+        "question": "बजट 2024–25 में निम्नलिखित में से कौन-सी योजनाएं किसानों और ग्रामीण विकास से संबंधित हैं? / Which of the following schemes in Budget 2024–25 relate to farmers and rural development?",
+        "options": {
+            "A": "नवाचार कृषि योजना / Innovative Agriculture Scheme",
+            "B": "डिजिटल कृषि मिशन विस्तार / Expansion of Digital Agriculture Mission",
+            "C": "PM Fasal Suraksha Scheme 2.0 / पीएम फसल सुरक्षा योजना 2.0",
+            "D": "ग्रामीण पेयजल योजना / Rural Drinking Water Scheme"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 20,
-    "question": "निम्नलिखित में से कौन-से Motion बजट प्रक्रिया के अंतर्गत आते हैं?\nWhich of the following motions are part of the budgetary process?",
-    "options": {
-      "A": "Guillotine",
-      "B": "Vote on Account",
-      "C": "Supplementary Grants",
-      "D": "Privilege Motion"
+    {
+        "id": 19,
+        "question": "बजट 2024–25 में घोषित निम्न योजनाओं में से कौन-सी शिक्षा क्षेत्र से जुड़ी हैं? / Which of the following newly announced schemes in Budget 2024–25 relate to the education sector?",
+        "options": {
+            "A": "AI रिसर्च यूनिवर्सिटी की स्थापना / Establishment of AI Research University",
+            "B": "डिजिटल क्लासरूम मिशन / Digital Classroom Mission",
+            "C": "नेशनल एजुकेशन एंड स्किलिंग फंड / National Education and Skilling Fund",
+            "D": "स्कूल बुनियादी ढांचा सुधार योजना / School Infrastructure Reform Scheme"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
     },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 21,
-    "question": "Vote on Account के संबंध में निम्न कथनों पर विचार करें।\nConsider the following statements regarding Vote on Account:",
-    "options": {
-      "A": "यह अंतरिम वित्तीय अनुमति होती है जब तक बजट पारित न हो / It provides interim financial authority until the budget is passed",
-      "B": "यह पूरे वित्तीय वर्ष के लिए अनुमोदन देता है / It authorizes expenditure for the whole financial year",
-      "C": "यह सामान्यत: 2 महीनों के लिए दिया जाता है / Usually granted for 2 months",
-      "D": "यह राष्ट्रपति द्वारा पारित किया जाता है / It is passed by the President"
+    {
+        "id": 20,
+        "question": "बजट 2024–25 में निम्नलिखित में से कौन-सी योजनाएं पर्यावरण और हरित विकास को बढ़ावा देती हैं? / Which of the following schemes in Budget 2024–25 promote environment and green growth?",
+        "options": {
+            "A": "हरित ऊर्जा गलियारा योजना / Green Energy Corridor Scheme",
+            "B": "हरित उर्वरक प्रोत्साहन योजना / Green Fertilizer Incentive Scheme",
+            "C": "नेशनल क्लाइमेट फंड / National Climate Fund",
+            "D": "प्लास्टिक मुक्त ग्राम योजना / Plastic-Free Village Scheme"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 22,
-    "question": "Vote on Account और Budget के बीच क्या अंतर है?\nWhat are the differences between Vote on Account and Budget?",
-    "options": {
-      "A": "Budget में नीति वक्तव्य होता है, Vote on Account में नहीं / Budget includes policy statement, Vote on Account does not",
-      "B": "Vote on Account केवल व्यय प्राधिकरण देता है / Vote on Account authorizes only expenditure",
-      "C": "Budget केवल आपदा के समय लाया जाता है / Budget is introduced only in emergencies",
-      "D": "Budget को संविधान में अनिवार्य बताया गया है, Vote on Account को नहीं / Budget is constitutionally mandatory, Vote on Account is not"
+    {
+        "id": 21,
+        "question": "बजट 2024–25 में किस-किस क्षेत्र को ₹1 लाख करोड़ से अधिक का आवंटन मिला? / Which of the following sectors received an allocation of more than ₹1 lakh crore in Budget 2024–25?",
+        "options": {
+            "A": "रक्षा / Defence",
+            "B": "रेलवे / Railways",
+            "C": "सड़क परिवहन और राजमार्ग / Road Transport and Highways",
+            "D": "शिक्षा / Education"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 23,
-    "question": "Vote of Credit के बारे में निम्नलिखित कथनों में से कौन-से सही हैं?\nWhich of the following statements about Vote of Credit are correct?",
-    "options": {
-      "A": "यह अप्रत्याशित खर्चों के लिए संसद की मंजूरी प्राप्त करने का माध्यम है / It is used to get approval for unexpected expenditure",
-      "B": "यह राष्ट्रपति के अध्यादेश के द्वारा पास होता है / Passed through Presidential Ordinance",
-      "C": "यह विवरण रहित व्यय को स्वीकृति देता है / Sanctions expenditure without detailed estimates",
-      "D": "यह बजट में निहित होता है / Included in the regular budget"
+    {
+        "id": 22,
+        "question": "निम्नलिखित में से कौन-से सामाजिक क्षेत्र (social sector) को बजट 2024–25 में प्रमुख आवंटन प्राप्त हुआ? / Which of the following social sectors received major allocation in Budget 2024–25?",
+        "options": {
+            "A": "स्वास्थ्य और परिवार कल्याण / Health and Family Welfare",
+            "B": "शिक्षा / Education",
+            "C": "महिला एवं बाल विकास / Women and Child Development",
+            "D": "श्रम एवं रोजगार / Labour and Employment"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 24,
-    "question": "Vote on Account और Vote of Credit में क्या अंतर है?\nWhat are the differences between Vote on Account and Vote of Credit?",
-    "options": {
-      "A": "Vote on Account नियमित होता है, Vote of Credit असाधारण परिस्थितियों में / Vote on Account is regular, Vote of Credit is for exceptional cases",
-      "B": "Vote of Credit में अनुमानित व्यय का विवरण आवश्यक नहीं / Vote of Credit does not require detailed estimates",
-      "C": "दोनों ही राष्ट्रपति द्वारा पारित होते हैं / Both are passed by the President",
-      "D": "Vote on Account को संविधान में उल्लिखित किया गया है / Vote on Account is mentioned in the Constitution"
+    {
+        "id": 23,
+        "question": "बजट 2024–25 में ग्रामीण विकास मंत्रालय को प्रमुख रूप से कौन-सी योजनाओं के लिए आवंटन मिला? / In Budget 2024–25, the Ministry of Rural Development received major allocations for which of the following schemes?",
+        "options": {
+            "A": "PM आवास योजना (ग्रामीण) / PM Awas Yojana (Gramin)",
+            "B": "MGNREGA / मनरेगा",
+            "C": "राष्ट्रीय ग्रामीण आजीविका मिशन / National Rural Livelihood Mission",
+            "D": "स्टार्टअप इंडिया / Startup India"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 25,
-    "question": "निम्नलिखित में से कौन-से कथन सही रूप से Vote on Account और Vote of Credit के प्रयोग को दर्शाते हैं?\nWhich of the following correctly depict the usage of Vote on Account and Vote of Credit?",
-    "options": {
-      "A": "Vote on Account तब लिया जाता है जब पूर्ण बजट पारित नहीं हुआ हो / Vote on Account is used when full budget is not passed yet",
-      "B": "Vote of Credit का उपयोग युद्ध, आपदा जैसी स्थिति में होता है / Vote of Credit is used during war, calamity etc.",
-      "C": "Vote on Account में विस्तृत व्यय विवरण देना होता है / Detailed expenditure estimates are needed in Vote on Account",
-      "D": "Vote of Credit 6 महीने के लिए पारित किया जाता है / Vote of Credit is passed for 6 months"
+    {
+        "id": 24,
+        "question": "बजट 2024–25 में किस-किस अवसंरचना क्षेत्रों को पूंजीगत व्यय (capital expenditure) के तहत उच्च प्राथमिकता दी गई? / Which of the following infrastructure sectors were prioritized under capital expenditure in Budget 2024–25?",
+        "options": {
+            "A": "रेलवे / Railways",
+            "B": "हवाई अड्डा विस्तार / Airport expansion",
+            "C": "बंदरगाह और जलमार्ग / Ports and Waterways",
+            "D": "अंतरिक्ष अनुसंधान / Space research"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 26,
-    "question": "Finance Bill के संबंध में निम्न में से कौन-से कथन सही हैं?\nWhich of the following statements about Finance Bill are correct?",
-    "options": {
-      "A": "यह संविधान के अनुच्छेद 110 के तहत आता है / It falls under Article 110 of the Constitution",
-      "B": "यह सरकार की आय संबंधी प्रस्तावों को शामिल करता है / It contains proposals related to government revenue",
-      "C": "यह बिना राष्ट्रपति की सिफारिश के पेश किया जा सकता है / It can be introduced without Presidents recommendation",
-      "D": "यह राज्यसभा में भी पेश किया जा सकता है / It can also be introduced in Rajya Sabha"
+    {
+        "id": 25,
+        "question": "बजट 2024–25 के अनुसार, निम्नलिखित में से किन क्षेत्रों को ग्रीन ग्रोथ के तहत धन आवंटित किया गया? / According to Budget 2024–25, which of the following sectors received funding under Green Growth?",
+        "options": {
+            "A": "नवीकरणीय ऊर्जा / Renewable Energy",
+            "B": "ग्रीन हाइड्रोजन / Green Hydrogen",
+            "C": "इलेक्ट्रिक मोबिलिटी / Electric Mobility",
+            "D": "परमाणु ऊर्जा / Nuclear Energy"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 27,
-    "question": "Appropriation Bill के बारे में निम्न में से कौन-सा/से सही है/हैं?\nWhich of the following is/are true about Appropriation Bill?",
-    "options": {
-      "A": "यह व्यय की अनुमति देता है / It authorizes expenditure",
-      "B": "यह लोकसभा में ही पेश किया जा सकता है / It can only be introduced in Lok Sabha",
-      "C": "राज्यसभा इसमें संशोधन कर सकती है / Rajya Sabha can amend it",
-      "D": "यह संविधान के अनुच्छेद 114 के तहत आता है / It falls under Article 114"
+    {
+        "id": 26,
+        "question": "आर्थिक सर्वेक्षण 2024–25 के अनुसार भारत की अनुमानित वास्तविक GDP वृद्धि दर क्या रही? / According to Economic Survey 2024–25, what was Indias estimated real GDP growth rate?",
+        "options": {
+            "A": "7.0%",
+            "B": "7.6%",
+            "C": "6.8%",
+            "D": "8.2%"
+        },
+        "answer": [
+            "A",
+            "C"
+        ]
     },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 28,
-    "question": "Finance Bill और Appropriation Bill के बीच क्या अंतर है?\nWhat is the difference between Finance Bill and Appropriation Bill?",
-    "options": {
-      "A": "Finance Bill में कर प्रस्ताव होते हैं, Appropriation Bill में व्यय प्राधिकरण / Finance Bill deals with taxes, Appropriation Bill with expenditure",
-      "B": "Appropriation Bill को राष्ट्रपति की अनुमति नहीं चाहिए / Appropriation Bill doesn't require Presidents assent",
-      "C": "Finance Bill को Money Bill माना जाता है / Finance Bill is considered a Money Bill",
-      "D": "Appropriation Bill में आय का प्रावधान होता है / Appropriation Bill includes revenue provisions"
+    {
+        "id": 27,
+        "question": "आर्थिक सर्वेक्षण 2024–25 में किन क्षेत्रों को विकास के प्रमुख चालक (growth drivers) के रूप में पहचाना गया? / Which of the following sectors were identified as key growth drivers in Economic Survey 2024–25?",
+        "options": {
+            "A": "विनिर्माण / Manufacturing",
+            "B": "निजी निवेश / Private investment",
+            "C": "निर्यात / Exports",
+            "D": "बुनियादी ढांचा / Infrastructure"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 29,
-    "question": "Charged Expenditure के संबंध में कौन-से कथन सही हैं?\nWhich statements about Charged Expenditure are correct?",
-    "options": {
-      "A": "इस पर संसद में मतदान नहीं होता / No voting takes place on Charged Expenditure",
-      "B": "इसमें राष्ट्रपति, सुप्रीम कोर्ट आदि के वेतन शामिल होते हैं / Includes salaries of President, SC Judges etc.",
-      "C": "इसका लेखा-जोखा CAG प्रस्तुत करता है / Accounts of this are submitted by CAG",
-      "D": "यह Appropriation Act का हिस्सा नहीं होता / Not part of Appropriation Act"
+    {
+        "id": 28,
+        "question": "आर्थिक सर्वेक्षण 2024–25 के अनुसार भारत के चालू खाते के घाटे (Current Account Deficit) से जुड़े कौन-से कथन सही हैं? / Which of the following statements about Indias Current Account Deficit (CAD) are correct as per Economic Survey 2024–25?",
+        "options": {
+            "A": "CAD घटकर GDP का 1% हुआ / CAD reduced to 1% of GDP",
+            "B": "सेवा क्षेत्र अधिशेष में वृद्धि हुई / Services sector surplus increased",
+            "C": "सोने का आयात CAD में वृद्धि का कारण / Gold imports contributed to CAD rise",
+            "D": "विदेशी निवेश में कमी CAD में वृद्धि का कारण / Fall in FDI caused CAD increase"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 30,
-    "question": "Voted Expenditure के बारे में निम्न में से कौन-से सही कथन हैं?\nWhich of the following are correct about Voted Expenditure?",
-    "options": {
-      "A": "इस पर संसद में मतदान होता है / It is voted upon in Parliament",
-      "B": "यह नियमित सरकारी खर्चों को कवर करता है / It covers routine government expenditure",
-      "C": "यह केवल राज्य सरकारों पर लागू होता है / Applies only to state governments",
-      "D": "इसका अनुमोदन बजट के माध्यम से होता है / It is approved through Budget"
+    {
+        "id": 29,
+        "question": "आर्थिक सर्वेक्षण 2024–25 में MSME क्षेत्र के बारे में क्या प्रमुख बिंदु सामने आए? / What were the key highlights regarding the MSME sector in Economic Survey 2024–25?",
+        "options": {
+            "A": "MSME का GDP में योगदान 30% से अधिक / MSMEs contribute over 30% to GDP",
+            "B": "क्रेडिट गारंटी योजना का विस्तार / Expansion of credit guarantee scheme",
+            "C": "फॉर्मलाइजेशन में वृद्धि / Rise in formalization",
+            "D": "MSME निर्यात घटा / Decline in MSME exports"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 31,
-    "question": "Charged और Voted Expenditure में अंतर क्या है?\nWhat is the difference between Charged and Voted Expenditure?",
-    "options": {
-      "A": "Voted पर मतदान होता है, Charged पर नहीं / Voted is put to vote, Charged is not",
-      "B": "Charged Expenditure को राज्यसभा अस्वीकार कर सकती है / Rajya Sabha can reject Charged Expenditure",
-      "C": "Charged Expenditure न्यायपालिका और संवैधानिक पदों से जुड़ा है / It relates to judiciary and constitutional posts",
-      "D": "Voted Expenditure विशेष रूप से युद्धकालीन खर्च के लिए है / Voted Expenditure is for wartime only"
+    {
+        "id": 30,
+        "question": "आर्थिक सर्वेक्षण 2024–25 में सामाजिक क्षेत्र (Social Sector) से जुड़ी कौन-सी बातें प्रमुख रूप से सामने आईं? / Which of the following social sector aspects were prominently highlighted in Economic Survey 2024–25?",
+        "options": {
+            "A": "शिक्षा क्षेत्र में डिजिटल विभाजन / Digital divide in education sector",
+            "B": "स्वास्थ्य क्षेत्र में सार्वजनिक व्यय में वृद्धि / Increase in public health spending",
+            "C": "कुपोषण दर में गिरावट / Decline in malnutrition rates",
+            "D": "स्वच्छ भारत मिशन को बंद करने की सिफारिश / Recommendation to discontinue Swachh Bharat Mission"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 32,
-    "question": "Supplementary Grant के संबंध में कौन-से कथन सही हैं?\nWhich statements are correct regarding Supplementary Grant?",
-    "options": {
-      "A": "जब मूल अनुदान अपर्याप्त हो / When original grant proves insufficient",
-      "B": "यह संविधान के अनुच्छेद 115 के तहत आता है / Comes under Article 115",
-      "C": "यह केवल राज्य सरकारों के लिए है / Only for State Governments",
-      "D": "यह संसद में पुनः मतदान द्वारा पारित होता है / Passed through voting again in Parliament"
+    {
+        "id": 31,
+        "question": "निम्नलिखित में से कौन-से कथन 'राजकोषीय घाटा' (Fiscal Deficit) की सही व्याख्या करते हैं? / Which of the following statements correctly describe 'Fiscal Deficit'?",
+        "options": {
+            "A": "यह सरकार की कुल प्राप्तियों और कुल व्ययों का अंतर होता है / It is the difference between total receipts and total expenditure of the government",
+            "B": "इसमें उधार और अन्य देनदारियां शामिल होती हैं / It includes borrowings and other liabilities",
+            "C": "यह केवल पूंजीगत व्यय से संबंधित होता है / It is only related to capital expenditure",
+            "D": "यह सरकार के कर राजस्व और व्यय का अंतर होता है / It is the gap between tax revenue and total expenditure"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 33,
-    "question": "Excess Grant के बारे में निम्नलिखित में से कौन-सा/से सही है/हैं?\nWhich of the following is/are true about Excess Grant?",
-    "options": {
-      "A": "जब सरकार ने स्वीकृत राशि से अधिक खर्च किया हो / When government spends more than granted",
-      "B": "CAG द्वारा रिपोर्ट के बाद पेश किया जाता है / Presented after CAG's report",
-      "C": "यह Appropriation Bill का हिस्सा नहीं होता / Not part of Appropriation Bill",
-      "D": "इस पर संसद में कोई चर्चा नहीं होती / No discussion in Parliament"
+    {
+        "id": 32,
+        "question": "निम्नलिखित में से कौन-से 'राजस्व घाटा' (Revenue Deficit) के घटक हैं? / Which of the following are components of Revenue Deficit?",
+        "options": {
+            "A": "राजस्व व्यय / Revenue Expenditure",
+            "B": "राजस्व प्राप्ति / Revenue Receipts",
+            "C": "पूंजीगत व्यय / Capital Expenditure",
+            "D": "ब्याज भुगतान / Interest Payments"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 34,
-    "question": "Additional Grant कब दी जाती है?\nWhen is an Additional Grant given?",
-    "options": {
-      "A": "नई सेवा या योजना के लिए / For new service or scheme",
-      "B": "स्वीकृत व्यय में अधिकता के लिए / For excess in already sanctioned expenditure",
-      "C": "विशेष आपदा के लिए / For special calamity",
-      "D": "राज्यपाल की सिफारिश पर / On Governor's recommendation"
+    {
+        "id": 33,
+        "question": "FRBM अधिनियम 2003 के उद्देश्यों में से कौन-से सही हैं? / Which of the following are objectives of the FRBM Act, 2003?",
+        "options": {
+            "A": "राजकोषीय अनुशासन सुनिश्चित करना / To ensure fiscal discipline",
+            "B": "मुद्रास्फीति बढ़ाना / To increase inflation",
+            "C": "राजकोषीय घाटे को सीमित करना / To limit fiscal deficit",
+            "D": "राजस्व घाटे को खत्म करना / To eliminate revenue deficit"
+        },
+        "answer": [
+            "A",
+            "C",
+            "D"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 35,
-    "question": "Exceptional Grant से क्या तात्पर्य है?\nWhat does Exceptional Grant refer to?",
-    "options": {
-      "A": "ऐसा अनुदान जो किसी पूर्व सेवा से संबंधित नहीं / Grant not relating to any existing service",
-      "B": "वह जो राष्ट्रपति द्वारा सीधे दिया जाए / Directly given by the President",
-      "C": "वह जो केवल राज्यसभा में पास होता है / Passed only by Rajya Sabha",
-      "D": "यह अनुच्छेद 116 के तहत आता है / Comes under Article 116"
+    {
+        "id": 34,
+        "question": "निम्नलिखित में से कौन-से पैरामीटर सरकार के ऋण-से-GDP अनुपात (Debt-to-GDP ratio) को प्रभावित करते हैं? / Which of the following parameters affect the Debt-to-GDP ratio of a government?",
+        "options": {
+            "A": "GDP वृद्धि दर / GDP growth rate",
+            "B": "ब्याज दरें / Interest rates",
+            "C": "चालू खाता अधिशेष / Current account surplus",
+            "D": "राजकोषीय घाटा / Fiscal deficit"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["A", "D"]
-  }
+    {
+        "id": 35,
+        "question": "निम्नलिखित में से कौन-से घाटे 'राजकोषीय संकेतक' (Fiscal Indicators) माने जाते हैं? / Which of the following are considered as fiscal indicators?",
+        "options": {
+            "A": "राजस्व घाटा / Revenue Deficit",
+            "B": "प्राथमिक घाटा / Primary Deficit",
+            "C": "राजकोषीय घाटा / Fiscal Deficit",
+            "D": "चालू खाता घाटा / Current Account Deficit"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 36,
+        "question": "निम्नलिखित में से कौन-से 'प्रत्यक्ष कर' (Direct Taxes) के उदाहरण हैं? / Which of the following are examples of Direct Taxes?",
+        "options": {
+            "A": "आयकर / Income Tax",
+            "B": "कॉर्पोरेट कर / Corporate Tax",
+            "C": "माल एवं सेवा कर (GST) / Goods and Services Tax (GST)",
+            "D": "केंद्रीय उत्पाद शुल्क / Central Excise Duty"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "id": 37,
+        "question": "निम्नलिखित में से कौन-से 'अप्रत्यक्ष कर' (Indirect Taxes) हैं? / Which of the following are Indirect Taxes?",
+        "options": {
+            "A": "माल एवं सेवा कर (GST) / Goods and Services Tax (GST)",
+            "B": "कस्टम ड्यूटी / Customs Duty",
+            "C": "कॉर्पोरेट टैक्स / Corporate Tax",
+            "D": "राजस्व कर / Capital Gains Tax"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "id": 38,
+        "question": "निम्नलिखित में से कौन-से कथन GST के बारे में सही हैं? / Which of the following statements are correct about GST?",
+        "options": {
+            "A": "यह एक अप्रत्यक्ष कर है / It is an indirect tax",
+            "B": "यह 'एक राष्ट्र, एक कर' की अवधारणा पर आधारित है / It is based on the concept of 'One Nation, One Tax'",
+            "C": "GST केवल केंद्र सरकार द्वारा लगाया जाता है / GST is levied only by the Central Government",
+            "D": "GST ने VAT और सेवा कर को प्रतिस्थापित किया / GST replaced VAT and Service Tax"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "id": 39,
+        "question": "GST परिषद (GST Council) के बारे में कौन-से कथन सही हैं? / Which of the following statements are correct about the GST Council?",
+        "options": {
+            "A": "यह संविधान के अनुच्छेद 279A के तहत गठित की गई थी / It was constituted under Article 279A of the Constitution",
+            "B": "इसकी अध्यक्षता वित्त मंत्री करते हैं / It is chaired by the Union Finance Minister",
+            "C": "इसमें राज्यों के मुख्यमंत्री सदस्य होते हैं / State Chief Ministers are members of the Council",
+            "D": "यह GST दरों को तय करने वाली सर्वोच्च संस्था है / It is the apex body for deciding GST rates"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "id": 40,
+        "question": "निम्नलिखित में से कौन-से प्रभाव GST लागू होने से उत्पन्न हुए? / Which of the following are the effects of GST implementation?",
+        "options": {
+            "A": "प्रत्यक्ष कर संग्रह में वृद्धि / Increase in direct tax collection",
+            "B": "लॉजिस्टिक्स लागत में कमी / Reduction in logistics costs",
+            "C": "अंतर्राज्यीय व्यापार आसान हुआ / Easier inter-state trade",
+            "D": "दोहरा कराधान समाप्त हुआ / Elimination of double taxation"
+        },
+        "answer": [
+            "B",
+            "C",
+            "D"
+        ]
+    }
 ]
-
-
-
-
-
