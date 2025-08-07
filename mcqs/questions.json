@@ -1,390 +1,386 @@
 [
   {
     "id": 1,
-    "question": "संविधान के किस भाग में अस्थायी, परिवर्तनशील और विशेष प्रावधानों का उल्लेख है? / Which Part of the Constitution deals with Temporary, Transitional and Special Provisions?",
+    "theme": "Question Hour",
+    "question": "प्रश्नकाल (Question Hour) कब शुरू होता है और इसका उद्देश्य क्या है? / When does the Question Hour start and what is its purpose?",
     "options": {
-      "A": "Part XX / भाग 20",
-      "B": "Part XXI / भाग 21",
-      "C": "Part XIX / भाग 19",
-      "D": "Part XVIII / भाग 18"
+      "A": "सत्र की पहली घंटा, केंद्र सरकार से प्रश्न पूछने के लिए / First hour of the sitting, to ask questions to central government",
+      "B": "दोपहर 2‑3 बजे, बिलों पर चर्चा हेतु / 2–3 PM, to debate bills",
+      "C": "सत्र के आखिर में, विधेयकों पर मतदान के लिए / End of session, to vote on bills",
+      "D": "रात्रि सत्र में, आपात स्थिति के लिए / Night session, for emergencies"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 2,
-    "question": "अनुच्छेद 370 का किस राज्य से संबंध था? / Article 370 was related to which Indian state?",
+    "theme": "Question Hour",
+    "question": "कौन‑से प्रकार के प्रश्न Question Hour में पूछे जा सकते हैं? / Which types of questions are allowed during Question Hour?",
     "options": {
-      "A": "Nagaland",
-      "B": "Assam",
-      "C": "Jammu & Kashmir",
-      "D": "Sikkim"
+      "A": "स्टारड (oral) प्रश्न, अनस्टारड (written) प्रश्न, शॉर्ट‑नोटिस प्रश्न / Starred (oral), Unstarred (written), and Short‑notice questions",
+      "B": "केवल लिखित प्रश्न / Only written questions",
+      "C": "केवल मौखिक प्रश्न / Only oral questions",
+      "D": "प्रश्न और नारे / Questions and slogans"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 3,
-    "question": "अनुच्छेद 371 के अंतर्गत किस राज्य को विशेष प्रावधान प्राप्त है? / Which Article provides special provisions for Maharashtra and Gujarat?",
+    "theme": "Zero Hour",
+    "question": "शून्यकाल (Zero Hour) कब शुरू होता है और इसका उद्देश्य क्या है? / When does the Zero Hour start and what is its purpose?",
     "options": {
-      "A": "Article 371",
-      "B": "Article 371A",
-      "C": "Article 371B",
-      "D": "Article 371C"
+      "A": "प्रश्नकाल खत्म होते ही, तत्काल सार्वजनिक महत्व के मुद्दे उठाने के लिए / Immediately after Question Hour, to raise urgent public issues",
+      "B": "सत्र की पहली शुरुआत में, सत्र खोलने हेतु / At start of sitting, to open session",
+      "C": "दोपहर भोजन में, संसदीय अवकाश हेतु / At lunch break, for adjournment",
+      "D": "भोजन के बाद, मुख्य व्यापार शुरू होने से पहले / After lunch, before main business"
     },
     "answer": ["A"]
   },
   {
     "id": 4,
-    "question": "370 को समाप्त करने के लिए कौन-से संसदीय साधन का प्रयोग किया गया? / What mechanism was used to abrogate Article 370?",
+    "theme": "Zero Hour",
+    "question": "Zero Hour प्रक्रिया के बारे में निम्न में से क्या सही है? / Which of the following is true about Zero Hour?",
     "options": {
-      "A": "साधारण विधेयक / Ordinary Bill",
-      "B": "संवैधानिक संशोधन / Constitutional Amendment",
-      "C": "राष्ट्रपति आदेश + संसद की सहमति / Presidential Order + Parliamentary Resolution",
-      "D": "सुप्रीम कोर्ट के आदेश / Supreme Court Order"
+      "A": "यह नियमों में नहीं लिखा है / It is not mentioned in rules of procedure",
+      "B": "हर MP बिना कोई नोटिस दिए बोल सकता है / Any MP can speak without any notice",
+      "C": "Duration लगभग 30 मिनट होता है / Duration is usually around 30 minutes",
+      "D": "किसी मंत्री को जवाब देना अनिवार्य होता है / Minister must reply"
     },
-    "answer": ["C"]
+    "answer": ["A", "C"]
   },
   {
     "id": 5,
-    "question": "अनुच्छेद 371A विशेष प्रावधान देता है: / Article 371A grants special status to which state?",
+    "theme": "Comparison",
+    "question": "Question Hour और Zero Hour में क्या मुख्य अंतर है? / What is the main difference between Question Hour and Zero Hour?",
     "options": {
-      "A": "Manipur",
-      "B": "Nagaland",
-      "C": "Mizoram",
-      "D": "Arunachal Pradesh"
+      "A": "Question Hour प्रश्न‑उत्तर सत्र है, Zero Hour बिना सूचना के मुद्दे उठाने का समय / Question Hour is Q&A session, Zero Hour is for raising unscheduled issues",
+      "B": "Zero Hour संसदीय नियमों में है, Question Hour नहीं / Zero Hour is in rules, Question Hour is not",
+      "C": "Question Hour के दौरान मंत्री जवाब देते हैं, Zero Hour में नहीं / Ministers answer in Question Hour but not in Zero Hour",
+      "D": "दोनों की समयसीमा 2 घंटे होती है / Both have duration of 2 hours"
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 6,
-    "question": "अनुच्छेद 371B किस राज्य के लिए विशेष प्रावधान करता है? / Article 371B provides special provision for which state?",
-    "options": {
-      "A": "Assam",
-      "B": "Nagaland",
-      "C": "Tripura",
-      "D": "Sikkim"
-    },
-    "answer": ["A"]
+    "answer": ["A", "C"]
   },
   {
     "id": 7,
-    "question": "अनुच्छेद 371C मणिपुर राज्य में किसकी सिफारिश पर लागू हुआ था? / Article 371C was implemented in Manipur on recommendation of?",
+    "question": "लोकसभा में 'Half-Hour Discussion' का उद्देश्य क्या होता है?\nWhat is the objective of 'Half-Hour Discussion' in Lok Sabha?",
     "options": {
-      "A": "प्रधानमंत्री / Prime Minister",
-      "B": "राज्यपाल / Governor",
-      "C": "राष्ट्रपति / President",
-      "D": "संसद / Parliament"
+      "A": "गंभीर सार्वजनिक मामलों पर चर्चा / Discussion on serious public matters",
+      "B": "किसी उत्तर में अस्पष्टता को स्पष्ट करना / To seek clarification on ambiguous answers",
+      "C": "संसदीय कार्यों की समीक्षा / Review of parliamentary work",
+      "D": "आपातकालीन कानून पर चर्चा / Discussion on emergency laws"
     },
-    "answer": ["C"]
+    "answer": ["A", "B"]
   },
   {
     "id": 8,
-    "question": "Article 371D विशेष रूप से किस राज्य में शैक्षिक और रोजगार मामलों के लिए क्षेत्रीय समानता सुनिश्चित करता है? / Article 371D ensures regional equality in education and employment in which state?",
+    "question": "'Call-Attention Motion' की क्या विशेषता है?\nWhat is a key feature of a 'Call-Attention Motion'?",
     "options": {
-      "A": "Karnataka",
-      "B": "Andhra Pradesh",
-      "C": "Maharashtra",
-      "D": "Kerala"
+      "A": "यह नियम 197 के तहत आता है / Comes under Rule 197",
+      "B": "सदस्यों को मंत्री का ध्यान गंभीर मामले पर आकर्षित करने का अधिकार देता है / Allows members to draw Ministers attention to a serious matter",
+      "C": "मत विभाजन की आवश्यकता होती है / Requires division of votes",
+      "D": "इस पर बहस नहीं होती / No debate allowed"
     },
-    "answer": ["B"]
+    "answer": ["A", "B"]
   },
   {
     "id": 9,
-    "question": "Article 371F किस राज्य के विलय और प्रशासन से जुड़ा है? / Article 371F relates to the merger and administration of which state?",
+    "question": "निम्नलिखित में से 'Adjournment Motion' के बारे में सही कथन कौन-से हैं?\nWhich of the following statements are correct regarding 'Adjournment Motion'?",
     "options": {
-      "A": "Mizoram",
-      "B": "Goa",
-      "C": "Sikkim",
-      "D": "Tripura"
+      "A": "यह सरकार के खिलाफ अविश्वास का सूचक हो सकता है / Can imply no-confidence against the government",
+      "B": "यह लोकसभा में ही लाया जा सकता है / Can be introduced only in Lok Sabha",
+      "C": "यह किसी विशेष और तात्कालिक मुद्दे पर ध्यान केंद्रित करता है / Focuses on a specific and urgent matter",
+      "D": "यह राष्ट्रपति द्वारा लाया जाता है / It is moved by the President"
     },
-    "answer": ["C"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 10,
-    "question": "371G के अंतर्गत मिज़ोरम राज्य में कौन से कानून बिना राज्य की सहमति के लागू नहीं हो सकते? / Under Article 371G, which laws cannot be enforced in Mizoram without state's consent?",
+    "question": "निम्नलिखित में से कौन-से उपकरण कार्यपालिका की जवाबदेही सुनिश्चित करने में सहायक हैं?\nWhich of the following tools help ensure Executive accountability?",
     "options": {
-      "A": "धार्मिक और सामाजिक प्रथाएं / Religious & Social practices",
-      "B": "भूमि और संसाधन / Land and Resources",
-      "C": "सामान्य आपराधिक कानून / General Criminal Laws",
-      "D": "A और B दोनों / Both A and B"
+      "A": "प्रश्न काल / Question Hour",
+      "B": "शून्य काल / Zero Hour",
+      "C": "स्थगन प्रस्ताव / Adjournment Motion",
+      "D": "ध्यानाकर्षण प्रस्ताव / Call-Attention Motion"
     },
-    "answer": ["D"]
+    "answer": ["A", "C", "D"]
   },
   {
     "id": 11,
-    "question": "अनुच्छेद 371H अरुणाचल प्रदेश के किस विशेष अधिकार से जुड़ा है? / Article 371H is related to which special power of Arunachal Pradesh?",
+    "question": "No-Confidence Motion के संदर्भ में निम्नलिखित कथनों पर विचार करें।\nConsider the following statements about the No-Confidence Motion:",
     "options": {
-      "A": "राज्यपाल की विधायी शक्तियाँ / Governor's Legislative Powers",
-      "B": "मुख्यमंत्री का कार्यकाल / CM's Tenure",
-      "C": "पारंपरिक न्याय प्रणाली / Traditional Judicial System",
-      "D": "राज्य में AFSPA लागू करने की शक्ति / Power to implement AFSPA"
+      "A": "यह केवल लोकसभा में लाया जा सकता है / It can be introduced only in the Lok Sabha",
+      "B": "यह एक कार्यवाही के माध्यम से सरकार की वैधता को चुनौती देता है / It challenges the legitimacy of the government",
+      "C": "इसमें राष्ट्रपति की अनुमति आवश्यक है / Requires President's approval",
+      "D": "यह एक विशेष बहुमत द्वारा पारित किया जाता है / Passed by a special majority"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 12,
-    "question": "अनुच्छेद 371I गोवा राज्य से संबंधित है, इसमें क्या विशेष प्रावधान है? / What special provision is included under Article 371I for Goa?",
+    "question": "Confidence Motion के बारे में निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\nWhich of the following statements about Confidence Motion are correct?",
     "options": {
-      "A": "विधानसभा की न्यूनतम सदस्य संख्या / Minimum Assembly Strength",
-      "B": "भाषाई अधिकार / Linguistic Rights",
-      "C": "भूमि अधिग्रहण प्रतिबंध / Land Acquisition Restrictions",
-      "D": "कस्टम कानून छूट / Custom Law Exemption"
+      "A": "यह प्रधानमंत्री द्वारा लाया जाता है / Moved by the Prime Minister",
+      "B": "यह सरकार द्वारा अपनी बहुमत सिद्ध करने हेतु लाया जाता है / Brought to prove the government's majority",
+      "C": "यह केवल राष्ट्रपति द्वारा लाया जा सकता है / Can only be moved by the President",
+      "D": "यह राज्यसभा में भी लाया जा सकता है / Can be moved in Rajya Sabha"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 13,
-    "question": "371J किस राज्य को विशेष दर्जा देता है? / Article 371J gives special status to which state?",
+    "question": "Censure Motion और No-Confidence Motion में मुख्य अंतर क्या है?\nWhat is the main difference between Censure Motion and No-Confidence Motion?",
     "options": {
-      "A": "Telangana",
-      "B": "Karnataka",
-      "C": "Odisha",
-      "D": "Tamil Nadu"
+      "A": "Censure Motion को कारण के साथ पेश किया जाता है / Censure Motion is moved with specific reasons",
+      "B": "Censure Motion के पारित होने पर सरकार गिरती है / Passing of Censure Motion leads to fall of government",
+      "C": "No-Confidence Motion पूरे मंत्रिमंडल पर लागू होता है / No-Confidence applies to entire Council of Ministers",
+      "D": "Censure Motion केवल प्रश्नकाल में उठाया जा सकता है / Censure can only be raised during Question Hour"
     },
-    "answer": ["B"]
+    "answer": ["A", "C"]
   },
   {
     "id": 14,
-    "question": "संविधान (36वां संशोधन) अधिनियम, 1975 द्वारा भारत में कौन सा राज्य शामिल हुआ? / Which state was added to India by the Constitution (36th Amendment) Act, 1975?",
+    "question": "Privilege Motion के बारे में निम्नलिखित में से कौन-से कथन सही हैं?\nWhich of the following statements about Privilege Motion are correct?",
     "options": {
-      "A": "Sikkim",
-      "B": "Mizoram",
-      "C": "Goa",
-      "D": "Tripura"
+      "A": "यह सदस्य या समिति की विशेषाधिकार हनन के लिए लाया जाता है / Brought in case of breach of privilege",
+      "B": "यह केवल लोकसभा में लाया जा सकता है / Can be moved only in Lok Sabha",
+      "C": "यह सरकार को जवाबदेह ठहराता है / Holds government accountable",
+      "D": "यह Speaker या Chairman की अनुमति से ही स्वीकार किया जाता है / Accepted only with permission of Speaker/Chairman"
     },
-    "answer": ["A"]
+    "answer": ["A", "D"]
   },
   {
     "id": 15,
-    "question": "सुप्रीम कोर्ट ने किस केस में कहा कि अनुच्छेद 370 केवल अस्थायी था और इसे हटाया जा सकता है? / In which case did Supreme Court hold that Article 370 was temporary and could be abrogated?",
+    "question": "निम्नलिखित में से कौन-से Motion संसद में कार्यपालिका की ज़िम्मेदारी तय करने में सहायक हैं?\nWhich of the following motions help determine executive accountability in Parliament?",
     "options": {
-      "A": "Prem Nath Kaul v. J&K",
-      "B": "Sampat Prakash v. J&K",
-      "C": "Jammu & Kashmir Delimitation Case (2023)",
-      "D": "State of West Bengal v. Union of India"
+      "A": "No-Confidence Motion",
+      "B": "Privilege Motion",
+      "C": "Censure Motion",
+      "D": "Confidence Motion"
     },
-    "answer": ["C"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 16,
-    "question": "Article 371C Manipur में किस क्षेत्र के प्रशासनिक संरचना को नियंत्रित करता है? / Article 371C governs the administrative structure of which region in Manipur?",
+    "question": "Cut Motions के संदर्भ में निम्नलिखित कथनों पर विचार करें।\nConsider the following statements regarding Cut Motions:",
     "options": {
-      "A": "Valley areas / घाटी क्षेत्र",
-      "B": "Hill areas / पर्वतीय क्षेत्र",
-      "C": "Border areas / सीमावर्ती क्षेत्र",
-      "D": "Entire state / पूरा राज्य"
+      "A": "ये सरकार को जिम्मेदार ठहराने का उपकरण होते हैं / These are tools to hold the government accountable",
+      "B": "ये केवल वित्तीय मांगों पर प्रस्तावित किए जा सकते हैं / Can be moved only on demands for grants",
+      "C": "ये राज्यसभा में भी लाए जा सकते हैं / Can be moved in Rajya Sabha",
+      "D": "ये केवल प्रधानमंत्री द्वारा लाए जाते हैं / Moved only by the Prime Minister"
     },
-    "answer": ["B"]
+    "answer": ["A", "B"]
   },
   {
     "id": 17,
-    "question": "Hill Areas Committee (HAC) ने October 2024 में क्या विवादास्पद प्रस्ताव पारित किया था? / What controversial resolution did HAC pass in October 2024?",
+    "question": "Policy Cut Motion के बारे में निम्नलिखित में से कौन-से कथन सही हैं?\nWhich of the following statements about Policy Cut Motion are correct?",
     "options": {
-      "A": "ADC चुनाव रद्द करना / Cancelling ADC elections",
-      "B": "अस्थायी समितियाँ बनाना / Forming temporary committees",
-      "C": "राज्य की सीमाएं बढ़ाना / Expanding state boundaries",
-      "D": "हिंदी को राजभाषा बनाना / Declaring Hindi as official language"
+      "A": "यह पूरी मांग को ₹1 तक घटाने का प्रस्ताव करता है / Proposes to reduce the demand to ₹1",
+      "B": "यह सरकारी नीति की असहमति को दर्शाता है / Indicates disapproval of government policy",
+      "C": "यह किसी विशेष कार्य या सेवा के विरुद्ध होता है / Against specific expenditure item",
+      "D": "यह वित्त विधेयक का हिस्सा होता है / Part of Finance Bill"
     },
-    "answer": ["B"]
+    "answer": ["A", "B"]
   },
   {
     "id": 18,
-    "question": "मणिपुर Naga Youth Organisation (MNYO) ने HAC के कदम को किस रूप में देखा? / How did MNYO view HAC’s action?",
+    "question": "Economy Cut Motion के बारे में निम्नलिखित में से कौन-से कथन सही हैं?\nWhich of the following statements about Economy Cut Motion are correct?",
     "options": {
-      "A": "लोकतंत्र के लिए अनुकूल / Pro-democracy",
-      "B": "एक संस्थागत सुधार / Administrative reform",
-      "C": "गैर-संवैधानिक / Unconstitutional",
-      "D": "आर्थिक सुधार / Economic reform"
+      "A": "यह व्यय को कम करने का सुझाव देता है / Suggests reduction of expenditure",
+      "B": "यह पूरी राशि को ₹1 तक घटाने का प्रस्ताव करता है / Reduces amount to ₹1",
+      "C": "यह सरकार की कार्यक्षमता पर प्रश्न उठाता है / Questions government's efficiency",
+      "D": "यह राज्यसभा में पारित होता है / Passed in Rajya Sabha"
     },
-    "answer": ["C"]
+    "answer": ["A", "C"]
   },
   {
     "id": 19,
-    "question": "अक्टूबर 2025 में संसद ने मणिपुर में राष्ट्रपति शासन को कितने समय के लिए बढ़ाया? / In August 2025, Parliament extended President’s Rule in Manipur for how long?",
+    "question": "Token Cut Motion का उद्देश्य क्या होता है?\nWhat is the objective of Token Cut Motion?",
     "options": {
-      "A": "3 महीने / 3 months",
-      "B": "6 महीने / 6 months",
-      "C": "9 महीने / 9 months",
-      "D": "12 महीने / 12 months"
+      "A": "किसी विशिष्ट नीति में कमी की ओर ध्यान आकर्षित करना / To highlight a specific policy lapse",
+      "B": "वित्त विधेयक में संशोधन का प्रयास / To amend Finance Bill",
+      "C": "मांग को ₹100 तक घटाने का प्रस्ताव / Proposes to reduce the demand by ₹100",
+      "D": "सरकार के विरुद्ध अविश्वास प्रकट करना / To express no-confidence in the government"
     },
-    "answer": ["B"]
+    "answer": ["A", "C"]
   },
   {
     "id": 20,
-    "question": "Manipur में संयुक्त ऑपरेशन के अंतर्गत किस प्रकार की कार्रवाई की गई? / Under joint operations in Manipur, what action was taken?",
+    "question": "निम्नलिखित में से कौन-से Motion बजट प्रक्रिया के अंतर्गत आते हैं?\nWhich of the following motions are part of the budgetary process?",
     "options": {
-      "A": "Dialogue only / केवल बातचीत",
-      "B": "अस्त्रों की जब्ती / Arms seizures",
-      "C": "समय सीमा तय करना / Setting deadlines",
-      "D": "सांस्कृतिक योजनाएं / Cultural programs"
+      "A": "Guillotine",
+      "B": "Vote on Account",
+      "C": "Supplementary Grants",
+      "D": "Privilege Motion"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 21,
-    "question": "किन नागरिक समूहों ने SoO (Suspension of Operations) समझौता समाप्त करने की मांग की? / Which civil groups demanded ending the SoO agreement?",
+    "question": "Vote on Account के संबंध में निम्न कथनों पर विचार करें।\nConsider the following statements regarding Vote on Account:",
     "options": {
-      "A": "Meitei, Thadou, Naga civil groups",
-      "B": "Only Meitei groups",
-      "C": "Only Kuki groups",
-      "D": "No one demanded"
+      "A": "यह अंतरिम वित्तीय अनुमति होती है जब तक बजट पारित न हो / It provides interim financial authority until the budget is passed",
+      "B": "यह पूरे वित्तीय वर्ष के लिए अनुमोदन देता है / It authorizes expenditure for the whole financial year",
+      "C": "यह सामान्यत: 2 महीनों के लिए दिया जाता है / Usually granted for 2 months",
+      "D": "यह राष्ट्रपति द्वारा पारित किया जाता है / It is passed by the President"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"]
   },
   {
     "id": 22,
-    "question": "मणिपुर संकट का एक प्रमुख कारण क्या बताइ गई है? / What has been identified as a major cause of the Manipur crisis?",
+    "question": "Vote on Account और Budget के बीच क्या अंतर है?\nWhat are the differences between Vote on Account and Budget?",
     "options": {
-      "A": "High Court आदेश से जातीय तनाव / High Court order causing ethnic tension",
-      "B": "अर्थव्यवस्था का ढहना / Economic collapse",
-      "C": "सरकारी विज्ञापन / Government adverts",
-      "D": "अभिनंदन समारोह / Felicitation ceremony"
+      "A": "Budget में नीति वक्तव्य होता है, Vote on Account में नहीं / Budget includes policy statement, Vote on Account does not",
+      "B": "Vote on Account केवल व्यय प्राधिकरण देता है / Vote on Account authorizes only expenditure",
+      "C": "Budget केवल आपदा के समय लाया जाता है / Budget is introduced only in emergencies",
+      "D": "Budget को संविधान में अनिवार्य बताया गया है, Vote on Account को नहीं / Budget is constitutionally mandatory, Vote on Account is not"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 23,
+    "question": "Vote of Credit के बारे में निम्नलिखित कथनों में से कौन-से सही हैं?\nWhich of the following statements about Vote of Credit are correct?",
+    "options": {
+      "A": "यह अप्रत्याशित खर्चों के लिए संसद की मंजूरी प्राप्त करने का माध्यम है / It is used to get approval for unexpected expenditure",
+      "B": "यह राष्ट्रपति के अध्यादेश के द्वारा पास होता है / Passed through Presidential Ordinance",
+      "C": "यह विवरण रहित व्यय को स्वीकृति देता है / Sanctions expenditure without detailed estimates",
+      "D": "यह बजट में निहित होता है / Included in the regular budget"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 24,
+    "question": "Vote on Account और Vote of Credit में क्या अंतर है?\nWhat are the differences between Vote on Account and Vote of Credit?",
+    "options": {
+      "A": "Vote on Account नियमित होता है, Vote of Credit असाधारण परिस्थितियों में / Vote on Account is regular, Vote of Credit is for exceptional cases",
+      "B": "Vote of Credit में अनुमानित व्यय का विवरण आवश्यक नहीं / Vote of Credit does not require detailed estimates",
+      "C": "दोनों ही राष्ट्रपति द्वारा पारित होते हैं / Both are passed by the President",
+      "D": "Vote on Account को संविधान में उल्लिखित किया गया है / Vote on Account is mentioned in the Constitution"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 25,
+    "question": "निम्नलिखित में से कौन-से कथन सही रूप से Vote on Account और Vote of Credit के प्रयोग को दर्शाते हैं?\nWhich of the following correctly depict the usage of Vote on Account and Vote of Credit?",
+    "options": {
+      "A": "Vote on Account तब लिया जाता है जब पूर्ण बजट पारित नहीं हुआ हो / Vote on Account is used when full budget is not passed yet",
+      "B": "Vote of Credit का उपयोग युद्ध, आपदा जैसी स्थिति में होता है / Vote of Credit is used during war, calamity etc.",
+      "C": "Vote on Account में विस्तृत व्यय विवरण देना होता है / Detailed expenditure estimates are needed in Vote on Account",
+      "D": "Vote of Credit 6 महीने के लिए पारित किया जाता है / Vote of Credit is passed for 6 months"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 26,
+    "question": "Finance Bill के संबंध में निम्न में से कौन-से कथन सही हैं?\nWhich of the following statements about Finance Bill are correct?",
+    "options": {
+      "A": "यह संविधान के अनुच्छेद 110 के तहत आता है / It falls under Article 110 of the Constitution",
+      "B": "यह सरकार की आय संबंधी प्रस्तावों को शामिल करता है / It contains proposals related to government revenue",
+      "C": "यह बिना राष्ट्रपति की सिफारिश के पेश किया जा सकता है / It can be introduced without Presidents recommendation",
+      "D": "यह राज्यसभा में भी पेश किया जा सकता है / It can also be introduced in Rajya Sabha"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 27,
+    "question": "Appropriation Bill के बारे में निम्न में से कौन-सा/से सही है/हैं?\nWhich of the following is/are true about Appropriation Bill?",
+    "options": {
+      "A": "यह व्यय की अनुमति देता है / It authorizes expenditure",
+      "B": "यह लोकसभा में ही पेश किया जा सकता है / It can only be introduced in Lok Sabha",
+      "C": "राज्यसभा इसमें संशोधन कर सकती है / Rajya Sabha can amend it",
+      "D": "यह संविधान के अनुच्छेद 114 के तहत आता है / It falls under Article 114"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 28,
+    "question": "Finance Bill और Appropriation Bill के बीच क्या अंतर है?\nWhat is the difference between Finance Bill and Appropriation Bill?",
+    "options": {
+      "A": "Finance Bill में कर प्रस्ताव होते हैं, Appropriation Bill में व्यय प्राधिकरण / Finance Bill deals with taxes, Appropriation Bill with expenditure",
+      "B": "Appropriation Bill को राष्ट्रपति की अनुमति नहीं चाहिए / Appropriation Bill doesn't require Presidents assent",
+      "C": "Finance Bill को Money Bill माना जाता है / Finance Bill is considered a Money Bill",
+      "D": "Appropriation Bill में आय का प्रावधान होता है / Appropriation Bill includes revenue provisions"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 29,
+    "question": "Charged Expenditure के संबंध में कौन-से कथन सही हैं?\nWhich statements about Charged Expenditure are correct?",
+    "options": {
+      "A": "इस पर संसद में मतदान नहीं होता / No voting takes place on Charged Expenditure",
+      "B": "इसमें राष्ट्रपति, सुप्रीम कोर्ट आदि के वेतन शामिल होते हैं / Includes salaries of President, SC Judges etc.",
+      "C": "इसका लेखा-जोखा CAG प्रस्तुत करता है / Accounts of this are submitted by CAG",
+      "D": "यह Appropriation Act का हिस्सा नहीं होता / Not part of Appropriation Act"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 30,
+    "question": "Voted Expenditure के बारे में निम्न में से कौन-से सही कथन हैं?\nWhich of the following are correct about Voted Expenditure?",
+    "options": {
+      "A": "इस पर संसद में मतदान होता है / It is voted upon in Parliament",
+      "B": "यह नियमित सरकारी खर्चों को कवर करता है / It covers routine government expenditure",
+      "C": "यह केवल राज्य सरकारों पर लागू होता है / Applies only to state governments",
+      "D": "इसका अनुमोदन बजट के माध्यम से होता है / It is approved through Budget"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 31,
+    "question": "Charged और Voted Expenditure में अंतर क्या है?\nWhat is the difference between Charged and Voted Expenditure?",
+    "options": {
+      "A": "Voted पर मतदान होता है, Charged पर नहीं / Voted is put to vote, Charged is not",
+      "B": "Charged Expenditure को राज्यसभा अस्वीकार कर सकती है / Rajya Sabha can reject Charged Expenditure",
+      "C": "Charged Expenditure न्यायपालिका और संवैधानिक पदों से जुड़ा है / It relates to judiciary and constitutional posts",
+      "D": "Voted Expenditure विशेष रूप से युद्धकालीन खर्च के लिए है / Voted Expenditure is for wartime only"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 32,
+    "question": "Supplementary Grant के संबंध में कौन-से कथन सही हैं?\nWhich statements are correct regarding Supplementary Grant?",
+    "options": {
+      "A": "जब मूल अनुदान अपर्याप्त हो / When original grant proves insufficient",
+      "B": "यह संविधान के अनुच्छेद 115 के तहत आता है / Comes under Article 115",
+      "C": "यह केवल राज्य सरकारों के लिए है / Only for State Governments",
+      "D": "यह संसद में पुनः मतदान द्वारा पारित होता है / Passed through voting again in Parliament"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 33,
+    "question": "Excess Grant के बारे में निम्नलिखित में से कौन-सा/से सही है/हैं?\nWhich of the following is/are true about Excess Grant?",
+    "options": {
+      "A": "जब सरकार ने स्वीकृत राशि से अधिक खर्च किया हो / When government spends more than granted",
+      "B": "CAG द्वारा रिपोर्ट के बाद पेश किया जाता है / Presented after CAG's report",
+      "C": "यह Appropriation Bill का हिस्सा नहीं होता / Not part of Appropriation Bill",
+      "D": "इस पर संसद में कोई चर्चा नहीं होती / No discussion in Parliament"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 34,
+    "question": "Additional Grant कब दी जाती है?\nWhen is an Additional Grant given?",
+    "options": {
+      "A": "नई सेवा या योजना के लिए / For new service or scheme",
+      "B": "स्वीकृत व्यय में अधिकता के लिए / For excess in already sanctioned expenditure",
+      "C": "विशेष आपदा के लिए / For special calamity",
+      "D": "राज्यपाल की सिफारिश पर / On Governor's recommendation"
     },
     "answer": ["A"]
   },
   {
-    "id": 23,
-    "question": "COCOMI (Meitei civil body) ने सरकार से क्या मांग की? / What did COCOMI demand from the state government?",
-    "options": {
-      "A": "राष्ट्रपति शासन बरकरार रखना / Continue President’s Rule",
-      "B": "लोक सरकार बहाल करना / Restore elected government",
-      "C": "हिंदी भाषा अनिवार्य करना / Make Hindi mandatory",
-      "D": "SoO समझौता शुरू करना / Initiate SoO again"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 24,
-    "question": "मणिपुर में Mizoram से शरणार्थियों की आवाजाही ने संकट को कैसे बढ़ाया? / How did influx of refugees from Mizoram/Myanmar escalate the crisis?",
-    "options": {
-      "A": "कृषि में सुधार गया / Agriculture improved",
-      "B": "अशस्त्र समूहों का पुनरागमन / Return of armed groups",
-      "C": "खेल प्रतियोगिता शुरू हुई / Sports event started",
-      "D": "पर्यटन बढ़ा / Tourism increased"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 25,
-    "question": "Manipur में हाल ही में कौन-सी संवैधानिक कार्रवाई की गई है? / Which constitutional action was recently taken in Manipur?",
-    "options": {
-      "A": "Article 370 को बहाल करना / Reinstating Article 370",
-      "B": "Article 356 लागू करना / Imposition of Article 356",
-      "C": "Article 371A हटा देना / Removing Article 371A",
-      "D": "Article 368 संशोधन / Amendment under Article 368"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 26,
-    "question": "मणिपुर की वर्तमान जातीय समस्या (Meitei बनाम Kuki) की पृष्ठभूमि में निम्नलिखित में से कौन-से कथन सही हैं?",
-    "answer": ["A", "C"],
-    "options": {
-      "A": "Meitei समुदाय अनुसूचित जनजाति का दर्जा चाहता है।",
-      "B": "Kuki समुदाय को पहले ही अनुसूचित जाति का दर्जा मिल चुका है।",
-      "C": "जातीय तनाव भूमि अधिकारों और राजनीतिक प्रतिनिधित्व से जुड़ा है।",
-      "D": "Meitei समुदाय भारत-म्यांमार सीमा के दोनों ओर फैला है।"
-    }
-  },
-  {
-    "id": 27,
-    "question": "भारत-म्यांमार सीमा से लगे मणिपुर क्षेत्र में ड्रग समस्या के कारण कौन से कारक प्रमुख हैं?",
-    "answer": ["A", "B", "C"],
-    "options": {
-      "A": "स्वर्ण त्रिभुज (Golden Triangle) से ड्रग्स की तस्करी।",
-      "B": "संवेदनशील सीमा और कमजोर निगरानी।",
-      "C": "चीन से आने वाले नशीले पदार्थों का प्रवाह।",
-      "D": "भारतीय सीमा सुरक्षा बल द्वारा सख्त निगरानी।"
-    }
-  },
-  {
-    "id": 28,
-    "question": "मणिपुर में हालिया हिंसा (2023–24) को रोकने के लिए केंद्र सरकार द्वारा कौन-कौन से कदम उठाए गए?",
-    "answer": ["A", "C", "D"],
-    "options": {
-      "A": "Article 355 के तहत केंद्र का हस्तक्षेप।",
-      "B": "President Rule (अनुच्छेद 356) लागू किया गया।",
-      "C": "अर्धसैनिक बलों की अतिरिक्त तैनाती।",
-      "D": "Interlocutor की नियुक्ति और शांति वार्ता का प्रयास।"
-    }
-  },
-  {
-    "id": 29,
-    "question": "मणिपुर का कौन सा जिला म्यांमार के साथ अंतर्राष्ट्रीय सीमा साझा करता है?",
-    "answer": ["B"],
-    "options": {
-      "A": "Churachandpur",
-      "B": "Tengnoupal",
-      "C": "Ukhrul",
-      "D": "Tamenglong"
-    }
-  },
-  {
-    "id": 30,
-    "question": "मणिपुर और म्यांमार के बीच पारंपरिक मुक्त आवाजाही (Free Movement Regime - FMR) किस उद्देश्य से शुरू की गई थी?",
-    "answer": ["A", "C"],
-    "options": {
-      "A": "सीमा पार रहने वाली समान जातीय आबादी को सुविधा देना।",
-      "B": "आव्रजन को नियंत्रित करना।",
-      "C": "सीमावर्ती जनजातियों की सामाजिक और पारिवारिक संरचना को बनाए रखना।",
-      "D": "ड्रग्स की तस्करी को वैध बनाना।"
-    }
-  },
-  {
-    "id": 31,
-    "question": "Kuki-Zo समुदाय किस पड़ोसी देश के साथ जातीय संबंध साझा करता है?",
-    "answer": ["C"],
-    "options": {
-      "A": "चीन",
-      "B": "बांग्लादेश",
-      "C": "म्यांमार",
-      "D": "नेपाल"
-    }
-  },
-  {
-    "id": 32,
-    "question": "मणिपुर की कौन सी घाटी Meitei समुदाय की प्रमुख निवासस्थली है?",
-    "answer": ["B"],
-    "options": {
-      "A": "Jiribam घाटी",
-      "B": "Imphal घाटी",
-      "C": "Tamenglong घाटी",
-      "D": "Chandel घाटी"
-    }
-  },
-  {
-    "id": 33,
-    "question": "केंद्र सरकार ने 2024 में मणिपुर की जातीय हिंसा की स्थिति की निगरानी के लिए किस न्यायमूर्ति के नेतृत्व में समिति गठित की?",
-    "answer": ["D"],
-    "options": {
-      "A": "न्यायमूर्ति के. एम. जोसेफ",
-      "B": "न्यायमूर्ति रोहिंटन नरीमन",
-      "C": "न्यायमूर्ति यू. यू. ललित",
-      "D": "न्यायमूर्ति जीता मित्तल"
-    }
-  },
-  {
-    "id": 34,
-    "question": "मणिपुर की हालिया समस्या के समाधान हेतु सुप्रीम कोर्ट ने क्या प्रमुख निर्देश दिए?",
-    "answer": ["A", "B"],
-    "options": {
-      "A": "राज्य सरकार की निष्क्रियता की आलोचना की।",
-      "B": "सुरक्षा और राहत उपायों की निगरानी के लिए विशेष समिति नियुक्त करने को कहा।",
-      "C": "सीधे राष्ट्रपति शासन लागू करने का निर्देश।",
-      "D": "Kuki समुदाय को अलग राज्य देने का सुझाव।"
-    }
-  },
-  {
     "id": 35,
-    "question": "मणिपुर में म्यांमार से अवैध आप्रवासन का भारत की सुरक्षा पर क्या प्रभाव पड़ा है?",
-    "answer": ["A", "C", "D"],
+    "question": "Exceptional Grant से क्या तात्पर्य है?\nWhat does Exceptional Grant refer to?",
     "options": {
-      "A": "अवैध हथियारों और ड्रग्स की तस्करी में वृद्धि।",
-      "B": "पर्यटन उद्योग में तीव्र वृद्धि।",
-      "C": "स्थानीय संसाधनों पर दबाव।",
-      "D": "जातीय संघर्ष को और भड़काना।"
-    }
+      "A": "ऐसा अनुदान जो किसी पूर्व सेवा से संबंधित नहीं / Grant not relating to any existing service",
+      "B": "वह जो राष्ट्रपति द्वारा सीधे दिया जाए / Directly given by the President",
+      "C": "वह जो केवल राज्यसभा में पास होता है / Passed only by Rajya Sabha",
+      "D": "यह अनुच्छेद 116 के तहत आता है / Comes under Article 116"
+    },
+    "answer": ["A", "D"]
   }
 ]
+
+
 
 
 
