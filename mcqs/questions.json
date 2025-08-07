@@ -1,112 +1,387 @@
 [
-  {
-    "id": 11,
-    "question": "अनुच्छेद 333 का मुख्य उद्देश्य क्या है? / What is the main objective of Article 333?",
-    "options": {
-      "A": "राज्य विधान परिषद में मनोनयन / Nomination in Legislative Council",
-      "B": "राज्य विधान सभा में एंग्लो-इंडियन नामांकन / Nomination of Anglo-Indians in State Legislative Assembly",
-      "C": "राज्यपाल की आपात शक्तियाँ / Emergency powers of Governor",
-      "D": "OBC कोटा की व्यवस्था / Provision for OBC quota"
+    {
+        "id": 1,
+        "question": "राष्ट्रीय आपातकाल किस अनुच्छेद के तहत लगाया जाता है?",
+        "options": {
+            "A": "अनुच्छेद 352 / Article 352",
+            "B": "अनुच्छेद 356 / Article 356",
+            "C": "अनुच्छेद 360 / Article 360",
+            "D": "अनुच्छेद 365 / Article 365"
+        },
+        "answer": ["A"]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 12,
-    "question": "अनुच्छेद 337 किस समुदाय को शिक्षा में विशेष लाभ देता है? / Article 337 provides educational benefits to which community?",
-    "options": {
-      "A": "सिख / Sikhs",
-      "B": "पारसी / Parsis",
-      "C": "एंग्लो-इंडियन / Anglo-Indians",
-      "D": "ईसाई / Christians"
+    {
+        "id": 2,
+        "question": "राज्य आपातकाल (राष्ट्रपति शासन) से संबंधित अनुच्छेद कौन सा है?",
+        "options": {
+            "A": "Article 352",
+            "B": "Article 356",
+            "C": "Article 360",
+            "D": "Article 365"
+        },
+        "answer": ["B"]
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 13,
-    "question": "अनुच्छेद 338 किस आयोग से संबंधित है? / Article 338 relates to which commission?",
-    "options": {
-      "A": "राष्ट्रीय पिछड़ा वर्ग आयोग / National OBC Commission",
-      "B": "राष्ट्रीय अनुसूचित जाति आयोग / National Commission for Scheduled Castes",
-      "C": "राष्ट्रीय महिला आयोग / National Commission for Women",
-      "D": "राष्ट्रीय मानवाधिकार आयोग / National Human Rights Commission"
+    {
+        "id": 3,
+        "question": "अब तक भारत में कितनी बार आर्थिक आपातकाल (Financial Emergency) लगाया गया है?",
+        "options": {
+            "A": "1 बार / Once",
+            "B": "3 बार / Thrice",
+            "C": "5 बार / Five times",
+            "D": "कभी नहीं / Never"
+        },
+        "answer": ["D"]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 14,
-    "question": "अनुच्छेद 338A किससे संबंधित है? / What does Article 338A deal with?",
-    "options": {
-      "A": "अनुसूचित जनजाति आयोग / National Commission for Scheduled Tribes",
-      "B": "अल्पसंख्यक आयोग / Minority Commission",
-      "C": "महिला आयोग / Women Commission",
-      "D": "विकलांग जन आयोग / Commission for Disabled"
+    {
+        "id": 4,
+        "question": "कौन सा संशोधन 'आंतरिक गड़बड़ी' को हटाकर 'सशस्त्र विद्रोह' लाया?",
+        "options": {
+            "A": "38वां संशोधन / 38th Amendment",
+            "B": "42वां संशोधन / 42nd Amendment",
+            "C": "44वां संशोधन / 44th Amendment",
+            "D": "52वां संशोधन / 52nd Amendment"
+        },
+        "answer": ["C"]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 15,
-    "question": "राष्ट्रीय पिछड़ा वर्ग आयोग को संवैधानिक दर्जा किस अनुच्छेद के तहत मिला? / Under which Article did the National Commission for Backward Classes get constitutional status?",
-    "options": {
-      "A": "338",
-      "B": "339",
-      "C": "338B",
-      "D": "342A"
+    {
+        "id": 5,
+        "question": "आपातकाल के दौरान मौलिक अधिकार निलंबित करने की अनुमति किसने दी थी (ADM जबलपुर केस में)?",
+        "options": {
+            "A": "सर्वोच्च न्यायालय / Supreme Court",
+            "B": "राष्ट्रपति / President",
+            "C": "प्रधानमंत्री / Prime Minister",
+            "D": "राज्यपाल / Governor"
+        },
+        "answer": ["A"]
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 16,
-    "question": "अनुच्छेद 339 किस विषय से संबंधित है? / What does Article 339 deal with?",
-    "options": {
-      "A": "OBC सूची / OBC List",
-      "B": "ST कल्याण हेतु विशेष अधिकारी / Special Officer for ST Welfare",
-      "C": "राष्ट्रपति की शक्तियाँ / President's powers",
-      "D": "राज्य में आरक्षण सीमा / Reservation limits in states"
+    {
+        "id": 6,
+        "question": "भारत में अब तक कितनी बार 'राष्ट्रीय आपातकाल' (Article 352) लागू किया गया है?",
+        "options": {
+            "A": "एक बार / Once",
+            "B": "दो बार / Twice",
+            "C": "तीन बार / Thrice",
+            "D": "चार बार / Four times"
+        },
+        "answer": ["C"]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 17,
-    "question": "SC/ST आयोग को कितने वर्षों में राष्ट्रपति को रिपोर्ट देनी होती है? / Within how many years must SC/ST Commissions report to the President?",
-    "options": {
-      "A": "हर 5 साल / Every 5 years",
-      "B": "हर 3 साल / Every 3 years",
-      "C": "हर वर्ष / Every year",
-      "D": "जब आवश्यक हो / As needed"
+    {
+        "id": 7,
+        "question": "1975 की आपातकाल घोषणा किस आधार पर की गई थी?",
+        "options": {
+            "A": "युद्ध / War",
+            "B": "बाहरी आक्रमण / External Aggression",
+            "C": "आंतरिक अशांति / Internal Disturbance",
+            "D": "राजनीतिक अस्थिरता / Political Instability"
+        },
+        "answer": ["C"]
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 18,
-    "question": "अनुच्छेद 341 किससे संबंधित है? / Article 341 is related to:",
-    "options": {
-      "A": "अनुसूचित जनजाति / Scheduled Tribes",
-      "B": "पिछड़े वर्ग / Backward Classes",
-      "C": "अनुसूचित जाति / Scheduled Castes",
-      "D": "अल्पसंख्यक / Minorities"
+    {
+        "id": 8,
+        "question": "44वें संशोधन अधिनियम (1978) के अनुसार, 'आंतरिक अशांति' को किस शब्द से प्रतिस्थापित किया गया?",
+        "options": {
+            "A": "सशस्त्र विद्रोह / Armed Rebellion",
+            "B": "गंभीर आपदा / Grave Emergency",
+            "C": "राजनीतिक संकट / Political Crisis",
+            "D": "संविधान का उल्लंघन / Breach of Constitution"
+        },
+        "answer": ["A"]
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 19,
-    "question": "SC/ST/OBC के लिए आरक्षण भारत के संविधान में क्या है? / What is the nature of SC/ST/OBC reservations under the Indian Constitution?",
-    "options": {
-      "A": "कानूनी अधिकार / Legal right",
-      "B": "नीति निदेशक सिद्धांत / Directive principle",
-      "C": "संवैधानिक अधिकार / Constitutional right",
-      "D": "कार्यकारी निर्णय / Executive decision"
+    {
+        "id": 9,
+        "question": "अनुच्छेद 359 किससे संबंधित है?",
+        "options": {
+            "A": "राष्ट्रपति शासन / President’s Rule",
+            "B": "आर्थिक आपातकाल / Financial Emergency",
+            "C": "मौलिक अधिकारों का स्थगन / Suspension of Fundamental Rights",
+            "D": "राज्यसभा की शक्तियाँ / Powers of Rajya Sabha"
+        },
+        "answer": ["C"]
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 20,
-    "question": "अनुच्छेद 335 के अनुसार, SC/ST आरक्षण किस स्थिति में सेवाओं में स्वीकार्य है? / As per Article 335, SC/ST reservation in services is subject to:",
-    "options": {
-      "A": "संपूर्ण योग्यता के आधार पर / Purely on merit",
-      "B": "कार्य कुशलता और प्रशासन की प्रभावशीलता / Efficiency of administration",
-      "C": "राज्यपाल की अनुमति / Permission of Governor",
-      "D": "लोकसभा की मंजूरी / Approval of Lok Sabha"
+    {
+        "id": 10,
+        "question": "कौन सा मौलिक अधिकार आपातकाल के दौरान भी निलंबित नहीं किया जा सकता?",
+        "options": {
+            "A": "अनुच्छेद 19 / Article 19",
+            "B": "अनुच्छेद 20 / Article 20",
+            "C": "अनुच्छेद 21 / Article 21",
+            "D": "अनुच्छेद 32 / Article 32"
+        },
+        "answer": ["B", "C"]
     },
-    "answer": ["B"]
-  }
+    {
+        "id": 11,
+        "question": "एस.आर. बोम्मई केस के अनुसार, अनुच्छेद 356 के अंतर्गत राष्ट्रपति की शक्ति किसकी समीक्षा के अधीन है?",
+        "options": {
+            "A": "गृह मंत्रालय / Ministry of Home Affairs",
+            "B": "राज्यपाल / Governor",
+            "C": "संसद / Parliament",
+            "D": "न्यायपालिका / Judiciary"
+        },
+        "answer": ["D"]
+    },
+    {
+        "id": 12,
+        "question": "आपातकाल के दौरान संसद को किस राज्य विषय पर कानून बनाने की शक्ति प्राप्त होती है?",
+        "options": {
+            "A": "केवल समवर्ती सूची / Only Concurrent List",
+            "B": "केवल राज्य सूची / Only State List",
+            "C": "राज्य व समवर्ती दोनों / Both State and Concurrent Lists",
+            "D": "केवल संघ सूची / Only Union List"
+        },
+        "answer": ["B"]
+    },
+    {
+        "id": 13,
+        "question": "42वें संविधान संशोधन द्वारा किस आपातकाल प्रावधान को मजबूत किया गया?",
+        "options": {
+            "A": "राज्य आपातकाल / President’s Rule",
+            "B": "राष्ट्रीय आपातकाल / National Emergency",
+            "C": "आर्थिक आपातकाल / Financial Emergency",
+            "D": "अनुच्छेद 365 / Article 365"
+        },
+        "answer": ["B"]
+    },
+    {
+        "id": 14,
+        "question": "आपातकाल के दौरान राज्यसभा को किस विषय पर विशेष शक्ति प्राप्त होती है?",
+        "options": {
+            "A": "मनी बिल पर निर्णय / Decide on Money Bill",
+            "B": "राज्यों में राष्ट्रपति शासन लागू करना / Impose President's Rule in states",
+            "C": "राज्य सूची पर कानून बनाना / Make laws on State List",
+            "D": "विधानसभाओं को निलंबित करना / Suspend State Legislatures"
+        },
+        "answer": ["C"]
+    },
+    {
+        "id": 15,
+        "question": "अनुच्छेद 365 का प्रभाव क्या होता है?",
+        "options": {
+            "A": "राष्ट्रीय आपातकाल की घोषणा / Proclamation of National Emergency",
+            "B": "राज्यपाल की बर्खास्तगी / Dismissal of Governor",
+            "C": "राज्य सरकार के खिलाफ अनुच्छेद 356 का उपयोग / Ground for invoking Article 356",
+            "D": "मौलिक अधिकारों का निलंबन / Suspension of Fundamental Rights"
+        },
+        "answer": ["C"]
+    },
+    {
+        "id": 16,
+        "question": "44वें संविधान संशोधन अधिनियम 1978 के तहत किस प्रकार की आपातकालीन घोषणा की शर्तों को संशोधित किया गया था?",
+        "options": {
+            "A": "आंतरिक अशांति को हटाकर सशस्त्र विद्रोह जोड़ा गया / Replacing internal disturbance with armed rebellion",
+            "B": "राष्ट्रपति की आपातकालीन शक्तियाँ समाप्त कर दी गईं / Presidential emergency powers were revoked",
+            "C": "आपातकाल की अवधि को 3 साल कर दिया गया / Emergency duration was extended to 3 years",
+            "D": "आपातकाल लगाने के लिए राज्यपाल की सहमति अनिवार्य की गई / Governor’s consent made mandatory for Emergency"
+        },
+        "answer": ["A"]
+    },
+    {
+        "id": 17,
+        "question": "केशवानंद भारती वाद (1973) का आपातकालीन उपबंधों पर क्या प्रभाव पड़ा?",
+        "options": {
+            "A": "आपातकालीन शक्तियाँ निरंकुश घोषित की गईं / Emergency powers were declared absolute",
+            "B": "बुनियादी ढाँचे की सीमा में आपातकालीन शक्तियाँ भी होंगी / Emergency powers also subject to Basic Structure doctrine",
+            "C": "आपातकाल को न्यायिक समीक्षा से बाहर रखा गया / Emergency kept out of judicial review",
+            "D": "राष्ट्रपति की शक्तियों को अस्थायी बताया गया / Presidential powers declared temporary"
+        },
+        "answer": ["B"]
+    },
+    {
+        "id": 18,
+        "question": "अनुच्छेद 356 के दुरुपयोग को किस ऐतिहासिक निर्णय में 'संविधानिक अपवाद' कहा गया?",
+        "options": {
+            "A": "केशवानंद भारती मामला / Kesavananda Bharati Case",
+            "B": "सरदार बहादुर केस / Sardar Bahadur Case",
+            "C": "एस.आर. बोम्मई बनाम भारत संघ / S.R. Bommai vs Union of India",
+            "D": "मीनर्वा मिल्स मामला / Minerva Mills Case"
+        },
+        "answer": ["C"]
+    },
+    {
+        "id": 19,
+        "question": "एस.आर. बोम्मई निर्णय (1994) के अनुसार, राष्ट्रपति शासन की वैधता को कैसे परखा जा सकता है?",
+        "options": {
+            "A": "यह संसद द्वारा अनुमोदित होने के बाद अंतिम हो जाता है / Final after Parliament approval",
+            "B": "यह न्यायिक समीक्षा के अंतर्गत आता है / Subject to Judicial Review",
+            "C": "यह केवल राज्यपाल की रिपोर्ट पर आधारित होता है / Based solely on Governor’s report",
+            "D": "राष्ट्रपति द्वारा घोषित कोई भी शासन असंवैधानिक नहीं होता / Presidential rule is never unconstitutional"
+        },
+        "answer": ["B"]
+    },
+    {
+        "id": 20,
+        "question": "अनुच्छेद 352 के तहत राष्ट्रीय आपातकाल की घोषणा के लिए आवश्यक शर्त क्या है?",
+        "options": {
+            "A": "प्रधानमंत्री की लिखित सहमति / Written consent of the Prime Minister",
+            "B": "कैबिनेट की सिफारिश / Recommendation of the Cabinet",
+            "C": "लोकसभा की दो-तिहाई बहुमत / Two-thirds majority of Lok Sabha",
+            "D": "रक्षा मंत्रालय की अधिसूचना / Notification by Ministry of Defence"
+        },
+        "answer": ["B"]
+    },
+    {
+        "id": 21,
+        "question": "44वें संशोधन के तहत अनुच्छेद 359 में किस प्रकार का संशोधन किया गया?",
+        "options": {
+            "A": "मूल अधिकारों पर पूर्ण प्रतिबंध की अनुमति / Allowed complete suspension of Fundamental Rights",
+            "B": "अनुच्छेद 20 और 21 को निलंबन से बाहर रखा गया / Excluded Articles 20 and 21 from suspension",
+            "C": "राष्ट्रपति को बिना सूचना के अधिकार दिए गए / Gave President power to act without notice",
+            "D": "अनुच्छेद 14 को हटाया गया / Removed Article 14"
+        },
+        "answer": ["B"]
+    },
+    {
+        "id": 22,
+        "question": "अनुच्छेद 352 के तहत आपातकाल की उद्घोषणा की अवधि कितनी होती है?",
+        "options": {
+            "A": "1 महीना",
+            "B": "6 महीने",
+            "C": "1 वर्ष",
+            "D": "अनिश्चित काल"
+        },
+        "answer": ["B"]
+    },
+    {
+        "id": 23,
+        "question": "44वें संविधान संशोधन (1978) का मुख्य उद्देश्य क्या था?",
+        "options": {
+            "A": "अनुच्छेद 370 हटाना",
+            "B": "आपातकालीन शक्तियों को सीमित करना",
+            "C": "SC/ST को आरक्षण देना",
+            "D": "न्यायपालिका को सशक्त बनाना"
+        },
+        "answer": ["B"]
+    },
+    {
+        "id": 24,
+        "question": "SR Bommai केस किस अनुच्छेद से संबंधित है?",
+        "options": {
+            "A": "352",
+            "B": "356",
+            "C": "360",
+            "D": "365"
+        },
+        "answer": ["B"]
+    },
+    {
+        "id": 25,
+        "question": "किस संशोधन के बाद अनुच्छेद 352 में 'आंतरिक अशांति' को हटाकर 'सशस्त्र विद्रोह' जोड़ा गया?",
+        "options": {
+            "A": "42वां",
+            "B": "44वां",
+            "C": "52वां",
+            "D": "61वां"
+        },
+        "answer": ["B"]
+    },
+    {
+        "id": 26,
+        "question": "ADM Jabalpur बनाम Shivkant Shukla केस का क्या महत्व है?",
+        "options": {
+            "A": "राइट टू एजुकेशन को मान्यता",
+            "B": "आपातकाल में मौलिक अधिकारों का निलंबन",
+            "C": "विधान परिषद की वैधता",
+            "D": "संपत्ति के अधिकार को हटाना"
+        },
+        "answer": ["B"]
+    },
+    {
+        "id": 27,
+        "question": "राष्ट्रपति को वित्तीय आपातकाल लगाने का अधिकार किस अनुच्छेद में है?",
+        "options": {
+            "A": "352",
+            "B": "356",
+            "C": "360",
+            "D": "365"
+        },
+        "answer": ["C"]
+    },
+    {
+        "id": 28,
+        "question": "अब तक भारत में कितनी बार वित्तीय आपातकाल लगाया गया है?",
+        "options": {
+            "A": "1 बार",
+            "B": "2 बार",
+            "C": "3 बार",
+            "D": "कभी नहीं"
+        },
+        "answer": ["D"]
+    },
+    {
+        "id": 29,
+        "question": "अनुच्छेद 356 का प्रथम बार प्रयोग कब और किस राज्य में हुआ?",
+        "options": {
+            "A": "1951 – पंजाब",
+            "B": "1959 – केरल",
+            "C": "1956 – आंध्र प्रदेश",
+            "D": "1960 – बंगाल"
+        },
+        "answer": ["B"]
+    },
+    {
+        "id": 30,
+        "question": "किस अनुच्छेद के तहत राज्य को यह कहा जाता है कि वह केंद्र के निर्देशों का पालन करे?",
+        "options": {
+            "A": "355",
+            "B": "356",
+            "C": "365",
+            "D": "366"
+        },
+        "answer": ["C"]
+    },
+    {
+        "id": 31,
+        "question": "आपातकाल के दौरान कौन-से मौलिक अधिकार निलंबित नहीं किए जा सकते?",
+        "options": {
+            "A": "अनुच्छेद 14",
+            "B": "अनुच्छेद 19",
+            "C": "अनुच्छेद 20 और 21",
+            "D": "अनुच्छेद 25"
+        },
+        "answer": ["C"]
+    },
+    {
+        "id": 32,
+        "question": "राष्ट्रपति द्वारा आपातकाल की घोषणा पर संसद की स्वीकृति कितने समय में जरूरी है?",
+        "options": {
+            "A": "30 दिन",
+            "B": "60 दिन",
+            "C": "90 दिन",
+            "D": "14 दिन"
+        },
+        "answer": ["B"]
+    },
+    {
+        "id": 33,
+        "question": "राष्ट्रपति शासन अधिकतम कितने समय तक लागू रह सकता है?",
+        "options": {
+            "A": "1 वर्ष",
+            "B": "2 वर्ष",
+            "C": "3 वर्ष",
+            "D": "6 माह"
+        },
+        "answer": ["C"]
+    },
+    {
+        "id": 34,
+        "question": "आपातकाल की स्थिति में केंद्र को राज्य पर किस प्रकार नियंत्रण मिलता है?",
+        "options": {
+            "A": "राज्यपाल के माध्यम से",
+            "B": "राज्य विधानसभाओं को भंग कर",
+            "C": "राज्य की शक्तियाँ संसद को मिल जाती हैं",
+            "D": "उपरोक्त सभी"
+        },
+        "answer": ["D"]
+    },
+    {
+        "id": 35,
+        "question": "किस केस में सुप्रीम कोर्ट ने अनुच्छेद 356 की दुरुपयोग की सीमाएं तय की थीं?",
+        "options": {
+            "A": "Kesavananda Bharati",
+            "B": "SR Bommai",
+            "C": "Minerva Mills",
+            "D": "Berubari Union"
+        },
+        "answer": ["B"]
+    }
 ]
