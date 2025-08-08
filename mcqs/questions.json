@@ -1,595 +1,399 @@
 [
     {
         "id": 1,
-        "question": "निम्नलिखित में से कौन-से कारक भारत में मुद्रास्फीति को प्रभावित करते हैं? / Which of the following factors affect inflation in India?",
+        "question": "मुद्रास्फीति (Inflation) को किस प्रकार परिभाषित किया जाता है? / How is inflation defined?",
         "options": {
-            "A": "खाद्य वस्तुओं की कीमतें / Prices of food items",
-            "B": "मौद्रिक नीति / Monetary policy",
-            "C": "शेयर बाजार में गिरावट / Fall in stock market",
-            "D": "ईंधन की कीमतें / Fuel prices"
+            "A": "सामान्य मूल्य स्तर में निरंतर वृद्धि / Sustained increase in general price level",
+            "B": "सामान्य मूल्य स्तर में अस्थायी गिरावट / Temporary fall in general price level",
+            "C": "उत्पादन में वृद्धि / Increase in production",
+            "D": "मुद्रा आपूर्ति में कमी / Decrease in money supply"
         },
         "answer": [
-            "A",
-            "B",
-            "D"
+            "A"
         ]
     },
     {
         "id": 2,
-        "question": "भारत सरकार की निम्नलिखित में से कौन-सी योजनाएँ प्रत्यक्ष नकद लाभ (DBT) से जुड़ी हैं? / Which of the following schemes of Government of India are linked to Direct Benefit Transfer (DBT)?",
+        "question": "मांग-खींच मुद्रास्फीति (Demand-pull inflation) का मुख्य कारण क्या है? / What is the main cause of demand-pull inflation?",
         "options": {
-            "A": "उज्ज्वला योजना / Ujjwala Yojana",
-            "B": "मनरेगा / MGNREGA",
-            "C": "पीएम किसान / PM-KISAN",
-            "D": "राष्ट्रीय खाद्य सुरक्षा अधिनियम / National Food Security Act"
+            "A": "मांग में तेज वृद्धि / Rapid increase in demand",
+            "B": "आपूर्ति में कमी / Fall in supply",
+            "C": "करों में वृद्धि / Increase in taxes",
+            "D": "कच्चे माल की कीमत में गिरावट / Fall in raw material prices"
         },
         "answer": [
             "A",
-            "C"
+            "B"
         ]
     },
     {
         "id": 3,
-        "question": "निम्नलिखित में से कौन-से क्षेत्र सकल घरेलू उत्पाद (GDP) में योगदान करते हैं? / Which of the following sectors contribute to the Gross Domestic Product (GDP)?",
+        "question": "लागत-धक्का मुद्रास्फीति (Cost-push inflation) किससे उत्पन्न होती है? / Cost-push inflation arises from which factor?",
         "options": {
-            "A": "कृषि क्षेत्र / Agriculture sector",
-            "B": "सेवा क्षेत्र / Service sector",
-            "C": "निर्माण क्षेत्र / Manufacturing sector",
-            "D": "न्यायपालिका / Judiciary"
+            "A": "उत्पादन लागत में वृद्धि / Increase in production cost",
+            "B": "मजदूरी में कमी / Fall in wages",
+            "C": "उत्पादकता में वृद्धि / Rise in productivity",
+            "D": "सरकारी सब्सिडी में वृद्धि / Increase in government subsidies"
         },
         "answer": [
-            "A",
-            "B",
-            "C"
+            "A"
         ]
     },
     {
         "id": 4,
-        "question": "निम्नलिखित में से कौन-से संकेतक भारत में बेरोजगारी को मापने के लिए प्रयुक्त होते हैं? / Which of the following indicators are used to measure unemployment in India?",
+        "question": "भारतीय रिज़र्व बैंक मुद्रास्फीति को नियंत्रित करने के लिए मुख्य रूप से कौन सा उपाय अपनाता है? / Which measure is mainly used by RBI to control inflation?",
         "options": {
-            "A": "श्रम बल भागीदारी दर / Labour Force Participation Rate",
-            "B": "कार्यबल दर / Workforce Participation Rate",
-            "C": "बेरोजगारी दर / Unemployment Rate",
-            "D": "मुद्रास्फीति दर / Inflation Rate"
+            "A": "राजकोषीय नीति / Fiscal policy",
+            "B": "मौद्रिक नीति / Monetary policy",
+            "C": "विदेश व्यापार नीति / Foreign trade policy",
+            "D": "औद्योगिक नीति / Industrial policy"
         },
         "answer": [
-            "A",
-            "B",
-            "C"
+            "B"
         ]
     },
     {
         "id": 5,
-        "question": "निम्नलिखित में से कौन-से पूंजीगत व्यय (Capital Expenditure) माने जाते हैं? / Which of the following are considered capital expenditure?",
+        "question": "थोक मूल्य सूचकांक (WPI) में किस प्रकार के माल शामिल होते हैं? / What type of goods are included in the Wholesale Price Index (WPI)?",
         "options": {
-            "A": "सड़क निर्माण / Construction of roads",
-            "B": "ब्याज भुगतान / Interest payments",
-            "C": "रक्षा उपकरण खरीद / Purchase of defence equipment",
-            "D": "वेतन और पेंशन / Salaries and pensions"
+            "A": "थोक बाजार में बेचे जाने वाले माल / Goods sold in wholesale market",
+            "B": "खुदरा बाजार के माल / Goods in retail market",
+            "C": "सिर्फ कृषि उत्पाद / Only agricultural products",
+            "D": "सिर्फ औद्योगिक उत्पाद / Only industrial products"
         },
         "answer": [
-            "A",
-            "C"
+            "A"
         ]
     },
     {
         "id": 6,
-        "question": "भारत के केंद्रीय बजट में 'राजकोषीय घाटा' को प्रभावित करने वाले कौन-से कारक हैं? / Which of the following factors affect the fiscal deficit in Indias Union Budget?",
+        "question": "उपभोक्ता मूल्य सूचकांक (CPI) का मुख्य उपयोग किसके मापन के लिए किया जाता है? / CPI is mainly used to measure:",
         "options": {
-            "A": "सरकारी व्यय / Government expenditure",
-            "B": "कर राजस्व / Tax revenue",
-            "C": "ब्याज दर / Interest rate",
-            "D": "राजस्व घाटा / Revenue deficit"
+            "A": "थोक मूल्य / Wholesale prices",
+            "B": "खुदरा मूल्य / Retail prices",
+            "C": "निर्यात कीमतें / Export prices",
+            "D": "आयात कीमतें / Import prices"
         },
         "answer": [
-            "A",
-            "B",
-            "D"
+            "B"
         ]
     },
     {
         "id": 7,
-        "question": "निम्नलिखित में से कौन-सी मदें 'राजस्व व्यय' में आती हैं? / Which of the following items fall under Revenue Expenditure?",
+        "question": "‘हाइपरइन्फ्लेशन’ (Hyperinflation) किस स्थिति को कहते हैं? / What is meant by hyperinflation?",
         "options": {
-            "A": "पेंशन भुगतान / Pension payments",
-            "B": "नए पुलों का निर्माण / Construction of new bridges",
-            "C": "सरकारी कर्मचारियों का वेतन / Salaries of government employees",
-            "D": "कृषि सब्सिडी / Agricultural subsidy"
+            "A": "मूल्य स्तर में बहुत धीमी वृद्धि / Very slow rise in prices",
+            "B": "मूल्य स्तर में अत्यधिक और तेज वृद्धि / Extremely rapid rise in prices",
+            "C": "मूल्य स्तर में गिरावट / Fall in prices",
+            "D": "मूल्य स्तर का स्थिर रहना / Price level remaining constant"
         },
         "answer": [
-            "A",
-            "C",
-            "D"
+            "B"
         ]
     },
     {
         "id": 8,
-        "question": "बजट 2024-25 में भारत सरकार द्वारा घोषित कौन-सी योजनाएं अवसंरचना (infrastructure) से संबंधित हैं? / Which of the following schemes announced in Budget 2024-25 are related to infrastructure?",
+        "question": "भारत में मुद्रास्फीति की गणना के लिए हाल में सबसे अधिक किस सूचकांक का प्रयोग होता है? / Which index is most used recently for measuring inflation in India?",
         "options": {
-            "A": "PM गतिशक्ति योजना / PM Gati Shakti Yojana",
-            "B": "PM आवास योजना / PM Awas Yojana",
-            "C": "स्वनिधि योजना / Swanidhi Yojana",
-            "D": "नेशनल लॉजिस्टिक्स पॉलिसी / National Logistics Policy"
+            "A": "थोक मूल्य सूचकांक / Wholesale Price Index",
+            "B": "उपभोक्ता मूल्य सूचकांक / Consumer Price Index",
+            "C": "औद्योगिक उत्पादन सूचकांक / Index of Industrial Production",
+            "D": "निर्माण लागत सूचकांक / Construction Cost Index"
         },
         "answer": [
-            "A",
-            "B",
-            "D"
+            "B"
         ]
     },
     {
         "id": 9,
-        "question": "बजट प्रस्तुति के संबंध में निम्नलिखित में से कौन-से कथन सही हैं? / Which of the following statements are correct regarding Union Budget presentation?",
+        "question": "मुद्रास्फीति नियंत्रण के लिए रेपो दर (Repo Rate) में वृद्धि का क्या प्रभाव होता है? / What is the effect of increasing repo rate on inflation control?",
         "options": {
-            "A": "यह राष्ट्रपति द्वारा संसद में प्रस्तुत किया जाता है / It is presented in Parliament by the President",
-            "B": "यह वित्त मंत्री द्वारा लोकसभा में प्रस्तुत किया जाता है / It is presented in Lok Sabha by the Finance Minister",
-            "C": "इसमें राजस्व और व्यय का वार्षिक अनुमान होता है / It contains annual estimates of revenue and expenditure",
-            "D": "यह संविधान के अनुच्छेद 112 के अंतर्गत आता है / It comes under Article 112 of the Constitution"
+            "A": "ऋण महंगे हो जाते हैं / Loans become costlier",
+            "B": "मांग घट जाती है / Demand decreases",
+            "C": "मुद्रास्फीति घट सकती है / Inflation may decrease",
+            "D": "निर्यात बढ़ जाता है / Exports increase"
         },
         "answer": [
+            "A",
             "B",
-            "C",
-            "D"
+            "C"
         ]
     },
     {
         "id": 10,
-        "question": "केंद्र सरकार की बजट प्रक्रिया में 'वित्त विधेयक' (Finance Bill) से जुड़ी कौन-सी बातें सही हैं? / Which of the following statements about Finance Bill in the Union Budget are correct?",
+        "question": "कौन सी स्थिति ‘डिफ्लेशन’ कहलाती है? / Which situation is called deflation?",
         "options": {
-            "A": "यह एक धन विधेयक होता है / It is a Money Bill",
-            "B": "राज्यसभा इसे अस्वीकार कर सकती है / Rajya Sabha can reject it",
-            "C": "यह केवल लोकसभा में पारित होना आवश्यक है / It only requires passage in Lok Sabha",
-            "D": "इसमें नए कर प्रावधान होते हैं / It contains provisions related to new taxes"
+            "A": "सामान्य मूल्य स्तर में निरंतर गिरावट / Sustained fall in general price level",
+            "B": "मांग में वृद्धि / Increase in demand",
+            "C": "आपूर्ति में कमी / Decrease in supply",
+            "D": "मुद्रा आपूर्ति में वृद्धि / Increase in money supply"
         },
         "answer": [
-            "A",
-            "C",
-            "D"
+            "A"
         ]
     },
     {
         "id": 11,
-        "question": "बजट 2024-25 में निम्नलिखित में से कौन-से लक्ष्य रखे गए हैं? / Which of the following targets were set in Union Budget 2024–25?",
+        "question": "मुद्रास्फीति (Inflation) का अर्थ क्या है? / What is the meaning of Inflation?",
         "options": {
-            "A": "राजकोषीय घाटा GDP का 5.1% रखने का लक्ष्य / Fiscal deficit target of 5.1% of GDP",
-            "B": "पूंजीगत व्यय ₹11.11 लाख करोड़ / Capital expenditure of ₹11.11 lakh crore",
-            "C": "रक्षा बजट ₹6.21 लाख करोड़ / Defence budget of ₹6.21 lakh crore",
-            "D": "कृषि ऋण लक्ष्य ₹20 लाख करोड़ / Agriculture credit target of ₹20 lakh crore"
+            "A": "कीमतों में निरंतर वृद्धि",
+            "B": "मांग में कमी",
+            "C": "उत्पादन में वृद्धि",
+            "D": "विदेशी व्यापार में गिरावट"
         },
         "answer": [
-            "A",
-            "B",
-            "D"
+            "A"
         ]
     },
     {
         "id": 12,
-        "question": "बजट 2024-25 के अनुसार निम्नलिखित में से कौन-से क्षेत्र सर्वोच्च पूंजीगत आवंटन प्राप्त करने वाले हैं? / According to Budget 2024–25, which sectors received highest capital allocation?",
+        "question": "भारत में मुद्रास्फीति मापने के लिए प्रमुख सूचकांक कौन सा है? / Which is the main index used to measure inflation in India?",
         "options": {
-            "A": "रेलवे / Railways",
-            "B": "सड़क परिवहन और राजमार्ग / Road Transport and Highways",
-            "C": "कृषि और किसान कल्याण / Agriculture and Farmers Welfare",
-            "D": "रक्षा / Defence"
+            "A": "WPI (थोक मूल्य सूचकांक)",
+            "B": "CPI (उपभोक्ता मूल्य सूचकांक)",
+            "C": "IIP (औद्योगिक उत्पादन सूचकांक)",
+            "D": "BSE सूचकांक"
         },
         "answer": [
-            "A",
-            "B",
-            "D"
+            "B"
         ]
     },
     {
         "id": 13,
-        "question": "बजट 2024–25 में निम्न में से कौन-से कर संबंधी प्रस्ताव किए गए हैं? / Which of the following tax-related proposals were made in Budget 2024–25?",
+        "question": "मुद्रास्फीति के दौरान मुद्रा का मूल्य / During inflation, the value of money:",
         "options": {
-            "A": "कोई नया कर नहीं लगाया गया / No new taxes imposed",
-            "B": "पुरानी कर दरें बरकरार रखी गईं / Existing tax rates retained",
-            "C": "कॉर्पोरेट टैक्स में 5% की वृद्धि / 5% hike in corporate tax",
-            "D": "डिजिटल ट्रांजैक्शन पर छूट / Rebate on digital transactions"
+            "A": "बढ़ता है",
+            "B": "घटता है",
+            "C": "स्थिर रहता है",
+            "D": "तेजी से बढ़ता है"
         },
         "answer": [
-            "A",
             "B"
         ]
     },
     {
         "id": 14,
-        "question": "बजट 2024-25 में निम्नलिखित में से कौन-सी घोषणाएं सामाजिक क्षेत्र से संबंधित हैं? / Which of the following announcements in Budget 2024–25 are related to the social sector?",
+        "question": "डिमांड-पुल मुद्रास्फीति का मुख्य कारण क्या है? / What is the main cause of demand-pull inflation?",
         "options": {
-            "A": "75 लाख नए आवास निर्माण की घोषणा / Announcement of 75 lakh new houses",
-            "B": "PM Awas Yojana के लिए अतिरिक्त फंडिंग / Additional funding for PM Awas Yojana",
-            "C": "One Nation One Anganwadi योजना की शुरुआत / Launch of One Nation One Anganwadi",
-            "D": "राष्ट्रीय पोषण मिशन बंद करने की घोषणा / Announcement to discontinue National Nutrition Mission"
+            "A": "मांग आपूर्ति से अधिक होना",
+            "B": "उत्पादन लागत में कमी",
+            "C": "निर्यात में कमी",
+            "D": "आयात में वृद्धि"
         },
         "answer": [
-            "A",
-            "B",
-            "C"
+            "A"
         ]
     },
     {
         "id": 15,
-        "question": "बजट 2024-25 में निम्नलिखित में से कौन-से कदम हरित (ग्रीन) विकास के लिए लिए गए हैं? / Which of the following steps were taken for green growth in Budget 2024–25?",
+        "question": "कॉस्ट-पुश मुद्रास्फीति का मुख्य कारण क्या है? / What is the main cause of cost-push inflation?",
         "options": {
-            "A": "हरित ऊर्जा गलियारा विस्तार / Expansion of green energy corridors",
-            "B": "कम्प्रेस्ड बायोगैस के लिए पॉलिसी / Policy for compressed biogas",
-            "C": "कोयला आयात को बढ़ावा / Promotion of coal imports",
-            "D": "ई-बसों के लिए फंडिंग / Funding for electric buses"
+            "A": "उत्पादन लागत में वृद्धि",
+            "B": "उपभोक्ता मांग में वृद्धि",
+            "C": "करों में कमी",
+            "D": "मुद्रा आपूर्ति में वृद्धि"
         },
         "answer": [
-            "A",
-            "B",
-            "D"
+            "A"
         ]
     },
     {
         "id": 16,
-        "question": "बजट 2024-25 में घोषित निम्नलिखित में से कौन-सी योजनाएं महिलाओं के सशक्तिकरण से संबंधित हैं? / Which of the following schemes announced in Budget 2024–25 relate to women empowerment?",
+        "question": "हाइपरइन्फ्लेशन का अर्थ है / Hyperinflation means:",
         "options": {
-            "A": "लखपति दीदी योजना विस्तार / Expansion of Lakhpati Didi Yojana",
-            "B": "नारी शक्ति मिशन / Nari Shakti Mission",
-            "C": "महिला स्टार्टअप योजना / Mahila Startup Yojana",
-            "D": "बेटी बचाओ योजना को बंद करना / Discontinuation of Beti Bachao Yojana"
+            "A": "बहुत कम मुद्रास्फीति",
+            "B": "बहुत अधिक और तेज़ मुद्रास्फीति",
+            "C": "शून्य मुद्रास्फीति",
+            "D": "ऋणात्मक मुद्रास्फीति"
         },
         "answer": [
-            "A",
-            "B",
-            "C"
+            "B"
         ]
     },
     {
         "id": 17,
-        "question": "बजट 2024–25 में शुरू की गई निम्नलिखित में से कौन-सी योजनाएं युवाओं और कौशल विकास पर केंद्रित हैं? / Which of the following schemes introduced in Budget 2024–25 focus on youth and skill development?",
+        "question": "भारत में WPI का आधार वर्ष (2025 तक) कौन सा है? / What is the base year of WPI in India (till 2025)?",
         "options": {
-            "A": "PM कौशल विकास 4.0 योजना / PM Kaushal Vikas 4.0 Yojana",
-            "B": "डिजिटल स्किलिंग प्लेटफ़ॉर्म / Digital Skilling Platform",
-            "C": "स्टार्टअप इंडिया एक्सीलरेटर योजना / Startup India Accelerator Scheme",
-            "D": "राष्ट्रीय युवा संविदा योजना / National Youth Contract Scheme"
+            "A": "2004-05",
+            "B": "2011-12",
+            "C": "2015-16",
+            "D": "2018-19"
         },
         "answer": [
-            "A",
-            "B",
-            "C"
+            "B"
         ]
     },
     {
         "id": 18,
-        "question": "बजट 2024–25 में निम्नलिखित में से कौन-सी योजनाएं किसानों और ग्रामीण विकास से संबंधित हैं? / Which of the following schemes in Budget 2024–25 relate to farmers and rural development?",
+        "question": "डिफ्लेशन (Deflation) का अर्थ है / Deflation means:",
         "options": {
-            "A": "नवाचार कृषि योजना / Innovative Agriculture Scheme",
-            "B": "डिजिटल कृषि मिशन विस्तार / Expansion of Digital Agriculture Mission",
-            "C": "PM Fasal Suraksha Scheme 2.0 / पीएम फसल सुरक्षा योजना 2.0",
-            "D": "ग्रामीण पेयजल योजना / Rural Drinking Water Scheme"
+            "A": "कीमतों में वृद्धि",
+            "B": "कीमतों में गिरावट",
+            "C": "उत्पादन में वृद्धि",
+            "D": "मांग में वृद्धि"
         },
         "answer": [
-            "A",
-            "B",
-            "C"
+            "B"
         ]
     },
     {
         "id": 19,
-        "question": "बजट 2024–25 में घोषित निम्न योजनाओं में से कौन-सी शिक्षा क्षेत्र से जुड़ी हैं? / Which of the following newly announced schemes in Budget 2024–25 relate to the education sector?",
+        "question": "‘स्टैगफ्लेशन’ का अर्थ है / The meaning of 'Stagflation' is:",
         "options": {
-            "A": "AI रिसर्च यूनिवर्सिटी की स्थापना / Establishment of AI Research University",
-            "B": "डिजिटल क्लासरूम मिशन / Digital Classroom Mission",
-            "C": "नेशनल एजुकेशन एंड स्किलिंग फंड / National Education and Skilling Fund",
-            "D": "स्कूल बुनियादी ढांचा सुधार योजना / School Infrastructure Reform Scheme"
+            "A": "उच्च वृद्धि और उच्च मुद्रास्फीति",
+            "B": "उच्च बेरोजगारी और उच्च मुद्रास्फीति",
+            "C": "कम बेरोजगारी और कम मुद्रास्फीति",
+            "D": "उच्च वृद्धि और कम मुद्रास्फीति"
         },
         "answer": [
-            "A",
-            "B",
-            "C",
-            "D"
+            "B"
         ]
     },
     {
         "id": 20,
-        "question": "बजट 2024–25 में निम्नलिखित में से कौन-सी योजनाएं पर्यावरण और हरित विकास को बढ़ावा देती हैं? / Which of the following schemes in Budget 2024–25 promote environment and green growth?",
+        "question": "मुद्रास्फीति को नियंत्रित करने के लिए RBI किस नीति का उपयोग करता है? / Which policy does RBI use to control inflation?",
         "options": {
-            "A": "हरित ऊर्जा गलियारा योजना / Green Energy Corridor Scheme",
-            "B": "हरित उर्वरक प्रोत्साहन योजना / Green Fertilizer Incentive Scheme",
-            "C": "नेशनल क्लाइमेट फंड / National Climate Fund",
-            "D": "प्लास्टिक मुक्त ग्राम योजना / Plastic-Free Village Scheme"
+            "A": "राजकोषीय नीति",
+            "B": "मौद्रिक नीति",
+            "C": "व्यापार नीति",
+            "D": "औद्योगिक नीति"
         },
         "answer": [
-            "A",
-            "B",
-            "C"
+            "B"
         ]
     },
     {
         "id": 21,
-        "question": "बजट 2024–25 में किस-किस क्षेत्र को ₹1 लाख करोड़ से अधिक का आवंटन मिला? / Which of the following sectors received an allocation of more than ₹1 lakh crore in Budget 2024–25?",
+        "question": "महँगाई दर (Inflation Rate) को मापने के लिए भारत में मुख्य सूचकांक कौन सा है? / Which index is primarily used to measure inflation rate in India?",
         "options": {
-            "A": "रक्षा / Defence",
-            "B": "रेलवे / Railways",
-            "C": "सड़क परिवहन और राजमार्ग / Road Transport and Highways",
-            "D": "शिक्षा / Education"
+            "A": "उपभोक्ता मूल्य सूचकांक (CPI) / Consumer Price Index",
+            "B": "थोक मूल्य सूचकांक (WPI) / Wholesale Price Index",
+            "C": "औद्योगिक उत्पादन सूचकांक (IIP) / Index of Industrial Production",
+            "D": "GDP Deflator"
         },
         "answer": [
             "A",
-            "B",
-            "C"
+            "B"
         ]
     },
     {
         "id": 22,
-        "question": "निम्नलिखित में से कौन-से सामाजिक क्षेत्र (social sector) को बजट 2024–25 में प्रमुख आवंटन प्राप्त हुआ? / Which of the following social sectors received major allocation in Budget 2024–25?",
+        "question": "CPI और WPI के बीच मुख्य अंतर क्या है? / What is the main difference between CPI and WPI?",
         "options": {
-            "A": "स्वास्थ्य और परिवार कल्याण / Health and Family Welfare",
-            "B": "शिक्षा / Education",
-            "C": "महिला एवं बाल विकास / Women and Child Development",
-            "D": "श्रम एवं रोजगार / Labour and Employment"
+            "A": "CPI में उपभोक्ता द्वारा खरीदे गए वस्त्र व सेवाएं शामिल हैं / CPI includes goods & services purchased by consumers",
+            "B": "WPI में थोक स्तर पर वस्तुओं के मूल्य शामिल हैं / WPI includes prices of goods at wholesale level",
+            "C": "CPI केवल ग्रामीण क्षेत्रों के लिए होती है / CPI is only for rural areas",
+            "D": "WPI में सेवाएं शामिल हैं / WPI includes services"
         },
         "answer": [
             "A",
-            "B",
-            "C"
+            "B"
         ]
     },
     {
         "id": 23,
-        "question": "बजट 2024–25 में ग्रामीण विकास मंत्रालय को प्रमुख रूप से कौन-सी योजनाओं के लिए आवंटन मिला? / In Budget 2024–25, the Ministry of Rural Development received major allocations for which of the following schemes?",
+        "question": "भारत में CPI आधारित महँगाई का डाटा कौन जारी करता है? / Who releases CPI-based inflation data in India?",
         "options": {
-            "A": "PM आवास योजना (ग्रामीण) / PM Awas Yojana (Gramin)",
-            "B": "MGNREGA / मनरेगा",
-            "C": "राष्ट्रीय ग्रामीण आजीविका मिशन / National Rural Livelihood Mission",
-            "D": "स्टार्टअप इंडिया / Startup India"
+            "A": "भारतीय रिजर्व बैंक (RBI) / Reserve Bank of India",
+            "B": "राष्ट्रीय सांख्यिकी कार्यालय (NSO) / National Statistical Office",
+            "C": "वित्त मंत्रालय / Ministry of Finance",
+            "D": "भारतीय प्रतिभूति एवं विनिमय बोर्ड (SEBI) / Securities and Exchange Board of India"
         },
         "answer": [
-            "A",
-            "B",
-            "C"
+            "B"
         ]
     },
     {
         "id": 24,
-        "question": "बजट 2024–25 में किस-किस अवसंरचना क्षेत्रों को पूंजीगत व्यय (capital expenditure) के तहत उच्च प्राथमिकता दी गई? / Which of the following infrastructure sectors were prioritized under capital expenditure in Budget 2024–25?",
+        "question": "भारत में WPI आधारित महँगाई का डाटा कौन जारी करता है? / Who releases WPI-based inflation data in India?",
         "options": {
-            "A": "रेलवे / Railways",
-            "B": "हवाई अड्डा विस्तार / Airport expansion",
-            "C": "बंदरगाह और जलमार्ग / Ports and Waterways",
-            "D": "अंतरिक्ष अनुसंधान / Space research"
+            "A": "वाणिज्य एवं उद्योग मंत्रालय / Ministry of Commerce and Industry",
+            "B": "भारतीय रिजर्व बैंक (RBI) / Reserve Bank of India",
+            "C": "राष्ट्रीय सांख्यिकी कार्यालय (NSO) / National Statistical Office",
+            "D": "वित्त आयोग / Finance Commission"
         },
         "answer": [
-            "A",
-            "B",
-            "C"
+            "A"
         ]
     },
     {
         "id": 25,
-        "question": "बजट 2024–25 के अनुसार, निम्नलिखित में से किन क्षेत्रों को ग्रीन ग्रोथ के तहत धन आवंटित किया गया? / According to Budget 2024–25, which of the following sectors received funding under Green Growth?",
+        "question": "CPI में सबसे अधिक भार (weight) किस श्रेणी का है? / Which category has the highest weight in CPI?",
         "options": {
-            "A": "नवीकरणीय ऊर्जा / Renewable Energy",
-            "B": "ग्रीन हाइड्रोजन / Green Hydrogen",
-            "C": "इलेक्ट्रिक मोबिलिटी / Electric Mobility",
-            "D": "परमाणु ऊर्जा / Nuclear Energy"
+            "A": "खाद्य और पेय पदार्थ / Food & Beverages",
+            "B": "कपड़ा / Clothing",
+            "C": "ईंधन और बिजली / Fuel & Light",
+            "D": "आवास / Housing"
         },
         "answer": [
-            "A",
-            "B",
-            "C"
+            "A"
         ]
     },
     {
         "id": 26,
-        "question": "आर्थिक सर्वेक्षण 2024–25 के अनुसार भारत की अनुमानित वास्तविक GDP वृद्धि दर क्या रही? / According to Economic Survey 2024–25, what was Indias estimated real GDP growth rate?",
+        "question": "WPI में सबसे अधिक भार (weight) किस श्रेणी का है? / Which category has the highest weight in WPI?",
         "options": {
-            "A": "7.0%",
-            "B": "7.6%",
-            "C": "6.8%",
-            "D": "8.2%"
+            "A": "ईंधन और बिजली / Fuel & Power",
+            "B": "निर्मित उत्पाद / Manufactured Products",
+            "C": "प्राथमिक वस्तुएँ / Primary Articles",
+            "D": "सेवाएँ / Services"
         },
         "answer": [
-            "A",
-            "C"
+            "B"
         ]
     },
     {
         "id": 27,
-        "question": "आर्थिक सर्वेक्षण 2024–25 में किन क्षेत्रों को विकास के प्रमुख चालक (growth drivers) के रूप में पहचाना गया? / Which of the following sectors were identified as key growth drivers in Economic Survey 2024–25?",
+        "question": "महँगाई का RBI के मौद्रिक नीति पर क्या प्रभाव होता है? / How does inflation affect RBI’s monetary policy?",
         "options": {
-            "A": "विनिर्माण / Manufacturing",
-            "B": "निजी निवेश / Private investment",
-            "C": "निर्यात / Exports",
-            "D": "बुनियादी ढांचा / Infrastructure"
+            "A": "महँगाई अधिक होने पर RBI रेपो रेट बढ़ाता है / RBI increases repo rate when inflation is high",
+            "B": "महँगाई कम होने पर RBI रेपो रेट घटाता है / RBI decreases repo rate when inflation is low",
+            "C": "महँगाई का RBI नीति पर कोई प्रभाव नहीं / Inflation has no effect on RBI policy",
+            "D": "RBI केवल WPI को देखता है / RBI only monitors WPI"
         },
         "answer": [
             "A",
-            "B",
-            "D"
+            "B"
         ]
     },
     {
         "id": 28,
-        "question": "आर्थिक सर्वेक्षण 2024–25 के अनुसार भारत के चालू खाते के घाटे (Current Account Deficit) से जुड़े कौन-से कथन सही हैं? / Which of the following statements about Indias Current Account Deficit (CAD) are correct as per Economic Survey 2024–25?",
+        "question": "कोर इन्फ्लेशन (Core Inflation) में क्या शामिल नहीं होता? / What is excluded from Core Inflation?",
         "options": {
-            "A": "CAD घटकर GDP का 1% हुआ / CAD reduced to 1% of GDP",
-            "B": "सेवा क्षेत्र अधिशेष में वृद्धि हुई / Services sector surplus increased",
-            "C": "सोने का आयात CAD में वृद्धि का कारण / Gold imports contributed to CAD rise",
-            "D": "विदेशी निवेश में कमी CAD में वृद्धि का कारण / Fall in FDI caused CAD increase"
+            "A": "खाद्य वस्तुएँ / Food items",
+            "B": "ईंधन / Fuel",
+            "C": "निर्मित वस्तुएँ / Manufactured items",
+            "D": "सेवाएँ / Services"
         },
         "answer": [
             "A",
-            "B",
-            "C"
+            "B"
         ]
     },
     {
         "id": 29,
-        "question": "आर्थिक सर्वेक्षण 2024–25 में MSME क्षेत्र के बारे में क्या प्रमुख बिंदु सामने आए? / What were the key highlights regarding the MSME sector in Economic Survey 2024–25?",
+        "question": "GDP Deflator किसका माप है? / GDP Deflator measures which aspect?",
         "options": {
-            "A": "MSME का GDP में योगदान 30% से अधिक / MSMEs contribute over 30% to GDP",
-            "B": "क्रेडिट गारंटी योजना का विस्तार / Expansion of credit guarantee scheme",
-            "C": "फॉर्मलाइजेशन में वृद्धि / Rise in formalization",
-            "D": "MSME निर्यात घटा / Decline in MSME exports"
+            "A": "सभी वस्तुओं और सेवाओं का मूल्य परिवर्तन / Price change of all goods & services",
+            "B": "केवल थोक वस्तुओं का मूल्य परिवर्तन / Price change of only wholesale goods",
+            "C": "केवल उपभोक्ता वस्तुओं का मूल्य परिवर्तन / Price change of only consumer goods",
+            "D": "केवल सेवाओं का मूल्य परिवर्तन / Price change of only services"
         },
         "answer": [
-            "A",
-            "B",
-            "C"
+            "A"
         ]
     },
     {
         "id": 30,
-        "question": "आर्थिक सर्वेक्षण 2024–25 में सामाजिक क्षेत्र (Social Sector) से जुड़ी कौन-सी बातें प्रमुख रूप से सामने आईं? / Which of the following social sector aspects were prominently highlighted in Economic Survey 2024–25?",
+        "question": "महँगाई लक्ष्यीकरण (Inflation Targeting) के तहत भारत में लक्ष्य दर क्या है (±2% tolerance)? / What is the inflation target rate in India under Inflation Targeting (±2% tolerance)?",
         "options": {
-            "A": "शिक्षा क्षेत्र में डिजिटल विभाजन / Digital divide in education sector",
-            "B": "स्वास्थ्य क्षेत्र में सार्वजनिक व्यय में वृद्धि / Increase in public health spending",
-            "C": "कुपोषण दर में गिरावट / Decline in malnutrition rates",
-            "D": "स्वच्छ भारत मिशन को बंद करने की सिफारिश / Recommendation to discontinue Swachh Bharat Mission"
+            "A": "2%",
+            "B": "4%",
+            "C": "6%",
+            "D": "5%"
         },
         "answer": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "id": 31,
-        "question": "निम्नलिखित में से कौन-से कथन 'राजकोषीय घाटा' (Fiscal Deficit) की सही व्याख्या करते हैं? / Which of the following statements correctly describe 'Fiscal Deficit'?",
-        "options": {
-            "A": "यह सरकार की कुल प्राप्तियों और कुल व्ययों का अंतर होता है / It is the difference between total receipts and total expenditure of the government",
-            "B": "इसमें उधार और अन्य देनदारियां शामिल होती हैं / It includes borrowings and other liabilities",
-            "C": "यह केवल पूंजीगत व्यय से संबंधित होता है / It is only related to capital expenditure",
-            "D": "यह सरकार के कर राजस्व और व्यय का अंतर होता है / It is the gap between tax revenue and total expenditure"
-        },
-        "answer": [
-            "A",
             "B"
-        ]
-    },
-    {
-        "id": 32,
-        "question": "निम्नलिखित में से कौन-से 'राजस्व घाटा' (Revenue Deficit) के घटक हैं? / Which of the following are components of Revenue Deficit?",
-        "options": {
-            "A": "राजस्व व्यय / Revenue Expenditure",
-            "B": "राजस्व प्राप्ति / Revenue Receipts",
-            "C": "पूंजीगत व्यय / Capital Expenditure",
-            "D": "ब्याज भुगतान / Interest Payments"
-        },
-        "answer": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "id": 33,
-        "question": "FRBM अधिनियम 2003 के उद्देश्यों में से कौन-से सही हैं? / Which of the following are objectives of the FRBM Act, 2003?",
-        "options": {
-            "A": "राजकोषीय अनुशासन सुनिश्चित करना / To ensure fiscal discipline",
-            "B": "मुद्रास्फीति बढ़ाना / To increase inflation",
-            "C": "राजकोषीय घाटे को सीमित करना / To limit fiscal deficit",
-            "D": "राजस्व घाटे को खत्म करना / To eliminate revenue deficit"
-        },
-        "answer": [
-            "A",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "id": 34,
-        "question": "निम्नलिखित में से कौन-से पैरामीटर सरकार के ऋण-से-GDP अनुपात (Debt-to-GDP ratio) को प्रभावित करते हैं? / Which of the following parameters affect the Debt-to-GDP ratio of a government?",
-        "options": {
-            "A": "GDP वृद्धि दर / GDP growth rate",
-            "B": "ब्याज दरें / Interest rates",
-            "C": "चालू खाता अधिशेष / Current account surplus",
-            "D": "राजकोषीय घाटा / Fiscal deficit"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "id": 35,
-        "question": "निम्नलिखित में से कौन-से घाटे 'राजकोषीय संकेतक' (Fiscal Indicators) माने जाते हैं? / Which of the following are considered as fiscal indicators?",
-        "options": {
-            "A": "राजस्व घाटा / Revenue Deficit",
-            "B": "प्राथमिक घाटा / Primary Deficit",
-            "C": "राजकोषीय घाटा / Fiscal Deficit",
-            "D": "चालू खाता घाटा / Current Account Deficit"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "id": 36,
-        "question": "निम्नलिखित में से कौन-से 'प्रत्यक्ष कर' (Direct Taxes) के उदाहरण हैं? / Which of the following are examples of Direct Taxes?",
-        "options": {
-            "A": "आयकर / Income Tax",
-            "B": "कॉर्पोरेट कर / Corporate Tax",
-            "C": "माल एवं सेवा कर (GST) / Goods and Services Tax (GST)",
-            "D": "केंद्रीय उत्पाद शुल्क / Central Excise Duty"
-        },
-        "answer": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "id": 37,
-        "question": "निम्नलिखित में से कौन-से 'अप्रत्यक्ष कर' (Indirect Taxes) हैं? / Which of the following are Indirect Taxes?",
-        "options": {
-            "A": "माल एवं सेवा कर (GST) / Goods and Services Tax (GST)",
-            "B": "कस्टम ड्यूटी / Customs Duty",
-            "C": "कॉर्पोरेट टैक्स / Corporate Tax",
-            "D": "राजस्व कर / Capital Gains Tax"
-        },
-        "answer": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "id": 38,
-        "question": "निम्नलिखित में से कौन-से कथन GST के बारे में सही हैं? / Which of the following statements are correct about GST?",
-        "options": {
-            "A": "यह एक अप्रत्यक्ष कर है / It is an indirect tax",
-            "B": "यह 'एक राष्ट्र, एक कर' की अवधारणा पर आधारित है / It is based on the concept of 'One Nation, One Tax'",
-            "C": "GST केवल केंद्र सरकार द्वारा लगाया जाता है / GST is levied only by the Central Government",
-            "D": "GST ने VAT और सेवा कर को प्रतिस्थापित किया / GST replaced VAT and Service Tax"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "id": 39,
-        "question": "GST परिषद (GST Council) के बारे में कौन-से कथन सही हैं? / Which of the following statements are correct about the GST Council?",
-        "options": {
-            "A": "यह संविधान के अनुच्छेद 279A के तहत गठित की गई थी / It was constituted under Article 279A of the Constitution",
-            "B": "इसकी अध्यक्षता वित्त मंत्री करते हैं / It is chaired by the Union Finance Minister",
-            "C": "इसमें राज्यों के मुख्यमंत्री सदस्य होते हैं / State Chief Ministers are members of the Council",
-            "D": "यह GST दरों को तय करने वाली सर्वोच्च संस्था है / It is the apex body for deciding GST rates"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "id": 40,
-        "question": "निम्नलिखित में से कौन-से प्रभाव GST लागू होने से उत्पन्न हुए? / Which of the following are the effects of GST implementation?",
-        "options": {
-            "A": "प्रत्यक्ष कर संग्रह में वृद्धि / Increase in direct tax collection",
-            "B": "लॉजिस्टिक्स लागत में कमी / Reduction in logistics costs",
-            "C": "अंतर्राज्यीय व्यापार आसान हुआ / Easier inter-state trade",
-            "D": "दोहरा कराधान समाप्त हुआ / Elimination of double taxation"
-        },
-        "answer": [
-            "B",
-            "C",
-            "D"
         ]
     }
 ]
