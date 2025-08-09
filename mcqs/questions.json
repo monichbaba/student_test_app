@@ -1,1325 +1,443 @@
 [
   {
     "id": 1,
-    "question": "पृथ्वी की कौन-सी परत सबसे बाहर होती है? / Which layer of Earth is the outermost?",
+    "question": "भारत की अर्थव्यवस्था के कौन-कौन से मुख्य विशेषताएँ हैं? / What are the main features of Indian Economy?",
     "options": {
-      "A": "क्रस्ट (Crust)",
-      "B": "मैंटल (Mantle)",
-      "C": "कोर (Core)",
-      "D": "एल्थेनोस्फीयर (Lithosphere)"
+      "A": "कृषि प्रधान अर्थव्यवस्था (Agriculture-based Economy)",
+      "B": "उद्योग प्रधान अर्थव्यवस्था (Industry-based Economy)",
+      "C": "सेवा क्षेत्र का बढ़ता योगदान (Growing Service Sector)",
+      "D": "निर्यात पर पूर्ण निर्भरता (Complete Dependence on Exports)"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"]
   },
   {
     "id": 2,
-    "question": "प्लेट टेक्टोनिक्स का सिद्धांत किसने प्रतिपादित किया था? / Who proposed the theory of Plate Tectonics?",
+    "question": "भारत में आर्थिक योजना का मुख्य उद्देश्य क्या है? / What is the main objective of Economic Planning in India?",
     "options": {
-      "A": "अल्फ्रेड वेगेनर (Alfred Wegener)",
-      "B": "आइजैक न्यूटन (Isaac Newton)",
-      "C": "चार्ल्स डार्विन (Charles Darwin)",
-      "D": "गैलीलियो गैलीली (Galileo Galilei)"
+      "A": "संपूर्ण विकास (Overall Development)",
+      "B": "सामाजिक न्याय (Social Justice)",
+      "C": "आय में असमानता बढ़ाना (Increasing Income Inequality)",
+      "D": "आर्थिक स्थिरता (Economic Stability)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 3,
-    "question": "भूकंप किस परत की गतिविधि के कारण होता है? / Earthquakes are caused due to activity in which layer?",
+    "question": "भारत की अर्थव्यवस्था की तीन मुख्य संरचनाएँ कौन-कौन सी हैं? / What are the three main sectors of Indian Economy?",
     "options": {
-      "A": "क्रस्ट (Crust)",
-      "B": "मैंटल (Mantle)",
-      "C": "कोर (Core)",
-      "D": "ट्रोपोस्फीयर (Troposphere)"
+      "A": "कृषि (Agriculture)",
+      "B": "औद्योगिक (Industry)",
+      "C": "सेवा (Services)",
+      "D": "पर्यटन (Tourism)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 4,
-    "question": "वो कौन-सा पर्वत है जो दुनिया का सबसे ऊंचा माना जाता है? / Which mountain is considered the highest in the world?",
+    "question": "2024-2025 के अनुसार, भारतीय अर्थव्यवस्था में सेवा क्षेत्र का योगदान लगभग कितना है? / Approximate contribution of service sector in Indian economy in 2024-25 is?",
     "options": {
-      "A": "माउंट एवरेस्ट (Mount Everest)",
-      "B": "कंचनजंगा (Kangchenjunga)",
-      "C": "मकालू (Makalu)",
-      "D": "एल्ब्रस (Elbrus)"
+      "A": "40%",
+      "B": "55%",
+      "C": "30%",
+      "D": "70%"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 5,
-    "question": "प्लेटो का निर्माण मुख्यतः किस प्रक्रिया से होता है? / Plateaus are mainly formed by which process?",
+    "question": "भारत में जनसांख्यिकीय लाभांश (Demographic Dividend) कब माना जाता है? / When is Demographic Dividend considered in India?",
     "options": {
-      "A": "उठाव (Upliftment)",
-      "B": "क्षरण (Erosion)",
-      "C": "विस्फोट (Volcanic eruption)",
-      "D": "बर्फ़ पिघलना (Glacial melting)"
+      "A": "जब कार्यशील आयु वर्ग की संख्या अधिक होती है (When working age population is high)",
+      "B": "जब वृद्धों की संख्या अधिक होती है (When elderly population is high)",
+      "C": "जब जन्म दर बहुत अधिक होती है (When birth rate is very high)",
+      "D": "जब मृत्यु दर बहुत कम होती है (When death rate is very low)"
     },
     "answer": ["A"]
   },
   {
     "id": 6,
-    "question": "भूमध्य रेखा से निचले क्षेत्र में आमतौर पर कौन-सा जलवायु प्रकार पाया जाता है? / Which type of climate is usually found near the equator?",
+    "question": "भारत की आर्थिक योजनाओं में पंचवर्षीय योजनाओं की शुरुआत कब हुई थी? / When were the Five-Year Plans started in India?",
     "options": {
-      "A": "उष्णकटिबंधीय वर्षावन (Tropical Rainforest)",
-      "B": "शुष्क रेगिस्तानी (Arid Desert)",
-      "C": "मध्यम जलवायु (Temperate)",
-      "D": "ध्रुवीय (Polar)"
+      "A": "1947",
+      "B": "1951",
+      "C": "1960",
+      "D": "1975"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 7,
-    "question": "भारतीय मानसून की शुरुआत किस क्षेत्र से होती है? / From which region does the Indian monsoon originate?",
+    "question": "निम्न में से कौन-से कारण भारत में जनसांख्यिकीय लाभांश को खतरा पहुंचाते हैं? / Which of the following threaten India's Demographic Dividend?",
     "options": {
-      "A": "अरब सागर (Arabian Sea)",
-      "B": "बंगाल की खाड़ी (Bay of Bengal)",
-      "C": "हिमालय (Himalayas)",
-      "D": "सिंधु नदी घाटी (Indus Valley)"
+      "A": "बेहतर स्वास्थ्य सुविधाएँ (Improved health facilities)",
+      "B": "बेरोजगारी में वृद्धि (Increase in unemployment)",
+      "C": "शिक्षा की कमी (Lack of education)",
+      "D": "लिंग अनुपात में असंतुलन (Gender imbalance)"
     },
-    "answer": ["A"]
+    "answer": ["B", "C", "D"]
   },
   {
     "id": 8,
-    "question": "चक्रवात (Cyclone) मुख्यतः किस प्रकार के मौसम से जुड़ा होता है? / Cyclones are mainly associated with which weather phenomenon?",
+    "question": "भारत की वर्तमान आर्थिक योजना (2024-25) का मुख्य फोकस कौन-से क्षेत्र पर है? / What is the main focus area of India’s current economic plan (2024-25)?",
     "options": {
-      "A": "गर्मी के तूफान (Tropical storms)",
-      "B": "शीतलहर (Cold wave)",
-      "C": "बारिश (Rain)",
-      "D": "बर्फ़बारी (Snowfall)"
+      "A": "डिजिटल इकोनॉमी (Digital Economy)",
+      "B": "कृषि आधुनिकीकरण (Agricultural Modernization)",
+      "C": "औद्योगिकीकरण (Industrialization)",
+      "D": "पर्यावरण संरक्षण (Environmental Conservation)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 9,
-    "question": "वायुमंडलीय परिसंचरण में ‘ट्रेड विंड्स’ किस दिशा में बहती हैं? / In atmospheric circulation, trade winds blow in which direction?",
+    "question": "भारतीय अर्थव्यवस्था में कृषि क्षेत्र की हिस्सेदारी लगभग क्या है 2024 में? / Approximate share of agriculture sector in Indian economy in 2024 is?",
     "options": {
-      "A": "पूर्व से पश्चिम (East to West)",
-      "B": "पश्चिम से पूर्व (West to East)",
-      "C": "उत्तर से दक्षिण (North to South)",
-      "D": "दक्षिण से उत्तर (South to North)"
+      "A": "17%",
+      "B": "25%",
+      "C": "10%",
+      "D": "40%"
     },
     "answer": ["A"]
   },
   {
     "id": 10,
-    "question": "भारतीय तटों पर समुद्री ज्वार की मुख्य घटना क्या कहलाती है? / What is the main tidal phenomenon on Indian coasts called?",
+    "question": "भारत में कौन-से संगठन आर्थिक योजना बनाने और निगरानी के लिए जिम्मेदार है? / Which organization is responsible for economic planning and monitoring in India?",
     "options": {
-      "A": "ज्वार-भाटा (Tides)",
-      "B": "लहरें (Waves)",
-      "C": "आंधी (Storm)",
-      "D": "तूफान (Cyclone)"
+      "A": "निति आयोग (NITI Aayog)",
+      "B": "भारतीय रिजर्व बैंक (RBI)",
+      "C": "वित्त मंत्रालय (Ministry of Finance)",
+      "D": "सेंटर फॉर मॉनिटरिंग इंडियन इकॉनॉमी (CMIE)"
     },
     "answer": ["A"]
   },
   {
     "id": 11,
-    "question": "मृदा के निम्नलिखित में से कौन-से प्रकार भारत में पाए जाते हैं? / Which of the following soil types are found in India?",
+    "question": "भारत में कृषि क्षेत्र की मुख्य चुनौतियाँ कौन-कौन सी हैं? / What are the major challenges faced by the agriculture sector in India?",
     "options": {
-      "A": "लाल मृदा (Red Soil)",
-      "B": "कालिमा (Black Soil)",
-      "C": "रेतली मृदा (Sandy Soil)",
-      "D": "टुंड्रा मृदा (Tundra Soil)"
+      "A": "भूमि प्रदूषण (Soil Pollution)",
+      "B": "जल संकट (Water Scarcity)",
+      "C": "कृषि उपकरणों की कमी (Lack of Agricultural Equipment)",
+      "D": "कृषि ऋण संकट (Agricultural Debt Crisis)"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 12,
+    "question": "भारत में आर्थिक विकास के लिए 'डेमोग्राफिक डिविडेंड' का अधिकतम लाभ कब मिलता है? / When is the maximum benefit of 'Demographic Dividend' realized in India?",
+    "options": {
+      "A": "जब युवाओं की संख्या वृद्धों से अधिक हो (When youth population exceeds elderly)",
+      "B": "जब जन्म दर बढ़ती है (When birth rate increases)",
+      "C": "जब वृद्धों की संख्या ज्यादा होती है (When elderly population is high)",
+      "D": "जब कुल जनसंख्या स्थिर हो (When total population is stable)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 13,
+    "question": "भारत की आर्थिक योजना में निति आयोग (NITI Aayog) की भूमिका क्या है? / What is the role of NITI Aayog in India's economic planning?",
+    "options": {
+      "A": "राष्ट्रीय नीतियाँ बनाना (Formulating National Policies)",
+      "B": "वित्तीय बजट बनाना (Preparing Financial Budget)",
+      "C": "राज्यों के बीच समन्वय करना (Coordinating between States)",
+      "D": "वित्तीय बाजारों का संचालन (Regulating Financial Markets)"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 14,
+    "question": "भारत में कृषि की उत्पादकता बढ़ाने के लिए कौन-कौन से उपाय प्रभावी हैं? / Which measures are effective to increase agricultural productivity in India?",
+    "options": {
+      "A": "सिंचाई सुविधाओं का विस्तार (Expansion of Irrigation Facilities)",
+      "B": "उन्नत बीजों का उपयोग (Use of High-Yield Seeds)",
+      "C": "भूमि सुधार (Land Reforms)",
+      "D": "सार्वजनिक वितरण प्रणाली (Public Distribution System)"
     },
     "answer": ["A", "B", "C"]
   },
   {
-    "id": 12,
-    "question": "मृदा अपरदन (Soil erosion) का मुख्य कारण क्या है? / What is the main cause of soil erosion?",
-    "options": {
-      "A": "जल प्रवाह (Water flow)",
-      "B": "हवा का प्रवाह (Wind flow)",
-      "C": "मानव गतिविधियाँ (Human activities)",
-      "D": "सभी उपरोक्त (All of the above)"
-    },
-    "answer": ["D"]
-  },
-  {
-    "id": 13,
-    "question": "वनस्पति क्षेत्र में शुष्क और अर्ध-शुष्क क्षेत्रों की मुख्य वनस्पति कौन-सी है? / What is the main vegetation in arid and semi-arid regions?",
-    "options": {
-      "A": "कंटुपर (Thorny bushes)",
-      "B": "ताड़ के पेड़ (Palm trees)",
-      "C": "बारिश के जंगल (Rainforest trees)",
-      "D": "तैयार बागान (Plantations)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 14,
-    "question": "हिमालय की कौन-सी पर्वतमाला सबसे पुरानी मानी जाती है? / Which Himalayan range is considered the oldest?",
-    "options": {
-      "A": "संगमरमर पर्वत (Shivalik Hills)",
-      "B": "महादेव पर्वत (Mahadev Hills)",
-      "C": "करakoram",
-      "D": "गंडकी पर्वत (Gandaki Range)"
-    },
-    "answer": ["A"]
-  },
-  {
     "id": 15,
-    "question": "पृथ्वी के कोर में मुख्यतः कौन-सा तत्व पाया जाता है? / Which element is mainly found in Earth’s core?",
+    "question": "भारत की सेवा क्षेत्र की वृद्धि में निम्नलिखित में से कौन से कारक महत्वपूर्ण हैं? / What factors are important for growth of service sector in India?",
     "options": {
-      "A": "लोहा (Iron)",
-      "B": "ऑक्सीजन (Oxygen)",
-      "C": "नाइट्रोजन (Nitrogen)",
-      "D": "हीलियम (Helium)"
+      "A": "सूचना प्रौद्योगिकी का विकास (Development of IT)",
+      "B": "विदेशी निवेश (Foreign Investment)",
+      "C": "औद्योगिक उत्पादन (Industrial Production)",
+      "D": "शिक्षा और कौशल विकास (Education and Skill Development)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 16,
-    "question": "वायुमंडल की सबसे निचली परत कौन-सी है? / Which is the lowest layer of the atmosphere?",
+    "question": "भारत के जनसांख्यिकीय लाभांश का नुकसान करने वाले कौन से सामाजिक मुद्दे हैं? / Which social issues hamper India’s demographic dividend?",
     "options": {
-      "A": "ट्रोपोस्फीयर (Troposphere)",
-      "B": "स्ट्रैटोस्फीयर (Stratosphere)",
-      "C": "मेसोस्फीयर (Mesosphere)",
-      "D": "थर्मोस्फीयर (Thermosphere)"
+      "A": "शिक्षा की कमी (Lack of Education)",
+      "B": "महिला सशक्तिकरण (Women Empowerment)",
+      "C": "स्वास्थ्य सेवाओं की कमी (Poor Healthcare Services)",
+      "D": "युवा बेरोजगारी (Youth Unemployment)"
     },
-    "answer": ["A"]
+    "answer": ["A", "C", "D"]
   },
   {
     "id": 17,
-    "question": "भारत में रेगिस्तान मुख्यतः किस क्षेत्र में स्थित हैं? / In which region are deserts mainly located in India?",
+    "question": "निम्नलिखित में से भारत के आर्थिक विकास के लिए किस योजना का महत्व सबसे अधिक है? / Which plan is most important for India’s economic development?",
     "options": {
-      "A": "राजस्थान (Rajasthan)",
-      "B": "असम (Assam)",
-      "C": "केरल (Kerala)",
-      "D": "बिहार (Bihar)"
+      "A": "मेक इन इंडिया (Make in India)",
+      "B": "स्वच्छ भारत मिशन (Swachh Bharat Mission)",
+      "C": "जन धन योजना (Jan Dhan Yojana)",
+      "D": "लौह पुरुष योजना (Iron Man Plan)"
     },
     "answer": ["A"]
   },
   {
     "id": 18,
-    "question": "सागर के मुख्य धाराएँ (Ocean currents) किसे प्रभावित करती हैं? / Ocean currents mainly affect which of the following?",
+    "question": "भारत में आर्थिक योजना के दौरान पंचवर्षीय योजनाओं का उद्देश्य क्या था? / What was the objective of Five-Year Plans in India?",
     "options": {
-      "A": "जलवायु (Climate)",
-      "B": "भूमि का आकार (Landform)",
-      "C": "मौसम के पैटर्न (Weather patterns)",
-      "D": "दोनों A और C (Both A and C)"
+      "A": "सामाजिक असमानता बढ़ाना (Increase Social Inequality)",
+      "B": "सतत आर्थिक विकास (Sustainable Economic Growth)",
+      "C": "आयात पर निर्भरता बढ़ाना (Increase Import Dependence)",
+      "D": "सरकारी खर्च कम करना (Reduce Government Expenditure)"
     },
-    "answer": ["D"]
+    "answer": ["B"]
   },
   {
     "id": 19,
-    "question": "पर्वत किस प्रकार के भौगोलिक रूप हैं? / Mountains are a type of which geographical feature?",
+    "question": "2024-2025 में भारत की जीडीपी वृद्धि दर लगभग कितनी रहने का अनुमान है? / What is the estimated GDP growth rate of India in 2024-25?",
     "options": {
-      "A": "उत्थान स्थलाकृति (Relief features)",
-      "B": "जल निकाय (Water bodies)",
-      "C": "भूमि उपयोग (Land use)",
-      "D": "वनस्पति क्षेत्र (Vegetation zone)"
+      "A": "6.5%",
+      "B": "7.2%",
+      "C": "5.5%",
+      "D": "8.0%"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 20,
-    "question": "वातावरण में ‘ग्रीनहाउस प्रभाव’ का कारण क्या है? / What causes the ‘Greenhouse Effect’ in the atmosphere?",
+    "question": "भारतीय अर्थव्यवस्था की संरचना में किस क्षेत्र का योगदान सबसे अधिक है? / Which sector contributes the most in the structure of Indian Economy?",
     "options": {
-      "A": "कार्बन डाइऑक्साइड और अन्य गैसें",
-      "B": "ऑक्सीजन की कमी",
-      "C": "सूरज की किरणें",
-      "D": "पानी की कमी"
+      "A": "कृषि (Agriculture)",
+      "B": "उद्योग (Industry)",
+      "C": "सेवा क्षेत्र (Services)",
+      "D": "खुदरा व्यापार (Retail Trade)"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 21,
-    "question": "पृथ्वी के कौन-से भाग को ‘मैटल’ कहा जाता है? / Which part of Earth is called the ‘Mantle’?",
+    "question": "भारत के जनसांख्यिकीय लाभांश को बनाए रखने के लिए क्या आवश्यक है? / What is necessary to sustain India’s demographic dividend?",
     "options": {
-      "A": "क्रस्ट और कोर के बीच की परत",
-      "B": "सबसे अंदरूनी परत",
-      "C": "सबसे बाहरी परत",
-      "D": "वायुमंडल की परत"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 22,
-    "question": "किस प्रकार की मिट्टी कृषि के लिए सबसे उपयुक्त मानी जाती है? / Which type of soil is considered most suitable for agriculture?",
-    "options": {
-      "A": "लौमी मिट्टी (Loamy Soil)",
-      "B": "रेतली मिट्टी (Sandy Soil)",
-      "C": "मिट्टी लाल रंग की (Red Soil)",
-      "D": "काली मिट्टी (Black Soil)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 23,
-    "question": "मॉनसून का प्रभाव मुख्यतः किस क्षेत्र पर पड़ता है? / Monsoon mainly affects which region?",
-    "options": {
-      "A": "दक्षिण और दक्षिण-पूर्व एशिया",
-      "B": "उत्तर अमेरिका",
-      "C": "अंटार्कटिका",
-      "D": "मध्य यूरोप"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 24,
-    "question": "समुद्री धाराएँ किसके द्वारा प्रभावित होती हैं? / Ocean currents are influenced by which factors?",
-    "options": {
-      "A": "हवा का दबाव और पृथ्वी का घूर्णन",
-      "B": "तापमान और जलवायु",
-      "C": "चन्द्रमा का गुरुत्वाकर्षण",
-      "D": "बर्फ़ का पिघलना"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 25,
-    "question": "किस प्रकार की वनस्पति उष्णकटिबंधीय क्षेत्र में पाई जाती है? / What type of vegetation is found in tropical regions?",
-    "options": {
-      "A": "घने वर्षावन (Dense rainforests)",
-      "B": "ताड़ के पेड़",
-      "C": "मशरूम",
-      "D": "टुंड्रा"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 26,
-    "question": "पृथ्वी की सबसे ऊँची पर्वत श्रंखला कौन-सी है? / What is the highest mountain range on Earth?",
-    "options": {
-      "A": "हिमालय (Himalayas)",
-      "B": "एंडीज (Andes)",
-      "C": "रॉकीज़ (Rockies)",
-      "D": "अल्प्स (Alps)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 27,
-    "question": "मृदा के क्षरण को रोकने के लिए कौन-कौन से उपाय किए जा सकते हैं? / What measures can be taken to prevent soil erosion?",
-    "options": {
-      "A": "वृक्षारोपण (Afforestation)",
-      "B": "टेरसिंग (Terracing)",
-      "C": "नियंत्रित चराई (Controlled grazing)",
-      "D": "अधिकतम कृषि (Intensive farming)"
+      "A": "स्वास्थ्य सेवाओं में सुधार (Improvement in Healthcare)",
+      "B": "शिक्षा और कौशल विकास (Education and Skill Development)",
+      "C": "महिला सशक्तिकरण (Women Empowerment)",
+      "D": "लिंग असंतुलन बढ़ाना (Increase Gender Imbalance)"
     },
     "answer": ["A", "B", "C"]
   },
   {
-    "id": 28,
-    "question": "वायुमंडल में ऑक्सीजन की मात्रा लगभग कितनी होती है? / Approximately what is the percentage of oxygen in the atmosphere?",
+    "id": 22,
+    "question": "भारत में औद्योगिक क्षेत्र की प्रमुख समस्याएँ कौन-सी हैं? / What are the major problems of industrial sector in India?",
     "options": {
-      "A": "21%",
-      "B": "78%",
-      "C": "5%",
-      "D": "50%"
+      "A": "पुरानी तकनीक (Obsolete Technology)",
+      "B": "अपर्याप्त ऊर्जा आपूर्ति (Inadequate Power Supply)",
+      "C": "प्रशासनिक बाधाएँ (Administrative Barriers)",
+      "D": "कृषि प्रधानता (Agriculture Dominance)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 23,
+    "question": "भारत में आर्थिक योजना के लिए कौन सा संगठन अब मुख्य रूप से ज़िम्मेदार है? / Which organization is now primarily responsible for economic planning in India?",
+    "options": {
+      "A": "भारतीय रिजर्व बैंक (RBI)",
+      "B": "निति आयोग (NITI Aayog)",
+      "C": "वित्त मंत्रालय (Ministry of Finance)",
+      "D": "केंद्रीय सांख्यिकी कार्यालय (CSO)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 24,
+    "question": "भारत में जनसंख्या वृद्धि दर में हाल का रुझान क्या है? / What is the recent trend in India's population growth rate?",
+    "options": {
+      "A": "तेजी से बढ़ रही है (Increasing rapidly)",
+      "B": "धीरे-धीरे घट रही है (Gradually decreasing)",
+      "C": "स्थिर है (Stable)",
+      "D": "बहुत तेजी से घट रही है (Declining rapidly)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 25,
+    "question": "भारत की आर्थिक योजना में सामाजिक न्याय को कैसे शामिल किया जाता है? / How is social justice included in India's economic planning?",
+    "options": {
+      "A": "कमजोर वर्गों के लिए विशेष योजनाएँ (Special schemes for weaker sections)",
+      "B": "सर्व शिक्षा अभियान (Universal Education Campaign)",
+      "C": "महिला सशक्तिकरण (Women Empowerment)",
+      "D": "सभी वर्गों को समान कर देना (Equalizing all classes)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 26,
+    "question": "भारत में कृषि के लिए कौन-से सिंचाई स्रोत सबसे अधिक उपयोग किए जाते हैं? / Which irrigation sources are most used in Indian agriculture?",
+    "options": {
+      "A": "नहर सिंचाई (Canal Irrigation)",
+      "B": "भूमिगत जल (Groundwater)",
+      "C": "वर्षा जल संचयन (Rainwater Harvesting)",
+      "D": "डैम जल (Dam Water)"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 27,
+    "question": "भारत की जनसांख्यिकी में महिला जनसंख्या की प्रतिशतता लगभग क्या है? / Approximate percentage of female population in India’s demographics?",
+    "options": {
+      "A": "48.1%",
+      "B": "51.9%",
+      "C": "46.5%",
+      "D": "50.2%"
     },
     "answer": ["A"]
+  },
+  {
+    "id": 28,
+    "question": "भारत की पंचवर्षीय योजनाओं में कौन सा योजना पहलू सबसे प्रमुख था? / Which aspect was most prominent in India's Five Year Plans?",
+    "options": {
+      "A": "औद्योगिकीकरण (Industrialization)",
+      "B": "कृषि सुधार (Agricultural Reform)",
+      "C": "शिक्षा सुधार (Educational Reform)",
+      "D": "पर्यावरण संरक्षण (Environmental Conservation)"
+    },
+    "answer": ["A", "B"]
   },
   {
     "id": 29,
-    "question": "रेगिस्तानी क्षेत्र की मिट्टी की विशेषता क्या होती है? / What is a characteristic of desert soil?",
+    "question": "भारत में 'जनसांख्यिकीय लाभांश' से अधिकतम लाभ प्राप्त करने के लिए क्या आवश्यक है? / What is essential to maximize the benefit of 'Demographic Dividend' in India?",
     "options": {
-      "A": "रेतिली और जल धारण क्षमता कम",
-      "B": "जल-धारण क्षमता अधिक",
-      "C": "अधिक उपजाऊ",
-      "D": "मिट्टी में अधिक कार्बनिक पदार्थ"
+      "A": "स्वास्थ्य सुविधाओं का विस्तार (Expansion of healthcare facilities)",
+      "B": "शिक्षा और कौशल विकास (Education and Skill Development)",
+      "C": "लिंग असंतुलन बढ़ाना (Increase gender imbalance)",
+      "D": "युवा बेरोजगारी कम करना (Reducing youth unemployment)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 30,
-    "question": "भूमध्यरेखा के पास का क्षेत्र किस प्रकार के तापमान का अनुभव करता है? / The region near the equator experiences what type of temperature?",
+    "question": "2024-25 में भारतीय अर्थव्यवस्था में कृषि क्षेत्र का GDP में योगदान क्या अनुमानित है? / Estimated contribution of agriculture sector to GDP in India in 2024-25?",
     "options": {
-      "A": "गर्म और स्थिर (Hot and stable)",
-      "B": "ठंडा",
-      "C": "बहुत परिवर्तनशील",
-      "D": "शीतोष्ण"
+      "A": "18.5%",
+      "B": "15.2%",
+      "C": "25.7%",
+      "D": "20.0%"
     },
     "answer": ["A"]
   },
   {
     "id": 31,
-    "question": "प्लेट टेक्टोनिक्स की किन्हीं दो मुख्य प्लेटों का टकराव कौन-सी प्रक्रिया कहलाता है? / What is the process called when two tectonic plates collide?",
+    "question": "भारत में आर्थिक योजनाओं का मुख्य उद्देश्य कौन सा है? / What is the main purpose of economic plans in India?",
     "options": {
-      "A": "संकोचन (Convergence)",
-      "B": "विकर्षण (Divergence)",
-      "C": "स्लाइडिंग (Sliding)",
-      "D": "रिलीज (Release)"
+      "A": "सभी वर्गों का समान विकास (Equitable development of all classes)",
+      "B": "केवल कृषि विकास (Only agriculture development)",
+      "C": "औद्योगिक वृद्धि को रोकना (Prevent industrial growth)",
+      "D": "सामाजिक असमानता बढ़ाना (Increase social inequality)"
     },
     "answer": ["A"]
   },
   {
     "id": 32,
-    "question": "समुद्र के ज्वार का मुख्य कारण क्या है? / What is the main cause of ocean tides?",
+    "question": "भारत के आर्थिक ढांचे में सेवा क्षेत्र का योगदान 2024 में कितना अनुमानित है? / What is the estimated contribution of services sector in Indian economy in 2024?",
     "options": {
-      "A": "चंद्रमा और सूर्य का गुरुत्वाकर्षण",
-      "B": "हवा का दबाव",
-      "C": "भूमि का घूर्णन",
-      "D": "समुद्र के तापमान में बदलाव"
+      "A": "52%",
+      "B": "65%",
+      "C": "58%",
+      "D": "48%"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 33,
+    "question": "भारत के जनसांख्यिकी में युवाओं की प्रमुख समस्या क्या है? / What is the major problem of youth in India’s demographics?",
+    "options": {
+      "A": "बेरोजगारी (Unemployment)",
+      "B": "शिक्षा की कमी (Lack of Education)",
+      "C": "स्वास्थ्य समस्याएं (Health Issues)",
+      "D": "महिला सशक्तिकरण (Women Empowerment)"
     },
     "answer": ["A"]
   },
   {
-    "id": 33,
-    "question": "भारत में किस प्रकार की मिट्टी सबसे अधिक क्षेत्रफल में पाई जाती है? / Which type of soil is most widespread in India?",
-    "options": {
-      "A": "लाल मृदा (Red soil)",
-      "B": "काली मृदा (Black soil)",
-      "C": "जलोढ़ मिट्टी (Alluvial soil)",
-      "D": "मोरम मिट्टी (Laterite soil)"
-    },
-    "answer": ["C"]
-  },
-  {
     "id": 34,
-    "question": "घरेलू वनस्पति में प्रमुख पेड़ कौन-से हैं? / Which trees are major in natural vegetation?",
+    "question": "भारत की जनसंख्या वृद्धि दर 2023-24 में कैसी रही? / How was India's population growth rate in 2023-24?",
     "options": {
-      "A": "सागौन, शीशम, पेड़ गुलमोहर",
-      "B": "नीम, आम, पीपल",
-      "C": "पाइन, देवदार, देवदारू",
-      "D": "सभी उपरोक्त"
+      "A": "लगातार बढ़ती रही (Continued increasing)",
+      "B": "धीरे-धीरे घटती रही (Gradually decreasing)",
+      "C": "स्थिर रही (Stable)",
+      "D": "तेजी से घटती रही (Rapidly decreasing)"
     },
-    "answer": ["D"]
+    "answer": ["B"]
   },
   {
     "id": 35,
-    "question": "वायुमंडल की कौन-सी परत ओजोन परत होती है? / Which layer of atmosphere contains the ozone layer?",
+    "question": "भारत की आर्थिक योजनाओं में कृषि सुधार को लेकर कौन-सी योजना प्रमुख है? / Which plan is prominent for agricultural reforms in India?",
     "options": {
-      "A": "स्ट्रैटोस्फीयर (Stratosphere)",
-      "B": "ट्रोपोस्फीयर (Troposphere)",
-      "C": "मेसोस्फीयर (Mesosphere)",
-      "D": "थर्मोस्फीयर (Thermosphere)"
+      "A": "हरित क्रांति (Green Revolution)",
+      "B": "डिजिटल इंडिया (Digital India)",
+      "C": "मेक इन इंडिया (Make in India)",
+      "D": "स्वच्छ भारत मिशन (Swachh Bharat Mission)"
     },
     "answer": ["A"]
   },
   {
     "id": 36,
-    "question": "किस प्रकार के वन्यजीव मुख्य रूप से उष्णकटिबंधीय वर्षावन में पाए जाते हैं? / Which wildlife is mainly found in tropical rainforests?",
+    "question": "भारत में किस क्षेत्र ने हाल के वर्षों में सबसे अधिक रोजगार सृजन किया है? / Which sector has generated the most employment in recent years in India?",
     "options": {
-      "A": "बाघ, हाथी, बंदर",
-      "B": "ध्रुवीय भालू",
-      "C": "रेगिस्तानी साप",
-      "D": "सारस और हंस"
+      "A": "कृषि (Agriculture)",
+      "B": "सेवा क्षेत्र (Services)",
+      "C": "उद्योग (Industry)",
+      "D": "खुदरा व्यापार (Retail Trade)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 37,
-    "question": "पृथ्वी पर सबसे बड़ा महासागर कौन-सा है? / Which is the largest ocean on Earth?",
+    "question": "2024-25 में भारत के उद्योग क्षेत्र की वृद्धि दर कितनी अनुमानित है? / Estimated growth rate of industrial sector in India in 2024-25?",
     "options": {
-      "A": "प्रशांत महासागर (Pacific Ocean)",
-      "B": "अटलांटिक महासागर (Atlantic Ocean)",
-      "C": "भारतीय महासागर (Indian Ocean)",
-      "D": "आर्कटिक महासागर (Arctic Ocean)"
+      "A": "7.5%",
+      "B": "6.0%",
+      "C": "5.3%",
+      "D": "8.1%"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 38,
-    "question": "मॉनसून वर्षा का मुख्य स्रोत कौन-सा है? / What is the main source of monsoon rainfall?",
+    "question": "भारत की अर्थव्यवस्था में लिंग अनुपात का क्या प्रभाव होता है? / What is the impact of sex ratio in Indian economy?",
     "options": {
-      "A": "समुद्री जल स्रोत",
-      "B": "नदी स्रोत",
-      "C": "तालाब और झरने",
-      "D": "तालाब"
+      "A": "सामाजिक और आर्थिक विकास में बाधा (Obstacle in social and economic development)",
+      "B": "महिला सशक्तिकरण में मदद (Help in women empowerment)",
+      "C": "शिक्षा दर बढ़ाने में योगदान (Contribution in increasing literacy rate)",
+      "D": "कृषि उत्पादन में वृद्धि (Increase in agricultural production)"
     },
     "answer": ["A"]
   },
   {
     "id": 39,
-    "question": "भूकंपीय गतिविधि अधिकतर किस क्षेत्र में होती है? / Earthquake activity is more frequent in which areas?",
+    "question": "भारत में निम्न में से कौन-से कारक जनसांख्यिकीय लाभांश को बढ़ावा देते हैं? / Which factors promote demographic dividend in India?",
     "options": {
-      "A": "प्लेट टेक्टोनिक सीमाएं",
-      "B": "महाद्वीपीय मध्य भाग",
-      "C": "रेगिस्तानी क्षेत्र",
-      "D": "सागर के बीच"
+      "A": "उच्च शिक्षा स्तर (High education levels)",
+      "B": "स्वास्थ्य सेवाओं में सुधार (Improved healthcare)",
+      "C": "महिला सशक्तिकरण (Women Empowerment)",
+      "D": "बेरोजगारी बढ़ना (Increase in unemployment)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 40,
-    "question": "किस प्रकार का मृदा अपरदन सबसे अधिक कृषि प्रभावित करता है? / Which type of soil erosion affects agriculture the most?",
-    "options": {
-      "A": "जल अपरदन (Water erosion)",
-      "B": "हवा अपरदन (Wind erosion)",
-      "C": "मानव क्रियाएँ (Human activities)",
-      "D": "प्राकृतिक आपदाएँ (Natural disasters)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 41,
-    "question": "भारत की जनसंख्या वृद्धि दर किस दशक में सबसे अधिक थी? / In which decade was India’s population growth rate the highest?",
-    "options": {
-      "A": "1971-1981",
-      "B": "1981-1991",
-      "C": "1991-2001",
-      "D": "2001-2011"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 42,
-    "question": "शहरीकरण का मुख्य कारण क्या है? / What is the main cause of urbanization?",
-    "options": {
-      "A": "रोजगार अवसर",
-      "B": "खेती की खराबी",
-      "C": "प्राकृतिक आपदाएं",
-      "D": "पर्यावरण संरक्षण"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 43,
-    "question": "प्रवासन में ‘आंतरिक प्रवासन’ का क्या अर्थ है? / What does ‘Internal Migration’ mean?",
-    "options": {
-      "A": "देश के अंदर स्थानांतरण",
-      "B": "देश के बाहर स्थानांतरण",
-      "C": "स्थायी आवास परिवर्तन",
-      "D": "सीमापार प्रवासन"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 44,
-    "question": "भारत में सबसे अधिक बोली जाने वाली भाषा कौन-सी है? / Which language is spoken by the largest number of people in India?",
-    "options": {
-      "A": "हिंदी",
-      "B": "बंगाली",
-      "C": "तेलुगु",
-      "D": "मराठी"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 45,
-    "question": "‘डेमोग्राफिक ट्रांजिशन मॉडल’ का क्या उद्देश्य है? / What is the purpose of the Demographic Transition Model?",
-    "options": {
-      "A": "जनसंख्या वृद्धि की अवस्थाएँ समझना",
-      "B": "आर्थिक विकास मापना",
-      "C": "शहरीकरण की दर मापना",
-      "D": "प्राकृतिक संसाधनों का अध्ययन"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 46,
-    "question": "किस प्रकार की कृषि भारत में सबसे अधिक होती है? / Which type of agriculture is most common in India?",
-    "options": {
-      "A": "सिंचित कृषि (Irrigated farming)",
-      "B": "बारिश आधारित कृषि (Rainfed farming)",
-      "C": "खेती (Shifting cultivation)",
-      "D": "जैविक कृषि (Organic farming)"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 47,
-    "question": "उद्योग किस प्रकार के आर्थिक क्षेत्र में आते हैं? / Industries fall under which economic sector?",
-    "options": {
-      "A": "द्वितीयक क्षेत्र (Secondary sector)",
-      "B": "प्राथमिक क्षेत्र (Primary sector)",
-      "C": "तृतीयक क्षेत्र (Tertiary sector)",
-      "D": "चतुर्थक क्षेत्र (Quaternary sector)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 48,
-    "question": "भारत में सबसे अधिक सशक्त सेवा क्षेत्र कौन-सा है? / Which is the most dominant service sector in India?",
-    "options": {
-      "A": "सूचना प्रौद्योगिकी (Information Technology)",
-      "B": "परिवहन (Transport)",
-      "C": "स्वास्थ्य (Healthcare)",
-      "D": "शिक्षा (Education)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 49,
-    "question": "शहरी क्षेत्रों में ‘कंसंट्रिक ज़ोन मॉडल’ का उद्देश्य क्या है? / What is the purpose of the ‘Concentric Zone Model’ in urban areas?",
-    "options": {
-      "A": "शहर के विकास को समझना",
-      "B": "परिवहन प्रणाली अध्ययन",
-      "C": "कृषि क्षेत्रों का निर्धारण",
-      "D": "प्राकृतिक संसाधन प्रबंधन"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 50,
-    "question": "भारत में सबसे बड़ा बंदरगाह कौन सा है? / Which is the largest port in India?",
-    "options": {
-      "A": "मुंबई बंदरगाह",
-      "B": "चेन्नई बंदरगाह",
-      "C": "कोलकाता बंदरगाह",
-      "D": "कांडला बंदरगाह"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 51,
-    "question": "‘साक्षरता दर’ का अर्थ क्या है? / What does ‘Literacy Rate’ mean?",
-    "options": {
-      "A": "एक निश्चित आयु से ऊपर की आबादी में पढ़ने-लिखने की क्षमता",
-      "B": "जनसंख्या का प्रतिशत जो स्कूल जाता है",
-      "C": "कामकाजी जनसंख्या का हिस्सा",
-      "D": "शहरी और ग्रामीण आबादी का अनुपात"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 52,
-    "question": "भारत में सबसे अधिक फैलाव किस प्रकार के धार्मिक समूह का है? / Which religious group has the largest spread in India?",
-    "options": {
-      "A": "हिंदू",
-      "B": "इस्लाम",
-      "C": "ईसाई",
-      "D": "सिख"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 53,
-    "question": "किस प्रकार की आबादी अधिक होती है जब जन्म दर और मृत्यु दर दोनों उच्च होते हैं? / What type of population is characterized by both high birth and death rates?",
-    "options": {
-      "A": "स्टेज 1 – प्राग औद्योगिक (Pre-industrial)",
-      "B": "स्टेज 2 – औद्योगिक (Industrial)",
-      "C": "स्टेज 3 – पोस्ट-औद्योगिक (Post-industrial)",
-      "D": "स्टेज 4 – स्थिर जनसंख्या (Stable population)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 54,
-    "question": "शहरी क्षेत्रों में ‘स्लम’ का क्या अर्थ है? / What is the meaning of ‘Slum’ in urban areas?",
-    "options": {
-      "A": "अवैध और अस्वच्छ आवास क्षेत्र",
-      "B": "उच्च वर्ग आवास",
-      "C": "सरकारी आवास",
-      "D": "पर्यटक स्थल"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 55,
-    "question": "किस प्रकार का उद्योग कच्चे माल को संसाधित करता है? / Which type of industry processes raw materials?",
-    "options": {
-      "A": "प्राथमिक उद्योग (Primary Industry)",
-      "B": "मध्यस्थ उद्योग (Secondary Industry)",
-      "C": "सेवा उद्योग (Tertiary Industry)",
-      "D": "तकनीकी उद्योग (Quaternary Industry)"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 56,
-    "question": "भारत में ‘चाय’ उत्पादन का प्रमुख क्षेत्र कौन सा है? / What is the major tea-producing region in India?",
-    "options": {
-      "A": "असम",
-      "B": "तमिलनाडु",
-      "C": "महाराष्ट्र",
-      "D": "गुजरात"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 57,
-    "question": "मौजूदा समय में भारत में किस क्षेत्र की जनसंख्या सबसे अधिक है? / Which region has the highest population density in India currently?",
-    "options": {
-      "A": "उत्तर भारत के मैदान (Northern Plains)",
-      "B": "पश्चिमी रेगिस्तान (Western Desert)",
-      "C": "हिमालय क्षेत्र (Himalayan Region)",
-      "D": "दक्षिणी पठार (Southern Plateau)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 58,
-    "question": "संचार प्रणाली में ‘ब्रॉडबैंड’ क्या है? / What is ‘Broadband’ in communication systems?",
-    "options": {
-      "A": "तेज और उच्च क्षमता वाली इंटरनेट सेवा",
-      "B": "रेडियो प्रसारण",
-      "C": "वायरलेस टेलीफोन सेवा",
-      "D": "सामान्य फोन लाइन"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 59,
-    "question": "भारत में रेल परिवहन का सबसे बड़ा केंद्र कौन-सा है? / Which is the largest rail transport hub in India?",
-    "options": {
-      "A": "मुम्बई",
-      "B": "दिल्ली",
-      "C": "कोलकाता",
-      "D": "चेन्नई"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 60,
-    "question": "मध्य प्रदेश में किस प्रकार का कृषि प्रधान है? / What type of agriculture predominates in Madhya Pradesh?",
-    "options": {
-      "A": "खाद्यान्न उत्पादन (Food grains production)",
-      "B": "फूल उत्पादन (Flower farming)",
-      "C": "फलोत्पादन (Fruit farming)",
-      "D": "मछली पालन (Fish farming)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 61,
-    "question": "‘मल्टीपल नकरात्मक प्रवासन’ (Multiple Negative Migration) का अर्थ क्या है? / What is the meaning of Multiple Negative Migration?",
-    "options": {
-      "A": "लगातार प्रवास जो क्षेत्र की जनसंख्या कम करे",
-      "B": "प्रवासन की अनिश्चित स्थिति",
-      "C": "प्रवासन का स्थायी होना",
-      "D": "प्रवासन का बढ़ना"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 62,
-    "question": "भारत में किस शहर को ‘सिलिकॉन वैली ऑफ इंडिया’ कहा जाता है? / Which city is called the ‘Silicon Valley of India’?",
-    "options": {
-      "A": "बैंगलोर",
-      "B": "दिल्ली",
-      "C": "मुंबई",
-      "D": "हैदराबाद"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 63,
-    "question": "जनसंख्या घनत्व किस इकाई में मापा जाता है? / Population density is measured in which unit?",
-    "options": {
-      "A": "प्रति वर्ग किलोमीटर (per sq km)",
-      "B": "प्रति वर्ग मीटर (per sq meter)",
-      "C": "प्रति व्यक्ति (per person)",
-      "D": "प्रति किलोमीटर (per km)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 64,
-    "question": "भारत में किस प्रकार का उद्योग ग्रामीण क्षेत्रों में अधिक होता है? / Which type of industry is more common in rural India?",
-    "options": {
-      "A": "हस्तशिल्प उद्योग (Handicraft industry)",
-      "B": "भारी उद्योग (Heavy industry)",
-      "C": "सूचना प्रौद्योगिकी (Information Technology)",
-      "D": "वैज्ञानिक उद्योग (Scientific industry)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 65,
-    "question": "भारत में किस धर्म के अनुयायियों की संख्या सबसे अधिक है? / Which religion has the highest number of followers in India?",
-    "options": {
-      "A": "हिंदू धर्म",
-      "B": "इस्लाम",
-      "C": "ईसाई धर्म",
-      "D": "सिख धर्म"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 66,
-    "question": "भारत में महानगरों की जनसंख्या को क्या कहा जाता है? / What is the term for the population of metropolitan cities in India?",
-    "options": {
-      "A": "शहरी जनसंख्या (Urban population)",
-      "B": "ग्रामीण जनसंख्या (Rural population)",
-      "C": "स्थानीय जनसंख्या (Local population)",
-      "D": "अर्ध-शहरी जनसंख्या (Semi-urban population)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 67,
-    "question": "अंतरराष्ट्रीय प्रवासन में सबसे अधिक प्रवासी किस क्षेत्र से आते हैं? / Which region contributes the highest number of international migrants?",
-    "options": {
-      "A": "एशिया",
-      "B": "अफ्रीका",
-      "C": "यूरोप",
-      "D": "अमेरिका"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 68,
-    "question": "भारत में किस प्रकार की भाषा सबसे अधिक बोली जाती है? / Which type of language is most spoken in India?",
-    "options": {
-      "A": "भारतीय भाषाएं (Indian languages)",
-      "B": "विदेशी भाषाएं (Foreign languages)",
-      "C": "संस्कृत",
-      "D": "अंग्रेज़ी"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 69,
-    "question": "भारतीय अर्थव्यवस्था में कौन-सा क्षेत्र सबसे अधिक योगदान देता है? / Which sector contributes the most to the Indian economy?",
-    "options": {
-      "A": "सेवा क्षेत्र (Services sector)",
-      "B": "कृषि क्षेत्र (Agriculture sector)",
-      "C": "औद्योगिक क्षेत्र (Industrial sector)",
-      "D": "निर्माण क्षेत्र (Manufacturing sector)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 70,
-    "question": "‘साक्षरता दर’ बढ़ाने के लिए कौन-सी सरकारी योजना है? / Which government scheme is aimed at increasing literacy rate?",
-    "options": {
-      "A": "सर्व शिक्षा अभियान (Sarva Shiksha Abhiyan)",
-      "B": "प्रधानमंत्री आवास योजना (PMAY)",
-      "C": "अटल पेंशन योजना (Atal Pension Yojana)",
-      "D": "प्रधानमंत्री जन धन योजना (PMJDY)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 71,
-    "question": "भारत में सबसे अधिक किस प्रकार की आर्थिक गतिविधि होती है? / Which type of economic activity is most common in India?",
-    "options": {
-      "A": "प्राथमिक (Primary)",
-      "B": "द्वितीयक (Secondary)",
-      "C": "तृतीयक (Tertiary)",
-      "D": "चतुर्थक (Quaternary)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 72,
-    "question": "भारतीय शहरीकरण की प्रमुख समस्या क्या है? / What is the major problem of urbanization in India?",
-    "options": {
-      "A": "स्लम और अव्यवस्थित विस्तार",
-      "B": "अधिक हरित क्षेत्र",
-      "C": "कम जनसंख्या",
-      "D": "पर्यावरण संरक्षण"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 73,
-    "question": "‘साक्षरता’ का अर्थ क्या है? / What does ‘Literacy’ mean?",
-    "options": {
-      "A": "पढ़ने-लिखने की क्षमता",
-      "B": "शिक्षा का स्तर",
-      "C": "विद्यालय जाना",
-      "D": "शिक्षक होना"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 74,
-    "question": "भारत में किस उद्योग का केंद्र कोलकाता है? / Kolkata is a major center for which industry in India?",
-    "options": {
-      "A": "कपड़ा उद्योग (Textile industry)",
-      "B": "फर्नीचर उद्योग",
-      "C": "वैज्ञानिक उद्योग",
-      "D": "फूल उत्पादन"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 75,
-    "question": "भारत में ‘हिंदी’ भाषा किस परिवार की है? / Hindi language in India belongs to which family?",
-    "options": {
-      "A": "इंडो-आर्यन (Indo-Aryan)",
-      "B": "ड्रविड़ियन (Dravidian)",
-      "C": "सिनो-तिब्बती (Sino-Tibetan)",
-      "D": "ऑस्ट्रो-एशियाटिक (Austro-Asiatic)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 76,
-    "question": "शहरी क्षेत्रों में कौन-सा परिवहन सबसे अधिक उपयोग किया जाता है? / Which transport is most commonly used in urban areas?",
-    "options": {
-      "A": "सड़क परिवहन (Road transport)",
-      "B": "रेल परिवहन (Rail transport)",
-      "C": "नदी परिवहन (River transport)",
-      "D": "वायु परिवहन (Air transport)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 77,
-    "question": "भारत में किस क्षेत्र में अनुसूचित जनजातियों की संख्या अधिक है? / In which region of India is the tribal population more?",
-    "options": {
-      "A": "पूर्व और मध्य भारत (East and Central India)",
-      "B": "पश्चिम भारत (West India)",
-      "C": "उत्तर भारत (North India)",
-      "D": "दक्षिण भारत (South India)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 78,
-    "question": "साक्षरता और विकास के बीच कौन-सा संबंध है? / What is the relationship between literacy and development?",
-    "options": {
-      "A": "साक्षरता विकास को बढ़ावा देती है",
-      "B": "विकास साक्षरता को प्रभावित नहीं करता",
-      "C": "साक्षरता और विकास असंबंधित हैं",
-      "D": "विकास से साक्षरता कम होती है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 79,
-    "question": "भारत में सबसे अधिक धार्मिक विविधता किस क्षेत्र में पाई जाती है? / Which region in India has the highest religious diversity?",
-    "options": {
-      "A": "उत्तर-पूर्व भारत (North-East India)",
-      "B": "मध्य भारत (Central India)",
-      "C": "पश्चिम भारत (West India)",
-      "D": "दक्षिण भारत (South India)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 80,
-    "question": "भारत में सबसे अधिक कौन-सा भाषा परिवार है? / Which language family is most prevalent in India?",
-    "options": {
-      "A": "इंडो-आर्यन (Indo-Aryan)",
-      "B": "ड्रविड़ियन (Dravidian)",
-      "C": "सिनो-तिब्बती (Sino-Tibetan)",
-      "D": "ऑस्ट्रो-एशियाटिक (Austro-Asiatic)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 81,
-    "question": "भूकंप का मुख्य कारण क्या है? / What is the main cause of an earthquake?",
-    "options": {
-      "A": "प्लेट टेक्टोनिक्स की गति",
-      "B": "मौसम परिवर्तन",
-      "C": "मानव गतिविधियाँ",
-      "D": "सूर्य की गतिविधियाँ"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 82,
-    "question": "बाढ़ की स्थिति में सबसे प्रभावी बचाव उपाय कौन-सा है? / What is the most effective precaution during floods?",
-    "options": {
-      "A": "उच्च स्थानों पर शरण लेना",
-      "B": "नदी के पास रहना",
-      "C": "खुली जगह पर रहना",
-      "D": "मौसम की अनदेखी करना"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 83,
-    "question": "सूखा किस प्रकार की आपदा है? / Drought is a type of which disaster?",
-    "options": {
-      "A": "प्राकृतिक आपदा",
-      "B": "मानव जनित आपदा",
-      "C": "तकनीकी आपदा",
-      "D": "आर्थिक आपदा"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 84,
-    "question": "चक्रवात के दौरान सबसे महत्वपूर्ण सुरक्षा उपाय क्या है? / What is the most important safety measure during a cyclone?",
-    "options": {
-      "A": "सुरक्षित स्थान पर शरण लेना",
-      "B": "घर के बाहर रहना",
-      "C": "खिड़कियाँ खोलना",
-      "D": "नदी के किनारे जाना"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 85,
-    "question": "आपदा प्रबंधन में 'मिटिगेशन' का क्या अर्थ है? / What does 'Mitigation' mean in disaster management?",
-    "options": {
-      "A": "आपदा के प्रभाव को कम करना",
-      "B": "आपदा के बाद बचाव",
-      "C": "आपदा के दौरान बचाव",
-      "D": "आपदा की रिपोर्टिंग"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 86,
-    "question": "भारत में राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA) कब स्थापित हुई? / When was the National Disaster Management Authority (NDMA) of India established?",
-    "options": {
-      "A": "2005",
-      "B": "1999",
-      "C": "2010",
-      "D": "2000"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 87,
-    "question": "आपदा तैयारी में सबसे महत्वपूर्ण तत्व कौन-सा है? / What is the most important element in disaster preparedness?",
-    "options": {
-      "A": "संचार और चेतावनी प्रणाली",
-      "B": "मौसम की अनदेखी",
-      "C": "बाढ़ क्षेत्र में रहना",
-      "D": "आपदा के बाद की योजना"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 88,
-    "question": "GIS का पूरा नाम क्या है? / What is the full form of GIS?",
-    "options": {
-      "A": "Geographic Information System",
-      "B": "Global Internet Service",
-      "C": "Geographical Integrated Survey",
-      "D": "General Information System"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 89,
-    "question": "रिमोट सेंसिंग का उपयोग किस लिए किया जाता है? / What is Remote Sensing used for?",
-    "options": {
-      "A": "पृथ्वी की सतह का अध्ययन",
-      "B": "सड़क निर्माण",
-      "C": "जल प्रबंधन",
-      "D": "पर्यटन विकास"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 90,
-    "question": "GPS तकनीक किसके लिए उपयोग की जाती है? / What is GPS technology used for?",
-    "options": {
-      "A": "स्थान निर्धारण (Location finding)",
-      "B": "मौसम पूर्वानुमान",
-      "C": "संचार",
-      "D": "पृथ्वी की आंतरिक संरचना का अध्ययन"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 91,
-    "question": "मानचित्र विज्ञान (Cartography) क्या है? / What is Cartography?",
-    "options": {
-      "A": "मानचित्र बनाना और अध्ययन करना",
-      "B": "पृथ्वी का अध्ययन",
-      "C": "जलवायु परिवर्तन अध्ययन",
-      "D": "नक्शे का वितरण"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 92,
-    "question": "थीमैटिक मैप का मुख्य उद्देश्य क्या होता है? / What is the main purpose of a Thematic Map?",
-    "options": {
-      "A": "विशेष विषय को दर्शाना",
-      "B": "भूगोल का सामान्य नक्शा बनाना",
-      "C": "राज्यों की सीमा दिखाना",
-      "D": "राजधानियों को चिन्हित करना"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 93,
-    "question": "भूकंप का पैमाना जिसे रिक्टर स्केल कहा जाता है, क्या मापता है? / What does the Richter scale measure?",
-    "options": {
-      "A": "भूकंप की तीव्रता",
-      "B": "वायु की गति",
-      "C": "बारिश की मात्रा",
-      "D": "तूफान की दिशा"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 94,
-    "question": "बाढ़ प्रबंधन में ‘बांध’ का क्या महत्व है? / What is the importance of ‘Dams’ in flood management?",
-    "options": {
-      "A": "जल को नियंत्रित करना",
-      "B": "मौसम नियंत्रित करना",
-      "C": "भूमि को उपजाऊ बनाना",
-      "D": "वनस्पति बढ़ाना"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 95,
-    "question": "भारत में आपदा प्रबंधन का प्रमुख केंद्र कौन सा है? / Which is the main disaster management authority in India?",
-    "options": {
-      "A": "राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA)",
-      "B": "भारतीय मौसम विभाग",
-      "C": "आपदा राहत बल",
-      "D": "राष्ट्रीय सुरक्षा बल"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 96,
-    "question": "नक्शे में ‘माप मापक’ (Scale) का क्या महत्व है? / What is the importance of ‘Scale’ in maps?",
-    "options": {
-      "A": "वास्तविक दूरी का प्रतिनिधित्व",
-      "B": "नक्शे की दिशा दिखाना",
-      "C": "भूभाग का नाम दिखाना",
-      "D": "नक्शे का रंग निर्धारित करना"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 97,
-    "question": "नक्शे में ‘लेजेन्ड’ (Legend) का क्या उपयोग होता है? / What is the use of ‘Legend’ in maps?",
-    "options": {
-      "A": "प्रतीकों का अर्थ बताना",
-      "B": "नक्शे की दिशा दिखाना",
-      "C": "माप बताना",
-      "D": "नक्शे का शीर्षक देना"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 98,
-    "question": "रिमोट सेंसिंग में कौन सी तकनीक सबसे अधिक उपयोग होती है? / Which technique is most commonly used in Remote Sensing?",
-    "options": {
-      "A": "सैटेलाइट इमेजिंग",
-      "B": "हाथ से फोटो लेना",
-      "C": "टेलीफोन",
-      "D": "रेडियो प्रसारण"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 99,
-    "question": "आपदा प्रबंधन के कौन से चरण हैं? / What are the phases of disaster management?",
-    "options": {
-      "A": "तैयारी, प्रतिक्रिया, पुनर्प्राप्ति, और रोकथाम",
-      "B": "केवल प्रतिक्रिया",
-      "C": "केवल तैयारी",
-      "D": "केवल पुनर्प्राप्ति"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 100,
-    "question": "किस प्रकार का नक्शा विशेष विषय जैसे जनसंख्या या जलवायु दिखाता है? / Which map shows specific themes like population or climate?",
-    "options": {
-      "A": "थीमैटिक मैप",
-      "B": "राजनीतिक नक्शा",
-      "C": "भौगोलिक नक्शा",
-      "D": "सड़क नक्शा"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 101,
-    "question": "जीआईएस प्रणाली में डेटा को कैसे दिखाया जाता है? / How is data represented in GIS systems?",
-    "options": {
-      "A": "लेयर्स (Layers) के रूप में",
-      "B": "किताबों में",
-      "C": "नक्शों में नहीं",
-      "D": "संगीत के रूप में"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 102,
-    "question": "भारत में बाढ़ प्रभावित क्षेत्रों की पहचान के लिए कौन सी तकनीक उपयोग होती है? / Which technique is used to identify flood-prone areas in India?",
-    "options": {
-      "A": "रिमोट सेंसिंग",
-      "B": "मौसम पूर्वानुमान",
-      "C": "हवा की गति मापन",
-      "D": "सड़क सर्वेक्षण"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 103,
-    "question": "नक्शा पढ़ते समय दिशा दिखाने वाला उपकरण क्या कहलाता है? / What is the tool called that shows direction on a map?",
-    "options": {
-      "A": "कंपास (Compass)",
-      "B": "माप पट्टी (Scale)",
-      "C": "लेजेन्ड (Legend)",
-      "D": "ग्रिड"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 104,
-    "question": "बाढ़ के लिए ‘प्लेन फ्लडिंग’ का अर्थ क्या है? / What is meant by ‘Plain flooding’?",
-    "options": {
-      "A": "मैदानी क्षेत्र में बाढ़",
-      "B": "पहाड़ी क्षेत्र में बाढ़",
-      "C": "सागर में बाढ़",
-      "D": "नदी के बाहर बाढ़"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 105,
-    "question": "भारत में तूफान की तीव्रता मापन के लिए कौन सा पैमाना उपयोग होता है? / Which scale is used to measure cyclone intensity in India?",
-    "options": {
-      "A": "सफायर-सिंपसन पैमाना",
-      "B": "रिक्टर पैमाना",
-      "C": "फुजित्सा पैमाना",
-      "D": "बफ़ोर्ड स्केल"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 106,
-    "question": "आपदा प्रबंधन के तहत ‘रिपोर्टिंग’ का महत्व क्या है? / What is the importance of ‘Reporting’ in disaster management?",
-    "options": {
-      "A": "तत्काल जानकारी देना",
-      "B": "बचाव कार्य रोकना",
-      "C": "संचार बंद करना",
-      "D": "प्रभावित क्षेत्र छोड़ना"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 107,
-    "question": "मानचित्र में ‘ग्रिड सिस्टम’ का उपयोग क्यों किया जाता है? / Why is the ‘Grid system’ used in maps?",
-    "options": {
-      "A": "स्थान की सटीक पहचान के लिए",
-      "B": "रंग बदलने के लिए",
-      "C": "चित्र बढ़ाने के लिए",
-      "D": "नक्शा छोटा करने के लिए"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 108,
-    "question": "सूखा प्रभावित क्षेत्रों की पहचान के लिए कौन सी तकनीक सबसे प्रभावी है? / Which technique is most effective for identifying drought-affected areas?",
-    "options": {
-      "A": "रिमोट सेंसिंग",
-      "B": "सामान्य सर्वेक्षण",
-      "C": "ध्वनि मापन",
-      "D": "वायु सर्वेक्षण"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 109,
-    "question": "बाढ़ प्रबंधन में किसका सबसे अधिक उपयोग होता है? / What is most commonly used in flood management?",
-    "options": {
-      "A": "बांध और जलाशय",
-      "B": "सड़कें",
-      "C": "रेलवे",
-      "D": "पुल"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 110,
-    "question": "मानचित्र में किस रंग का उपयोग जल क्षेत्रों को दिखाने के लिए होता है? / Which color is used to represent water bodies on maps?",
-    "options": {
-      "A": "नीला",
-      "B": "हरा",
-      "C": "पीला",
-      "D": "लाल"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 111,
-    "question": "चक्रवात के पूर्व चेतावनी प्रणाली को क्या कहा जाता है? / What is the early warning system for cyclones called?",
-    "options": {
-      "A": "तूफान चेतावनी प्रणाली",
-      "B": "बारिश पूर्वानुमान",
-      "C": "भूकंप चेतावनी",
-      "D": "जल स्तर मापन"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 112,
-    "question": "आपदा प्रबंधन में ‘राहत’ का क्या मतलब है? / What does ‘Relief’ mean in disaster management?",
-    "options": {
-      "A": "आपदा के बाद सहायता प्रदान करना",
-      "B": "आपदा को रोकना",
-      "C": "आपदा की तैयारी",
-      "D": "आपदा की रिपोर्टिंग"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 113,
-    "question": "मानचित्र विज्ञान में किस तकनीक से 3D नक्शे बनाए जाते हैं? / Which technique is used to create 3D maps in cartography?",
-    "options": {
-      "A": "डिजिटल एलिवेशन मॉडल (DEM)",
-      "B": "हैंड ड्राइंग",
-      "C": "फोटोग्राफी",
-      "D": "सर्वेक्षण"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 114,
-    "question": "आपदा प्रबंधन के लिए ‘रिस्क असेसमेंट’ क्या है? / What is ‘Risk Assessment’ in disaster management?",
-    "options": {
-      "A": "जोखिमों की पहचान और मूल्यांकन",
-      "B": "मौसम का अध्ययन",
-      "C": "राहत कार्य",
-      "D": "प्रतिक्रिया"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 115,
-    "question": "भू-स्थानिक तकनीक (Geospatial Technology) में कौन-कौन सी तकनीकें शामिल हैं? / Which technologies are included in Geospatial Technology?",
-    "options": {
-      "A": "GIS, GPS, Remote Sensing",
-      "B": "सड़क निर्माण, रेलवे, हवाई जहाज",
-      "C": "कंप्यूटर हार्डवेयर",
-      "D": "सॉफ्टवेयर विकास"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 116,
-    "question": "मानचित्र पर ‘फसाद’ (Contour) लाइनें क्या दर्शाती हैं? / What do ‘Contour’ lines on maps represent?",
-    "options": {
-      "A": "भूमि की ऊँचाई और ढाल",
-      "B": "नदी का प्रवाह",
-      "C": "सड़कें",
-      "D": "राज्य सीमाएं"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 117,
-    "question": "भारत में भूकंप प्रभावित क्षेत्र किस क्षेत्र में सबसे अधिक है? / Which region in India is most earthquake-prone?",
-    "options": {
-      "A": "हिमालय क्षेत्र",
-      "B": "पश्चिमी रेगिस्तान",
-      "C": "डेक्कन पठार",
-      "D": "सत्याग्रह क्षेत्र"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 118,
-    "question": "आपदा प्रबंधन में ‘रिकवरी’ का क्या अर्थ है? / What does ‘Recovery’ mean in disaster management?",
-    "options": {
-      "A": "आपदा के बाद पुनर्निर्माण और पुनःस्थापना",
-      "B": "आपदा की तैयारी",
-      "C": "आपदा के दौरान बचाव",
-      "D": "आपदा की रिपोर्टिंग"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 119,
-    "question": "मानचित्र पर ‘लोकेशन’ निर्धारण के लिए कौन-सी प्रणाली सबसे उपयुक्त है? / Which system is most suitable for determining location on maps?",
-    "options": {
-      "A": "GPS",
-      "B": "सामान्य सर्वेक्षण",
-      "C": "हैंड ड्राइंग",
-      "D": "रेडियो संचार"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 120,
-    "question": "भारत में बाढ़ प्रभावित क्षेत्रों की पहचान के लिए किस तकनीक का उपयोग होता है? / Which technology is used to identify flood-affected areas in India?",
-    "options": {
-      "A": "सैटेलाइट इमेजिंग",
-      "B": "ध्वनि मापन",
-      "C": "हवा सर्वेक्षण",
-      "D": "जमीन सर्वेक्षण"
+    "question": "भारत में आर्थिक विकास में निम्नलिखित में से कौन सा सबसे महत्वपूर्ण कारक है? / Which among the following is the most important factor in India's economic development?",
+    "options": {
+      "A": "जनसांख्यिकीय लाभांश (Demographic Dividend)",
+      "B": "प्राकृतिक संसाधन (Natural Resources)",
+      "C": "औद्योगिक निवेश (Industrial Investment)",
+      "D": "विदेशी निवेश (Foreign Investment)"
     },
     "answer": ["A"]
   }
 ]
-
-
 
