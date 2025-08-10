@@ -1,662 +1,850 @@
 [
   {
     "id": 1,
-    "question": "उत्तर प्रदेश की किस परत/भू-आकृति को सामान्यतः 'गंगा-यमुना की उपजाऊ मैदान' कहा जाता है? / Which physiographic region of Uttar Pradesh is commonly referred to as the 'Ganga–Yamuna fertile plains'?",
+    "question": "हड़प्पा सभ्यता की किस विशेषता को नगर नियोजन का सबसे महत्वपूर्ण उदाहरण माना जाता है? / Which feature of Harappan civilization is considered the most significant example of urban planning?",
     "options": {
-      "A": "तराई और डूनी क्षेत्र (Tarai & Duns)",
-      "B": "गंगा-यमुना मैदान (Ganga–Yamuna Plains)",
-      "C": "बुंदेलखंड पठार (Bundelkhand Plateau)",
-      "D": "विन्ध्यांचल पर्वतीय क्षेत्र (Vindhya Hills)"
+      "A": "ग्रिड-आधारित सड़क योजनाएँ / Grid-pattern streets",
+      "B": "सार्विक स्तूप निर्माण / Monumental stupas",
+      "C": "व्यवस्थित सीवर और नालियाँ / Systematic drainage and sewage",
+      "D": "भारी किलेबंदी और दीवारें / Massive fortifications and walls"
     },
-    "answer": ["B"]
+    "answer": ["A","C"]
   },
   {
     "id": 2,
-    "question": "निम्न में से कौन-से नृत्य रूप उत्तर प्रदेश मूल के शास्त्रीय/लोक नृत्यों में आते हैं? / Which of the following dance forms originate from Uttar Pradesh?",
+    "question": "लोथल का कौन सा अवशेष उसे एक समुद्री/बंदरगाह नगर बताता है? / Which archaeological feature at Lothal indicates it was a maritime/port town?",
     "options": {
-      "A": "कथक (Kathak)",
-      "B": "बहरूपिया (Bharupia)",
-      "C": "नौटंकी (Nautanki)",
-      "D": "कुचिपुड़ी (Kuchipudi)"
+      "A": "डॉक/कम्बरी जैसा जलाशय (Dock-like basin) / Dock-like basin",
+      "B": "विशाल स्तूप समूह / Large stupa complex",
+      "C": "लोहे की कटाव वाली सड़कें / Iron-paved roads",
+      "D": "दन्त-अवशेष (dental remains) / Dental remains"
     },
-    "answer": ["A","C"]
+    "answer": ["A"]
   },
   {
     "id": 3,
-    "question": "ऊपर्युक्त (UP) के कितने जिले (districts) हैं — 2024 के अनुसार? / How many districts does Uttar Pradesh have (as of 2024)?",
+    "question": "कालीबंगन मंदिरों/धार्मिक अनुष्ठान के किस सबूत के लिए प्रसिद्ध है? / Kalibangan is noted archaeologically for evidence of which ritual/structure?",
     "options": {
-      "A": "62",
-      "B": "75",
-      "C": "80",
-      "D": "71"
+      "A": "आग-आलय/फायर ऑल्टर्स (fire altars) / Fire-altars",
+      "B": "बड़ी स्तूप-प्रणाली / Large stupa complex",
+      "C": "राजव्यवस्था के राजपत्र / Royal inscriptions",
+      "D": "मठों का समूह / Monastic complexes"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 4,
-    "question": "निम्न में से कौन-सा वस्तु उत्तर प्रदेश का GI टैग्ड (Geographical Indication) उत्पाद है? / Which of the following is a GI-tagged product from Uttar Pradesh?",
+    "question": "ऋग्वैदिक समाज में प्रमुख अर्थव्यवस्थिक क्रियाएँ कौन-सी थीं? / Which economic activities were primary in Rigvedic society?",
     "options": {
-      "A": "लखनऊ चिकन (Lucknow Chikan craft)",
-      "B": "मिरासोल शाल (Mirasol shawl)",
-      "C": "फिरोज़ाबाद काँच (Firozabad Glass)",
-      "D": "केरला मसाले (Kerala spices)"
+      "A": "उत्तरी पश्चिमी सिंधु-आधारित मछलीपालन / Coastal fishing",
+      "B": "गोरक्षक-आधारित पैदावार और पशुपालन / Cattle-rearing and pastoralism",
+      "C": "अत्यधिक शहरी शिल्प-उद्योग / Intensive urban craft production",
+      "D": "मुद्रा-आधारित व्यापारिक बैंकों का विकास / Monetary banking"
     },
-    "answer": ["A","C"]
+    "answer": ["B"]
   },
   {
     "id": 5,
-    "question": "उत्तर प्रदेश की अर्थव्यवस्था में कृषि का योगदान (GSVA/ GDP share) किस श्रेणी के आसपास रिपोर्ट किया गया था 2023–24 में? / Around which share did agriculture contribute to UP's economy in 2023–24?",
+    "question": "उत्तरवैदिक काल (Later Vedic) में किस परिवर्तन ने समाज और अर्थव्यवस्था को प्रभावित किया? / Which change in Later Vedic period notably affected society and economy?",
     "options": {
-      "A": "लगभग 5–7%",
-      "B": "लगभग 16–17%",
-      "C": "लगभग 40–45%",
-      "D": "लगभग 26–30%"
+      "A": "पर्याप्त कृषि और कृषक-आधारित ग्रामों का उदय / Expansion of settled agriculture and village economy",
+      "B": "सम्पूर्ण रूप से नौवहन पर निर्भरता / Complete dependence on navigation",
+      "C": "काष्ठ-आधारित शहरी किलेबंदी / Timber-based urban fortifications",
+      "D": "सामाजिक समानता और वर्ग-रहित समाज / Classless egalitarian society"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 6,
-    "question": "निम्न में से कौन-सा प्रमुख मेला परंपरागत रूप से उत्तर प्रदेश में आयोजित होता है और लाखों श्रद्धालुओं को आकर्षित करता है? / Which major fair traditionally held in Uttar Pradesh attracts millions of pilgrims?",
+    "question": "ऋग्वैदिक धार्मिक विचारों में निम्न में से कौन-सा तत्व प्रमुख था? / Which element was central to Rigvedic religious thought?",
     "options": {
-      "A": "काशी विश्वनाथ मेला (Kashi Vishwanath Fair)",
-      "B": "कुम्भ मेला (Kumbh Mela)",
-      "C": "गुजरात रथयात्रा (Gujarat Rath Yatra)",
-      "D": "ताज महोत्सव (Taj Mahotsav)"
+      "A": "वेदगीतों में देवताओं के लिए अग्नि-यज्ञ और मंत्र / Fire sacrificial rites (yajna) and mantras",
+      "B": "निर्वाण प्राप्ति ही अंतिम लक्ष्य / Nirvana as sole goal",
+      "C": "इकहनांतर धम्म नीति / State-sponsored dhamma policy",
+      "D": "विशुद्ध भौतिकवाद / Pure materialism"
     },
-    "answer": ["B","D"]
+    "answer": ["A"]
   },
   {
     "id": 7,
-    "question": "उत्तर प्रदेश के किस ऐतिहासिक शासक को 'लखनऊ के नवाब' के रूप में विशेष रूप से कला और संस्कृति का संरक्षक माना जाता है? / Which historical ruler of UP is famously known as a patron of arts and culture (notably in Lucknow)?",
+    "question": "महाजनपदों की संख्या और प्रकृति के संदर्भ में सही कथन कौन-सा है? / Which statement about the Mahajanapadas is correct?",
     "options": {
-      "A": "अकबर (Akbar)",
-      "B": "वाजिद अली शाह (Wajid Ali Shah)",
-      "C": "शेर शाह सूरी (Sher Shah Suri)",
-      "D": "रानी लक्ष्मीबाई (Rani Lakshmibai)"
+      "A": "कुल 16 महाजनपद थे जिनमें राजतंत्र और गणतंत्र दोनों शामिल थे / Total 16 Mahajanapadas including monarchies and republics",
+      "B": "वे केवल दक्षिण भारत तक सीमित थे / They were confined to South India",
+      "C": "सभी महाजनपद व्यापारिक नगर थे, कृषि महत्वहीन था / All were mercantile cities, agriculture insignificant",
+      "D": "वे केवल वैदिक साहित्य में ही उल्लिखित थे, ऐतिहासिक नहीं / Mentioned only in Vedic texts, not historical"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 8,
-    "question": "निम्न में से कौन-सा कृषि फसल उत्तर प्रदेश में सबसे अधिक उत्पादन (tonnage) देता है (2023–24 के आँकड़ों के नज़दीक)? / Which of the following crops had the largest production in Uttar Pradesh (by tonnage) in 2023–24?",
+    "question": "निम्न में से कौन-से महाजनपद गणतांत्रिक (republic/ ganas) ढाँचे के उदाहरण थे? / Which of the following Mahajanapadas had republican (gana) structures?",
     "options": {
-      "A": "गेहूँ (Wheat)",
-      "B": "धान/चावल (Rice)",
-      "C": "गन्ना (Sugarcane)",
-      "D": "मक्का (Maize)"
+      "A": "वज्जि (Vajji) और मल्ल (Malla) / Vajji and Malla",
+      "B": "मगध (Magadha) और अङ्ग (Anga) / Magadha and Anga",
+      "C": "गंधार (Gandhara) और काम्बोज (Kamboja) / Gandhara and Kamboja",
+      "D": "कासी (Kasi) और कोशल (Kosala) / Kasi and Kosala"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 9,
-    "question": "राज्य की प्रशासनिक सर्वोच्च इकाई (capital) कौन-सी है? / What is the administrative capital of Uttar Pradesh?",
+    "question": "चन्द्रगुप्त मौर्य के शासन में किस सलाहकार/लेखक का प्रभाव विशेष रूप से उल्लेखनीय है? / Which advisor/writer was notably influential during Chandragupta Maurya’s reign?",
     "options": {
-      "A": "लखनऊ (Lucknow)",
-      "B": "कानपुर (Kanpur)",
-      "C": "इलाहाबाद / प्रयागराज (Prayagraj)",
-      "D": "आगरा (Agra)"
+      "A": "चाणक्य (कौटिल्य) / Chanakya (Kautilya)",
+      "B": "कालिदास / Kalidasa",
+      "C": "अर्जुन / Arjuna",
+      "D": "हपीटस / Hippias"
     },
     "answer": ["A"]
   },
   {
     "id": 10,
-    "question": "निम्न में से कौन-सा बजट/वित्तीय दस्तावेज सीधे उत्तर प्रदेश सरकार द्वारा आधिकारिक तौर पर प्रकाशित किया जाता है? / Which of the following is officially published by the Uttar Pradesh government?",
+    "question": "मौर्य प्रशासन की किस विशेषता से साम्राज्य के केंद्रीकरण का संकेत मिलता है? / Which feature of Mauryan administration indicates imperial centralization?",
     "options": {
-      "A": "State Budget / Budget at a Glance (UP Budget)",
-      "B": "Reserve Bank Monetary Policy (RBI)",
-      "C": "World Bank Country Report",
-      "D": "UNDP Human Development Index"
+      "A": "विस्तृत राज्य निदेशालय और राजकीय अफ़सरशाही (bureaucracy) / Extensive state bureaucracy and administrative departments",
+      "B": "स्थानीय गांवों को पूर्ण स्वतन्त्रता / Complete village autonomy",
+      "C": "पुरा अर्थव्यवस्था निजीकरण / Complete privatization of economy",
+      "D": "राज्य का सैन्य उपेक्षा / State neglect of military"
     },
     "answer": ["A"]
   },
   {
     "id": 11,
-    "question": "उत्तर प्रदेश में 'कथक' का कौन-सा घराना (gharana) प्रसिद्ध है? / Which gharana of Kathak is prominent in Uttar Pradesh?",
+    "question": "अशोक की धम्म नीति (Dhamma) में किस विचार का जोर था? / Ashoka's dhamma emphasized which idea?",
     "options": {
-      "A": "Lucknow Gharana",
-      "B": "Bharatanatyam Gharana",
-      "C": "Manipuri Gharana",
-      "D": "Bengal Gharana"
+      "A": "अहिंसा, सहिष्णुता और सामाजिक व्यवहारिकता / Non-violence, tolerance and moral conduct",
+      "B": "सिर्फ़ मंदिरों का भरण-पोषण ही राज्य का कर्तव्य है / Only temple patronage is state's duty",
+      "C": "सख्त अनाचार दंड नीतियाँ / Harsh punitive criminal laws",
+      "D": "आर्थिक निर्यात पर कुल प्रतिबन्ध / Total ban on exports"
     },
     "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "निम्न में से कौन-सा त्योहार विशेष रूप से वाराणसी/काशी से जुड़ा है और गंगा तटों पर महत्त्वपूर्ण होता है? / Which festival is especially associated with Varanasi (Kashi) and is significant on the Ganga ghats?",
+    "question": "बिंदुसार मौर्य किसके बीच शासन करते थे? / Bindusara Maurya ruled between which rulers?",
     "options": {
-      "A": "गणगौर (Gangaur)",
-      "B": "देव दीपावली (Dev Deepawali)",
-      "C": "ओणम (Onam)",
-      "D": "होली (Holi)"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 13,
-    "question": "GI टैग का मतलब क्या है? / What does a GI tag signify?",
-    "options": {
-      "A": "Geographical Indication — उत्पाद की भौगोलिक उत्पत्ति और विशेषता को मान्यता (Origin & qualities linked to region)",
-      "B": "Global Import — विदेशी आयात के लिए प्रमाणपत्र",
-      "C": "Government Initiative — सरकारी योजना का टैग",
-      "D": "Generic Indicator — आम संकेतक"
+      "A": "चन्द्रगुप्त और अशोक / Chandragupta and Ashoka",
+      "B": "अशोक और सम्राट पृथ्वीराज / Ashoka and Prithviraj",
+      "C": "इन्द्रगुप्त और हर्षवर्धन / Indragupta and Harsha",
+      "D": "गुप्त सम्राज्य और मुग़ल काल के बीच / Between Gupta and Mughal periods"
     },
     "answer": ["A"]
   },
   {
-    "id": 14,
-    "question": "निम्न में से कौन-सा इतिहासिक स्थल आगरा में स्थित है और उत्तर प्रदेश का एक प्रमुख पर्यटन आकर्षण है? / Which historic monument in Agra is a major tourist attraction in UP?",
+    "id": 13,
+    "question": "उत्तर मौर्य बाद के किस शासकीय वंश ने मौर्य-काल के स्थानापन्न के रूप में उभर कर क्षेत्रीय प्रभुत्व जमाया? / Which post-Mauryan dynasty emerged as regional power succeeding Mauryan decline?",
     "options": {
-      "A": "ताज महल (Taj Mahal)",
-      "B": "कोणार्क सूर्य मंदिर (Konark Sun Temple)",
-      "C": "गोलकुंडा किला (Golconda Fort)",
-      "D": "मीनाक्षी मंदिर (Meenakshi Temple)"
+      "A": "शुंग (Shunga)",
+      "B": "गुप्त (Gupta)",
+      "C": "चेर (Chera)",
+      "D": "सतीव (Satavahana) — सातवाहन / Satavahana"
+    },
+    "answer": ["A","D"]
+  },
+  {
+    "id": 14,
+    "question": "सातवाहन वंश का दक्षिणी और मध्य भारत में किस क्षेत्र में विशेष प्रभाव था? / The Satavahana dynasty was particularly influential in which regions?",
+    "options": {
+      "A": "दक्षिण और मध्य भारत (Deccan and central India)",
+      "B": "उत्तर पश्चिमी सीमा (Northwest frontier)",
+      "C": "अफ़्रीका (Africa)",
+      "D": "इंडो-चाइना (Indochina)"
     },
     "answer": ["A"]
   },
   {
     "id": 15,
-    "question": "निम्न में से कौन-सी योजना (scheme) केंद्र-राज्य स्तर पर किसानों को आय सहायता देती है और UP में भी लागू रही है (2024 में भी फंड वितरण का उल्लेख)? / Which central/state scheme provides direct income support to farmers and was implemented in UP (noted for disbursements in 2024)?",
+    "question": "गुप्त युग को \"स्वर्णयुग\" कहे जाने का मुख्य कारण क्या है? / Why is the Gupta period often called the 'Golden Age'?",
     "options": {
-      "A": "PM-Kisan Samman Nidhi",
-      "B": "Ayushman Bharat",
-      "C": "Smart City Mission",
-      "D": "Pradhan Mantri Fasal Bima Yojana"
+      "A": "विज्ञान, गणित, साहित्य और कला में असाधारण प्रगति / Outstanding advancements in science, mathematics, literature and arts",
+      "B": "पूरे उपमहाद्वीप पर एकमत धार्मिक व्यवस्था / Uniform religion across subcontinent",
+      "C": "महाराष्ट्र का पूर्ण राजनीतिक प्रभुत्व / Complete political dominance by Maharashtra",
+      "D": "आधुनिक औद्योगिक क्रांति की शुरुआत / Start of modern industrial revolution"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 16,
+    "question": "गुप्तकाल में निम्न में से किन विद्वानों/कलाकारों का कार्य उल्लेखनीय है? / Which scholars/artists were notable in Gupta times?",
+    "options": {
+      "A": "आर्यभट्ट, वराहमिहिर और कालिदास / Aryabhata, Varahamihira and Kalidasa",
+      "B": "कौटिल्य, कार्ल मार्क्स और शेक्सपियर / Kautilya, Karl Marx and Shakespeare",
+      "C": "हिप्पोक्रेटस और अरस्तू / Hippocrates and Aristotle",
+      "D": "वात्स्यायन, हेमचन्द्र आदि / Vatsyayana, Hemachandra etc."
     },
     "answer": ["A","D"]
   },
   {
-    "id": 16,
-    "question": "उत्तर प्रदेश का किस भाग को ऐतिहासिक और सांस्कृतिक रूप से 'Awadh' कहा जाता है? / Which region of Uttar Pradesh is historically and culturally known as 'Awadh'?",
-    "options": {
-      "A": "पूर्वी UP (Eastern UP)",
-      "B": "मध्य UP (Central UP) — Lucknow surrounding areas",
-      "C": "बुंदेलखंड (Bundelkhand)",
-      "D": "पश्चिमी हिमालय (Western Himalaya)"
-    },
-    "answer": ["B"]
-  },
-  {
     "id": 17,
-    "question": "कितनी बड़ी आबादी (approx.) उत्तर प्रदेश की 2011 जनगणना के बाद अनुमानित 2024–25 तक रही है? / Approx. what was UP's population estimate by 2024–25?",
+    "question": "अजंता और एलोरा गुफ़्त और बाद के किस धार्मिक कला और स्थापत्य का उदाहरण हैं? / Ajanta and Ellora exemplify which traditions of religious art and architecture?",
     "options": {
-      "A": "लगभग 10 करोड़",
-      "B": "लगभग 12 करोड़",
-      "C": "लगभग 24 करोड़",
-      "D": "लगभग 40 करोड़"
+      "A": "बौद्ध, हिन्दू और जैन शैलियाँ (Buddhist, Hindu and Jain styles)",
+      "B": "ग्रीक-रोमन क्लासिकल मूर्तिकला / Greco-Roman classical sculpture",
+      "C": "मध्यकालीन यूरोपीय गोथिक / Medieval European Gothic",
+      "D": "चीन के ताओइस्ट मंदिर / Chinese Taoist temples"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 18,
-    "question": "राज्य में कितने प्रशासनिक विभाग (Divisions) हैं — परंपरागत रूप से? / How many administrative divisions (traditional) does UP have?",
+    "question": "अजंता की दीवारों पर मिलने वाली चित्रकला का विषय प्रायः क्या होता था? / The murals on Ajanta primarily depict which theme?",
     "options": {
-      "A": "18",
-      "B": "10",
-      "C": "25",
-      "D": "5"
+      "A": "जाटक कथाएँ और बुद्ध के जीवन के दृश्य / Jataka tales and scenes from Buddha’s life",
+      "B": "प्राचीन यूनानी महाकाव्य / Ancient Greek epics",
+      "C": "राष्ट्रमंडल की ऐतिहासिक लड़ाइयाँ / Commonwealth battles",
+      "D": "ऊर्जा उत्पादन के यंत्र / Energy production machinery"
     },
     "answer": ["A"]
   },
   {
     "id": 19,
-    "question": "निम्न में से कौन-से मेले/उत्सव उत्तर प्रदेश की लोक-संस्कृति का हिस्सा हैं? / Which of the following fairs/festivals are part of UP's folk culture?",
+    "question": "प्राचीन भारत में बुद्धकला (Buddhist art) का विकास किस काल में सर्वाधिक विस्तृत हुआ माना जाता है? / The flourishing of Buddhist art in ancient India is often most associated with which period?",
     "options": {
-      "A": "कुम्भ मेला (Kumbh Mela)",
-      "B": "तुलसी मेला (Tulsi Fair)",
-      "C": "बनारस संगीत समारोह (Banaras Music Festival - contemporary)",
-      "D": "गोवा कार्निवल (Goa Carnival)"
+      "A": "गुप्त और पोस्ट-गुप्त काल (Gupta and post-Gupta)",
+      "B": "मध्य युग (Medieval period) तक न होता रहा / Not before Medieval period",
+      "C": "मौर्यकाल में ही पूरा रूप ले लिया / Fully formed only in Mauryan times",
+      "D": "ब्रॉन्ज एज में / Bronze Age"
     },
-    "answer": ["A","B","C"]
+    "answer": ["A"]
   },
   {
     "id": 20,
-    "question": "उत्तर प्रदेश में सनातन और इस्लामी संस्कृति के सम्मिश्रण का ऐतिहासिक उदाहरण किस शहर के दरबार/साम्राज्य से जुड़ा माना जाता है? / Which city's court/kingdom is historically seen as an example of syncretism of Hindu and Islamic cultures in UP?",
+    "question": "इंडस लिपि (Indus script) के बारे में कौन-सा कथन सही है? / Which statement about the Indus script is correct?",
     "options": {
-      "A": "लखनउ/आवध (Lucknow/Awadh)",
-      "B": "मेरठ (Meerut)",
-      "C": "झांसी (Jhansi)",
-      "D": "सहारनपुर (Saharanpur)"
+      "A": "यह अभी तक पूर्ण रूप से अनुवादित नहीं हुई है / It remains undeciphered",
+      "B": "यह प्राचीन संस्कृत का समानान्तर लिप्यंतर है / It is a direct variant of Sanskrit script",
+      "C": "यह यूनानी से ली गयी है / Derived from Greek",
+      "D": "यह केवल प्रतिमाओं पर न दर्शायी जाती थी / Only depicted in sculptures"
     },
     "answer": ["A"]
   },
   {
     "id": 21,
-    "question": "निम्न में से कौन-सा उद्योग पारंपरिक रूप से फ़िरोज़ाबाद शहर में विकसित हुआ है? / Which industry is traditionally associated with Firozabad city?",
+    "question": "हड़प्पा और मोहनजोदड़ो में मिलने वाला कौन-सा दर्शनीय तत्व उनका साझा आर्थिक/हाइजीनिक प्रबंधन दर्शाता है? / Which common element in Harappa and Mohenjo-daro reflects shared economic/hygienic management?",
     "options": {
-      "A": "काँच निर्माता उद्योग (Glass manufacturing)",
-      "B": "रेशमी वस्त्र (Silk textiles)",
-      "C": "रेलवे निर्माण (Railway manufacturing)",
-      "D": "फर्नीचर (Furniture)"
+      "A": "कम्पोजिट घरेलू और सामुदायिक बाथ-हाउस और सीवर सिस्टम / Composite household and public bathing and sewer systems",
+      "B": "मोटे पत्थर के महल / Massive stone palaces",
+      "C": "काफी बड़े शाही स्मारक / Very large royal mausoleums",
+      "D": "हवा से चलने वाले कृषि यंत्र / Wind-driven agricultural machines"
     },
     "answer": ["A"]
   },
   {
     "id": 22,
-    "question": "2024–25 के आसपास, उत्तर प्रदेश की GSDP (approx.) किस रेंज में रिपोर्ट की गई थी? / Around 2024–25, Uttar Pradesh's GSDP was reported approximately in which range?",
+    "question": "मौर्य साम्राज्य में अर्थव्यवस्था के किस तत्व ने कर निर्धारण और राज्य आय का आधार बनाया? / Which element of Mauryan economy formed the basis of taxation and state revenue?",
     "options": {
-      "A": "₹5–7 lakh crore",
-      "B": "₹15–18 lakh crore",
-      "C": "₹25–30 lakh crore",
-      "D": "₹50–60 lakh crore"
+      "A": "कृषि उत्पादन और उपज का कर (agricultural produce/tax on produce)",
+      "B": "पूरा व्यापार कराधान का परित्याग / Complete abolition of trade taxes",
+      "C": "डिजिटल बैंकिंग से संग्रह / Digital banking collections",
+      "D": "सिर्फ़ दान पर निर्भर राजस्व / Revenue only from donations"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 23,
-    "question": "निम्न में से कौन-सा पारंपरिक व्यंजन/खाद्य (food item) वाराणसी/बनारस से प्रचलित है और GI/परंपरागत पहचान से जुड़ सकता है? / Which traditional food item is associated with Varanasi/Banaras and linked to regional identity?",
+    "question": "अशोक के शिलालेख (edicts) से इतिहासकारों को क्या प्रमुख जानकारी मिलती है? / What primary information do Ashoka’s edicts provide historians?",
     "options": {
-      "A": "बनारसी पान (Banarasi paan)",
-      "B": "सोन पापड़ी (Son Papdi)",
-      "C": "डोसा (Dosa)",
-      "D": "इडली (Idli)"
+      "A": "राज्य की नैतिक/नैतिक नीतियाँ (dhamma) और शासक के विचार / State moral policy (dhamma) and ruler’s views",
+      "B": "सिर्फ़ युद्ध योजनाएँ / Only war plans",
+      "C": "प्राकृतिक विज्ञान के प्रयोगों का विवरण / Experimental science details",
+      "D": "समकालीन यूरोपीय प्रशासन की प्रतिलिपि / Copy of contemporary European administration"
     },
     "answer": ["A"]
   },
   {
     "id": 24,
-    "question": "उत्तर प्रदेश का कौन-सा क्षेत्र खनिज और पत्थर (stone/brick) उत्पादन के लिए जाना जाता है? / Which UP region is known for minerals and stone/brick production?",
+    "question": "महाजनपद मगध किस भौगोलिक कारक से प्रसिद्ध था? / Which geographic factor made Magadha prominent among Mahajanapadas?",
     "options": {
-      "A": "बुंदेलखंड (Bundelkhand)",
-      "B": "अवध (Awadh)",
-      "C": "चित्रकूट (Chitrakoot)",
-      "D": "हरदोई (Hardoi)"
+      "A": "गंगा और सोन नदियों के समीप तथा धातु संसाधन (iron-rich Ganges plains) / Proximity to Ganga-Son plains and iron resources",
+      "B": "सिंधु नदी तट पर होने से / Being on Indus riverbank",
+      "C": "द्वीप-आधारित आर्थिक संरचना / Island-based economy",
+      "D": "बर्फ़ीला जलवायु / Frozen climate"
     },
     "answer": ["A"]
   },
   {
     "id": 25,
-    "question": "निम्न में से कौन-सी बैंकिंग/वित्तीय मापदंड राज्य की अर्थव्यवस्था का सीधे संकेत देती है (state-level fiscal health)? / Which of the following fiscal indicators directly signal state-level fiscal health?",
+    "question": "गुप्त शासन में राजनैतिक संरचना का कौन-सा पहलू उसकी स्थिरता के लिए उल्लेखनीय था? / Which aspect of Gupta polity contributed to its relative stability?",
     "options": {
-      "A": "Revenue Receipts (राजस्व प्राप्तियाँ)",
-      "B": "Fiscal Deficit as % of GSDP",
-      "C": "Capital Outlay/Expenditure",
-      "D": "Number of tourist sites"
+      "A": "केंद्र और प्रांतों के बीच वरिष्ठ/स्थानिक राजा-सम्बन्ध (decentralized feudatory ties with central suzerainty)",
+      "B": "कठोर केंद्रीकृत पुलिस-स्टेट / Strict centralized police state",
+      "C": "सभी क्षेत्रीय शासकों का निर्विकल्प शाही अभिषेक / Uncontested royal investiture of all regional rulers",
+      "D": "विदेशों से पूर्ण अलगाव / Complete isolation from foreign trade"
     },
-    "answer": ["A","B","C"]
+    "answer": ["A"]
   },
   {
     "id": 26,
-    "question": "निम्न में से कौन-सा लोकनृत्य/फोक गीत मानसून या कृषि-संबंधी पर्वों से जुड़ा माना जा सकता है? / Which folk dance/folk song is often associated with monsoon or agrarian festivals?",
+    "question": "हर्षवर्धन किस क्षेत्र में अपने साम्राज्य के लिए प्रसिद्ध हैं? / Harsha (Harshavardhana) is best known for ruling which region?",
     "options": {
-      "A": "कजरी (Kajri)",
-      "B": "भांगड़ा (Bhangra)",
-      "C": "केरवा (Kerwa)",
-      "D": "रासलीला (Raslila)"
+      "A": "उत्तर भारत (Northern India) — खासकर प्रयाग/कान्यकुब्ज क्षेत्रों तक विस्तार / Northern India (expanded upto Prayag/Kanyakubja regions)",
+      "B": "दक्षिण अफ्रीका / South Africa",
+      "C": "पूर्वी यूरोप / Eastern Europe",
+      "D": "पूर्वी एशिया का विशाल भाग / Vast East Asia"
     },
-    "answer": ["A","D"]
+    "answer": ["A"]
   },
   {
     "id": 27,
-    "question": "निम्न में से कौन-सा शहरी/प्रादेशिक विकास प्रकल्प (infrastructure) UP में 2020s में चर्चा में रहा? / Which infrastructure project has been much discussed in UP during the 2020s?",
+    "question": "हर्ष के दरबार में किस प्रकार की संस्कृति/साहित्यिक गतिविधियाँ प्रमुख थीं? / What cultural/literary activities were prominent in Harsha’s court?",
     "options": {
-      "A": "Ganga Expressway",
-      "B": "Kolkata Metro Phase 2",
-      "C": "Mumbai–Pune Expressway",
-      "D": "Kochi Port expansion"
+      "A": "काव्य और नाटक (Brahmanical and Buddhist literary patronage like works of Banabhatta) / Poetry and drama patronage",
+      "B": "केवल गाथा-गीत बिना नाटक के / Only ballads without drama",
+      "C": "विज्ञान का पूर्ण बहिष्कार / Total rejection of science",
+      "D": "नौसैन्य नृत्य और समुद्री कला / Naval dances and maritime arts"
     },
     "answer": ["A"]
   },
   {
     "id": 28,
-    "question": "कौन-सा नृत्य रूप पारंपरिक रूप से ब्रज/अगले क्षेत्रों में रास-लीला (Rasa-Lila) के साथ जुड़ा है? / Which dance form is traditionally connected with Rasa-Lila in Braj and adjacent areas?",
+    "question": "इंडस सभ्यता के व्यापार का एक प्रमुख साधन कौन-सा था? / Which was a major medium of trade in the Indus Civilization?",
     "options": {
-      "A": "रासलीला (Raslila)",
-      "B": "कथक (Kathak)",
-      "C": "कूचीपुड़ी (Kuchipudi)",
-      "D": "गोटा (Gota)"
+      "A": "सिल्क-रोड प्रकार के लंबी दूरी के व्यापार संबंध और समुद्री मार्ग / Long-distance trade via overland and maritime networks",
+      "B": "पूर्णतः स्वदेशी और आइसोलेटेड अर्थव्यवस्था / Fully isolated local economy",
+      "C": "डिजिटल सिका-प्रणाली / Digital coin system",
+      "D": "केवल मानव श्रम से निर्मित दूरीय यातायात / Only human-portage"
     },
-    "answer": ["A","B"]
+    "answer": ["A"]
   },
   {
     "id": 29,
-    "question": "UP के किस जिले को 'हाथकला' या बांस/काष्ठशिल्प के लिए जाना जाता है (typical craft cluster)? / Which district of UP is known as a cluster for handcrafts or bamboo/woodcraft?",
+    "question": "महाजनपदों में से 'कौशल' (Kosala) का प्रमुख केंद्र कौन-सा था? / Which city was the principal centre of Kosala Mahajanapada?",
     "options": {
-      "A": "भदोही (Bhadohi) — known for carpets",
-      "B": "आमरोहा (Amroha) — known for musical instruments/dholak",
-      "C": "मथुरा (Mathura)",
-      "D": "वाराणसी (Varanasi)"
+      "A": "श्रोत (Sravasti)/शौरसेना क्षेत्र — प्राचीन सवस्ती / Sravasti (ancient Sravasti)",
+      "B": "मथुरा / Mathura",
+      "C": "लोथल / Lothal",
+      "D": "हेलसिंकी / Helsinki"
     },
-    "answer": ["A","B","D"]
+    "answer": ["A"]
   },
   {
     "id": 30,
-    "question": "राज्य बजट में 'Capital Outlay' का सामान्यतः क्या उद्देश्य होता है? / What is the usual purpose of 'Capital Outlay' in a state budget?",
+    "question": "कौन-सा स्रोत 16 महाजनपदों की सूची प्रदान करता है? / Which source provides the list of 16 Mahajanapadas?",
     "options": {
-      "A": "दीर्घकालिक आधारभूत संरचना निवेश (Long-term infrastructure investment)",
-      "B": "वेतन भुगतान (Salary payments)",
-      "C": "चालू सब्सिडी (Recurring subsidies only)",
-      "D": "कर दरें तय करना (Setting tax rates)"
+      "A": "बौद्ध पाली साहित्य और जैन और अन्य ऐतिहासिक स्रोत / Buddhist Pali literature and other ancient texts",
+      "B": "रोमन शास्त्रों में विस्तृत सूची / Detailed list in Roman texts",
+      "C": "मध्यकालीन यूरोपीय पुरालेख / Medieval European records",
+      "D": "20वीं शताब्दी के मात्र आधुनिक आकलन / 20th century modern conjecture only"
     },
     "answer": ["A"]
   },
   {
     "id": 31,
-    "question": "निम्न में से कौन-सी फसल UP में एक प्रमुख निर्यात-योग्य (exportable) हाइब्रिड/विशेष फसल मानी जा सकती है (GI-linked varieties सहित)? / Which is a major exportable/regionally-special crop in UP (including GI-linked varieties)?",
+    "question": "हड़प्पा सभ्यता के शिल्प-उत्पादों में से कौन-सा वस्त्र-उद्योग का प्रमाण देता है? / Which Indus craft indicates textile or weaving activity?",
     "options": {
-      "A": "दुबेहरी आम (Dussehri Mango — exportable variety)",
-      "B": "केसर केसर (Kashmiri Saffron)",
-      "C": "अलू (Potato)",
-      "D": "केरला नारियल (Kerala Coconut)"
+      "A": "बिजकदार मुहरों पर कपड़े के डिजाइन और सूक्ष्म धागे के निशान / Seal motifs showing textile patterns and impressions of cords/threads",
+      "B": "लकड़ी की भारी नक्काशी / Heavy wooden carving",
+      "C": "स्टील ढलाई के बड़े उपकरण / Large steel forging tools",
+      "D": "आधुनिक पॉलिमर उपयोग / Modern polymer usage"
     },
-    "answer": ["A","C"]
+    "answer": ["A"]
   },
   {
     "id": 32,
-    "question": "निम्न में से कौन-सा सामाजिक संकेतक 'Human Development' का माप करने में उपयोगी है? / Which of the following indicators is useful for measuring Human Development?",
+    "question": "अशोक के शिलालेख किस माध्यम में मिले हैं जो उनकी नीति को समझने हेतु प्राथमिक स्रोत हैं? / Ashoka’s inscriptions are primary sources for his policy in which media?",
     "options": {
-      "A": "Literacy Rate",
-      "B": "Per Capita Income alone",
-      "C": "Life Expectancy",
-      "D": "Education & Health access combined"
+      "A": "स्तम्भ-लिखित शिलालेख (Pillars) और चट्टान-लिखित शिलालेख (Rock edicts) / Pillar and rock inscriptions",
+      "B": "केवल मौखिक परम्पराएँ / Only oral traditions",
+      "C": "धातु सिक्कों पर विस्तृत विवरण / Detailed descriptions on metal coins",
+      "D": "सुनहरे ग्रन्थों में संकलित गुप्त दस्तावेज / Secret golden manuscripts"
     },
-    "answer": ["A","C","D"]
+    "answer": ["A"]
   },
   {
     "id": 33,
-    "question": "उत्तर प्रदेश में प्रमुख लोक-नाटक का पारंपरिक रूप कौन सा है जो ग्रामीण कहानियों और संगीत के साथ जुड़ा है? / Which traditional folk theatre form in UP is linked with rural stories and music?",
+    "question": "गुप्त कला की कौन-सी विशेषता उसे बाद के भारतीय कला मानकों पर प्रभावशाली बनाती है? / Which feature of Gupta art made it influential on later Indian art?",
     "options": {
-      "A": "नौटंकी (Nautanki)",
-      "B": "फन्नी नाटक (Funny Theatre)",
-      "C": "इलेक्ट्रॉनिक थिएटर (Electronic Theatre)",
-      "D": "रैप थिएटर (Rap Theatre)"
+      "A": "संतुलित शिल्प-रूप, क्लिष्ट मूर्तिकला-रूप और सूक्ष्म मानवीय भाव-भंगिमा / Balanced forms, refined sculpture and subtle human expressions",
+      "B": "बिलकुल असंबद्ध सहजता / Complete formlessness",
+      "C": "यूरो-मध्यकालीन गोथिक तत्व / Euro-medieval Gothic elements",
+      "D": "मेटल-आधारित विशाल कांक्रीट संरचनाएँ / Metal-based concrete structures"
     },
     "answer": ["A"]
   },
   {
     "id": 34,
-    "question": "किस वर्ष की जनगणना UP की आख़िरी आधिकारिक पूर्ण जनगणना (Census) है जिसका परंपरागत रूप से उपयोग होता है (before any extrapolations)? / Which year’s census is the last full official Census commonly used for UP baseline?",
+    "question": "इंडस लिपि की अनुवाद-असमर्थता का एक बड़ा कारण क्या माना जाता है? / What is a major reason for the undeciphered status of the Indus script?",
     "options": {
-      "A": "2001",
-      "B": "2011",
-      "C": "2021 (complete)",
-      "D": "1991"
+      "A": "लिपि पर छोटे अनुच्छेदों/अल्प शब्दों में ही अंकन मिलता है (short inscriptions) / Very short inscriptions limiting context",
+      "B": "यह स्पष्टतः रोमन भाषा पर आधारित है / It is clearly Roman-based",
+      "C": "इसके सभी रिकॉर्ड पूर्णतः नष्ट हो गए हैं / All records were completely destroyed",
+      "D": "यह बोलचाल की भाषा नहीं थी बल्कि केवल प्रतीकात्मक था / It was obviously not a spoken language but purely symbolic"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 35,
-    "question": "निम्न में से कौन-सा पोर्टफोलियो राज्य-स्तरीय विकास योजनाओं (state development schemes) में अक्सर देखा जाता है? / Which portfolio is commonly present in state-level development schemes?",
+    "question": "मौर्य काल में राज्य द्वारा किस सार्वजनिक नीति को सामाजिक कल्याण का उदाहरण माना जा सकता है? / Which public policy in Mauryan times is an example of state welfare?",
     "options": {
-      "A": "कृषि और सिचाई (Agriculture & Irrigation)",
-      "B": "स्वास्थ्य (Health)",
-      "C": "शिक्षा (Education)",
-      "D": "स्पेस-टेक (Space-tech launchpads)"
+      "A": "सार्वजनिक चिकित्सकीय उपक्रम और पशु-पालन हेतु व्यवस्था (hospitals and animal welfare as per inscriptions) / Medical and animal welfare measures",
+      "B": "पूरे राज्य में व्यापार प्रतिबन्ध / Complete trade prohibition",
+      "C": "सिर्फ़ सेना पर ही धन खर्च / Expenditure only on military",
+      "D": "रात्रि-व्यापार पर पूर्ण तबाही / Night-trade extermination"
     },
-    "answer": ["A","B","C"]
+    "answer": ["A"]
   },
   {
     "id": 36,
-    "question": "निम्न में से कौन-सा UP का पारंपरिक हथकरघा/वस्त्र-उत्पादन केंद्र माना जाता है? / Which of the following is a traditional handloom/ textile production centre in UP?",
+    "question": "किस सिद्धांत ने गुप्त काल के विद्वानों जैसे आर्यभट्ट और वराहमिहिर को प्रेरित किया? / Which intellectual tradition inspired Gupta scholars like Aryabhata and Varahamihira?",
     "options": {
-      "A": "भदोही (Bhadohi) — Carpets",
-      "B": "बनारस (Banaras) — Banarasi saris",
-      "C": "मोहन (Mohan) — fictional",
-      "D": "केरल (Kerala) — not in UP"
+      "A": "गणितीय और खगोलीय अध्ययन (mathematical & astronomical inquiry) / Mathematical and astronomical investigation",
+      "B": "मात्र शास्त्रीय भाषाविज्ञान / Only classical philology",
+      "C": "आधुनिक यांत्रिकी / Modern mechanics",
+      "D": "नौवहन और समुद्री विज्ञान / Nautical and marine science"
     },
-    "answer": ["A","B"]
+    "answer": ["A"]
   },
   {
     "id": 37,
-    "question": "निम्न में से किस योजना का उद्देश्य स्वास्थ्य बीमा/स्वास्थ्य कवरेज को बढ़ाना है और इसे केन्द्र/राज्य स्तर पर लागू किया जाता है? / Which scheme aims at expanding health insurance/coverage (implemented at central/state levels)?",
+    "question": "हड़प्पा सभ्यता के व्यापार के क्या संकेत मिले हैं जो विदेश व्यापार को इंगित करते हैं? / What evidence from Harappan sites points to foreign trade?",
     "options": {
-      "A": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
-      "B": "Pradhan Mantri Awas Yojana (PMAY)",
-      "C": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
-      "D": "National Pension Scheme (NPS)"
+      "A": "मेसोपोटामिया के साथ सीलें/वस्तुएँ और रत्नों का आदान-प्रदान / Seals/objects and gem exchange with Mesopotamia",
+      "B": "शताब्दियों बाद के यूरोपीय दस्तावेज / Centuries-later European documents",
+      "C": "आधुनिक बैंकिंग रिकॉर्ड / Modern banking records",
+      "D": "केवल स्थानीय लकड़ी के प्रयोग / Only local timber use"
     },
     "answer": ["A"]
   },
   {
     "id": 38,
-    "question": "निम्न में से कौन-सा UP में परंपरागत रूप से मशहूर मेला है जो तीर्थयात्रा/धार्मिक परंपराओं से जुड़ा है? / Which of the following fairs in UP is traditionally connected to pilgrimage/religious traditions?",
+    "question": "महाजनपदों में 'अवन्ति' (Avanti) की भौगोलिक स्थिति किस क्षेत्र में थी? / In which region was Avanti Mahajanapada located?",
     "options": {
-      "A": "कुंभ (Kumbh)",
-      "B": "घाट उत्सव (Ghat festivals)",
-      "C": "मकर संक्रांति मेले (Makar Sankranti fairs)",
-      "D": "फोकस-कॉन्क्लेव (Focus-Conclave)"
+      "A": "मध्य भारत (Malwa and western Madhya Pradesh) / Central India (Malwa region)",
+      "B": "दक्षिण भारत (Tamil Nadu) / South India (Tamil Nadu)",
+      "C": "पश्चिमी यूरोप / Western Europe",
+      "D": "ऊपर्युक्त में से कोई नहीं / None of the above"
     },
-    "answer": ["A","B","C"]
+    "answer": ["A"]
   },
   {
     "id": 39,
-    "question": "निम्न में से कौन-सा शहर संस्‍कृति, कला (chikan), और शिल्प के कारण 'लखनऊ' का योगदान दर्शाता है? / Which of the following is associated with Lucknow's contribution to culture and crafts?",
+    "question": "अजंता और एलोरा को UNESCO विश्व धरोहर स्थल के रूप में किस वजह से मान्यता मिली है? / Why were Ajanta and Ellora recognized as UNESCO World Heritage Sites?",
     "options": {
-      "A": "चिकन कढ़ाई (Chikan embroidery)",
-      "B": "बनारसी पत्थर (Banarasi stone)",
-      "C": "फ़िरोज़ाबाद शीशा (Firozabad glass)",
-      "D": "हाथी प्रतिमा (Elephant statues)"
+      "A": "उनकी उच्च कलात्मक और स्थापत्यकृति जो बौद्ध, हिन्दू और जैन परंपराओं को दर्शाती हैं / Outstanding artistic and architectural expression of Buddhist, Hindu and Jain traditions",
+      "B": "उनकी आधुनिक औद्योगिक संरचनाएँ / Their modern industrial structures",
+      "C": "उनकी केवल प्राकृतिक सुंदरता / Only natural beauty",
+      "D": "उनके समुद्री बंदरगाह के लिए / For their maritime ports"
     },
     "answer": ["A"]
   },
   {
     "id": 40,
-    "question": "UP के कौन-से जिले में पारंपरिक रूप से 'दुबेहरी / Dussehri' आम की किस्म प्रसिद्ध है? / In which district is the Dussehri mango variety traditionally famous?",
+    "question": "2024–25 के नवीन शोध/खोजों में से इंडस घाटी (Indus) के बारे में क्या प्रकार का अपडेट सामान्यतः रिपोर्ट हुआ है? / Which type of update about the Indus Valley has commonly appeared in recent 2024–25 studies/news?",
     "options": {
-      "A": "बुलंदशहर (Bulandshahr)",
-      "B": "लखनऊ (Lucknow)",
-      "C": "मुजफ्फरनगर (Muzaffarnagar)",
-      "D": "अल्मोड़ा (Almora)"
+      "A": "नए साइट्स/खोज और उन्नत तिथिकरण (new sites/discoveries & improved dating techniques)",
+      "B": "इंडस सभ्यता का पूर्ण रूप से ग़लत सिद्ध होना / Complete disproof of Indus civilization",
+      "C": "इंडस संस्कृति का समकालीन डिजिटल रिकॉर्ड उपलब्ध होना / Availability of contemporary digital records from IVC",
+      "D": "इंडस सभ्यता का यूरोपीय मूल सिद्ध होना / Indus origin as European"
     },
     "answer": ["A"]
   },
   {
     "id": 41,
-    "question": "निम्न में से कौन-सा आर्थिक संकेतक राज्य की कृषि-उत्पादन क्षमता का सटीक संकेत दे सकता है? / Which indicator best reflects a state's agricultural production capacity?",
+    "question": "दिल्ली सल्तनत में कुल कितने वंश हुए? / How many dynasties were there in Delhi Sultanate?",
     "options": {
-      "A": "Area under cultivation (कृषि क्षेत्रफल)",
-      "B": "Per hectare productivity (उत्पादकता)",
-      "C": "Total production (कुल उत्पादन)",
-      "D": "All of the above"
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
     },
-    "answer": ["D"]
+    "answer": ["B"]
   },
   {
     "id": 42,
-    "question": "UP में प्रमुख धार्मिक पर्यटन से जुड़ी अर्थव्यवस्था किस शहर से प्रमुखता से जुड़ी है? / Which city in UP is prominently linked with religious tourism economy?",
+    "question": "निम्न में से कौन-से दिल्ली सल्तनत का हिस्सा नहीं थे? / Which of the following were NOT part of Delhi Sultanate?",
     "options": {
-      "A": "वाराणसी (Varanasi)",
-      "B": "इलाहाबाद/प्रयागराज (Prayagraj)",
-      "C": "अयोध्या (Ayodhya)",
-      "D": "सभी उपर्युक्त (All of the above)"
+      "A": "गुलाम वंश (Slave dynasty)",
+      "B": "तुगलक वंश (Tughlaq dynasty)",
+      "C": "बंगाल सल्तनत (Bengal Sultanate)",
+      "D": "लोधी वंश (Lodi dynasty)"
     },
-    "answer": ["D"]
+    "answer": ["C"]
   },
   {
     "id": 43,
-    "question": "निम्न में से कौन-सा उद्योग-समूह सूक्ष्म, लघु और मध्यम उद्योंग (MSMEs) के तहत UP में व्यापक है? / Which industry group among MSMEs is widespread in UP?",
+    "question": "इक़्ता प्रणाली के बारे में सही कथन चुनें / Select the correct statements about Iqta system:",
     "options": {
-      "A": "हैंडलूम / टेक्सटाइल (Handloom/Textiles)",
-      "B": "कन्फेक्शनरी (Confectionery)",
-      "C": "ऑटो-इंडस्ट्री (Auto industry)",
-      "D": "शिप-बिल्डिंग (Shipbuilding)"
+      "A": "अमिल राजस्व संग्रह के लिए जिम्मेदार था (Amil collected revenue)",
+      "B": "यह प्राचीन भारत की मौलिक प्रणाली थी (Indigenous ancient system)",
+      "C": "खिलजी वंश ने शुरू की (Started under Khalji dynasty)",
+      "D": "इसका प्रयोग केवल सैन्य भुगतान में हुआ (Used only for military payments)"
     },
-    "answer": ["A","B"]
+    "answer": ["A"]
   },
   {
     "id": 44,
-    "question": "किसे प्रशासनिक रूप से 'Division' का प्रमुख (administrative head) कहा जाता है? / Who is typically the administrative head of a Division in UP?",
+    "question": "अलाउद्दीन खिलजी के प्रशासनिक सुधारों में कौन-से सही हैं? / Which of the following are correct regarding Alauddin Khalji's administrative reforms?",
     "options": {
-      "A": "Divisional Commissioner",
-      "B": "District Magistrate",
-      "C": "Chief Minister",
-      "D": "Village Pradhan"
+      "A": "इक़्तों को समाप्त किया (Abolished Iqtas)",
+      "B": "कृषि कर 20% से 50% किया (Increased land tax from 20% to 50%)",
+      "C": "तुगलक वंश को छोड़कर सभी को दौलताबाद ले जाया गया (Shifted all except Tughlaq dynasty nobles to Daulatabad)",
+      "D": "मंडी नियंत्रण प्रणाली लागू की (Implemented market control system)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 45,
-    "question": "निम्न में से कौन-सा लोक-उत्पादन (craft) बनारस/वाराणसी में विख्यात है? / Which craft is famed in Banaras/Varanasi?",
+    "question": "दिल्ली सल्तनत का सबसे व्यापक भू-क्षेत्रीय विस्तार किस वंश में हुआ? / During which dynasty did the Delhi Sultanate reach its greatest territorial extent?",
     "options": {
-      "A": "बनारसी साड़ी (Banarasi sari weaving)",
-      "B": "ब्लू-पॉटरी (Blue pottery)",
-      "C": "ब्रास वर्क (Brass work)",
-      "D": "चीनी मिट्टी के बर्तन (Porcelain pottery)"
+      "A": "गुलाम (Slave)",
+      "B": "खिलजी (Khalji)",
+      "C": "तुगलक (Tughlaq)",
+      "D": "लोधी (Lodi)"
     },
-    "answer": ["A","C"]
+    "answer": ["C"]
   },
   {
     "id": 46,
-    "question": "निम्न में से कौन-सा सामाजिक/आर्थिक आँकड़ा 2023–24/2024–25 संदर्भ में अक्सर नीति-निर्धारण के लिए उपयोग होता है? / Which socio-economic statistic is commonly used for policy-making for 2023–24/24–25 references?",
+    "question": "भक्ति आंदोलन के प्रमुख संतों में कौन शामिल हैं? / Which of the following were major saints of the Bhakti movement?",
     "options": {
-      "A": "Per capita income",
-      "B": "Unemployment rate (PLFS)",
-      "C": "Poverty headcount ratio",
-      "D": "All of the above"
+      "A": "कबीर (Kabir)",
+      "B": "रैदास (Ravidas)",
+      "C": "मीराबाई (Meerabai)",
+      "D": "अबू आल्होर (Abu Alhor)"
     },
-    "answer": ["D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 47,
-    "question": "किसे UP के इतिहास में 'नवाबी संगीत-संस्कृति' के प्रेरक के रूप में देखा जाता है? / Who is seen as an inspirer of Nawabi musical culture in UP's history?",
+    "question": "भक्ति और सूफी विचारधारा में कौन-से तत्व समान हैं? / Which elements were common in Bhakti and Sufi philosophies?",
     "options": {
-      "A": "वाजिद अली शाह (Wajid Ali Shah)",
-      "B": "सम्राट अशोक (Emperor Ashoka)",
-      "C": "शिवाजी (Shivaji)",
-      "D": "वल्लभभाई पटेल (Vallabhbhai Patel)"
+      "A": "व्यक्ति-केंद्रित भक्ति (Individual-centric devotion)",
+      "B": "धार्मिक कट्टरता (Religious orthodoxy)",
+      "C": "अस्पृश्यता का समर्थन (Support for untouchability)",
+      "D": "आध्यात्मिक समरसता (Spiritual harmony)"
     },
-    "answer": ["A"]
+    "answer": ["A", "D"]
   },
   {
     "id": 48,
-    "question": "राज्य के बजट 'Budget at a Glance' में किस प्रकार की जानकारियाँ सामान्यतः मिलती हैं? / What type of information is typically found in 'Budget at a Glance'?",
+    "question": "मुगल शासन के बारे में सही कथन चुनें / Select the correct statements about Mughal rule:",
     "options": {
-      "A": "Revenue and Expenditure summaries",
-      "B": "Major scheme allocations",
-      "C": "Fiscal indicators like deficit/GSDP",
-      "D": "All of the above"
+      "A": "बाबर ने 1526 में प्रथम पानीपत युद्ध जीता (Babar won 1st Battle of Panipat in 1526)",
+      "B": "अकबर ने मंसाबदारी प्रणाली शुरू की (Akbar started Mansabdari system)",
+      "C": "औरंगज़ेब ने जज़िया कर समाप्त किया (Aurangzeb abolished Jizya tax)",
+      "D": "औरंगज़ेब ने जज़िया कर पुनः लगाया (Aurangzeb reimposed Jizya tax)"
     },
-    "answer": ["D"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 49,
-    "question": "किस नदी को उत्तर प्रदेश का सबसे प्रमुख नदियों में से एक माना जाता है और यह राज्य की कृषि और संस्कृति दोनों में केन्द्रीय भूमिका निभाती है? / Which river is among the most prominent in UP, central to both agriculture and culture?",
+    "question": "बाबर के सैन्य अभियानों में सही क्या है? / Which of the following are correct about Babur's military campaigns?",
     "options": {
-      "A": "गंगा (Ganga)",
-      "B": "गोदावरी (Godavari)",
-      "C": "कृष्णा (Krishna)",
-      "D": "नर्मदा (Narmada)"
+      "A": "गुर्जर राजपूतों को पराजित किया (Defeated Gurjar Rajputs)",
+      "B": "आधुनिक तोपखाने का उपयोग किया (Used modern artillery)",
+      "C": "इब्न-बतूता से मार्गदर्शन लिया (Took guidance from Ibn Battuta)",
+      "D": "तुलूग्मा रणनीति अपनाई (Used Tulughma strategy)"
     },
-    "answer": ["A"]
+    "answer": ["B", "D"]
   },
   {
     "id": 50,
-    "question": "निम्न में से कौन-सा पारंपरिक लोक नाट्य/नाटक UP के ग्रामीण क्षेत्रों में मनोरंजन और सामाजिक संदेश दोनों का माध्यम रहा है? / Which traditional folk theatre in UP has served as entertainment and a medium for social messages in villages?",
+    "question": "फतेहपुर सीकरी किसने बनवाई और क्यों छोड़ी? / Who built Fatehpur Sikri and why was it abandoned?",
     "options": {
-      "A": "नौटंकी (Nautanki)",
-      "B": "बोलचाल नाटक (Contemporary street plays only)",
-      "C": "कोरल ओपेरा (Coral Opera)",
-      "D": "सैटेलाइट शो (Satellite show)"
+      "A": "अकबर — जल की कमी (Akbar — water scarcity)",
+      "B": "जहाँगीर — युद्ध (Jahangir — war)",
+      "C": "शाहजहाँ — संसाधन अभाव (Shah Jahan — lack of resources)",
+      "D": "औरंगज़ेब — आर्थिक तंगी (Aurangzeb — economic crisis)"
     },
     "answer": ["A"]
   },
   {
     "id": 51,
-    "question": "किस पहल/योजना का लक्ष्य गांवों में सड़क संपर्क (rural road connectivity) मजबूत करना था? / Which scheme aimed to strengthen rural road connectivity?",
+    "question": "अकबर की दीन-ए-इलाही के बारे में सही कथन चुनें / Select the correct statements about Din-i Ilahi:",
     "options": {
-      "A": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
-      "B": "Smart Cities Mission",
-      "C": "Make in India",
-      "D": "Atmanirbhar Bharat"
+      "A": "1582 में शुरू की गई (Started in 1582)",
+      "B": "सभी धर्मों का मिश्रण था (It was a blend of all religions)",
+      "C": "बड़े पैमाने पर लोकप्रिय हुआ (Became widely popular)",
+      "D": "अकबर ने खुद इसकी सदस्यता ली (Akbar himself joined)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 52,
-    "question": "निम्न में से कौन-सा कथक का एक विशिष्ट पहलू है? / Which is a distinct aspect of Kathak?",
+    "question": "मुगल काल के दौरान राजस्व प्रशासन में सही क्या है? / Which statements are correct about revenue administration during Mughal era?",
     "options": {
-      "A": "Footwork and spins (tatkar & chakkars)",
-      "B": "Use of heavy ankle bells in Bharatanatyam only",
-      "C": "Masked performance always",
-      "D": "Performed only by men"
+      "A": "अकबर ने टोडर मल को वित्त मंत्री बनाया (Akbar appointed Todar Mal as finance minister)",
+      "B": "ज़ब्ती प्रणाली लागू की गई (Zabt system implemented)",
+      "C": "मुगलों ने भूमि मापने के लिए गज-ए-इलाही का प्रयोग किया (Used Gaj-i-Ilahi for land measurement)",
+      "D": "औरंगज़ेब ने नकदी कर को समाप्त कर दिया (Aurangzeb abolished cash tax)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 53,
-    "question": "UP के किस जिलें में काठ/दोलक जैसे पारंपरिक वाद्य-उत्पादन/कला के लिए स्थानीय पहचान रही है? / Which district in UP is known for traditional instrument-making like dholak?",
+    "question": "सूफी सिलसिलों में सही जोड़ी कौन-सी है? / Which of the following Sufi orders are correctly matched?",
     "options": {
-      "A": "आमरोहा (Amroha)",
-      "B": "अगरा (Agra)",
-      "C": "वाराणसी (Varanasi)",
-      "D": "फिरोज़ाबाद (Firozabad)"
+      "A": "चिश्ती — मोइनुद्दीन चिश्ती (Chishti — Moinuddin Chishti)",
+      "B": "सुहरवर्दी — शेख शाहाबुद्दीन (Suhrawardi — Shihabuddin)",
+      "C": "नक्शबंदी — ख्वाजा बहाउद्दीन (Naqshbandi — Bahauddin)",
+      "D": "कादिरी — निजामुद्दीन औलिया (Qadiri — Nizamuddin Auliya)"
     },
-    "answer": ["A","C"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 54,
-    "question": "किसे UP में 'हेटीला/हाट' (periodic markets) का अर्थशास्त्र स्थानीय कृषि व्यापार से जोड़ा जाता है? / Periodic markets (hats) in UP primarily link to which economic activity?",
+    "question": "भक्ति आंदोलन के संत और उनके क्षेत्र की सही जोड़ी चुनें / Match the Bhakti saints with their regions:",
     "options": {
-      "A": "Local agricultural trade",
-      "B": "Space technology sales",
-      "C": "Maritime shipping",
-      "D": "None of the above"
+      "A": "तुलसीदास — वाराणसी (Tulsidas — Varanasi)",
+      "B": "नामदेव — महाराष्ट्र (Namdev — Maharashtra)",
+      "C": "चैतन्य महाप्रभु — बंगाल (Chaitanya Mahaprabhu — Bengal)",
+      "D": "मीराबाई — कर्नाटक (Meerabai — Karnataka)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 55,
-    "question": "निम्न में से कौन-सा कृषि-सम्बन्धी सूचक 2023–24 में UP के लिए रिपोर्टेड था (जैसे high production districts, sugarcane stats)? / Which agricultural-related statistic was reported for UP in 2023–24?",
+    "question": "शेरशाह सूरी के प्रशासनिक सुधारों में सही क्या है? / Which were correct administrative reforms of Sher Shah Suri?",
     "options": {
-      "A": "Sugarcane production remained one of the highest among states",
-      "B": "UP stopped all paddy cultivation",
-      "C": "No wheat was produced",
-      "D": "All produced crops were exported fully"
+      "A": "रुपये की एकरूपता (Standardization of Rupee)",
+      "B": "डाक व्यवस्था सुधार (Postal reforms)",
+      "C": "रैयतवाड़ी प्रणाली (Ryotwari system)",
+      "D": "सड़क निर्माण (Road construction)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 56,
-    "question": "UP में पारंपरिक रूप से कौन-सी धार्मिक/सांस्कृतिक विरासत शहर 'अयोध्या' से जुड़ी है? / Which cultural heritage is Ayodhya traditionally associated with?",
+    "question": "मुगल काल की वास्तुकला के बारे में सही कथन चुनें / Select the correct statements about Mughal architecture:",
     "options": {
-      "A": "रामायणिक परंपरा (Ramayana tradition)",
-      "B": "कुबेर मठ (Kuber Math)",
-      "C": "बुद्ध की प्रज्ञा (Buddhist Enlightenment)",
-      "D": "सिख गुरुओं की जन्मस्थली"
+      "A": "ताजमहल का निर्माण शाहजहाँ ने करवाया (Shah Jahan built Taj Mahal)",
+      "B": "लाल किला दिल्ली — शाहजहाँ (Red Fort Delhi — Shah Jahan)",
+      "C": "बुलंद दरवाजा — अकबर (Buland Darwaza — Akbar)",
+      "D": "मोती मस्जिद — औरंगज़ेब (Moti Masjid — Aurangzeb)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 57,
-    "question": "राज्य-स्तरीय बजट में 'Revenue Receipts' अक्सर किन स्रोतों से आते हैं? / State Budget 'Revenue Receipts' typically come from which sources?",
+    "question": "लोधी वंश के बारे में सही क्या है? / Which of the following are correct about Lodi dynasty?",
     "options": {
-      "A": "Tax revenue (GST share, state taxes)",
-      "B": "Non-tax revenue (fees, fines)",
-      "C": "Central transfers & grants",
-      "D": "All of the above"
+      "A": "यह दिल्ली सल्तनत का अंतिम वंश था (It was the last dynasty of Delhi Sultanate)",
+      "B": "इब्राहिम लोदी पानीपत युद्ध में मारा गया (Ibrahim Lodi died in Battle of Panipat)",
+      "C": "लोदी अफगान मूल के थे (Lodis were of Afghan origin)",
+      "D": "लोदी वंश ने सिकंदर लोदी के समय सबसे अधिक विस्तार किया (Lodi dynasty expanded most under Sikandar Lodi)"
     },
-    "answer": ["D"]
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 58,
-    "question": "निम्न में से कौन-सा उत्तर प्रदेश के पारंपरिक संगीत या नृत्य से जुड़ा शो-आयटम है जिसे कोर्ट/दरबारों में लोकप्रियता मिली थी? / Which performance item gained popularity in courts (darbars) of UP’s past?",
+    "question": "औरंगज़ेब के शासन में कौन-से बदलाव हुए? / Which changes occurred during Aurangzeb's reign?",
     "options": {
-      "A": "Kathak recital and storytelling with music",
-      "B": "Carnatic vocal only (South India)",
-      "C": "Kabuki theatre (Japan)",
-      "D": "Reggae concerts"
+      "A": "जज़िया कर पुनः लागू (Reimposed Jizya tax)",
+      "B": "मुगल साम्राज्य का दक्षिण की ओर विस्तार (Southern expansion of empire)",
+      "C": "शराब और संगीत पर प्रतिबंध (Ban on wine and music)",
+      "D": "राजपूतों के साथ स्थायी संधि (Permanent treaty with Rajputs)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 59,
-    "question": "निम्न में से कौन-सा UP के पर्यटन अर्थव्यवस्था के लिए महत्वपूर्ण है? / Which of the following is important for UP’s tourism economy?",
+    "question": "भक्ति आंदोलन के संदर्भ में कबीर के विचार क्या थे? / Which were Kabir's main ideas?",
     "options": {
-      "A": "Religious circuits (Varanasi, Ayodhya, Prayagraj)",
-      "B": "Heritage monuments (Taj Mahal, Agra Fort)",
-      "C": "Cultural festivals (Dev Deepawali, Kumbh)",
-      "D": "All of the above"
+      "A": "निर्गुण भक्ति का समर्थन (Supported Nirguna Bhakti)",
+      "B": "हिन्दू-मुस्लिम एकता (Hindu-Muslim unity)",
+      "C": "वर्ण व्यवस्था का समर्थन (Supported Varna system)",
+      "D": "मूर्तिपूजा का विरोध (Opposed idol worship)"
     },
-    "answer": ["D"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 60,
-    "question": "UP में GI-tagged handicrafts और कृषि उत्पादों का उद्देश्य क्या होता है? / What is the purpose of GI-tagging handicrafts and agricultural products in UP?",
+    "question": "क्षेत्रीय राज्यों में अवध के बारे में सही क्या है? / Which of the following are correct about Awadh?",
     "options": {
-      "A": "To protect regional origin and promote producers",
-      "B": "To ban sale outside the region",
-      "C": "To privatize all traditional knowledge",
-      "D": "To make them illegal for export"
+      "A": "सादत अली खान इसके संस्थापक थे (Saadat Ali Khan was its founder)",
+      "B": "अवध की राजधानी फैजाबाद थी (Capital was Faizabad)",
+      "C": "1764 में बक्सर युद्ध में अंग्रेजों से संधि की (Treaty with British in 1764)",
+      "D": "अवध पर मराठों का कब्जा 1784 में हुआ (Marathas captured Awadh in 1784)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 61,
+    "question": "मराठा साम्राज्य के संदर्भ में सही कथन चुनें / Select the correct statements about Maratha Empire:",
+    "options": {
+      "A": "शिवाजी ने अष्टप्रधान परिषद स्थापित की (Shivaji established Ashtapradhan council)",
+      "B": "राजा शाहू के समय पेशवा पद वंशानुगत हुआ (Peshwa post became hereditary under Shahu)",
+      "C": "1761 में पानीपत की तीसरी लड़ाई में हार (Lost 3rd Battle of Panipat in 1761)",
+      "D": "मराठा राजधानी पुणे थी (Capital was Pune)"
+    },
+    "answer": ["A", "B", "C", "D"]
+  },
+  {
+    "id": 62,
+    "question": "मुगल के बाद बंगाल में कौन-से शासक उभरे? / Which rulers emerged in Bengal after Mughals?",
+    "options": {
+      "A": "मुरशिद कुली खान (Murshid Quli Khan)",
+      "B": "अलीवर्दी खान (Alivardi Khan)",
+      "C": "सिराज-उद-दौला (Siraj-ud-Daulah)",
+      "D": "मीर कासिम (Mir Qasim)"
+    },
+    "answer": ["A", "B", "C", "D"]
+  },
+  {
+    "id": 63,
+    "question": "तुगलक वंश के सुधारों में सही कौन-से हैं? / Which reforms of Tughlaq dynasty are correct?",
+    "options": {
+      "A": "मोहम्मद बिन तुगलक का दौलताबाद स्थानांतरण (Transfer to Daulatabad)",
+      "B": "तांबे के टोकन मुद्रा का प्रयोग (Use of copper token currency)",
+      "C": "विशाल सिंचाई परियोजना (Large irrigation project)",
+      "D": "कृषि कर कम करना (Reduction in land tax)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 64,
+    "question": "दिल्ली सल्तनत के समाज में कौन-से वर्ग प्रमुख थे? / Which were the main classes in Delhi Sultanate society?",
+    "options": {
+      "A": "अभिजात वर्ग (Nobility)",
+      "B": "व्यापारी वर्ग (Merchants)",
+      "C": "कृषक वर्ग (Peasants)",
+      "D": "गुलाम वर्ग (Slaves)"
+    },
+    "answer": ["A", "B", "C", "D"]
+  },
+  {
+    "id": 65,
+    "question": "सूफी संत निजामुद्दीन औलिया किस सिलसिले से जुड़े थे? / Nizamuddin Auliya belonged to which Sufi order?",
+    "options": {
+      "A": "चिश्ती (Chishti)",
+      "B": "सुहरवर्दी (Suhrawardi)",
+      "C": "नक्शबंदी (Naqshbandi)",
+      "D": "कादिरी (Qadiri)"
     },
     "answer": ["A"]
+  },
+  {
+    "id": 66,
+    "question": "मुगल चित्रकला के बारे में सही कथन चुनें / Select correct statements about Mughal painting:",
+    "options": {
+      "A": "अकबर के समय फारसी और भारतीय शैली का मिश्रण हुआ (Fusion of Persian and Indian styles under Akbar)",
+      "B": "जहाँगीर प्राकृतिक चित्रण में रुचि रखते थे (Jahangir was interested in naturalistic painting)",
+      "C": "औरंगज़ेब ने चित्रकला को बढ़ावा दिया (Aurangzeb promoted painting)",
+      "D": "मुगल चित्रकला में यूरोपीय प्रभाव भी आया (European influence present)"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 67,
+    "question": "शाहजहाँ के समय की प्रमुख इमारतें कौन-सी हैं? / Which were major buildings during Shah Jahan's reign?",
+    "options": {
+      "A": "ताजमहल (Taj Mahal)",
+      "B": "जामा मस्जिद (Jama Masjid)",
+      "C": "मोती मस्जिद आगरा (Moti Masjid Agra)",
+      "D": "बुलंद दरवाजा (Buland Darwaza)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 68,
+    "question": "भक्ति-सूफी साहित्य में कौन-से ग्रंथ प्रमुख हैं? / Which texts are important in Bhakti-Sufi literature?",
+    "options": {
+      "A": "कबीर के साखी (Kabir's Sakhi)",
+      "B": "गुरु ग्रंथ साहिब (Guru Granth Sahib)",
+      "C": "पदावली (Padavali)",
+      "D": "अकबरनामा (Akbarnama)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 69,
+    "question": "मैसूर राज्य के संदर्भ में सही कथन चुनें / Select the correct statements about Mysore state:",
+    "options": {
+      "A": "हैदर अली ने सत्ता संभाली (Hyder Ali took power)",
+      "B": "टीपू सुल्तान ने अंग्रेजों से चार युद्ध लड़े (Tipu Sultan fought four wars with British)",
+      "C": "सिरिंगपट्टनम संधि 1792 में हुई (Treaty of Seringapatam in 1792)",
+      "D": "टीपू ने फ्रांस से गठबंधन किया (Tipu allied with France)"
+    },
+    "answer": ["A", "B", "C", "D"]
+  },
+  {
+    "id": 70,
+    "question": "दिल्ली सल्तनत के दौरान अर्थव्यवस्था में कौन-से क्षेत्र प्रमुख थे? / Which sectors were important in the economy during Delhi Sultanate?",
+    "options": {
+      "A": "कृषि (Agriculture)",
+      "B": "हस्तशिल्प (Handicrafts)",
+      "C": "विदेशी व्यापार (Foreign trade)",
+      "D": "खनन (Mining)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 71,
+    "question": "अकबर के दरबार में 2024 में नई खोजों के अनुसार कौन-सा यूरोपीय यात्री आया था? / According to 2024 research, which European traveller visited Akbar's court?",
+    "options": {
+      "A": "प्लाविनो (Plavino)",
+      "B": "राल्फ फिच (Ralph Fitch)",
+      "C": "थॉमस रो (Thomas Roe)",
+      "D": "निकोलाओ मानुची (Niccolao Manucci)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 72,
+    "question": "2025 के ताजा पुरातात्विक साक्ष्यों के अनुसार किस मुगल शासक की कब्र का पुन:अध्ययन हुआ? / According to 2025 archaeological evidence, whose tomb has been re-studied?",
+    "options": {
+      "A": "हुमायूँ (Humayun)",
+      "B": "जहाँगीर (Jahangir)",
+      "C": "औरंगज़ेब (Aurangzeb)",
+      "D": "शाहजहाँ (Shah Jahan)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 73,
+    "question": "दिल्ली सल्तनत के दौरान किस विदेशी यात्री ने भारत का दौरा किया? / Which foreign traveller visited India during Delhi Sultanate?",
+    "options": {
+      "A": "इब्न बतूता (Ibn Battuta)",
+      "B": "मार्को पोलो (Marco Polo)",
+      "C": "अल मसूदी (Al-Masudi)",
+      "D": "निकोलो डी कॉन्टी (Niccolo de Conti)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 74,
+    "question": "मुगल साम्राज्य के पतन के कारणों में कौन-से शामिल हैं? / Which were reasons for decline of Mughal Empire?",
+    "options": {
+      "A": "उत्तराधिकार युद्ध (Succession wars)",
+      "B": "प्रांतीय विद्रोह (Provincial revolts)",
+      "C": "विदेशी आक्रमण (Foreign invasions)",
+      "D": "प्रशासनिक भ्रष्टाचार (Administrative corruption)"
+    },
+    "answer": ["A", "B", "C", "D"]
+  },
+  {
+    "id": 75,
+    "question": "भक्ति आंदोलन में दक्षिण भारत के संत कौन थे? / Which were Bhakti saints from South India?",
+    "options": {
+      "A": "अलवार (Alvar)",
+      "B": "नयनार (Nayanar)",
+      "C": "कनकदास (Kanakadasa)",
+      "D": "तुलसीदास (Tulsidas)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 76,
+    "question": "सैयद वंश के बारे में सही क्या है? / Which of the following are correct about Sayyid dynasty?",
+    "options": {
+      "A": "यह तुगलक वंश के बाद आया (It came after Tughlaq dynasty)",
+      "B": "इसके संस्थापक खिज्र खान थे (Founded by Khizr Khan)",
+      "C": "लोधी वंश ने इसे हटाया (Lodi dynasty replaced it)",
+      "D": "यह सबसे लंबा चलने वाला वंश था (It was the longest ruling dynasty)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 77,
+    "question": "औरंगज़ेब के समय 2024 की नयी खोजों के अनुसार किस गढ़ी का विस्तार हुआ था? / According to 2024 discoveries, which fort was expanded during Aurangzeb's time?",
+    "options": {
+      "A": "गोलकोंडा किला (Golconda Fort)",
+      "B": "आसिरगढ़ किला (Asirgarh Fort)",
+      "C": "लाल किला (Red Fort)",
+      "D": "दौलताबाद किला (Daulatabad Fort)"
+    },
+    "answer": ["B"]
   }
-]
+]  
+
