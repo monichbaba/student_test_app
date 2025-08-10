@@ -1,662 +1,662 @@
 [
   {
     "id": 1,
-    "question": "Balance of Payments में ‘Capital Account’ में क्या शामिल होता है? / What is included in the ‘Capital Account’ of BoP?",
+    "question": "उत्तर प्रदेश की किस परत/भू-आकृति को सामान्यतः 'गंगा-यमुना की उपजाऊ मैदान' कहा जाता है? / Which physiographic region of Uttar Pradesh is commonly referred to as the 'Ganga–Yamuna fertile plains'?",
     "options": {
-      "A": "FDI",
-      "B": "External Commercial Borrowings (ECBs)",
-      "C": "Current transfers",
-      "D": "Portfolio investment"
+      "A": "तराई और डूनी क्षेत्र (Tarai & Duns)",
+      "B": "गंगा-यमुना मैदान (Ganga–Yamuna Plains)",
+      "C": "बुंदेलखंड पठार (Bundelkhand Plateau)",
+      "D": "विन्ध्यांचल पर्वतीय क्षेत्र (Vindhya Hills)"
     },
-    "answer": ["A","B","D"]
+    "answer": ["B"]
   },
   {
     "id": 2,
-    "question": "Current Account में निम्न में से क्या शामिल होता है? / Which of the following is part of the Current Account?",
+    "question": "निम्न में से कौन-से नृत्य रूप उत्तर प्रदेश मूल के शास्त्रीय/लोक नृत्यों में आते हैं? / Which of the following dance forms originate from Uttar Pradesh?",
     "options": {
-      "A": "Exports/imports of goods & services",
-      "B": "Income receipts/payments",
-      "C": "Capital transfers",
-      "D": "FDI inflow"
+      "A": "कथक (Kathak)",
+      "B": "बहरूपिया (Bharupia)",
+      "C": "नौटंकी (Nautanki)",
+      "D": "कुचिपुड़ी (Kuchipudi)"
     },
-    "answer": ["A","B"]
+    "answer": ["A","C"]
   },
   {
     "id": 3,
-    "question": "भारत का चालू खाता घाटा (Current Account Deficit) 2024-25 में लगभग कितना अनुमानित था? / What was India’s estimated current account deficit around 2024-25?",
+    "question": "ऊपर्युक्त (UP) के कितने जिले (districts) हैं — 2024 के अनुसार? / How many districts does Uttar Pradesh have (as of 2024)?",
     "options": {
-      "A": "≈ 0.9 % of GDP",
-      "B": "≈ 1.2 % of GDP",
-      "C": "≈ 2.5 % of GDP",
-      "D": "Surplus"
+      "A": "62",
+      "B": "75",
+      "C": "80",
+      "D": "71"
     },
-    "answer": ["A","B"]
+    "answer": ["B"]
   },
   {
     "id": 4,
-    "question": "Balance of Payments में ‘Errors & Omissions’ खंड का क्या उद्देश्य होता है? / What is the purpose of ‘Errors & Omissions’ in BoP?",
+    "question": "निम्न में से कौन-सा वस्तु उत्तर प्रदेश का GI टैग्ड (Geographical Indication) उत्पाद है? / Which of the following is a GI-tagged product from Uttar Pradesh?",
     "options": {
-      "A": "Statistical discrepancy adjustment",
-      "B": "Hidden remittances capture",
-      "C": "Trade deficit balancing",
-      "D": "Capital flow smoothing"
+      "A": "लखनऊ चिकन (Lucknow Chikan craft)",
+      "B": "मिरासोल शाल (Mirasol shawl)",
+      "C": "फिरोज़ाबाद काँच (Firozabad Glass)",
+      "D": "केरला मसाले (Kerala spices)"
     },
-    "answer": ["A","D"]
+    "answer": ["A","C"]
   },
   {
     "id": 5,
-    "question": "भारतीय मुद्रा (INR) में हाल-फिलहाल कौन-सा रुझान दिखा? / What has been the recent trend in INR?",
+    "question": "उत्तर प्रदेश की अर्थव्यवस्था में कृषि का योगदान (GSVA/ GDP share) किस श्रेणी के आसपास रिपोर्ट किया गया था 2023–24 में? / Around which share did agriculture contribute to UP's economy in 2023–24?",
     "options": {
-      "A": "मजबूत होने की ओर (Appreciating)",
-      "B": "कमज़ोर होने की ओर (Depreciating)",
-      "C": "एक-दो महीने में स्टेबल (Stable)",
-      "D": "प्लैटफ़ॉर्म में (Flat)"
+      "A": "लगभग 5–7%",
+      "B": "लगभग 16–17%",
+      "C": "लगभग 40–45%",
+      "D": "लगभग 26–30%"
     },
     "answer": ["B"]
   },
   {
     "id": 6,
-    "question": "2024-25 में भारत में कुल FDI inflow का अनुमानित स्तर कितना था? / What was the approximate total FDI inflow into India in 2024-25?",
+    "question": "निम्न में से कौन-सा प्रमुख मेला परंपरागत रूप से उत्तर प्रदेश में आयोजित होता है और लाखों श्रद्धालुओं को आकर्षित करता है? / Which major fair traditionally held in Uttar Pradesh attracts millions of pilgrims?",
     "options": {
-      "A": "≈ 15 billion USD",
-      "B": "≈ 70 billion USD",
-      "C": "≈ 45 billion USD",
-      "D": "≈ 100 billion USD"
+      "A": "काशी विश्वनाथ मेला (Kashi Vishwanath Fair)",
+      "B": "कुम्भ मेला (Kumbh Mela)",
+      "C": "गुजरात रथयात्रा (Gujarat Rath Yatra)",
+      "D": "ताज महोत्सव (Taj Mahotsav)"
     },
-    "answer": ["C","B"]
+    "answer": ["B","D"]
   },
   {
     "id": 7,
-    "question": "Foreign Portfolio Investment (FPI) में क्या शामिल है? / What falls under Foreign Portfolio Investment (FPI)?",
+    "question": "उत्तर प्रदेश के किस ऐतिहासिक शासक को 'लखनऊ के नवाब' के रूप में विशेष रूप से कला और संस्कृति का संरक्षक माना जाता है? / Which historical ruler of UP is famously known as a patron of arts and culture (notably in Lucknow)?",
     "options": {
-      "A": "Equity shares",
-      "B": "Government bonds",
-      "C": "Direct acquisition of factory",
-      "D": "Mutual funds"
+      "A": "अकबर (Akbar)",
+      "B": "वाजिद अली शाह (Wajid Ali Shah)",
+      "C": "शेर शाह सूरी (Sher Shah Suri)",
+      "D": "रानी लक्ष्मीबाई (Rani Lakshmibai)"
     },
-    "answer": ["A","B","D"]
+    "answer": ["B"]
   },
   {
     "id": 8,
-    "question": "FDI vs FPI में मुख्य अंतर क्या है? / What is the key difference between FDI and FPI?",
+    "question": "निम्न में से कौन-सा कृषि फसल उत्तर प्रदेश में सबसे अधिक उत्पादन (tonnage) देता है (2023–24 के आँकड़ों के नज़दीक)? / Which of the following crops had the largest production in Uttar Pradesh (by tonnage) in 2023–24?",
     "options": {
-      "A": "Long-term vs short-term investment",
-      "B": "Equity vs loans",
-      "C": "Control rights vs none",
-      "D": "Domestic vs foreign"
+      "A": "गेहूँ (Wheat)",
+      "B": "धान/चावल (Rice)",
+      "C": "गन्ना (Sugarcane)",
+      "D": "मक्का (Maize)"
     },
-    "answer": ["A","C"]
+    "answer": ["C"]
   },
   {
     "id": 9,
-    "question": "IMF का मुख्य उद्देश्य क्या है? / What is the primary objective of the IMF?",
+    "question": "राज्य की प्रशासनिक सर्वोच्च इकाई (capital) कौन-सी है? / What is the administrative capital of Uttar Pradesh?",
     "options": {
-      "A": "Exchange rate stability",
-      "B": "Providing project-based loans",
-      "C": "Balance of Payments support",
-      "D": "Global trade rules"
+      "A": "लखनऊ (Lucknow)",
+      "B": "कानपुर (Kanpur)",
+      "C": "इलाहाबाद / प्रयागराज (Prayagraj)",
+      "D": "आगरा (Agra)"
     },
-    "answer": ["A","C"]
+    "answer": ["A"]
   },
   {
     "id": 10,
-    "question": "IMF की SDR (Special Drawing Rights) है क्या? / What are IMF’s SDRs?",
+    "question": "निम्न में से कौन-सा बजट/वित्तीय दस्तावेज सीधे उत्तर प्रदेश सरकार द्वारा आधिकारिक तौर पर प्रकाशित किया जाता है? / Which of the following is officially published by the Uttar Pradesh government?",
     "options": {
-      "A": "Reserve assets",
-      "B": "Currency basket-based claims",
-      "C": "Gold reserves",
-      "D": "Loans"
+      "A": "State Budget / Budget at a Glance (UP Budget)",
+      "B": "Reserve Bank Monetary Policy (RBI)",
+      "C": "World Bank Country Report",
+      "D": "UNDP Human Development Index"
     },
-    "answer": ["A","B"]
+    "answer": ["A"]
   },
   {
     "id": 11,
-    "question": "WTO का मुख्य कार्य क्या है? / What is the main role of the WTO?",
+    "question": "उत्तर प्रदेश में 'कथक' का कौन-सा घराना (gharana) प्रसिद्ध है? / Which gharana of Kathak is prominent in Uttar Pradesh?",
     "options": {
-      "A": "Promote free trade",
-      "B": "Set monetary policy",
-      "C": "Resolve trade disputes",
-      "D": "Issue currency"
+      "A": "Lucknow Gharana",
+      "B": "Bharatanatyam Gharana",
+      "C": "Manipuri Gharana",
+      "D": "Bengal Gharana"
     },
-    "answer": ["A","C"]
+    "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "WTO ट्रेड में ‘Most-Favored-Nation’ (MFN) सिद्धांत क्या कहता है? / What does WTO’s MFN principle state?",
+    "question": "निम्न में से कौन-सा त्योहार विशेष रूप से वाराणसी/काशी से जुड़ा है और गंगा तटों पर महत्त्वपूर्ण होता है? / Which festival is especially associated with Varanasi (Kashi) and is significant on the Ganga ghats?",
     "options": {
-      "A": "Same tariff to all members",
-      "B": "Exclusive trade deals only",
-      "C": "Non-discriminatory trade",
-      "D": "Preferential tariffs only"
+      "A": "गणगौर (Gangaur)",
+      "B": "देव दीपावली (Dev Deepawali)",
+      "C": "ओणम (Onam)",
+      "D": "होली (Holi)"
     },
-    "answer": ["A","C"]
+    "answer": ["B"]
   },
   {
     "id": 13,
-    "question": "WTO की Dispute Settlement Body (DSB) क्या करती है? / What does the WTO’s DSB do?",
+    "question": "GI टैग का मतलब क्या है? / What does a GI tag signify?",
     "options": {
-      "A": "Resolve trade conflicts",
-      "B": "Set exchange rates",
-      "C": "Regulate FDI",
-      "D": "Control capital flows"
+      "A": "Geographical Indication — उत्पाद की भौगोलिक उत्पत्ति और विशेषता को मान्यता (Origin & qualities linked to region)",
+      "B": "Global Import — विदेशी आयात के लिए प्रमाणपत्र",
+      "C": "Government Initiative — सरकारी योजना का टैग",
+      "D": "Generic Indicator — आम संकेतक"
     },
     "answer": ["A"]
   },
   {
     "id": 14,
-    "question": "Trade deficit को BoP किस खंड में दिखाया जाता है? / Where is the trade deficit shown in BoP?",
+    "question": "निम्न में से कौन-सा इतिहासिक स्थल आगरा में स्थित है और उत्तर प्रदेश का एक प्रमुख पर्यटन आकर्षण है? / Which historic monument in Agra is a major tourist attraction in UP?",
     "options": {
-      "A": "Current account",
-      "B": "Capital account",
-      "C": "Financial account",
-      "D": "Errors & Omissions"
+      "A": "ताज महल (Taj Mahal)",
+      "B": "कोणार्क सूर्य मंदिर (Konark Sun Temple)",
+      "C": "गोलकुंडा किला (Golconda Fort)",
+      "D": "मीनाक्षी मंदिर (Meenakshi Temple)"
     },
     "answer": ["A"]
   },
   {
     "id": 15,
-    "question": "BoP equilibrium का मतलब क्या है? / What does BoP equilibrium mean?",
+    "question": "निम्न में से कौन-सी योजना (scheme) केंद्र-राज्य स्तर पर किसानों को आय सहायता देती है और UP में भी लागू रही है (2024 में भी फंड वितरण का उल्लेख)? / Which central/state scheme provides direct income support to farmers and was implemented in UP (noted for disbursements in 2024)?",
     "options": {
-      "A": "Zero current account",
-      "B": "Current account = capital account + errors & omissions",
-      "C": "Full employment",
-      "D": "Budget balance"
+      "A": "PM-Kisan Samman Nidhi",
+      "B": "Ayushman Bharat",
+      "C": "Smart City Mission",
+      "D": "Pradhan Mantri Fasal Bima Yojana"
     },
-    "answer": ["B"]
+    "answer": ["A","D"]
   },
   {
     "id": 16,
-    "question": "RBI विदेशी मुद्रा भंडार में वृद्धि क्यों करता है? / Why does the RBI increase foreign exchange reserves?",
+    "question": "उत्तर प्रदेश का किस भाग को ऐतिहासिक और सांस्कृतिक रूप से 'Awadh' कहा जाता है? / Which region of Uttar Pradesh is historically and culturally known as 'Awadh'?",
     "options": {
-      "A": "Currency stability",
-      "B": "Import cover",
-      "C": "Fund public projects",
-      "D": "Debt repayment"
+      "A": "पूर्वी UP (Eastern UP)",
+      "B": "मध्य UP (Central UP) — Lucknow surrounding areas",
+      "C": "बुंदेलखंड (Bundelkhand)",
+      "D": "पश्चिमी हिमालय (Western Himalaya)"
     },
-    "answer": ["A","B"]
+    "answer": ["B"]
   },
   {
     "id": 17,
-    "question": "India’s forex reserves 2025 की शुरुआत में लगभग कितनी थीं? / What were India’s forex reserves around the start of 2025?",
+    "question": "कितनी बड़ी आबादी (approx.) उत्तर प्रदेश की 2011 जनगणना के बाद अनुमानित 2024–25 तक रही है? / Approx. what was UP's population estimate by 2024–25?",
     "options": {
-      "A": "≈ 500 billion USD",
-      "B": "≈ 580 billion USD",
-      "C": "≈ 700 billion USD",
-      "D": "≈ 300 billion USD"
+      "A": "लगभग 10 करोड़",
+      "B": "लगभग 12 करोड़",
+      "C": "लगभग 24 करोड़",
+      "D": "लगभग 40 करोड़"
     },
-    "answer": ["B"]
+    "answer": ["C"]
   },
   {
     "id": 18,
-    "question": "Net FPI outflow का अर्थ क्या है? / What does net FPI outflow imply?",
+    "question": "राज्य में कितने प्रशासनिक विभाग (Divisions) हैं — परंपरागत रूप से? / How many administrative divisions (traditional) does UP have?",
     "options": {
-      "A": "More portfolio investment entering",
-      "B": "More exiting than entering",
-      "C": "FDI growth",
-      "D": "No change"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 19,
-    "question": "FPI volatility का भारत की मुद्रा पर क्या प्रभाव हो सकता है? / How can FPI volatility affect India’s currency?",
-    "options": {
-      "A": "INR depreciates when funds exit",
-      "B": "INR appreciates when funds enter",
-      "C": "No effect",
-      "D": "Leads to RBI intervention"
-    },
-    "answer": ["A","B","D"]
-  },
-  {
-    "id": 20,
-    "question": "जब रुपया कमजोर हुआ, तो भारत ने कौन-से मुख्य कदम उठाए? / When rupee depreciated, what major steps did India take?",
-    "options": {
-      "A": "Interest rate hikes",
-      "B": "Selling forex",
-      "C": "Capital controls",
-      "D": "Debt moratorium"
-    },
-    "answer": ["A","B"]
-  },
-  {
-    "id": 21,
-    "question": "2024-25 में भारत के कुल व्यापार (exports + imports) का GDP के अनुपात (trade-to-GDP ratio) लगभग कितना था? / What was India’s trade-to-GDP ratio around 2024-25?",
-    "options": {
-      "A": "≈ 15 %",
-      "B": "≈ 25 %",
-      "C": "≈ 40 %",
-      "D": "≈ 60 %"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 22,
-    "question": "BoP में ‘Financial Account’ में क्या शामिल है? / What is included in the ‘Financial Account’ of BoP?",
-    "options": {
-      "A": "FDI",
-      "B": "FPI",
-      "C": "IMF loans",
-      "D": "Worker remittances"
-    },
-    "answer": ["A","B","C"]
-  },
-  {
-    "id": 23,
-    "question": "RBI की currency intervention का उद्देश्य क्या हो सकता है? / What might be the objective of RBI’s currency intervention?",
-    "options": {
-      "A": "Rupee stabilize करना",
-      "B": "Inflation control",
-      "C": "Gold price बढ़ाना",
-      "D": "Exports discourage करना"
-    },
-    "answer": ["A","B"]
-  },
-  {
-    "id": 24,
-    "question": "IMF quota reform का मकसद क्या है? / What is the purpose of IMF quota reforms?",
-    "options": {
-      "A": "Voting power adjust करना",
-      "B": "SDR allocation बढ़ाना",
-      "C": "Membership restrict करना",
-      "D": "Capital Controls लगाना"
-    },
-    "answer": ["A","B"]
-  },
-  {
-    "id": 25,
-    "question": "2024-25 में SDRs में भारत का हिस्सा कैसे था? / What was India's share in SDRs during 2024-25?",
-    "options": {
-      "A": "≈ 3.5 billion SDR",
-      "B": "≈ 13 billion SDR",
-      "C": "≈ 10 billion SDR",
-      "D": "≈ 20 billion SDR"
+      "A": "18",
+      "B": "10",
+      "C": "25",
+      "D": "5"
     },
     "answer": ["A"]
   },
   {
-    "id": 26,
-    "question": "Imbalance of Payments को कैसे finance किया जाता है? / How is an imbalance of payments financed?",
+    "id": 19,
+    "question": "निम्न में से कौन-से मेले/उत्सव उत्तर प्रदेश की लोक-संस्कृति का हिस्सा हैं? / Which of the following fairs/festivals are part of UP's folk culture?",
     "options": {
-      "A": "Foreign reserves से",
-      "B": "IMF के loans से",
-      "C": "External aid से",
-      "D": "Domestic borrowing से"
+      "A": "कुम्भ मेला (Kumbh Mela)",
+      "B": "तुलसी मेला (Tulsi Fair)",
+      "C": "बनारस संगीत समारोह (Banaras Music Festival - contemporary)",
+      "D": "गोवा कार्निवल (Goa Carnival)"
     },
-    "answer": ["A","B"]
+    "answer": ["A","B","C"]
+  },
+  {
+    "id": 20,
+    "question": "उत्तर प्रदेश में सनातन और इस्लामी संस्कृति के सम्मिश्रण का ऐतिहासिक उदाहरण किस शहर के दरबार/साम्राज्य से जुड़ा माना जाता है? / Which city's court/kingdom is historically seen as an example of syncretism of Hindu and Islamic cultures in UP?",
+    "options": {
+      "A": "लखनउ/आवध (Lucknow/Awadh)",
+      "B": "मेरठ (Meerut)",
+      "C": "झांसी (Jhansi)",
+      "D": "सहारनपुर (Saharanpur)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 21,
+    "question": "निम्न में से कौन-सा उद्योग पारंपरिक रूप से फ़िरोज़ाबाद शहर में विकसित हुआ है? / Which industry is traditionally associated with Firozabad city?",
+    "options": {
+      "A": "काँच निर्माता उद्योग (Glass manufacturing)",
+      "B": "रेशमी वस्त्र (Silk textiles)",
+      "C": "रेलवे निर्माण (Railway manufacturing)",
+      "D": "फर्नीचर (Furniture)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 22,
+    "question": "2024–25 के आसपास, उत्तर प्रदेश की GSDP (approx.) किस रेंज में रिपोर्ट की गई थी? / Around 2024–25, Uttar Pradesh's GSDP was reported approximately in which range?",
+    "options": {
+      "A": "₹5–7 lakh crore",
+      "B": "₹15–18 lakh crore",
+      "C": "₹25–30 lakh crore",
+      "D": "₹50–60 lakh crore"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 23,
+    "question": "निम्न में से कौन-सा पारंपरिक व्यंजन/खाद्य (food item) वाराणसी/बनारस से प्रचलित है और GI/परंपरागत पहचान से जुड़ सकता है? / Which traditional food item is associated with Varanasi/Banaras and linked to regional identity?",
+    "options": {
+      "A": "बनारसी पान (Banarasi paan)",
+      "B": "सोन पापड़ी (Son Papdi)",
+      "C": "डोसा (Dosa)",
+      "D": "इडली (Idli)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 24,
+    "question": "उत्तर प्रदेश का कौन-सा क्षेत्र खनिज और पत्थर (stone/brick) उत्पादन के लिए जाना जाता है? / Which UP region is known for minerals and stone/brick production?",
+    "options": {
+      "A": "बुंदेलखंड (Bundelkhand)",
+      "B": "अवध (Awadh)",
+      "C": "चित्रकूट (Chitrakoot)",
+      "D": "हरदोई (Hardoi)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 25,
+    "question": "निम्न में से कौन-सी बैंकिंग/वित्तीय मापदंड राज्य की अर्थव्यवस्था का सीधे संकेत देती है (state-level fiscal health)? / Which of the following fiscal indicators directly signal state-level fiscal health?",
+    "options": {
+      "A": "Revenue Receipts (राजस्व प्राप्तियाँ)",
+      "B": "Fiscal Deficit as % of GSDP",
+      "C": "Capital Outlay/Expenditure",
+      "D": "Number of tourist sites"
+    },
+    "answer": ["A","B","C"]
+  },
+  {
+    "id": 26,
+    "question": "निम्न में से कौन-सा लोकनृत्य/फोक गीत मानसून या कृषि-संबंधी पर्वों से जुड़ा माना जा सकता है? / Which folk dance/folk song is often associated with monsoon or agrarian festivals?",
+    "options": {
+      "A": "कजरी (Kajri)",
+      "B": "भांगड़ा (Bhangra)",
+      "C": "केरवा (Kerwa)",
+      "D": "रासलीला (Raslila)"
+    },
+    "answer": ["A","D"]
   },
   {
     "id": 27,
-    "question": "WTO में bound tariffs क्या होते हैं? / What are bound tariffs in WTO?",
+    "question": "निम्न में से कौन-सा शहरी/प्रादेशिक विकास प्रकल्प (infrastructure) UP में 2020s में चर्चा में रहा? / Which infrastructure project has been much discussed in UP during the 2020s?",
     "options": {
-      "A": "Ceiling tariffs set internationally",
-      "B": "Variable domestic rates",
-      "C": "Unilateral tariff cuts",
-      "D": "Tariff-free zones"
+      "A": "Ganga Expressway",
+      "B": "Kolkata Metro Phase 2",
+      "C": "Mumbai–Pune Expressway",
+      "D": "Kochi Port expansion"
     },
     "answer": ["A"]
   },
   {
     "id": 28,
-    "question": "IMF conditionality में कौन-से तत्व हो सकते हैं? / Which elements could be part of IMF conditionality?",
+    "question": "कौन-सा नृत्य रूप पारंपरिक रूप से ब्रज/अगले क्षेत्रों में रास-लीला (Rasa-Lila) के साथ जुड़ा है? / Which dance form is traditionally connected with Rasa-Lila in Braj and adjacent areas?",
     "options": {
-      "A": "Fiscal consolidation",
-      "B": "Monetary tightening",
-      "C": "Structural reforms",
-      "D": "Subsidy expansion"
-    },
-    "answer": ["A","B","C"]
-  },
-  {
-    "id": 29,
-    "question": "BoP में ‘Official Reserve Transactions’ क्या होते हैं? / What are ‘Official Reserve Transactions’ in BoP?",
-    "options": {
-      "A": "Central bank के forex reserves operations",
-      "B": "Private sector gold holding",
-      "C": "Capital account transfers",
-      "D": "IMF overdrafts"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 30,
-    "question": "2024-25 में भारत के FPI inflows का अनुमानित स्तर लगभग क्या था? / What was India’s approximate FPI inflow in 2024-25?",
-    "options": {
-      "A": "≈ 20 billion USD",
-      "B": "≈ 35 billion USD",
-      "C": "≈ 50 billion USD",
-      "D": "≈ 80 billion USD"
-    },
-    "answer": ["B","C"]
-  },
-  {
-    "id": 31,
-    "question": "Worker remittances को Balance of Payments में किस भाग में रखा जाता है? / In which part of BoP are worker remittances placed?",
-    "options": {
-      "A": "Current Account (Income transfers)",
-      "B": "Capital Account",
-      "C": "Financial Account",
-      "D": "Errors & Omissions"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 32,
-    "question": "Trade-to-GDP बढ़ने से किसमा पर विपरीत प्रभाव होता है? / A rising trade-to-GDP ratio most directly suggests:",
-    "options": {
-      "A": "Economic openness",
-      "B": "Domestic consumption πλήρως",
-      "C": "Low export competitiveness",
-      "D": "Higher protectionism"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 33,
-    "question": "Rupee में तेज depreciation से RBI को क्या करना पड़ सकता है? / Rapid rupee depreciation might force the RBI to:",
-    "options": {
-      "A": "Sell forex reserves",
-      "B": "Raise interest rates",
-      "C": "Introduce capital controls",
-      "D": "Lower import duties"
+      "A": "रासलीला (Raslila)",
+      "B": "कथक (Kathak)",
+      "C": "कूचीपुड़ी (Kuchipudi)",
+      "D": "गोटा (Gota)"
     },
     "answer": ["A","B"]
   },
   {
-    "id": 34,
-    "question": "IMF का Special Drawing Rights (SDR) सबसे पहले कब शुरू हुआ था? / When was SDR first introduced by the IMF?",
+    "id": 29,
+    "question": "UP के किस जिले को 'हाथकला' या बांस/काष्ठशिल्प के लिए जाना जाता है (typical craft cluster)? / Which district of UP is known as a cluster for handcrafts or bamboo/woodcraft?",
     "options": {
-      "A": "1969",
-      "B": "1979",
-      "C": "1989",
-      "D": "1999"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 35,
-    "question": "WTO appellate body vacancy status 2025 में कैसा था? / What was the WTO Appellate Body vacancy status in 2025?",
-    "options": {
-      "A": "Fully staffed",
-      "B": "Partially vacant",
-      "C": "Completely non-functional",
-      "D": "Under reform"
-    },
-    "answer": ["C","B"]
-  },
-  {
-    "id": 36,
-    "question": "India ने अपने BoP deficit को 2024-25 में कैसे cover किया? / How did India cover its BoP deficit in 2024-25?",
-    "options": {
-      "A": "Forex reserves से",
-      "B": "IMF facilities से",
-      "C": "Sovereign bond issuance से",
-      "D": "Multilateral aid से"
-    },
-    "answer": ["A","C"]
-  },
-  {
-    "id": 37,
-    "question": "IMF loans पर मुख्य रूप से क्या शर्तें होती हैं? / What are primarily the conditions on IMF loans?",
-    "options": {
-      "A": "Fiscal discipline",
-      "B": "Interest rate capping",
-      "C": "Trade liberalization",
-      "D": "Public sector wage increase"
-    },
-    "answer": ["A","C"]
-  },
-  {
-    "id": 38,
-    "question": "FPI में अचानक outflow से क्या बढ़ सकता है? / What can sudden FPI outflow increase?",
-    "options": {
-      "A": "Exchange rate volatility",
-      "B": "Bond yields",
-      "C": "Capital controls",
-      "D": "Investor confidence"
+      "A": "भदोही (Bhadohi) — known for carpets",
+      "B": "आमरोहा (Amroha) — known for musical instruments/dholak",
+      "C": "मथुरा (Mathura)",
+      "D": "वाराणसी (Varanasi)"
     },
     "answer": ["A","B","D"]
   },
   {
-    "id": 39,
-    "question": "BoP का financial account और capital account में अंतर क्या है? / What is the difference between financial and capital account in BoP?",
+    "id": 30,
+    "question": "राज्य बजट में 'Capital Outlay' का सामान्यतः क्या उद्देश्य होता है? / What is the usual purpose of 'Capital Outlay' in a state budget?",
     "options": {
-      "A": "Financial includes FDI/FPI, Capital includes grants/transfers",
-      "B": "Both same",
-      "C": "Capital is subset of financial",
-      "D": "Financial tracks goods/services"
+      "A": "दीर्घकालिक आधारभूत संरचना निवेश (Long-term infrastructure investment)",
+      "B": "वेतन भुगतान (Salary payments)",
+      "C": "चालू सब्सिडी (Recurring subsidies only)",
+      "D": "कर दरें तय करना (Setting tax rates)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 31,
+    "question": "निम्न में से कौन-सी फसल UP में एक प्रमुख निर्यात-योग्य (exportable) हाइब्रिड/विशेष फसल मानी जा सकती है (GI-linked varieties सहित)? / Which is a major exportable/regionally-special crop in UP (including GI-linked varieties)?",
+    "options": {
+      "A": "दुबेहरी आम (Dussehri Mango — exportable variety)",
+      "B": "केसर केसर (Kashmiri Saffron)",
+      "C": "अलू (Potato)",
+      "D": "केरला नारियल (Kerala Coconut)"
+    },
+    "answer": ["A","C"]
+  },
+  {
+    "id": 32,
+    "question": "निम्न में से कौन-सा सामाजिक संकेतक 'Human Development' का माप करने में उपयोगी है? / Which of the following indicators is useful for measuring Human Development?",
+    "options": {
+      "A": "Literacy Rate",
+      "B": "Per Capita Income alone",
+      "C": "Life Expectancy",
+      "D": "Education & Health access combined"
+    },
+    "answer": ["A","C","D"]
+  },
+  {
+    "id": 33,
+    "question": "उत्तर प्रदेश में प्रमुख लोक-नाटक का पारंपरिक रूप कौन सा है जो ग्रामीण कहानियों और संगीत के साथ जुड़ा है? / Which traditional folk theatre form in UP is linked with rural stories and music?",
+    "options": {
+      "A": "नौटंकी (Nautanki)",
+      "B": "फन्नी नाटक (Funny Theatre)",
+      "C": "इलेक्ट्रॉनिक थिएटर (Electronic Theatre)",
+      "D": "रैप थिएटर (Rap Theatre)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 34,
+    "question": "किस वर्ष की जनगणना UP की आख़िरी आधिकारिक पूर्ण जनगणना (Census) है जिसका परंपरागत रूप से उपयोग होता है (before any extrapolations)? / Which year’s census is the last full official Census commonly used for UP baseline?",
+    "options": {
+      "A": "2001",
+      "B": "2011",
+      "C": "2021 (complete)",
+      "D": "1991"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 35,
+    "question": "निम्न में से कौन-सा पोर्टफोलियो राज्य-स्तरीय विकास योजनाओं (state development schemes) में अक्सर देखा जाता है? / Which portfolio is commonly present in state-level development schemes?",
+    "options": {
+      "A": "कृषि और सिचाई (Agriculture & Irrigation)",
+      "B": "स्वास्थ्य (Health)",
+      "C": "शिक्षा (Education)",
+      "D": "स्पेस-टेक (Space-tech launchpads)"
+    },
+    "answer": ["A","B","C"]
+  },
+  {
+    "id": 36,
+    "question": "निम्न में से कौन-सा UP का पारंपरिक हथकरघा/वस्त्र-उत्पादन केंद्र माना जाता है? / Which of the following is a traditional handloom/ textile production centre in UP?",
+    "options": {
+      "A": "भदोही (Bhadohi) — Carpets",
+      "B": "बनारस (Banaras) — Banarasi saris",
+      "C": "मोहन (Mohan) — fictional",
+      "D": "केरल (Kerala) — not in UP"
+    },
+    "answer": ["A","B"]
+  },
+  {
+    "id": 37,
+    "question": "निम्न में से किस योजना का उद्देश्य स्वास्थ्य बीमा/स्वास्थ्य कवरेज को बढ़ाना है और इसे केन्द्र/राज्य स्तर पर लागू किया जाता है? / Which scheme aims at expanding health insurance/coverage (implemented at central/state levels)?",
+    "options": {
+      "A": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+      "B": "Pradhan Mantri Awas Yojana (PMAY)",
+      "C": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+      "D": "National Pension Scheme (NPS)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 38,
+    "question": "निम्न में से कौन-सा UP में परंपरागत रूप से मशहूर मेला है जो तीर्थयात्रा/धार्मिक परंपराओं से जुड़ा है? / Which of the following fairs in UP is traditionally connected to pilgrimage/religious traditions?",
+    "options": {
+      "A": "कुंभ (Kumbh)",
+      "B": "घाट उत्सव (Ghat festivals)",
+      "C": "मकर संक्रांति मेले (Makar Sankranti fairs)",
+      "D": "फोकस-कॉन्क्लेव (Focus-Conclave)"
+    },
+    "answer": ["A","B","C"]
+  },
+  {
+    "id": 39,
+    "question": "निम्न में से कौन-सा शहर संस्‍कृति, कला (chikan), और शिल्प के कारण 'लखनऊ' का योगदान दर्शाता है? / Which of the following is associated with Lucknow's contribution to culture and crafts?",
+    "options": {
+      "A": "चिकन कढ़ाई (Chikan embroidery)",
+      "B": "बनारसी पत्थर (Banarasi stone)",
+      "C": "फ़िरोज़ाबाद शीशा (Firozabad glass)",
+      "D": "हाथी प्रतिमा (Elephant statues)"
     },
     "answer": ["A"]
   },
   {
     "id": 40,
-    "question": "India के BoP में Net Factor Income from Abroad (NFIA) का क्या योगदान होता है? / What does NFIA contribute to India’s BoP?",
+    "question": "UP के कौन-से जिले में पारंपरिक रूप से 'दुबेहरी / Dussehri' आम की किस्म प्रसिद्ध है? / In which district is the Dussehri mango variety traditionally famous?",
     "options": {
-      "A": "Income receipts minus payments to foreign factors",
-      "B": "Capital inflows",
-      "C": "Remittances only",
-      "D": "Errors & Omissions adjustment"
+      "A": "बुलंदशहर (Bulandshahr)",
+      "B": "लखनऊ (Lucknow)",
+      "C": "मुजफ्फरनगर (Muzaffarnagar)",
+      "D": "अल्मोड़ा (Almora)"
     },
     "answer": ["A"]
   },
   {
     "id": 41,
-    "question": "2024-25 में भारत की गरीबी रेखा निर्धारण के लिए मुख्य मानदंड क्या है? / What is the main criterion for poverty line determination in India (2024-25)?",
+    "question": "निम्न में से कौन-सा आर्थिक संकेतक राज्य की कृषि-उत्पादन क्षमता का सटीक संकेत दे सकता है? / Which indicator best reflects a state's agricultural production capacity?",
     "options": {
-      "A": "आय स्तर (Income level)",
-      "B": "खपत व्यय (Consumption expenditure)",
-      "C": "शिक्षा स्तर (Education level)",
-      "D": "रोजगार के दिन (Number of employment days)"
+      "A": "Area under cultivation (कृषि क्षेत्रफल)",
+      "B": "Per hectare productivity (उत्पादकता)",
+      "C": "Total production (कुल उत्पादन)",
+      "D": "All of the above"
     },
-    "answer": ["A", "B"]
+    "answer": ["D"]
   },
   {
     "id": 42,
-    "question": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम (MGNREGA) 2024-25 में न्यूनतम मजदूरी क्या है? / What is the minimum wage under MGNREGA in 2024-25?",
+    "question": "UP में प्रमुख धार्मिक पर्यटन से जुड़ी अर्थव्यवस्था किस शहर से प्रमुखता से जुड़ी है? / Which city in UP is prominently linked with religious tourism economy?",
     "options": {
-      "A": "₹238 प्रति दिन",
-      "B": "₹280 प्रति दिन",
-      "C": "₹312 प्रति दिन",
-      "D": "राज्य अनुसार अलग-अलग (Varies by state)"
+      "A": "वाराणसी (Varanasi)",
+      "B": "इलाहाबाद/प्रयागराज (Prayagraj)",
+      "C": "अयोध्या (Ayodhya)",
+      "D": "सभी उपर्युक्त (All of the above)"
     },
     "answer": ["D"]
   },
   {
     "id": 43,
-    "question": "भारत सरकार की कौन-सी योजना गरीबी उन्मूलन के लिए प्रत्यक्ष लाभ अंतरण (DBT) पर आधारित है? / Which Government scheme for poverty alleviation is based on Direct Benefit Transfer (DBT)?",
+    "question": "निम्न में से कौन-सा उद्योग-समूह सूक्ष्म, लघु और मध्यम उद्योंग (MSMEs) के तहत UP में व्यापक है? / Which industry group among MSMEs is widespread in UP?",
     "options": {
-      "A": "प्रधान मंत्री जन धन योजना (PMJDY)",
-      "B": "प्रधान मंत्री उज्ज्वला योजना (PMUY)",
-      "C": "प्रधान मंत्री किसान सम्मान निधि (PM-KISAN)",
-      "D": "प्रधान मंत्री ग्राम सड़क योजना (PMGSY)"
+      "A": "हैंडलूम / टेक्सटाइल (Handloom/Textiles)",
+      "B": "कन्फेक्शनरी (Confectionery)",
+      "C": "ऑटो-इंडस्ट्री (Auto industry)",
+      "D": "शिप-बिल्डिंग (Shipbuilding)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A","B"]
   },
   {
     "id": 44,
-    "question": "निम्न में से कौन-सी बेरोजगारी के प्रकार हैं? / Which of the following are types of unemployment?",
+    "question": "किसे प्रशासनिक रूप से 'Division' का प्रमुख (administrative head) कहा जाता है? / Who is typically the administrative head of a Division in UP?",
     "options": {
-      "A": "खुली बेरोजगारी (Open Unemployment)",
-      "B": "आवृत्त बेरोजगारी (Seasonal Unemployment)",
-      "C": "गुप्त बेरोजगारी (Disguised Unemployment)",
-      "D": "पूर्ण रोजगार (Full Employment)"
+      "A": "Divisional Commissioner",
+      "B": "District Magistrate",
+      "C": "Chief Minister",
+      "D": "Village Pradhan"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 45,
-    "question": "2024 में भारत का बेरोजगारी दर (Periodic Labour Force Survey के अनुसार) लगभग कितना है? / Approximate unemployment rate of India in 2024 as per PLFS?",
+    "question": "निम्न में से कौन-सा लोक-उत्पादन (craft) बनारस/वाराणसी में विख्यात है? / Which craft is famed in Banaras/Varanasi?",
     "options": {
-      "A": "3.1%",
-      "B": "4.2%",
-      "C": "5.5%",
-      "D": "6.8%"
+      "A": "बनारसी साड़ी (Banarasi sari weaving)",
+      "B": "ब्लू-पॉटरी (Blue pottery)",
+      "C": "ब्रास वर्क (Brass work)",
+      "D": "चीनी मिट्टी के बर्तन (Porcelain pottery)"
     },
-    "answer": ["B"]
+    "answer": ["A","C"]
   },
   {
     "id": 46,
-    "question": "मानव विकास सूचकांक (HDI) की गणना में कौन-से घटक शामिल हैं? / Which components are included in HDI calculation?",
+    "question": "निम्न में से कौन-सा सामाजिक/आर्थिक आँकड़ा 2023–24/2024–25 संदर्भ में अक्सर नीति-निर्धारण के लिए उपयोग होता है? / Which socio-economic statistic is commonly used for policy-making for 2023–24/24–25 references?",
     "options": {
-      "A": "आय (Income)",
-      "B": "शिक्षा (Education)",
-      "C": "स्वास्थ्य (Health)",
-      "D": "पर्यावरण (Environment)"
+      "A": "Per capita income",
+      "B": "Unemployment rate (PLFS)",
+      "C": "Poverty headcount ratio",
+      "D": "All of the above"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["D"]
   },
   {
     "id": 47,
-    "question": "2024 में भारत का HDI रैंक क्या है? / What is India's HDI rank in 2024?",
+    "question": "किसे UP के इतिहास में 'नवाबी संगीत-संस्कृति' के प्रेरक के रूप में देखा जाता है? / Who is seen as an inspirer of Nawabi musical culture in UP's history?",
     "options": {
-      "A": "129",
-      "B": "134",
-      "C": "132",
-      "D": "138"
+      "A": "वाजिद अली शाह (Wajid Ali Shah)",
+      "B": "सम्राट अशोक (Emperor Ashoka)",
+      "C": "शिवाजी (Shivaji)",
+      "D": "वल्लभभाई पटेल (Vallabhbhai Patel)"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 48,
-    "question": "राष्ट्रीय शिक्षा नीति 2020 के अंतर्गत कौन-से प्रमुख प्रावधान हैं? / Which are the major provisions under National Education Policy 2020?",
+    "question": "राज्य के बजट 'Budget at a Glance' में किस प्रकार की जानकारियाँ सामान्यतः मिलती हैं? / What type of information is typically found in 'Budget at a Glance'?",
     "options": {
-      "A": "5+3+3+4 पाठ्यक्रम संरचना",
-      "B": "मातृभाषा में शिक्षा",
-      "C": "शोध और नवाचार को बढ़ावा",
-      "D": "10+2 संरचना को स्थायी रखना"
+      "A": "Revenue and Expenditure summaries",
+      "B": "Major scheme allocations",
+      "C": "Fiscal indicators like deficit/GSDP",
+      "D": "All of the above"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["D"]
   },
   {
     "id": 49,
-    "question": "आयुष्मान भारत योजना के तहत प्रत्येक परिवार को कितनी स्वास्थ्य बीमा राशि दी जाती है? / What is the health insurance cover per family under Ayushman Bharat Scheme?",
+    "question": "किस नदी को उत्तर प्रदेश का सबसे प्रमुख नदियों में से एक माना जाता है और यह राज्य की कृषि और संस्कृति दोनों में केन्द्रीय भूमिका निभाती है? / Which river is among the most prominent in UP, central to both agriculture and culture?",
     "options": {
-      "A": "₹3 लाख",
-      "B": "₹5 लाख",
-      "C": "₹7 लाख",
-      "D": "₹10 लाख"
+      "A": "गंगा (Ganga)",
+      "B": "गोदावरी (Godavari)",
+      "C": "कृष्णा (Krishna)",
+      "D": "नर्मदा (Narmada)"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 50,
-    "question": "प्रधान मंत्री मातृ वंदना योजना का उद्देश्य क्या है? / What is the objective of PM Matru Vandana Yojana?",
+    "question": "निम्न में से कौन-सा पारंपरिक लोक नाट्य/नाटक UP के ग्रामीण क्षेत्रों में मनोरंजन और सामाजिक संदेश दोनों का माध्यम रहा है? / Which traditional folk theatre in UP has served as entertainment and a medium for social messages in villages?",
     "options": {
-      "A": "गर्भवती और स्तनपान कराने वाली माताओं को वित्तीय सहायता",
-      "B": "नवजात शिशुओं के लिए मुफ्त शिक्षा",
-      "C": "महिलाओं के रोजगार के अवसर बढ़ाना",
-      "D": "ग्रामीण स्वास्थ्य केंद्र बनाना"
+      "A": "नौटंकी (Nautanki)",
+      "B": "बोलचाल नाटक (Contemporary street plays only)",
+      "C": "कोरल ओपेरा (Coral Opera)",
+      "D": "सैटेलाइट शो (Satellite show)"
     },
     "answer": ["A"]
   },
   {
     "id": 51,
-    "question": "गरीबी उन्मूलन के लिए राष्ट्रीय ग्रामीण आजीविका मिशन (NRLM) के प्रमुख घटक कौन-से हैं? / Which are the major components of NRLM?",
+    "question": "किस पहल/योजना का लक्ष्य गांवों में सड़क संपर्क (rural road connectivity) मजबूत करना था? / Which scheme aimed to strengthen rural road connectivity?",
     "options": {
-      "A": "स्वयं सहायता समूह (SHGs)",
-      "B": "कौशल विकास प्रशिक्षण",
-      "C": "सूक्ष्म वित्तीय सहायता",
-      "D": "राष्ट्रीय खाद्य सुरक्षा"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 52,
-    "question": "निम्न में से कौन-सी बेरोजगारी ग्रामीण भारत में अधिक पाई जाती है? / Which type of unemployment is more prevalent in rural India?",
-    "options": {
-      "A": "खुली बेरोजगारी",
-      "B": "गुप्त बेरोजगारी",
-      "C": "चक्रवर्ती बेरोजगारी",
-      "D": "मौसमी बेरोजगारी"
-    },
-    "answer": ["B", "D"]
-  },
-  {
-    "id": 53,
-    "question": "भारत सरकार की कौन-सी योजना उच्च शिक्षा में ऋण पर ब्याज सब्सिडी प्रदान करती है? / Which scheme provides interest subsidy on education loans in higher education?",
-    "options": {
-      "A": "विद्या लक्ष्मी योजना",
-      "B": "पढ़ो परदेश योजना",
-      "C": "प्रधान मंत्री शिक्षा ऋण योजना",
-      "D": "राष्ट्रीय उच्च शिक्षा अभियान"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 54,
-    "question": "2024 में भारत का जीवन प्रत्याशा (Life Expectancy) लगभग कितना है? / What is India’s life expectancy in 2024?",
-    "options": {
-      "A": "68 वर्ष",
-      "B": "70 वर्ष",
-      "C": "71.5 वर्ष",
-      "D": "73 वर्ष"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 55,
-    "question": "प्रधान मंत्री गरीब कल्याण अन्न योजना (PMGKAY) के तहत प्रति व्यक्ति मुफ्त अनाज वितरण की मात्रा क्या है? / What is the per person free grain distribution under PMGKAY?",
-    "options": {
-      "A": "3 किग्रा",
-      "B": "5 किग्रा",
-      "C": "7 किग्रा",
-      "D": "10 किग्रा"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 56,
-    "question": "मानव पूंजी निर्माण में शिक्षा और स्वास्थ्य के अलावा कौन-सा कारक महत्वपूर्ण है? / Apart from education and health, which factor is important in human capital formation?",
-    "options": {
-      "A": "प्रवासन (Migration)",
-      "B": "प्रशिक्षण (Training)",
-      "C": "बचत (Savings)",
-      "D": "पर्यटन (Tourism)"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 57,
-    "question": "भारत सरकार की कौन-सी योजना विशेष रूप से वरिष्ठ नागरिकों के कल्याण के लिए है? / Which scheme is specifically for the welfare of senior citizens?",
-    "options": {
-      "A": "राष्ट्रीय वयोश्री योजना",
-      "B": "प्रधान मंत्री श्रम योगी मानधन योजना",
-      "C": "आयुष्मान भारत",
-      "D": "राष्ट्रीय ग्रामीण स्वास्थ्य मिशन"
+      "A": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+      "B": "Smart Cities Mission",
+      "C": "Make in India",
+      "D": "Atmanirbhar Bharat"
     },
     "answer": ["A"]
   },
   {
-    "id": 58,
-    "question": "निम्न में से कौन-सा मापदंड बहुआयामी गरीबी सूचकांक (MPI) में शामिल है? / Which of the following indicators are included in Multidimensional Poverty Index (MPI)?",
+    "id": 52,
+    "question": "निम्न में से कौन-सा कथक का एक विशिष्ट पहलू है? / Which is a distinct aspect of Kathak?",
     "options": {
-      "A": "स्वास्थ्य (Health)",
-      "B": "शिक्षा (Education)",
-      "C": "जीवन स्तर (Living Standards)",
-      "D": "राजनीतिक भागीदारी (Political Participation)"
+      "A": "Footwork and spins (tatkar & chakkars)",
+      "B": "Use of heavy ankle bells in Bharatanatyam only",
+      "C": "Masked performance always",
+      "D": "Performed only by men"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
+  },
+  {
+    "id": 53,
+    "question": "UP के किस जिलें में काठ/दोलक जैसे पारंपरिक वाद्य-उत्पादन/कला के लिए स्थानीय पहचान रही है? / Which district in UP is known for traditional instrument-making like dholak?",
+    "options": {
+      "A": "आमरोहा (Amroha)",
+      "B": "अगरा (Agra)",
+      "C": "वाराणसी (Varanasi)",
+      "D": "फिरोज़ाबाद (Firozabad)"
+    },
+    "answer": ["A","C"]
+  },
+  {
+    "id": 54,
+    "question": "किसे UP में 'हेटीला/हाट' (periodic markets) का अर्थशास्त्र स्थानीय कृषि व्यापार से जोड़ा जाता है? / Periodic markets (hats) in UP primarily link to which economic activity?",
+    "options": {
+      "A": "Local agricultural trade",
+      "B": "Space technology sales",
+      "C": "Maritime shipping",
+      "D": "None of the above"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 55,
+    "question": "निम्न में से कौन-सा कृषि-सम्बन्धी सूचक 2023–24 में UP के लिए रिपोर्टेड था (जैसे high production districts, sugarcane stats)? / Which agricultural-related statistic was reported for UP in 2023–24?",
+    "options": {
+      "A": "Sugarcane production remained one of the highest among states",
+      "B": "UP stopped all paddy cultivation",
+      "C": "No wheat was produced",
+      "D": "All produced crops were exported fully"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 56,
+    "question": "UP में पारंपरिक रूप से कौन-सी धार्मिक/सांस्कृतिक विरासत शहर 'अयोध्या' से जुड़ी है? / Which cultural heritage is Ayodhya traditionally associated with?",
+    "options": {
+      "A": "रामायणिक परंपरा (Ramayana tradition)",
+      "B": "कुबेर मठ (Kuber Math)",
+      "C": "बुद्ध की प्रज्ञा (Buddhist Enlightenment)",
+      "D": "सिख गुरुओं की जन्मस्थली"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 57,
+    "question": "राज्य-स्तरीय बजट में 'Revenue Receipts' अक्सर किन स्रोतों से आते हैं? / State Budget 'Revenue Receipts' typically come from which sources?",
+    "options": {
+      "A": "Tax revenue (GST share, state taxes)",
+      "B": "Non-tax revenue (fees, fines)",
+      "C": "Central transfers & grants",
+      "D": "All of the above"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 58,
+    "question": "निम्न में से कौन-सा उत्तर प्रदेश के पारंपरिक संगीत या नृत्य से जुड़ा शो-आयटम है जिसे कोर्ट/दरबारों में लोकप्रियता मिली थी? / Which performance item gained popularity in courts (darbars) of UP’s past?",
+    "options": {
+      "A": "Kathak recital and storytelling with music",
+      "B": "Carnatic vocal only (South India)",
+      "C": "Kabuki theatre (Japan)",
+      "D": "Reggae concerts"
+    },
+    "answer": ["A"]
   },
   {
     "id": 59,
-    "question": "2024 में बहुआयामी गरीबी सूचकांक (MPI) में भारत का स्थान क्या है? / What is India’s rank in MPI 2024?",
+    "question": "निम्न में से कौन-सा UP के पर्यटन अर्थव्यवस्था के लिए महत्वपूर्ण है? / Which of the following is important for UP’s tourism economy?",
     "options": {
-      "A": "56",
-      "B": "62",
-      "C": "66",
-      "D": "70"
+      "A": "Religious circuits (Varanasi, Ayodhya, Prayagraj)",
+      "B": "Heritage monuments (Taj Mahal, Agra Fort)",
+      "C": "Cultural festivals (Dev Deepawali, Kumbh)",
+      "D": "All of the above"
     },
-    "answer": ["B"]
+    "answer": ["D"]
   },
   {
     "id": 60,
-    "question": "राष्ट्रीय पोषण मिशन (POSHAN Abhiyaan) का मुख्य उद्देश्य क्या है? / What is the main objective of National Nutrition Mission (POSHAN Abhiyaan)?",
+    "question": "UP में GI-tagged handicrafts और कृषि उत्पादों का उद्देश्य क्या होता है? / What is the purpose of GI-tagging handicrafts and agricultural products in UP?",
     "options": {
-      "A": "कुपोषण दर घटाना",
-      "B": "कृषि उत्पादकता बढ़ाना",
-      "C": "शिशु मृत्यु दर घटाना",
-      "D": "मातृ स्वास्थ्य सुधारना"
+      "A": "To protect regional origin and promote producers",
+      "B": "To ban sale outside the region",
+      "C": "To privatize all traditional knowledge",
+      "D": "To make them illegal for export"
     },
-    "answer": ["A", "C", "D"]
+    "answer": ["A"]
   }
 ]
