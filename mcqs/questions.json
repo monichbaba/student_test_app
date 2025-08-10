@@ -1,443 +1,662 @@
 [
   {
     "id": 1,
-    "question": "भारत की अर्थव्यवस्था के कौन-कौन से मुख्य विशेषताएँ हैं? / What are the main features of Indian Economy?",
+    "question": "Balance of Payments में ‘Capital Account’ में क्या शामिल होता है? / What is included in the ‘Capital Account’ of BoP?",
     "options": {
-      "A": "कृषि प्रधान अर्थव्यवस्था (Agriculture-based Economy)",
-      "B": "उद्योग प्रधान अर्थव्यवस्था (Industry-based Economy)",
-      "C": "सेवा क्षेत्र का बढ़ता योगदान (Growing Service Sector)",
-      "D": "निर्यात पर पूर्ण निर्भरता (Complete Dependence on Exports)"
+      "A": "FDI",
+      "B": "External Commercial Borrowings (ECBs)",
+      "C": "Current transfers",
+      "D": "Portfolio investment"
     },
-    "answer": ["A", "C"]
+    "answer": ["A","B","D"]
   },
   {
     "id": 2,
-    "question": "भारत में आर्थिक योजना का मुख्य उद्देश्य क्या है? / What is the main objective of Economic Planning in India?",
+    "question": "Current Account में निम्न में से क्या शामिल होता है? / Which of the following is part of the Current Account?",
     "options": {
-      "A": "संपूर्ण विकास (Overall Development)",
-      "B": "सामाजिक न्याय (Social Justice)",
-      "C": "आय में असमानता बढ़ाना (Increasing Income Inequality)",
-      "D": "आर्थिक स्थिरता (Economic Stability)"
+      "A": "Exports/imports of goods & services",
+      "B": "Income receipts/payments",
+      "C": "Capital transfers",
+      "D": "FDI inflow"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A","B"]
   },
   {
     "id": 3,
-    "question": "भारत की अर्थव्यवस्था की तीन मुख्य संरचनाएँ कौन-कौन सी हैं? / What are the three main sectors of Indian Economy?",
+    "question": "भारत का चालू खाता घाटा (Current Account Deficit) 2024-25 में लगभग कितना अनुमानित था? / What was India’s estimated current account deficit around 2024-25?",
     "options": {
-      "A": "कृषि (Agriculture)",
-      "B": "औद्योगिक (Industry)",
-      "C": "सेवा (Services)",
-      "D": "पर्यटन (Tourism)"
+      "A": "≈ 0.9 % of GDP",
+      "B": "≈ 1.2 % of GDP",
+      "C": "≈ 2.5 % of GDP",
+      "D": "Surplus"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A","B"]
   },
   {
     "id": 4,
-    "question": "2024-2025 के अनुसार, भारतीय अर्थव्यवस्था में सेवा क्षेत्र का योगदान लगभग कितना है? / Approximate contribution of service sector in Indian economy in 2024-25 is?",
+    "question": "Balance of Payments में ‘Errors & Omissions’ खंड का क्या उद्देश्य होता है? / What is the purpose of ‘Errors & Omissions’ in BoP?",
     "options": {
-      "A": "40%",
-      "B": "55%",
-      "C": "30%",
-      "D": "70%"
+      "A": "Statistical discrepancy adjustment",
+      "B": "Hidden remittances capture",
+      "C": "Trade deficit balancing",
+      "D": "Capital flow smoothing"
     },
-    "answer": ["B"]
+    "answer": ["A","D"]
   },
   {
     "id": 5,
-    "question": "भारत में जनसांख्यिकीय लाभांश (Demographic Dividend) कब माना जाता है? / When is Demographic Dividend considered in India?",
+    "question": "भारतीय मुद्रा (INR) में हाल-फिलहाल कौन-सा रुझान दिखा? / What has been the recent trend in INR?",
     "options": {
-      "A": "जब कार्यशील आयु वर्ग की संख्या अधिक होती है (When working age population is high)",
-      "B": "जब वृद्धों की संख्या अधिक होती है (When elderly population is high)",
-      "C": "जब जन्म दर बहुत अधिक होती है (When birth rate is very high)",
-      "D": "जब मृत्यु दर बहुत कम होती है (When death rate is very low)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 6,
-    "question": "भारत की आर्थिक योजनाओं में पंचवर्षीय योजनाओं की शुरुआत कब हुई थी? / When were the Five-Year Plans started in India?",
-    "options": {
-      "A": "1947",
-      "B": "1951",
-      "C": "1960",
-      "D": "1975"
+      "A": "मजबूत होने की ओर (Appreciating)",
+      "B": "कमज़ोर होने की ओर (Depreciating)",
+      "C": "एक-दो महीने में स्टेबल (Stable)",
+      "D": "प्लैटफ़ॉर्म में (Flat)"
     },
     "answer": ["B"]
   },
   {
-    "id": 7,
-    "question": "निम्न में से कौन-से कारण भारत में जनसांख्यिकीय लाभांश को खतरा पहुंचाते हैं? / Which of the following threaten India's Demographic Dividend?",
+    "id": 6,
+    "question": "2024-25 में भारत में कुल FDI inflow का अनुमानित स्तर कितना था? / What was the approximate total FDI inflow into India in 2024-25?",
     "options": {
-      "A": "बेहतर स्वास्थ्य सुविधाएँ (Improved health facilities)",
-      "B": "बेरोजगारी में वृद्धि (Increase in unemployment)",
-      "C": "शिक्षा की कमी (Lack of education)",
-      "D": "लिंग अनुपात में असंतुलन (Gender imbalance)"
+      "A": "≈ 15 billion USD",
+      "B": "≈ 70 billion USD",
+      "C": "≈ 45 billion USD",
+      "D": "≈ 100 billion USD"
     },
-    "answer": ["B", "C", "D"]
+    "answer": ["C","B"]
+  },
+  {
+    "id": 7,
+    "question": "Foreign Portfolio Investment (FPI) में क्या शामिल है? / What falls under Foreign Portfolio Investment (FPI)?",
+    "options": {
+      "A": "Equity shares",
+      "B": "Government bonds",
+      "C": "Direct acquisition of factory",
+      "D": "Mutual funds"
+    },
+    "answer": ["A","B","D"]
   },
   {
     "id": 8,
-    "question": "भारत की वर्तमान आर्थिक योजना (2024-25) का मुख्य फोकस कौन-से क्षेत्र पर है? / What is the main focus area of India’s current economic plan (2024-25)?",
+    "question": "FDI vs FPI में मुख्य अंतर क्या है? / What is the key difference between FDI and FPI?",
     "options": {
-      "A": "डिजिटल इकोनॉमी (Digital Economy)",
-      "B": "कृषि आधुनिकीकरण (Agricultural Modernization)",
-      "C": "औद्योगिकीकरण (Industrialization)",
-      "D": "पर्यावरण संरक्षण (Environmental Conservation)"
+      "A": "Long-term vs short-term investment",
+      "B": "Equity vs loans",
+      "C": "Control rights vs none",
+      "D": "Domestic vs foreign"
     },
-    "answer": ["A", "B"]
+    "answer": ["A","C"]
   },
   {
     "id": 9,
-    "question": "भारतीय अर्थव्यवस्था में कृषि क्षेत्र की हिस्सेदारी लगभग क्या है 2024 में? / Approximate share of agriculture sector in Indian economy in 2024 is?",
+    "question": "IMF का मुख्य उद्देश्य क्या है? / What is the primary objective of the IMF?",
     "options": {
-      "A": "17%",
-      "B": "25%",
-      "C": "10%",
-      "D": "40%"
+      "A": "Exchange rate stability",
+      "B": "Providing project-based loans",
+      "C": "Balance of Payments support",
+      "D": "Global trade rules"
     },
-    "answer": ["A"]
+    "answer": ["A","C"]
   },
   {
     "id": 10,
-    "question": "भारत में कौन-से संगठन आर्थिक योजना बनाने और निगरानी के लिए जिम्मेदार है? / Which organization is responsible for economic planning and monitoring in India?",
+    "question": "IMF की SDR (Special Drawing Rights) है क्या? / What are IMF’s SDRs?",
     "options": {
-      "A": "निति आयोग (NITI Aayog)",
-      "B": "भारतीय रिजर्व बैंक (RBI)",
-      "C": "वित्त मंत्रालय (Ministry of Finance)",
-      "D": "सेंटर फॉर मॉनिटरिंग इंडियन इकॉनॉमी (CMIE)"
+      "A": "Reserve assets",
+      "B": "Currency basket-based claims",
+      "C": "Gold reserves",
+      "D": "Loans"
     },
-    "answer": ["A"]
+    "answer": ["A","B"]
   },
   {
     "id": 11,
-    "question": "भारत में कृषि क्षेत्र की मुख्य चुनौतियाँ कौन-कौन सी हैं? / What are the major challenges faced by the agriculture sector in India?",
+    "question": "WTO का मुख्य कार्य क्या है? / What is the main role of the WTO?",
     "options": {
-      "A": "भूमि प्रदूषण (Soil Pollution)",
-      "B": "जल संकट (Water Scarcity)",
-      "C": "कृषि उपकरणों की कमी (Lack of Agricultural Equipment)",
-      "D": "कृषि ऋण संकट (Agricultural Debt Crisis)"
+      "A": "Promote free trade",
+      "B": "Set monetary policy",
+      "C": "Resolve trade disputes",
+      "D": "Issue currency"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A","C"]
   },
   {
     "id": 12,
-    "question": "भारत में आर्थिक विकास के लिए 'डेमोग्राफिक डिविडेंड' का अधिकतम लाभ कब मिलता है? / When is the maximum benefit of 'Demographic Dividend' realized in India?",
+    "question": "WTO ट्रेड में ‘Most-Favored-Nation’ (MFN) सिद्धांत क्या कहता है? / What does WTO’s MFN principle state?",
     "options": {
-      "A": "जब युवाओं की संख्या वृद्धों से अधिक हो (When youth population exceeds elderly)",
-      "B": "जब जन्म दर बढ़ती है (When birth rate increases)",
-      "C": "जब वृद्धों की संख्या ज्यादा होती है (When elderly population is high)",
-      "D": "जब कुल जनसंख्या स्थिर हो (When total population is stable)"
+      "A": "Same tariff to all members",
+      "B": "Exclusive trade deals only",
+      "C": "Non-discriminatory trade",
+      "D": "Preferential tariffs only"
     },
-    "answer": ["A"]
+    "answer": ["A","C"]
   },
   {
     "id": 13,
-    "question": "भारत की आर्थिक योजना में निति आयोग (NITI Aayog) की भूमिका क्या है? / What is the role of NITI Aayog in India's economic planning?",
+    "question": "WTO की Dispute Settlement Body (DSB) क्या करती है? / What does the WTO’s DSB do?",
     "options": {
-      "A": "राष्ट्रीय नीतियाँ बनाना (Formulating National Policies)",
-      "B": "वित्तीय बजट बनाना (Preparing Financial Budget)",
-      "C": "राज्यों के बीच समन्वय करना (Coordinating between States)",
-      "D": "वित्तीय बाजारों का संचालन (Regulating Financial Markets)"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 14,
-    "question": "भारत में कृषि की उत्पादकता बढ़ाने के लिए कौन-कौन से उपाय प्रभावी हैं? / Which measures are effective to increase agricultural productivity in India?",
-    "options": {
-      "A": "सिंचाई सुविधाओं का विस्तार (Expansion of Irrigation Facilities)",
-      "B": "उन्नत बीजों का उपयोग (Use of High-Yield Seeds)",
-      "C": "भूमि सुधार (Land Reforms)",
-      "D": "सार्वजनिक वितरण प्रणाली (Public Distribution System)"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 15,
-    "question": "भारत की सेवा क्षेत्र की वृद्धि में निम्नलिखित में से कौन से कारक महत्वपूर्ण हैं? / What factors are important for growth of service sector in India?",
-    "options": {
-      "A": "सूचना प्रौद्योगिकी का विकास (Development of IT)",
-      "B": "विदेशी निवेश (Foreign Investment)",
-      "C": "औद्योगिक उत्पादन (Industrial Production)",
-      "D": "शिक्षा और कौशल विकास (Education and Skill Development)"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 16,
-    "question": "भारत के जनसांख्यिकीय लाभांश का नुकसान करने वाले कौन से सामाजिक मुद्दे हैं? / Which social issues hamper India’s demographic dividend?",
-    "options": {
-      "A": "शिक्षा की कमी (Lack of Education)",
-      "B": "महिला सशक्तिकरण (Women Empowerment)",
-      "C": "स्वास्थ्य सेवाओं की कमी (Poor Healthcare Services)",
-      "D": "युवा बेरोजगारी (Youth Unemployment)"
-    },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 17,
-    "question": "निम्नलिखित में से भारत के आर्थिक विकास के लिए किस योजना का महत्व सबसे अधिक है? / Which plan is most important for India’s economic development?",
-    "options": {
-      "A": "मेक इन इंडिया (Make in India)",
-      "B": "स्वच्छ भारत मिशन (Swachh Bharat Mission)",
-      "C": "जन धन योजना (Jan Dhan Yojana)",
-      "D": "लौह पुरुष योजना (Iron Man Plan)"
+      "A": "Resolve trade conflicts",
+      "B": "Set exchange rates",
+      "C": "Regulate FDI",
+      "D": "Control capital flows"
     },
     "answer": ["A"]
   },
   {
-    "id": 18,
-    "question": "भारत में आर्थिक योजना के दौरान पंचवर्षीय योजनाओं का उद्देश्य क्या था? / What was the objective of Five-Year Plans in India?",
+    "id": 14,
+    "question": "Trade deficit को BoP किस खंड में दिखाया जाता है? / Where is the trade deficit shown in BoP?",
     "options": {
-      "A": "सामाजिक असमानता बढ़ाना (Increase Social Inequality)",
-      "B": "सतत आर्थिक विकास (Sustainable Economic Growth)",
-      "C": "आयात पर निर्भरता बढ़ाना (Increase Import Dependence)",
-      "D": "सरकारी खर्च कम करना (Reduce Government Expenditure)"
+      "A": "Current account",
+      "B": "Capital account",
+      "C": "Financial account",
+      "D": "Errors & Omissions"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 15,
+    "question": "BoP equilibrium का मतलब क्या है? / What does BoP equilibrium mean?",
+    "options": {
+      "A": "Zero current account",
+      "B": "Current account = capital account + errors & omissions",
+      "C": "Full employment",
+      "D": "Budget balance"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 16,
+    "question": "RBI विदेशी मुद्रा भंडार में वृद्धि क्यों करता है? / Why does the RBI increase foreign exchange reserves?",
+    "options": {
+      "A": "Currency stability",
+      "B": "Import cover",
+      "C": "Fund public projects",
+      "D": "Debt repayment"
+    },
+    "answer": ["A","B"]
+  },
+  {
+    "id": 17,
+    "question": "India’s forex reserves 2025 की शुरुआत में लगभग कितनी थीं? / What were India’s forex reserves around the start of 2025?",
+    "options": {
+      "A": "≈ 500 billion USD",
+      "B": "≈ 580 billion USD",
+      "C": "≈ 700 billion USD",
+      "D": "≈ 300 billion USD"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 18,
+    "question": "Net FPI outflow का अर्थ क्या है? / What does net FPI outflow imply?",
+    "options": {
+      "A": "More portfolio investment entering",
+      "B": "More exiting than entering",
+      "C": "FDI growth",
+      "D": "No change"
     },
     "answer": ["B"]
   },
   {
     "id": 19,
-    "question": "2024-2025 में भारत की जीडीपी वृद्धि दर लगभग कितनी रहने का अनुमान है? / What is the estimated GDP growth rate of India in 2024-25?",
+    "question": "FPI volatility का भारत की मुद्रा पर क्या प्रभाव हो सकता है? / How can FPI volatility affect India’s currency?",
     "options": {
-      "A": "6.5%",
-      "B": "7.2%",
-      "C": "5.5%",
-      "D": "8.0%"
+      "A": "INR depreciates when funds exit",
+      "B": "INR appreciates when funds enter",
+      "C": "No effect",
+      "D": "Leads to RBI intervention"
     },
-    "answer": ["B"]
+    "answer": ["A","B","D"]
   },
   {
     "id": 20,
-    "question": "भारतीय अर्थव्यवस्था की संरचना में किस क्षेत्र का योगदान सबसे अधिक है? / Which sector contributes the most in the structure of Indian Economy?",
+    "question": "जब रुपया कमजोर हुआ, तो भारत ने कौन-से मुख्य कदम उठाए? / When rupee depreciated, what major steps did India take?",
     "options": {
-      "A": "कृषि (Agriculture)",
-      "B": "उद्योग (Industry)",
-      "C": "सेवा क्षेत्र (Services)",
-      "D": "खुदरा व्यापार (Retail Trade)"
+      "A": "Interest rate hikes",
+      "B": "Selling forex",
+      "C": "Capital controls",
+      "D": "Debt moratorium"
     },
-    "answer": ["C"]
+    "answer": ["A","B"]
   },
   {
     "id": 21,
-    "question": "भारत के जनसांख्यिकीय लाभांश को बनाए रखने के लिए क्या आवश्यक है? / What is necessary to sustain India’s demographic dividend?",
+    "question": "2024-25 में भारत के कुल व्यापार (exports + imports) का GDP के अनुपात (trade-to-GDP ratio) लगभग कितना था? / What was India’s trade-to-GDP ratio around 2024-25?",
     "options": {
-      "A": "स्वास्थ्य सेवाओं में सुधार (Improvement in Healthcare)",
-      "B": "शिक्षा और कौशल विकास (Education and Skill Development)",
-      "C": "महिला सशक्तिकरण (Women Empowerment)",
-      "D": "लिंग असंतुलन बढ़ाना (Increase Gender Imbalance)"
+      "A": "≈ 15 %",
+      "B": "≈ 25 %",
+      "C": "≈ 40 %",
+      "D": "≈ 60 %"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["B"]
   },
   {
     "id": 22,
-    "question": "भारत में औद्योगिक क्षेत्र की प्रमुख समस्याएँ कौन-सी हैं? / What are the major problems of industrial sector in India?",
+    "question": "BoP में ‘Financial Account’ में क्या शामिल है? / What is included in the ‘Financial Account’ of BoP?",
     "options": {
-      "A": "पुरानी तकनीक (Obsolete Technology)",
-      "B": "अपर्याप्त ऊर्जा आपूर्ति (Inadequate Power Supply)",
-      "C": "प्रशासनिक बाधाएँ (Administrative Barriers)",
-      "D": "कृषि प्रधानता (Agriculture Dominance)"
+      "A": "FDI",
+      "B": "FPI",
+      "C": "IMF loans",
+      "D": "Worker remittances"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A","B","C"]
   },
   {
     "id": 23,
-    "question": "भारत में आर्थिक योजना के लिए कौन सा संगठन अब मुख्य रूप से ज़िम्मेदार है? / Which organization is now primarily responsible for economic planning in India?",
+    "question": "RBI की currency intervention का उद्देश्य क्या हो सकता है? / What might be the objective of RBI’s currency intervention?",
     "options": {
-      "A": "भारतीय रिजर्व बैंक (RBI)",
-      "B": "निति आयोग (NITI Aayog)",
-      "C": "वित्त मंत्रालय (Ministry of Finance)",
-      "D": "केंद्रीय सांख्यिकी कार्यालय (CSO)"
+      "A": "Rupee stabilize करना",
+      "B": "Inflation control",
+      "C": "Gold price बढ़ाना",
+      "D": "Exports discourage करना"
     },
-    "answer": ["B"]
+    "answer": ["A","B"]
   },
   {
     "id": 24,
-    "question": "भारत में जनसंख्या वृद्धि दर में हाल का रुझान क्या है? / What is the recent trend in India's population growth rate?",
+    "question": "IMF quota reform का मकसद क्या है? / What is the purpose of IMF quota reforms?",
     "options": {
-      "A": "तेजी से बढ़ रही है (Increasing rapidly)",
-      "B": "धीरे-धीरे घट रही है (Gradually decreasing)",
-      "C": "स्थिर है (Stable)",
-      "D": "बहुत तेजी से घट रही है (Declining rapidly)"
+      "A": "Voting power adjust करना",
+      "B": "SDR allocation बढ़ाना",
+      "C": "Membership restrict करना",
+      "D": "Capital Controls लगाना"
     },
-    "answer": ["B"]
+    "answer": ["A","B"]
   },
   {
     "id": 25,
-    "question": "भारत की आर्थिक योजना में सामाजिक न्याय को कैसे शामिल किया जाता है? / How is social justice included in India's economic planning?",
+    "question": "2024-25 में SDRs में भारत का हिस्सा कैसे था? / What was India's share in SDRs during 2024-25?",
     "options": {
-      "A": "कमजोर वर्गों के लिए विशेष योजनाएँ (Special schemes for weaker sections)",
-      "B": "सर्व शिक्षा अभियान (Universal Education Campaign)",
-      "C": "महिला सशक्तिकरण (Women Empowerment)",
-      "D": "सभी वर्गों को समान कर देना (Equalizing all classes)"
+      "A": "≈ 3.5 billion SDR",
+      "B": "≈ 13 billion SDR",
+      "C": "≈ 10 billion SDR",
+      "D": "≈ 20 billion SDR"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 26,
-    "question": "भारत में कृषि के लिए कौन-से सिंचाई स्रोत सबसे अधिक उपयोग किए जाते हैं? / Which irrigation sources are most used in Indian agriculture?",
+    "question": "Imbalance of Payments को कैसे finance किया जाता है? / How is an imbalance of payments financed?",
     "options": {
-      "A": "नहर सिंचाई (Canal Irrigation)",
-      "B": "भूमिगत जल (Groundwater)",
-      "C": "वर्षा जल संचयन (Rainwater Harvesting)",
-      "D": "डैम जल (Dam Water)"
+      "A": "Foreign reserves से",
+      "B": "IMF के loans से",
+      "C": "External aid से",
+      "D": "Domestic borrowing से"
     },
-    "answer": ["A", "B"]
+    "answer": ["A","B"]
   },
   {
     "id": 27,
-    "question": "भारत की जनसांख्यिकी में महिला जनसंख्या की प्रतिशतता लगभग क्या है? / Approximate percentage of female population in India’s demographics?",
+    "question": "WTO में bound tariffs क्या होते हैं? / What are bound tariffs in WTO?",
     "options": {
-      "A": "48.1%",
-      "B": "51.9%",
-      "C": "46.5%",
-      "D": "50.2%"
+      "A": "Ceiling tariffs set internationally",
+      "B": "Variable domestic rates",
+      "C": "Unilateral tariff cuts",
+      "D": "Tariff-free zones"
     },
     "answer": ["A"]
   },
   {
     "id": 28,
-    "question": "भारत की पंचवर्षीय योजनाओं में कौन सा योजना पहलू सबसे प्रमुख था? / Which aspect was most prominent in India's Five Year Plans?",
+    "question": "IMF conditionality में कौन-से तत्व हो सकते हैं? / Which elements could be part of IMF conditionality?",
     "options": {
-      "A": "औद्योगिकीकरण (Industrialization)",
-      "B": "कृषि सुधार (Agricultural Reform)",
-      "C": "शिक्षा सुधार (Educational Reform)",
-      "D": "पर्यावरण संरक्षण (Environmental Conservation)"
+      "A": "Fiscal consolidation",
+      "B": "Monetary tightening",
+      "C": "Structural reforms",
+      "D": "Subsidy expansion"
     },
-    "answer": ["A", "B"]
+    "answer": ["A","B","C"]
   },
   {
     "id": 29,
-    "question": "भारत में 'जनसांख्यिकीय लाभांश' से अधिकतम लाभ प्राप्त करने के लिए क्या आवश्यक है? / What is essential to maximize the benefit of 'Demographic Dividend' in India?",
+    "question": "BoP में ‘Official Reserve Transactions’ क्या होते हैं? / What are ‘Official Reserve Transactions’ in BoP?",
     "options": {
-      "A": "स्वास्थ्य सुविधाओं का विस्तार (Expansion of healthcare facilities)",
-      "B": "शिक्षा और कौशल विकास (Education and Skill Development)",
-      "C": "लिंग असंतुलन बढ़ाना (Increase gender imbalance)",
-      "D": "युवा बेरोजगारी कम करना (Reducing youth unemployment)"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 30,
-    "question": "2024-25 में भारतीय अर्थव्यवस्था में कृषि क्षेत्र का GDP में योगदान क्या अनुमानित है? / Estimated contribution of agriculture sector to GDP in India in 2024-25?",
-    "options": {
-      "A": "18.5%",
-      "B": "15.2%",
-      "C": "25.7%",
-      "D": "20.0%"
+      "A": "Central bank के forex reserves operations",
+      "B": "Private sector gold holding",
+      "C": "Capital account transfers",
+      "D": "IMF overdrafts"
     },
     "answer": ["A"]
   },
   {
-    "id": 31,
-    "question": "भारत में आर्थिक योजनाओं का मुख्य उद्देश्य कौन सा है? / What is the main purpose of economic plans in India?",
+    "id": 30,
+    "question": "2024-25 में भारत के FPI inflows का अनुमानित स्तर लगभग क्या था? / What was India’s approximate FPI inflow in 2024-25?",
     "options": {
-      "A": "सभी वर्गों का समान विकास (Equitable development of all classes)",
-      "B": "केवल कृषि विकास (Only agriculture development)",
-      "C": "औद्योगिक वृद्धि को रोकना (Prevent industrial growth)",
-      "D": "सामाजिक असमानता बढ़ाना (Increase social inequality)"
+      "A": "≈ 20 billion USD",
+      "B": "≈ 35 billion USD",
+      "C": "≈ 50 billion USD",
+      "D": "≈ 80 billion USD"
+    },
+    "answer": ["B","C"]
+  },
+  {
+    "id": 31,
+    "question": "Worker remittances को Balance of Payments में किस भाग में रखा जाता है? / In which part of BoP are worker remittances placed?",
+    "options": {
+      "A": "Current Account (Income transfers)",
+      "B": "Capital Account",
+      "C": "Financial Account",
+      "D": "Errors & Omissions"
     },
     "answer": ["A"]
   },
   {
     "id": 32,
-    "question": "भारत के आर्थिक ढांचे में सेवा क्षेत्र का योगदान 2024 में कितना अनुमानित है? / What is the estimated contribution of services sector in Indian economy in 2024?",
+    "question": "Trade-to-GDP बढ़ने से किसमा पर विपरीत प्रभाव होता है? / A rising trade-to-GDP ratio most directly suggests:",
     "options": {
-      "A": "52%",
-      "B": "65%",
-      "C": "58%",
-      "D": "48%"
+      "A": "Economic openness",
+      "B": "Domestic consumption πλήρως",
+      "C": "Low export competitiveness",
+      "D": "Higher protectionism"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 33,
-    "question": "भारत के जनसांख्यिकी में युवाओं की प्रमुख समस्या क्या है? / What is the major problem of youth in India’s demographics?",
+    "question": "Rupee में तेज depreciation से RBI को क्या करना पड़ सकता है? / Rapid rupee depreciation might force the RBI to:",
     "options": {
-      "A": "बेरोजगारी (Unemployment)",
-      "B": "शिक्षा की कमी (Lack of Education)",
-      "C": "स्वास्थ्य समस्याएं (Health Issues)",
-      "D": "महिला सशक्तिकरण (Women Empowerment)"
+      "A": "Sell forex reserves",
+      "B": "Raise interest rates",
+      "C": "Introduce capital controls",
+      "D": "Lower import duties"
     },
-    "answer": ["A"]
+    "answer": ["A","B"]
   },
   {
     "id": 34,
-    "question": "भारत की जनसंख्या वृद्धि दर 2023-24 में कैसी रही? / How was India's population growth rate in 2023-24?",
+    "question": "IMF का Special Drawing Rights (SDR) सबसे पहले कब शुरू हुआ था? / When was SDR first introduced by the IMF?",
     "options": {
-      "A": "लगातार बढ़ती रही (Continued increasing)",
-      "B": "धीरे-धीरे घटती रही (Gradually decreasing)",
-      "C": "स्थिर रही (Stable)",
-      "D": "तेजी से घटती रही (Rapidly decreasing)"
+      "A": "1969",
+      "B": "1979",
+      "C": "1989",
+      "D": "1999"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 35,
-    "question": "भारत की आर्थिक योजनाओं में कृषि सुधार को लेकर कौन-सी योजना प्रमुख है? / Which plan is prominent for agricultural reforms in India?",
+    "question": "WTO appellate body vacancy status 2025 में कैसा था? / What was the WTO Appellate Body vacancy status in 2025?",
     "options": {
-      "A": "हरित क्रांति (Green Revolution)",
-      "B": "डिजिटल इंडिया (Digital India)",
-      "C": "मेक इन इंडिया (Make in India)",
-      "D": "स्वच्छ भारत मिशन (Swachh Bharat Mission)"
+      "A": "Fully staffed",
+      "B": "Partially vacant",
+      "C": "Completely non-functional",
+      "D": "Under reform"
     },
-    "answer": ["A"]
+    "answer": ["C","B"]
   },
   {
     "id": 36,
-    "question": "भारत में किस क्षेत्र ने हाल के वर्षों में सबसे अधिक रोजगार सृजन किया है? / Which sector has generated the most employment in recent years in India?",
+    "question": "India ने अपने BoP deficit को 2024-25 में कैसे cover किया? / How did India cover its BoP deficit in 2024-25?",
     "options": {
-      "A": "कृषि (Agriculture)",
-      "B": "सेवा क्षेत्र (Services)",
-      "C": "उद्योग (Industry)",
-      "D": "खुदरा व्यापार (Retail Trade)"
+      "A": "Forex reserves से",
+      "B": "IMF facilities से",
+      "C": "Sovereign bond issuance से",
+      "D": "Multilateral aid से"
     },
-    "answer": ["B"]
+    "answer": ["A","C"]
   },
   {
     "id": 37,
-    "question": "2024-25 में भारत के उद्योग क्षेत्र की वृद्धि दर कितनी अनुमानित है? / Estimated growth rate of industrial sector in India in 2024-25?",
+    "question": "IMF loans पर मुख्य रूप से क्या शर्तें होती हैं? / What are primarily the conditions on IMF loans?",
     "options": {
-      "A": "7.5%",
-      "B": "6.0%",
-      "C": "5.3%",
-      "D": "8.1%"
+      "A": "Fiscal discipline",
+      "B": "Interest rate capping",
+      "C": "Trade liberalization",
+      "D": "Public sector wage increase"
     },
-    "answer": ["B"]
+    "answer": ["A","C"]
   },
   {
     "id": 38,
-    "question": "भारत की अर्थव्यवस्था में लिंग अनुपात का क्या प्रभाव होता है? / What is the impact of sex ratio in Indian economy?",
+    "question": "FPI में अचानक outflow से क्या बढ़ सकता है? / What can sudden FPI outflow increase?",
     "options": {
-      "A": "सामाजिक और आर्थिक विकास में बाधा (Obstacle in social and economic development)",
-      "B": "महिला सशक्तिकरण में मदद (Help in women empowerment)",
-      "C": "शिक्षा दर बढ़ाने में योगदान (Contribution in increasing literacy rate)",
-      "D": "कृषि उत्पादन में वृद्धि (Increase in agricultural production)"
+      "A": "Exchange rate volatility",
+      "B": "Bond yields",
+      "C": "Capital controls",
+      "D": "Investor confidence"
+    },
+    "answer": ["A","B","D"]
+  },
+  {
+    "id": 39,
+    "question": "BoP का financial account और capital account में अंतर क्या है? / What is the difference between financial and capital account in BoP?",
+    "options": {
+      "A": "Financial includes FDI/FPI, Capital includes grants/transfers",
+      "B": "Both same",
+      "C": "Capital is subset of financial",
+      "D": "Financial tracks goods/services"
     },
     "answer": ["A"]
   },
   {
-    "id": 39,
-    "question": "भारत में निम्न में से कौन-से कारक जनसांख्यिकीय लाभांश को बढ़ावा देते हैं? / Which factors promote demographic dividend in India?",
+    "id": 40,
+    "question": "India के BoP में Net Factor Income from Abroad (NFIA) का क्या योगदान होता है? / What does NFIA contribute to India’s BoP?",
     "options": {
-      "A": "उच्च शिक्षा स्तर (High education levels)",
-      "B": "स्वास्थ्य सेवाओं में सुधार (Improved healthcare)",
-      "C": "महिला सशक्तिकरण (Women Empowerment)",
-      "D": "बेरोजगारी बढ़ना (Increase in unemployment)"
+      "A": "Income receipts minus payments to foreign factors",
+      "B": "Capital inflows",
+      "C": "Remittances only",
+      "D": "Errors & Omissions adjustment"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 41,
+    "question": "2024-25 में भारत की गरीबी रेखा निर्धारण के लिए मुख्य मानदंड क्या है? / What is the main criterion for poverty line determination in India (2024-25)?",
+    "options": {
+      "A": "आय स्तर (Income level)",
+      "B": "खपत व्यय (Consumption expenditure)",
+      "C": "शिक्षा स्तर (Education level)",
+      "D": "रोजगार के दिन (Number of employment days)"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 42,
+    "question": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम (MGNREGA) 2024-25 में न्यूनतम मजदूरी क्या है? / What is the minimum wage under MGNREGA in 2024-25?",
+    "options": {
+      "A": "₹238 प्रति दिन",
+      "B": "₹280 प्रति दिन",
+      "C": "₹312 प्रति दिन",
+      "D": "राज्य अनुसार अलग-अलग (Varies by state)"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 43,
+    "question": "भारत सरकार की कौन-सी योजना गरीबी उन्मूलन के लिए प्रत्यक्ष लाभ अंतरण (DBT) पर आधारित है? / Which Government scheme for poverty alleviation is based on Direct Benefit Transfer (DBT)?",
+    "options": {
+      "A": "प्रधान मंत्री जन धन योजना (PMJDY)",
+      "B": "प्रधान मंत्री उज्ज्वला योजना (PMUY)",
+      "C": "प्रधान मंत्री किसान सम्मान निधि (PM-KISAN)",
+      "D": "प्रधान मंत्री ग्राम सड़क योजना (PMGSY)"
     },
     "answer": ["A", "B", "C"]
   },
   {
-    "id": 40,
-    "question": "भारत में आर्थिक विकास में निम्नलिखित में से कौन सा सबसे महत्वपूर्ण कारक है? / Which among the following is the most important factor in India's economic development?",
+    "id": 44,
+    "question": "निम्न में से कौन-सी बेरोजगारी के प्रकार हैं? / Which of the following are types of unemployment?",
     "options": {
-      "A": "जनसांख्यिकीय लाभांश (Demographic Dividend)",
-      "B": "प्राकृतिक संसाधन (Natural Resources)",
-      "C": "औद्योगिक निवेश (Industrial Investment)",
-      "D": "विदेशी निवेश (Foreign Investment)"
+      "A": "खुली बेरोजगारी (Open Unemployment)",
+      "B": "आवृत्त बेरोजगारी (Seasonal Unemployment)",
+      "C": "गुप्त बेरोजगारी (Disguised Unemployment)",
+      "D": "पूर्ण रोजगार (Full Employment)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 45,
+    "question": "2024 में भारत का बेरोजगारी दर (Periodic Labour Force Survey के अनुसार) लगभग कितना है? / Approximate unemployment rate of India in 2024 as per PLFS?",
+    "options": {
+      "A": "3.1%",
+      "B": "4.2%",
+      "C": "5.5%",
+      "D": "6.8%"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 46,
+    "question": "मानव विकास सूचकांक (HDI) की गणना में कौन-से घटक शामिल हैं? / Which components are included in HDI calculation?",
+    "options": {
+      "A": "आय (Income)",
+      "B": "शिक्षा (Education)",
+      "C": "स्वास्थ्य (Health)",
+      "D": "पर्यावरण (Environment)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 47,
+    "question": "2024 में भारत का HDI रैंक क्या है? / What is India's HDI rank in 2024?",
+    "options": {
+      "A": "129",
+      "B": "134",
+      "C": "132",
+      "D": "138"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 48,
+    "question": "राष्ट्रीय शिक्षा नीति 2020 के अंतर्गत कौन-से प्रमुख प्रावधान हैं? / Which are the major provisions under National Education Policy 2020?",
+    "options": {
+      "A": "5+3+3+4 पाठ्यक्रम संरचना",
+      "B": "मातृभाषा में शिक्षा",
+      "C": "शोध और नवाचार को बढ़ावा",
+      "D": "10+2 संरचना को स्थायी रखना"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 49,
+    "question": "आयुष्मान भारत योजना के तहत प्रत्येक परिवार को कितनी स्वास्थ्य बीमा राशि दी जाती है? / What is the health insurance cover per family under Ayushman Bharat Scheme?",
+    "options": {
+      "A": "₹3 लाख",
+      "B": "₹5 लाख",
+      "C": "₹7 लाख",
+      "D": "₹10 लाख"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 50,
+    "question": "प्रधान मंत्री मातृ वंदना योजना का उद्देश्य क्या है? / What is the objective of PM Matru Vandana Yojana?",
+    "options": {
+      "A": "गर्भवती और स्तनपान कराने वाली माताओं को वित्तीय सहायता",
+      "B": "नवजात शिशुओं के लिए मुफ्त शिक्षा",
+      "C": "महिलाओं के रोजगार के अवसर बढ़ाना",
+      "D": "ग्रामीण स्वास्थ्य केंद्र बनाना"
     },
     "answer": ["A"]
+  },
+  {
+    "id": 51,
+    "question": "गरीबी उन्मूलन के लिए राष्ट्रीय ग्रामीण आजीविका मिशन (NRLM) के प्रमुख घटक कौन-से हैं? / Which are the major components of NRLM?",
+    "options": {
+      "A": "स्वयं सहायता समूह (SHGs)",
+      "B": "कौशल विकास प्रशिक्षण",
+      "C": "सूक्ष्म वित्तीय सहायता",
+      "D": "राष्ट्रीय खाद्य सुरक्षा"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 52,
+    "question": "निम्न में से कौन-सी बेरोजगारी ग्रामीण भारत में अधिक पाई जाती है? / Which type of unemployment is more prevalent in rural India?",
+    "options": {
+      "A": "खुली बेरोजगारी",
+      "B": "गुप्त बेरोजगारी",
+      "C": "चक्रवर्ती बेरोजगारी",
+      "D": "मौसमी बेरोजगारी"
+    },
+    "answer": ["B", "D"]
+  },
+  {
+    "id": 53,
+    "question": "भारत सरकार की कौन-सी योजना उच्च शिक्षा में ऋण पर ब्याज सब्सिडी प्रदान करती है? / Which scheme provides interest subsidy on education loans in higher education?",
+    "options": {
+      "A": "विद्या लक्ष्मी योजना",
+      "B": "पढ़ो परदेश योजना",
+      "C": "प्रधान मंत्री शिक्षा ऋण योजना",
+      "D": "राष्ट्रीय उच्च शिक्षा अभियान"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 54,
+    "question": "2024 में भारत का जीवन प्रत्याशा (Life Expectancy) लगभग कितना है? / What is India’s life expectancy in 2024?",
+    "options": {
+      "A": "68 वर्ष",
+      "B": "70 वर्ष",
+      "C": "71.5 वर्ष",
+      "D": "73 वर्ष"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 55,
+    "question": "प्रधान मंत्री गरीब कल्याण अन्न योजना (PMGKAY) के तहत प्रति व्यक्ति मुफ्त अनाज वितरण की मात्रा क्या है? / What is the per person free grain distribution under PMGKAY?",
+    "options": {
+      "A": "3 किग्रा",
+      "B": "5 किग्रा",
+      "C": "7 किग्रा",
+      "D": "10 किग्रा"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 56,
+    "question": "मानव पूंजी निर्माण में शिक्षा और स्वास्थ्य के अलावा कौन-सा कारक महत्वपूर्ण है? / Apart from education and health, which factor is important in human capital formation?",
+    "options": {
+      "A": "प्रवासन (Migration)",
+      "B": "प्रशिक्षण (Training)",
+      "C": "बचत (Savings)",
+      "D": "पर्यटन (Tourism)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 57,
+    "question": "भारत सरकार की कौन-सी योजना विशेष रूप से वरिष्ठ नागरिकों के कल्याण के लिए है? / Which scheme is specifically for the welfare of senior citizens?",
+    "options": {
+      "A": "राष्ट्रीय वयोश्री योजना",
+      "B": "प्रधान मंत्री श्रम योगी मानधन योजना",
+      "C": "आयुष्मान भारत",
+      "D": "राष्ट्रीय ग्रामीण स्वास्थ्य मिशन"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 58,
+    "question": "निम्न में से कौन-सा मापदंड बहुआयामी गरीबी सूचकांक (MPI) में शामिल है? / Which of the following indicators are included in Multidimensional Poverty Index (MPI)?",
+    "options": {
+      "A": "स्वास्थ्य (Health)",
+      "B": "शिक्षा (Education)",
+      "C": "जीवन स्तर (Living Standards)",
+      "D": "राजनीतिक भागीदारी (Political Participation)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 59,
+    "question": "2024 में बहुआयामी गरीबी सूचकांक (MPI) में भारत का स्थान क्या है? / What is India’s rank in MPI 2024?",
+    "options": {
+      "A": "56",
+      "B": "62",
+      "C": "66",
+      "D": "70"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 60,
+    "question": "राष्ट्रीय पोषण मिशन (POSHAN Abhiyaan) का मुख्य उद्देश्य क्या है? / What is the main objective of National Nutrition Mission (POSHAN Abhiyaan)?",
+    "options": {
+      "A": "कुपोषण दर घटाना",
+      "B": "कृषि उत्पादकता बढ़ाना",
+      "C": "शिशु मृत्यु दर घटाना",
+      "D": "मातृ स्वास्थ्य सुधारना"
+    },
+    "answer": ["A", "C", "D"]
   }
 ]
-
