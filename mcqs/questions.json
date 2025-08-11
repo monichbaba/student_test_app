@@ -1,850 +1,421 @@
 [
   {
     "id": 1,
-    "question": "हड़प्पा सभ्यता की किस विशेषता को नगर नियोजन का सबसे महत्वपूर्ण उदाहरण माना जाता है? / Which feature of Harappan civilization is considered the most significant example of urban planning?",
+    "question": "बाल विवाह प्रतिबंध अधिनियम, 1929 (Child Marriage Restraint Act, 1929) के अनुसार प्रारंभिक रूप से लड़की की न्यूनतम विवाह आयु क्या निर्धारित की गई थी? / What was the initially fixed minimum marriageable age for girls under the Child Marriage Restraint Act, 1929?",
     "options": {
-      "A": "ग्रिड-आधारित सड़क योजनाएँ / Grid-pattern streets",
-      "B": "सार्विक स्तूप निर्माण / Monumental stupas",
-      "C": "व्यवस्थित सीवर और नालियाँ / Systematic drainage and sewage",
-      "D": "भारी किलेबंदी और दीवारें / Massive fortifications and walls"
+      "A": "14 वर्ष / 14 years",
+      "B": "15 वर्ष / 15 years",
+      "C": "16 वर्ष / 16 years",
+      "D": "18 वर्ष / 18 years"
     },
-    "answer": ["A","C"]
+    "answer": ["A"]
   },
   {
     "id": 2,
-    "question": "लोथल का कौन सा अवशेष उसे एक समुद्री/बंदरगाह नगर बताता है? / Which archaeological feature at Lothal indicates it was a maritime/port town?",
+    "question": "शारदा अधिनियम, 1929 (Child Marriage Restraint Act) के तहत दंडात्मक प्रावधान किस Section में वर्णित हैं? / Under the Sharda Act, 1929, in which Section are the penal provisions described?",
     "options": {
-      "A": "डॉक/कम्बरी जैसा जलाशय (Dock-like basin) / Dock-like basin",
-      "B": "विशाल स्तूप समूह / Large stupa complex",
-      "C": "लोहे की कटाव वाली सड़कें / Iron-paved roads",
-      "D": "दन्त-अवशेष (dental remains) / Dental remains"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 3,
-    "question": "कालीबंगन मंदिरों/धार्मिक अनुष्ठान के किस सबूत के लिए प्रसिद्ध है? / Kalibangan is noted archaeologically for evidence of which ritual/structure?",
-    "options": {
-      "A": "आग-आलय/फायर ऑल्टर्स (fire altars) / Fire-altars",
-      "B": "बड़ी स्तूप-प्रणाली / Large stupa complex",
-      "C": "राजव्यवस्था के राजपत्र / Royal inscriptions",
-      "D": "मठों का समूह / Monastic complexes"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 4,
-    "question": "ऋग्वैदिक समाज में प्रमुख अर्थव्यवस्थिक क्रियाएँ कौन-सी थीं? / Which economic activities were primary in Rigvedic society?",
-    "options": {
-      "A": "उत्तरी पश्चिमी सिंधु-आधारित मछलीपालन / Coastal fishing",
-      "B": "गोरक्षक-आधारित पैदावार और पशुपालन / Cattle-rearing and pastoralism",
-      "C": "अत्यधिक शहरी शिल्प-उद्योग / Intensive urban craft production",
-      "D": "मुद्रा-आधारित व्यापारिक बैंकों का विकास / Monetary banking"
+      "A": "Section 3",
+      "B": "Section 5",
+      "C": "Section 7",
+      "D": "Section 9"
     },
     "answer": ["B"]
   },
   {
-    "id": 5,
-    "question": "उत्तरवैदिक काल (Later Vedic) में किस परिवर्तन ने समाज और अर्थव्यवस्था को प्रभावित किया? / Which change in Later Vedic period notably affected society and economy?",
+    "id": 3,
+    "question": "बाल विवाह प्रतिबंध (संशोधन) अधिनियम, 1978 के तहत लड़की की विवाह आयु कितनी कर दी गई? / As per the Child Marriage Restraint (Amendment) Act, 1978, what was the revised marriageable age for girls?",
     "options": {
-      "A": "पर्याप्त कृषि और कृषक-आधारित ग्रामों का उदय / Expansion of settled agriculture and village economy",
-      "B": "सम्पूर्ण रूप से नौवहन पर निर्भरता / Complete dependence on navigation",
-      "C": "काष्ठ-आधारित शहरी किलेबंदी / Timber-based urban fortifications",
-      "D": "सामाजिक समानता और वर्ग-रहित समाज / Classless egalitarian society"
+      "A": "15 वर्ष / 15 years",
+      "B": "16 वर्ष / 16 years",
+      "C": "17 वर्ष / 17 years",
+      "D": "18 वर्ष / 18 years"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 4,
+    "question": "बाल विवाह प्रतिबंध अधिनियम का प्रवर्तन मुख्यतः किस कारण से चुनौतीपूर्ण था? / The enforcement of the Child Marriage Restraint Act was challenging mainly due to which reason?",
+    "options": {
+      "A": "अधिनियम में दंड कम था / Low penal provisions",
+      "B": "सामाजिक-धार्मिक रूढ़िवादिता / Socio-religious orthodoxy",
+      "C": "शहरी क्षेत्रों में विरोध / Opposition in urban areas",
+      "D": "कानून का अभाव / Absence of law"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 5,
+    "question": "बाल विवाह निषेध अधिनियम, 2006 (Prohibition of Child Marriage Act, 2006) के अनुसार विवाह की न्यूनतम आयु लड़कियों और लड़कों के लिए क्रमशः क्या है? / Under the Prohibition of Child Marriage Act, 2006, what is the minimum marriageable age for girls and boys respectively?",
+    "options": {
+      "A": "18 वर्ष और 21 वर्ष / 18 and 21 years",
+      "B": "16 वर्ष और 18 वर्ष / 16 and 18 years",
+      "C": "18 वर्ष और 18 वर्ष / 18 and 18 years",
+      "D": "21 वर्ष और 21 वर्ष / 21 and 21 years"
     },
     "answer": ["A"]
   },
   {
     "id": 6,
-    "question": "ऋग्वैदिक धार्मिक विचारों में निम्न में से कौन-सा तत्व प्रमुख था? / Which element was central to Rigvedic religious thought?",
+    "question": "बाल विवाह प्रतिबंध अधिनियम, 1929 के लागू होने का मुख्य उद्देश्य क्या था? / What was the primary objective of enforcing the Child Marriage Restraint Act, 1929?",
     "options": {
-      "A": "वेदगीतों में देवताओं के लिए अग्नि-यज्ञ और मंत्र / Fire sacrificial rites (yajna) and mantras",
-      "B": "निर्वाण प्राप्ति ही अंतिम लक्ष्य / Nirvana as sole goal",
-      "C": "इकहनांतर धम्म नीति / State-sponsored dhamma policy",
-      "D": "विशुद्ध भौतिकवाद / Pure materialism"
+      "A": "बाल विवाह को गैर-कानूनी घोषित करना / To declare child marriage illegal",
+      "B": "बाल विवाह की आयु बढ़ाना / To increase the marriageable age",
+      "C": "बाल विवाह करने वालों को दंडित करना / To penalize those performing child marriages",
+      "D": "महिला शिक्षा को बढ़ावा देना / To promote female education"
     },
-    "answer": ["A"]
+    "answer": ["B", "C"]
   },
   {
     "id": 7,
-    "question": "महाजनपदों की संख्या और प्रकृति के संदर्भ में सही कथन कौन-सा है? / Which statement about the Mahajanapadas is correct?",
+    "question": "बाल विवाह निषेध अधिनियम, 2006 के तहत किसे 'बालक' माना जाता है? / Under the Prohibition of Child Marriage Act, 2006, who is considered a 'child'?",
     "options": {
-      "A": "कुल 16 महाजनपद थे जिनमें राजतंत्र और गणतंत्र दोनों शामिल थे / Total 16 Mahajanapadas including monarchies and republics",
-      "B": "वे केवल दक्षिण भारत तक सीमित थे / They were confined to South India",
-      "C": "सभी महाजनपद व्यापारिक नगर थे, कृषि महत्वहीन था / All were mercantile cities, agriculture insignificant",
-      "D": "वे केवल वैदिक साहित्य में ही उल्लिखित थे, ऐतिहासिक नहीं / Mentioned only in Vedic texts, not historical"
+      "A": "लड़की जिसकी आयु 18 वर्ष से कम हो / Girl under 18 years",
+      "B": "लड़का जिसकी आयु 21 वर्ष से कम हो / Boy under 21 years",
+      "C": "दोनों A और B / Both A and B",
+      "D": "कोई नहीं / None"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 8,
-    "question": "निम्न में से कौन-से महाजनपद गणतांत्रिक (republic/ ganas) ढाँचे के उदाहरण थे? / Which of the following Mahajanapadas had republican (gana) structures?",
+    "question": "बाल विवाह प्रतिबंध अधिनियम, 1929 की सिफारिश किस समिति ने की थी? / Which committee recommended the Child Marriage Restraint Act, 1929?",
     "options": {
-      "A": "वज्जि (Vajji) और मल्ल (Malla) / Vajji and Malla",
-      "B": "मगध (Magadha) और अङ्ग (Anga) / Magadha and Anga",
-      "C": "गंधार (Gandhara) और काम्बोज (Kamboja) / Gandhara and Kamboja",
-      "D": "कासी (Kasi) और कोशल (Kosala) / Kasi and Kosala"
+      "A": "जॉन शारदा समिति / John Sharda Committee",
+      "B": "हरीलाल शारदा समिति / Harilal Sharda Committee",
+      "C": "बालिका शिक्षा समिति / Girl Education Committee",
+      "D": "भारत सामाजिक सुधार समिति / India Social Reform Committee"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 9,
-    "question": "चन्द्रगुप्त मौर्य के शासन में किस सलाहकार/लेखक का प्रभाव विशेष रूप से उल्लेखनीय है? / Which advisor/writer was notably influential during Chandragupta Maurya’s reign?",
+    "question": "शारदा अधिनियम के प्रवर्तन वर्ष में भारत का गवर्नर जनरल कौन था? / Who was the Governor-General of India in the year of enforcement of the Sharda Act?",
     "options": {
-      "A": "चाणक्य (कौटिल्य) / Chanakya (Kautilya)",
-      "B": "कालिदास / Kalidasa",
-      "C": "अर्जुन / Arjuna",
-      "D": "हपीटस / Hippias"
+      "A": "लॉर्ड इरविन / Lord Irwin",
+      "B": "लॉर्ड विलिंगडन / Lord Willingdon",
+      "C": "लॉर्ड लिनलिथगो / Lord Linlithgow",
+      "D": "लॉर्ड हार्डिंग / Lord Hardinge"
     },
     "answer": ["A"]
   },
   {
     "id": 10,
-    "question": "मौर्य प्रशासन की किस विशेषता से साम्राज्य के केंद्रीकरण का संकेत मिलता है? / Which feature of Mauryan administration indicates imperial centralization?",
+    "question": "बाल विवाह प्रतिबंध अधिनियम, 1929 का मुख्य प्रवर्तन क्षेत्र प्रारंभ में कौन सा था? / Initially, which area was the main enforcement jurisdiction of the Child Marriage Restraint Act, 1929?",
     "options": {
-      "A": "विस्तृत राज्य निदेशालय और राजकीय अफ़सरशाही (bureaucracy) / Extensive state bureaucracy and administrative departments",
-      "B": "स्थानीय गांवों को पूर्ण स्वतन्त्रता / Complete village autonomy",
-      "C": "पुरा अर्थव्यवस्था निजीकरण / Complete privatization of economy",
-      "D": "राज्य का सैन्य उपेक्षा / State neglect of military"
+      "A": "ब्रिटिश भारत / British India",
+      "B": "देशी रियासतें / Princely States",
+      "C": "ब्रिटिश भारत और रियासतें दोनों / Both British India and Princely States",
+      "D": "केवल मद्रास प्रेसीडेंसी / Only Madras Presidency"
     },
     "answer": ["A"]
   },
   {
     "id": 11,
-    "question": "अशोक की धम्म नीति (Dhamma) में किस विचार का जोर था? / Ashoka's dhamma emphasized which idea?",
+    "question": "Bengal Sati Regulation, 1829 (Regulation XVII of 1829) किसके शासनकाल में लागू हुआ? / The Bengal Sati Regulation, 1829 was enacted during the tenure of which Governor-General?",
     "options": {
-      "A": "अहिंसा, सहिष्णुता और सामाजिक व्यवहारिकता / Non-violence, tolerance and moral conduct",
-      "B": "सिर्फ़ मंदिरों का भरण-पोषण ही राज्य का कर्तव्य है / Only temple patronage is state's duty",
-      "C": "सख्त अनाचार दंड नीतियाँ / Harsh punitive criminal laws",
-      "D": "आर्थिक निर्यात पर कुल प्रतिबन्ध / Total ban on exports"
+      "A": "लॉर्ड विलियम बेंटिंक / Lord William Bentinck",
+      "B": "लॉर्ड कॉर्नवालिस / Lord Cornwallis",
+      "C": "लॉर्ड डलहौजी / Lord Dalhousie",
+      "D": "लॉर्ड हेस्टिंग्स / Lord Hastings"
     },
     "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "बिंदुसार मौर्य किसके बीच शासन करते थे? / Bindusara Maurya ruled between which rulers?",
+    "question": "Bengal Sati Regulation, 1829 के अनुसार सती प्रथा को किस Section के तहत अपराध घोषित किया गया? / Under which Section of the Bengal Sati Regulation, 1829 was Sati declared illegal?",
     "options": {
-      "A": "चन्द्रगुप्त और अशोक / Chandragupta and Ashoka",
-      "B": "अशोक और सम्राट पृथ्वीराज / Ashoka and Prithviraj",
-      "C": "इन्द्रगुप्त और हर्षवर्धन / Indragupta and Harsha",
-      "D": "गुप्त सम्राज्य और मुग़ल काल के बीच / Between Gupta and Mughal periods"
+      "A": "Section 1",
+      "B": "Section 2",
+      "C": "Section 3",
+      "D": "Section 4"
     },
     "answer": ["A"]
   },
   {
     "id": 13,
-    "question": "उत्तर मौर्य बाद के किस शासकीय वंश ने मौर्य-काल के स्थानापन्न के रूप में उभर कर क्षेत्रीय प्रभुत्व जमाया? / Which post-Mauryan dynasty emerged as regional power succeeding Mauryan decline?",
+    "question": "Bengal Sati Regulation, 1829 का कानूनी आधार किस कानून पर आधारित था? / The legal basis of Bengal Sati Regulation, 1829 was grounded on which law?",
     "options": {
-      "A": "शुंग (Shunga)",
-      "B": "गुप्त (Gupta)",
-      "C": "चेर (Chera)",
-      "D": "सतीव (Satavahana) — सातवाहन / Satavahana"
+      "A": "Regulation XVII of Bengal Code",
+      "B": "Indian Penal Code, 1860",
+      "C": "Bombay Regulations Act",
+      "D": "Madras Code Regulation"
     },
-    "answer": ["A","D"]
+    "answer": ["A"]
   },
   {
     "id": 14,
-    "question": "सातवाहन वंश का दक्षिणी और मध्य भारत में किस क्षेत्र में विशेष प्रभाव था? / The Satavahana dynasty was particularly influential in which regions?",
+    "question": "सती प्रथा उन्मूलन में राजा राम मोहन राय की प्रमुख भूमिका क्या थी? / What was the primary role of Raja Ram Mohan Roy in the abolition of Sati?",
     "options": {
-      "A": "दक्षिण और मध्य भारत (Deccan and central India)",
-      "B": "उत्तर पश्चिमी सीमा (Northwest frontier)",
-      "C": "अफ़्रीका (Africa)",
-      "D": "इंडो-चाइना (Indochina)"
+      "A": "सामाजिक अभियान चलाना / Running social campaigns",
+      "B": "ब्रिटिश सरकार को ज्ञापन देना / Petitioning British Government",
+      "C": "धार्मिक शास्त्रों से विरोध साबित करना / Proving opposition from scriptures",
+      "D": "उपरोक्त सभी / All of the above"
     },
-    "answer": ["A"]
+    "answer": ["D"]
   },
   {
     "id": 15,
-    "question": "गुप्त युग को \"स्वर्णयुग\" कहे जाने का मुख्य कारण क्या है? / Why is the Gupta period often called the 'Golden Age'?",
+    "question": "Bengal Sati Regulation, 1829 का प्रवर्तन किन क्षेत्रों में लागू था? / The Bengal Sati Regulation, 1829 was applicable to which regions?",
     "options": {
-      "A": "विज्ञान, गणित, साहित्य और कला में असाधारण प्रगति / Outstanding advancements in science, mathematics, literature and arts",
-      "B": "पूरे उपमहाद्वीप पर एकमत धार्मिक व्यवस्था / Uniform religion across subcontinent",
-      "C": "महाराष्ट्र का पूर्ण राजनीतिक प्रभुत्व / Complete political dominance by Maharashtra",
-      "D": "आधुनिक औद्योगिक क्रांति की शुरुआत / Start of modern industrial revolution"
+      "A": "संपूर्ण ब्रिटिश भारत / Entire British India",
+      "B": "बंगाल, बिहार और उड़ीसा / Bengal, Bihar and Orissa",
+      "C": "केवल बंगाल / Only Bengal",
+      "D": "ब्रिटिश भारत और रियासतें दोनों / Both British India and Princely States"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 16,
-    "question": "गुप्तकाल में निम्न में से किन विद्वानों/कलाकारों का कार्य उल्लेखनीय है? / Which scholars/artists were notable in Gupta times?",
+    "question": "Bengal Sati Regulation, 1829 में उल्लंघन करने पर अधिकतम दंड क्या था? / What was the maximum punishment for violating the Bengal Sati Regulation, 1829?",
     "options": {
-      "A": "आर्यभट्ट, वराहमिहिर और कालिदास / Aryabhata, Varahamihira and Kalidasa",
-      "B": "कौटिल्य, कार्ल मार्क्स और शेक्सपियर / Kautilya, Karl Marx and Shakespeare",
-      "C": "हिप्पोक्रेटस और अरस्तू / Hippocrates and Aristotle",
-      "D": "वात्स्यायन, हेमचन्द्र आदि / Vatsyayana, Hemachandra etc."
+      "A": "3 वर्ष कारावास / 3 years imprisonment",
+      "B": "7 वर्ष कारावास / 7 years imprisonment",
+      "C": "आजीवन कारावास / Life imprisonment",
+      "D": "मृत्युदंड / Death penalty"
     },
-    "answer": ["A","D"]
+    "answer": ["C"]
   },
   {
     "id": 17,
-    "question": "अजंता और एलोरा गुफ़्त और बाद के किस धार्मिक कला और स्थापत्य का उदाहरण हैं? / Ajanta and Ellora exemplify which traditions of religious art and architecture?",
+    "question": "Bengal Sati Regulation, 1829 को कानूनी चुनौती किसने दी थी? / Who legally challenged the Bengal Sati Regulation, 1829?",
     "options": {
-      "A": "बौद्ध, हिन्दू और जैन शैलियाँ (Buddhist, Hindu and Jain styles)",
-      "B": "ग्रीक-रोमन क्लासिकल मूर्तिकला / Greco-Roman classical sculpture",
-      "C": "मध्यकालीन यूरोपीय गोथिक / Medieval European Gothic",
-      "D": "चीन के ताओइस्ट मंदिर / Chinese Taoist temples"
+      "A": "धार्मिक रूढ़िवादी समूह / Orthodox religious groups",
+      "B": "ब्रिटिश संसद / British Parliament",
+      "C": "ईस्ट इंडिया कंपनी के गवर्नर / Governors of East India Company",
+      "D": "मुगल दरबार / Mughal Court"
     },
     "answer": ["A"]
   },
   {
     "id": 18,
-    "question": "अजंता की दीवारों पर मिलने वाली चित्रकला का विषय प्रायः क्या होता था? / The murals on Ajanta primarily depict which theme?",
+    "question": "Bengal Sati Regulation, 1829 के लागू होने के पीछे मुख्य प्रेरणा क्या थी? / What was the main driving factor behind the enactment of Bengal Sati Regulation, 1829?",
     "options": {
-      "A": "जाटक कथाएँ और बुद्ध के जीवन के दृश्य / Jataka tales and scenes from Buddha’s life",
-      "B": "प्राचीन यूनानी महाकाव्य / Ancient Greek epics",
-      "C": "राष्ट्रमंडल की ऐतिहासिक लड़ाइयाँ / Commonwealth battles",
-      "D": "ऊर्जा उत्पादन के यंत्र / Energy production machinery"
+      "A": "मानवाधिकार और जीवन का अधिकार / Human rights and right to life",
+      "B": "महिला शिक्षा / Women education",
+      "C": "राजस्व वृद्धि / Revenue increase",
+      "D": "धार्मिक एकता / Religious unity"
     },
     "answer": ["A"]
   },
   {
     "id": 19,
-    "question": "प्राचीन भारत में बुद्धकला (Buddhist art) का विकास किस काल में सर्वाधिक विस्तृत हुआ माना जाता है? / The flourishing of Buddhist art in ancient India is often most associated with which period?",
+    "question": "सती प्रथा उन्मूलन के बाद किस अधिनियम ने इसे स्थायी रूप से भारतीय दंड संहिता में शामिल किया? / After abolition of Sati, which Act permanently incorporated it into the IPC?",
     "options": {
-      "A": "गुप्त और पोस्ट-गुप्त काल (Gupta and post-Gupta)",
-      "B": "मध्य युग (Medieval period) तक न होता रहा / Not before Medieval period",
-      "C": "मौर्यकाल में ही पूरा रूप ले लिया / Fully formed only in Mauryan times",
-      "D": "ब्रॉन्ज एज में / Bronze Age"
+      "A": "IPC Section 306 & 307 (1860)",
+      "B": "IPC Section 300 (1860)",
+      "C": "IPC Section 309 (1860)",
+      "D": "IPC Section 302 (1860)"
     },
     "answer": ["A"]
   },
   {
     "id": 20,
-    "question": "इंडस लिपि (Indus script) के बारे में कौन-सा कथन सही है? / Which statement about the Indus script is correct?",
+    "question": "Bengal Sati Regulation, 1829 किसके नाम से भी जाना जाता है? / The Bengal Sati Regulation, 1829 is also known as:",
     "options": {
-      "A": "यह अभी तक पूर्ण रूप से अनुवादित नहीं हुई है / It remains undeciphered",
-      "B": "यह प्राचीन संस्कृत का समानान्तर लिप्यंतर है / It is a direct variant of Sanskrit script",
-      "C": "यह यूनानी से ली गयी है / Derived from Greek",
-      "D": "यह केवल प्रतिमाओं पर न दर्शायी जाती थी / Only depicted in sculptures"
+      "A": "Regulation XVII of 1829",
+      "B": "Bombay Sati Regulation",
+      "C": "Madras Anti-Sati Act",
+      "D": "Indian Widow Protection Act"
     },
     "answer": ["A"]
   },
   {
     "id": 21,
-    "question": "हड़प्पा और मोहनजोदड़ो में मिलने वाला कौन-सा दर्शनीय तत्व उनका साझा आर्थिक/हाइजीनिक प्रबंधन दर्शाता है? / Which common element in Harappa and Mohenjo-daro reflects shared economic/hygienic management?",
+    "question": "Hindu Widows' Remarriage Act, 1856 के प्रवर्तन के समय गवर्नर जनरल कौन थे? / Who was the Governor-General at the time of Hindu Widows' Remarriage Act, 1856?",
     "options": {
-      "A": "कम्पोजिट घरेलू और सामुदायिक बाथ-हाउस और सीवर सिस्टम / Composite household and public bathing and sewer systems",
-      "B": "मोटे पत्थर के महल / Massive stone palaces",
-      "C": "काफी बड़े शाही स्मारक / Very large royal mausoleums",
-      "D": "हवा से चलने वाले कृषि यंत्र / Wind-driven agricultural machines"
+      "A": "लॉर्ड कैनिंग / Lord Canning",
+      "B": "लॉर्ड डलहौजी / Lord Dalhousie",
+      "C": "लॉर्ड हार्डिंग / Lord Hardinge",
+      "D": "लॉर्ड रिपन / Lord Ripon"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 22,
-    "question": "मौर्य साम्राज्य में अर्थव्यवस्था के किस तत्व ने कर निर्धारण और राज्य आय का आधार बनाया? / Which element of Mauryan economy formed the basis of taxation and state revenue?",
+    "question": "Hindu Widows' Remarriage Act, 1856 को प्रोत्साहित करने में किस समाज सुधारक का मुख्य योगदान था? / Which social reformer was chiefly responsible for promoting Hindu Widows' Remarriage Act, 1856?",
     "options": {
-      "A": "कृषि उत्पादन और उपज का कर (agricultural produce/tax on produce)",
-      "B": "पूरा व्यापार कराधान का परित्याग / Complete abolition of trade taxes",
-      "C": "डिजिटल बैंकिंग से संग्रह / Digital banking collections",
-      "D": "सिर्फ़ दान पर निर्भर राजस्व / Revenue only from donations"
+      "A": "राजा राम मोहन राय / Raja Ram Mohan Roy",
+      "B": "ईश्वरचंद्र विद्यासागर / Ishwar Chandra Vidyasagar",
+      "C": "गोपाल हरी देशमुख / Gopal Hari Deshmukh",
+      "D": "एम.जी. रानाडे / M.G. Ranade"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 23,
-    "question": "अशोक के शिलालेख (edicts) से इतिहासकारों को क्या प्रमुख जानकारी मिलती है? / What primary information do Ashoka’s edicts provide historians?",
+    "question": "Hindu Widows' Remarriage Act, 1856 की Section 2 का प्रावधान क्या था? / What was the provision under Section 2 of Hindu Widows' Remarriage Act, 1856?",
     "options": {
-      "A": "राज्य की नैतिक/नैतिक नीतियाँ (dhamma) और शासक के विचार / State moral policy (dhamma) and ruler’s views",
-      "B": "सिर्फ़ युद्ध योजनाएँ / Only war plans",
-      "C": "प्राकृतिक विज्ञान के प्रयोगों का विवरण / Experimental science details",
-      "D": "समकालीन यूरोपीय प्रशासन की प्रतिलिपि / Copy of contemporary European administration"
+      "A": "विधवा के पुनर्विवाह को वैध घोषित करना / Legalising widow remarriage",
+      "B": "विधवा को सम्पत्ति का अधिकार देना / Giving property rights to widow",
+      "C": "बाल विवाह को समाप्त करना / Ending child marriage",
+      "D": "दहेज प्रतिबंध / Dowry prohibition"
     },
     "answer": ["A"]
   },
   {
     "id": 24,
-    "question": "महाजनपद मगध किस भौगोलिक कारक से प्रसिद्ध था? / Which geographic factor made Magadha prominent among Mahajanapadas?",
+    "question": "Hindu Widows' Remarriage Act, 1856 के अंतर्गत विधवा को पुनर्विवाह करने पर कौन सा अधिकार खोना पड़ता था? / Under the Hindu Widows' Remarriage Act, 1856, which right did a widow lose upon remarriage?",
     "options": {
-      "A": "गंगा और सोन नदियों के समीप तथा धातु संसाधन (iron-rich Ganges plains) / Proximity to Ganga-Son plains and iron resources",
-      "B": "सिंधु नदी तट पर होने से / Being on Indus riverbank",
-      "C": "द्वीप-आधारित आर्थिक संरचना / Island-based economy",
-      "D": "बर्फ़ीला जलवायु / Frozen climate"
+      "A": "पति की संपत्ति का अधिकार / Right to husband's property",
+      "B": "पैतृक संपत्ति का अधिकार / Right to parental property",
+      "C": "बच्चों की अभिरक्षा / Custody of children",
+      "D": "कोई नहीं / None"
     },
     "answer": ["A"]
   },
   {
     "id": 25,
-    "question": "गुप्त शासन में राजनैतिक संरचना का कौन-सा पहलू उसकी स्थिरता के लिए उल्लेखनीय था? / Which aspect of Gupta polity contributed to its relative stability?",
+    "question": "1856 के विधवा पुनर्विवाह अधिनियम का उद्देश्य था: / The objective of the Hindu Widows' Remarriage Act, 1856 was:",
     "options": {
-      "A": "केंद्र और प्रांतों के बीच वरिष्ठ/स्थानिक राजा-सम्बन्ध (decentralized feudatory ties with central suzerainty)",
-      "B": "कठोर केंद्रीकृत पुलिस-स्टेट / Strict centralized police state",
-      "C": "सभी क्षेत्रीय शासकों का निर्विकल्प शाही अभिषेक / Uncontested royal investiture of all regional rulers",
-      "D": "विदेशों से पूर्ण अलगाव / Complete isolation from foreign trade"
+      "A": "विधवाओं के जीवन स्तर में सुधार / Improve living standards of widows",
+      "B": "विधवाओं की शिक्षा को प्रोत्साहित करना / Promote education of widows",
+      "C": "विधवाओं को पुनः विवाह का अधिकार देना / Grant right to remarry",
+      "D": "उपरोक्त सभी / All of the above"
     },
-    "answer": ["A"]
+    "answer": ["D"]
   },
   {
     "id": 26,
-    "question": "हर्षवर्धन किस क्षेत्र में अपने साम्राज्य के लिए प्रसिद्ध हैं? / Harsha (Harshavardhana) is best known for ruling which region?",
+    "question": "Hindu Widows' Remarriage Act, 1856 का विरोध मुख्य रूप से किस आधार पर किया गया था? / On what grounds was the Hindu Widows' Remarriage Act, 1856 mainly opposed?",
     "options": {
-      "A": "उत्तर भारत (Northern India) — खासकर प्रयाग/कान्यकुब्ज क्षेत्रों तक विस्तार / Northern India (expanded upto Prayag/Kanyakubja regions)",
-      "B": "दक्षिण अफ्रीका / South Africa",
-      "C": "पूर्वी यूरोप / Eastern Europe",
-      "D": "पूर्वी एशिया का विशाल भाग / Vast East Asia"
+      "A": "धार्मिक मान्यताएं / Religious beliefs",
+      "B": "संपत्ति का नुकसान / Loss of property",
+      "C": "पारिवारिक प्रतिष्ठा / Family honour",
+      "D": "उपरोक्त सभी / All of the above"
     },
-    "answer": ["A"]
+    "answer": ["D"]
   },
   {
     "id": 27,
-    "question": "हर्ष के दरबार में किस प्रकार की संस्कृति/साहित्यिक गतिविधियाँ प्रमुख थीं? / What cultural/literary activities were prominent in Harsha’s court?",
+    "question": "1856 अधिनियम के प्रवर्तन के बाद विधवा पुनर्विवाह की दर में शुरुआती वर्षों में क्या परिवर्तन हुआ? / What change occurred in widow remarriage rates in the early years after enforcement of 1856 Act?",
     "options": {
-      "A": "काव्य और नाटक (Brahmanical and Buddhist literary patronage like works of Banabhatta) / Poetry and drama patronage",
-      "B": "केवल गाथा-गीत बिना नाटक के / Only ballads without drama",
-      "C": "विज्ञान का पूर्ण बहिष्कार / Total rejection of science",
-      "D": "नौसैन्य नृत्य और समुद्री कला / Naval dances and maritime arts"
+      "A": "तेजी से वृद्धि / Rapid increase",
+      "B": "धीमी वृद्धि / Slow increase",
+      "C": "कोई परिवर्तन नहीं / No change",
+      "D": "कमी / Decline"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 28,
-    "question": "इंडस सभ्यता के व्यापार का एक प्रमुख साधन कौन-सा था? / Which was a major medium of trade in the Indus Civilization?",
+    "question": "विधवा पुनर्विवाह अधिनियम, 1856 का मुख्य प्रेरक स्रोत कौन सा दस्तावेज़ था? / Which document was the main motivating source for Hindu Widows' Remarriage Act, 1856?",
     "options": {
-      "A": "सिल्क-रोड प्रकार के लंबी दूरी के व्यापार संबंध और समुद्री मार्ग / Long-distance trade via overland and maritime networks",
-      "B": "पूर्णतः स्वदेशी और आइसोलेटेड अर्थव्यवस्था / Fully isolated local economy",
-      "C": "डिजिटल सिका-प्रणाली / Digital coin system",
-      "D": "केवल मानव श्रम से निर्मित दूरीय यातायात / Only human-portage"
+      "A": "ईश्वरचंद्र विद्यासागर का ज्ञापन / Petition by Ishwar Chandra Vidyasagar",
+      "B": "गवर्नर जनरल की रिपोर्ट / Governor-General's Report",
+      "C": "क्वीन्स प्रोकेलेशन / Queen's Proclamation",
+      "D": "भारतीय सुधार समिति का प्रस्ताव / Indian Reform Committee Resolution"
     },
     "answer": ["A"]
   },
   {
     "id": 29,
-    "question": "महाजनपदों में से 'कौशल' (Kosala) का प्रमुख केंद्र कौन-सा था? / Which city was the principal centre of Kosala Mahajanapada?",
+    "question": "Hindu Widows' Remarriage Act, 1856 के कौन से प्रावधान को बाद में भारतीय उत्तराधिकार अधिनियम, 1925 में शामिल किया गया? / Which provision of Hindu Widows' Remarriage Act, 1856 was later incorporated into the Hindu Succession Act, 1925?",
     "options": {
-      "A": "श्रोत (Sravasti)/शौरसेना क्षेत्र — प्राचीन सवस्ती / Sravasti (ancient Sravasti)",
-      "B": "मथुरा / Mathura",
-      "C": "लोथल / Lothal",
-      "D": "हेलसिंकी / Helsinki"
+      "A": "संपत्ति से वंचित होना / Disqualification from property",
+      "B": "पुनर्विवाह की वैधता / Legality of remarriage",
+      "C": "नाबालिग विधवा का अधिकार / Minor widow's rights",
+      "D": "कोई नहीं / None"
     },
     "answer": ["A"]
   },
   {
     "id": 30,
-    "question": "कौन-सा स्रोत 16 महाजनपदों की सूची प्रदान करता है? / Which source provides the list of 16 Mahajanapadas?",
+    "question": "1856 अधिनियम के लागू होने के समय ब्रिटिश संसद का कौन सा कानून प्रभावी था जिसने इसे समर्थन दिया? / Which British Parliament law was in force that supported the 1856 Act at the time of its enforcement?",
     "options": {
-      "A": "बौद्ध पाली साहित्य और जैन और अन्य ऐतिहासिक स्रोत / Buddhist Pali literature and other ancient texts",
-      "B": "रोमन शास्त्रों में विस्तृत सूची / Detailed list in Roman texts",
-      "C": "मध्यकालीन यूरोपीय पुरालेख / Medieval European records",
-      "D": "20वीं शताब्दी के मात्र आधुनिक आकलन / 20th century modern conjecture only"
+      "A": "Indian Councils Act, 1853",
+      "B": "Charter Act, 1853",
+      "C": "Regulating Act, 1773",
+      "D": "Pitt's India Act, 1784"
     },
     "answer": ["A"]
   },
   {
     "id": 31,
-    "question": "हड़प्पा सभ्यता के शिल्प-उत्पादों में से कौन-सा वस्त्र-उद्योग का प्रमाण देता है? / Which Indus craft indicates textile or weaving activity?",
+    "question": "ब्राह्म समाज की स्थापना किसने की थी और किस वर्ष में? / Who founded Brahmo Samaj and in which year?",
     "options": {
-      "A": "बिजकदार मुहरों पर कपड़े के डिजाइन और सूक्ष्म धागे के निशान / Seal motifs showing textile patterns and impressions of cords/threads",
-      "B": "लकड़ी की भारी नक्काशी / Heavy wooden carving",
-      "C": "स्टील ढलाई के बड़े उपकरण / Large steel forging tools",
-      "D": "आधुनिक पॉलिमर उपयोग / Modern polymer usage"
+      "A": "राजा राम मोहन राय, 1828 / Raja Ram Mohan Roy, 1828",
+      "B": "देवेन्द्रनाथ ठाकुर, 1843 / Debendranath Tagore, 1843",
+      "C": "केशव चंद्र सेन, 1866 / Keshab Chandra Sen, 1866",
+      "D": "ईश्वरचंद्र विद्यासागर, 1850 / Ishwar Chandra Vidyasagar, 1850"
     },
     "answer": ["A"]
   },
   {
     "id": 32,
-    "question": "अशोक के शिलालेख किस माध्यम में मिले हैं जो उनकी नीति को समझने हेतु प्राथमिक स्रोत हैं? / Ashoka’s inscriptions are primary sources for his policy in which media?",
+    "question": "आर्य समाज के संस्थापक और स्थापना वर्ष का सही मेल कौन सा है? / Which is the correct match for founder and year of Arya Samaj?",
     "options": {
-      "A": "स्तम्भ-लिखित शिलालेख (Pillars) और चट्टान-लिखित शिलालेख (Rock edicts) / Pillar and rock inscriptions",
-      "B": "केवल मौखिक परम्पराएँ / Only oral traditions",
-      "C": "धातु सिक्कों पर विस्तृत विवरण / Detailed descriptions on metal coins",
-      "D": "सुनहरे ग्रन्थों में संकलित गुप्त दस्तावेज / Secret golden manuscripts"
+      "A": "स्वामी दयानंद सरस्वती, 1875 / Swami Dayanand Saraswati, 1875",
+      "B": "स्वामी विवेकानंद, 1897 / Swami Vivekananda, 1897",
+      "C": "गोपाल कृष्ण गोखले, 1905 / Gopal Krishna Gokhale, 1905",
+      "D": "लाला लाजपत राय, 1885 / Lala Lajpat Rai, 1885"
     },
     "answer": ["A"]
   },
   {
     "id": 33,
-    "question": "गुप्त कला की कौन-सी विशेषता उसे बाद के भारतीय कला मानकों पर प्रभावशाली बनाती है? / Which feature of Gupta art made it influential on later Indian art?",
+    "question": "प्रार्थना समाज का मुख्य उद्देश्य क्या था? / What was the main objective of Prarthana Samaj?",
     "options": {
-      "A": "संतुलित शिल्प-रूप, क्लिष्ट मूर्तिकला-रूप और सूक्ष्म मानवीय भाव-भंगिमा / Balanced forms, refined sculpture and subtle human expressions",
-      "B": "बिलकुल असंबद्ध सहजता / Complete formlessness",
-      "C": "यूरो-मध्यकालीन गोथिक तत्व / Euro-medieval Gothic elements",
-      "D": "मेटल-आधारित विशाल कांक्रीट संरचनाएँ / Metal-based concrete structures"
+      "A": "हिंदू धर्म का पुनरुद्धार / Revival of Hinduism",
+      "B": "सामाजिक सुधार और महिला शिक्षा / Social reform and women education",
+      "C": "इस्लामिक शिक्षा का प्रचार / Promotion of Islamic education",
+      "D": "ईसाई धर्म का प्रसार / Spread of Christianity"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 34,
-    "question": "इंडस लिपि की अनुवाद-असमर्थता का एक बड़ा कारण क्या माना जाता है? / What is a major reason for the undeciphered status of the Indus script?",
+    "question": "अलीगढ़ आंदोलन के जनक कौन माने जाते हैं? / Who is considered the father of the Aligarh Movement?",
     "options": {
-      "A": "लिपि पर छोटे अनुच्छेदों/अल्प शब्दों में ही अंकन मिलता है (short inscriptions) / Very short inscriptions limiting context",
-      "B": "यह स्पष्टतः रोमन भाषा पर आधारित है / It is clearly Roman-based",
-      "C": "इसके सभी रिकॉर्ड पूर्णतः नष्ट हो गए हैं / All records were completely destroyed",
-      "D": "यह बोलचाल की भाषा नहीं थी बल्कि केवल प्रतीकात्मक था / It was obviously not a spoken language but purely symbolic"
+      "A": "सर सैयद अहमद खान / Sir Syed Ahmad Khan",
+      "B": "मौलाना अबुल कलाम आजाद / Maulana Abul Kalam Azad",
+      "C": "शिबली नोमानी / Shibli Nomani",
+      "D": "लियाकत अली खान / Liaqat Ali Khan"
     },
     "answer": ["A"]
   },
   {
     "id": 35,
-    "question": "मौर्य काल में राज्य द्वारा किस सार्वजनिक नीति को सामाजिक कल्याण का उदाहरण माना जा सकता है? / Which public policy in Mauryan times is an example of state welfare?",
+    "question": "थियोसोफिकल सोसाइटी भारत में किस वर्ष स्थापित हुई? / In which year was the Theosophical Society established in India?",
     "options": {
-      "A": "सार्वजनिक चिकित्सकीय उपक्रम और पशु-पालन हेतु व्यवस्था (hospitals and animal welfare as per inscriptions) / Medical and animal welfare measures",
-      "B": "पूरे राज्य में व्यापार प्रतिबन्ध / Complete trade prohibition",
-      "C": "सिर्फ़ सेना पर ही धन खर्च / Expenditure only on military",
-      "D": "रात्रि-व्यापार पर पूर्ण तबाही / Night-trade extermination"
+      "A": "1879",
+      "B": "1882",
+      "C": "1893",
+      "D": "1905"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 36,
-    "question": "किस सिद्धांत ने गुप्त काल के विद्वानों जैसे आर्यभट्ट और वराहमिहिर को प्रेरित किया? / Which intellectual tradition inspired Gupta scholars like Aryabhata and Varahamihira?",
+    "question": "महिला शिक्षा के लिए सावित्रीबाई फुले का प्रमुख योगदान क्या था? / What was Savitribai Phule's major contribution towards women's education?",
     "options": {
-      "A": "गणितीय और खगोलीय अध्ययन (mathematical & astronomical inquiry) / Mathematical and astronomical investigation",
-      "B": "मात्र शास्त्रीय भाषाविज्ञान / Only classical philology",
-      "C": "आधुनिक यांत्रिकी / Modern mechanics",
-      "D": "नौवहन और समुद्री विज्ञान / Nautical and marine science"
+      "A": "पहला बालिका विद्यालय / First girls' school",
+      "B": "पहला महिला विश्वविद्यालय / First women's university",
+      "C": "पहली महिला महाविद्यालय / First women's college",
+      "D": "पहली महिला पुस्तकालय / First women's library"
     },
     "answer": ["A"]
   },
   {
     "id": 37,
-    "question": "हड़प्पा सभ्यता के व्यापार के क्या संकेत मिले हैं जो विदेश व्यापार को इंगित करते हैं? / What evidence from Harappan sites points to foreign trade?",
+    "question": "ब्राह्म समाज के किस सुधार ने महिला अधिकारों को सबसे अधिक प्रभावित किया? / Which reform of Brahmo Samaj most significantly impacted women's rights?",
     "options": {
-      "A": "मेसोपोटामिया के साथ सीलें/वस्तुएँ और रत्नों का आदान-प्रदान / Seals/objects and gem exchange with Mesopotamia",
-      "B": "शताब्दियों बाद के यूरोपीय दस्तावेज / Centuries-later European documents",
-      "C": "आधुनिक बैंकिंग रिकॉर्ड / Modern banking records",
-      "D": "केवल स्थानीय लकड़ी के प्रयोग / Only local timber use"
+      "A": "सती प्रथा उन्मूलन / Abolition of Sati",
+      "B": "विधवा पुनर्विवाह समर्थन / Support for widow remarriage",
+      "C": "बाल विवाह का विरोध / Opposition to child marriage",
+      "D": "उपरोक्त सभी / All of the above"
     },
-    "answer": ["A"]
+    "answer": ["D"]
   },
   {
     "id": 38,
-    "question": "महाजनपदों में 'अवन्ति' (Avanti) की भौगोलिक स्थिति किस क्षेत्र में थी? / In which region was Avanti Mahajanapada located?",
+    "question": "आर्य समाज के शुद्धि आंदोलन का मुख्य उद्देश्य क्या था? / What was the main objective of Arya Samaj's Shuddhi Movement?",
     "options": {
-      "A": "मध्य भारत (Malwa and western Madhya Pradesh) / Central India (Malwa region)",
-      "B": "दक्षिण भारत (Tamil Nadu) / South India (Tamil Nadu)",
-      "C": "पश्चिमी यूरोप / Western Europe",
-      "D": "ऊपर्युक्त में से कोई नहीं / None of the above"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 39,
-    "question": "अजंता और एलोरा को UNESCO विश्व धरोहर स्थल के रूप में किस वजह से मान्यता मिली है? / Why were Ajanta and Ellora recognized as UNESCO World Heritage Sites?",
-    "options": {
-      "A": "उनकी उच्च कलात्मक और स्थापत्यकृति जो बौद्ध, हिन्दू और जैन परंपराओं को दर्शाती हैं / Outstanding artistic and architectural expression of Buddhist, Hindu and Jain traditions",
-      "B": "उनकी आधुनिक औद्योगिक संरचनाएँ / Their modern industrial structures",
-      "C": "उनकी केवल प्राकृतिक सुंदरता / Only natural beauty",
-      "D": "उनके समुद्री बंदरगाह के लिए / For their maritime ports"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 40,
-    "question": "2024–25 के नवीन शोध/खोजों में से इंडस घाटी (Indus) के बारे में क्या प्रकार का अपडेट सामान्यतः रिपोर्ट हुआ है? / Which type of update about the Indus Valley has commonly appeared in recent 2024–25 studies/news?",
-    "options": {
-      "A": "नए साइट्स/खोज और उन्नत तिथिकरण (new sites/discoveries & improved dating techniques)",
-      "B": "इंडस सभ्यता का पूर्ण रूप से ग़लत सिद्ध होना / Complete disproof of Indus civilization",
-      "C": "इंडस संस्कृति का समकालीन डिजिटल रिकॉर्ड उपलब्ध होना / Availability of contemporary digital records from IVC",
-      "D": "इंडस सभ्यता का यूरोपीय मूल सिद्ध होना / Indus origin as European"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 41,
-    "question": "दिल्ली सल्तनत में कुल कितने वंश हुए? / How many dynasties were there in Delhi Sultanate?",
-    "options": {
-      "A": "4",
-      "B": "5",
-      "C": "6",
-      "D": "7"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 42,
-    "question": "निम्न में से कौन-से दिल्ली सल्तनत का हिस्सा नहीं थे? / Which of the following were NOT part of Delhi Sultanate?",
-    "options": {
-      "A": "गुलाम वंश (Slave dynasty)",
-      "B": "तुगलक वंश (Tughlaq dynasty)",
-      "C": "बंगाल सल्तनत (Bengal Sultanate)",
-      "D": "लोधी वंश (Lodi dynasty)"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 43,
-    "question": "इक़्ता प्रणाली के बारे में सही कथन चुनें / Select the correct statements about Iqta system:",
-    "options": {
-      "A": "अमिल राजस्व संग्रह के लिए जिम्मेदार था (Amil collected revenue)",
-      "B": "यह प्राचीन भारत की मौलिक प्रणाली थी (Indigenous ancient system)",
-      "C": "खिलजी वंश ने शुरू की (Started under Khalji dynasty)",
-      "D": "इसका प्रयोग केवल सैन्य भुगतान में हुआ (Used only for military payments)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 44,
-    "question": "अलाउद्दीन खिलजी के प्रशासनिक सुधारों में कौन-से सही हैं? / Which of the following are correct regarding Alauddin Khalji's administrative reforms?",
-    "options": {
-      "A": "इक़्तों को समाप्त किया (Abolished Iqtas)",
-      "B": "कृषि कर 20% से 50% किया (Increased land tax from 20% to 50%)",
-      "C": "तुगलक वंश को छोड़कर सभी को दौलताबाद ले जाया गया (Shifted all except Tughlaq dynasty nobles to Daulatabad)",
-      "D": "मंडी नियंत्रण प्रणाली लागू की (Implemented market control system)"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 45,
-    "question": "दिल्ली सल्तनत का सबसे व्यापक भू-क्षेत्रीय विस्तार किस वंश में हुआ? / During which dynasty did the Delhi Sultanate reach its greatest territorial extent?",
-    "options": {
-      "A": "गुलाम (Slave)",
-      "B": "खिलजी (Khalji)",
-      "C": "तुगलक (Tughlaq)",
-      "D": "लोधी (Lodi)"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 46,
-    "question": "भक्ति आंदोलन के प्रमुख संतों में कौन शामिल हैं? / Which of the following were major saints of the Bhakti movement?",
-    "options": {
-      "A": "कबीर (Kabir)",
-      "B": "रैदास (Ravidas)",
-      "C": "मीराबाई (Meerabai)",
-      "D": "अबू आल्होर (Abu Alhor)"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 47,
-    "question": "भक्ति और सूफी विचारधारा में कौन-से तत्व समान हैं? / Which elements were common in Bhakti and Sufi philosophies?",
-    "options": {
-      "A": "व्यक्ति-केंद्रित भक्ति (Individual-centric devotion)",
-      "B": "धार्मिक कट्टरता (Religious orthodoxy)",
-      "C": "अस्पृश्यता का समर्थन (Support for untouchability)",
-      "D": "आध्यात्मिक समरसता (Spiritual harmony)"
-    },
-    "answer": ["A", "D"]
-  },
-  {
-    "id": 48,
-    "question": "मुगल शासन के बारे में सही कथन चुनें / Select the correct statements about Mughal rule:",
-    "options": {
-      "A": "बाबर ने 1526 में प्रथम पानीपत युद्ध जीता (Babar won 1st Battle of Panipat in 1526)",
-      "B": "अकबर ने मंसाबदारी प्रणाली शुरू की (Akbar started Mansabdari system)",
-      "C": "औरंगज़ेब ने जज़िया कर समाप्त किया (Aurangzeb abolished Jizya tax)",
-      "D": "औरंगज़ेब ने जज़िया कर पुनः लगाया (Aurangzeb reimposed Jizya tax)"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 49,
-    "question": "बाबर के सैन्य अभियानों में सही क्या है? / Which of the following are correct about Babur's military campaigns?",
-    "options": {
-      "A": "गुर्जर राजपूतों को पराजित किया (Defeated Gurjar Rajputs)",
-      "B": "आधुनिक तोपखाने का उपयोग किया (Used modern artillery)",
-      "C": "इब्न-बतूता से मार्गदर्शन लिया (Took guidance from Ibn Battuta)",
-      "D": "तुलूग्मा रणनीति अपनाई (Used Tulughma strategy)"
-    },
-    "answer": ["B", "D"]
-  },
-  {
-    "id": 50,
-    "question": "फतेहपुर सीकरी किसने बनवाई और क्यों छोड़ी? / Who built Fatehpur Sikri and why was it abandoned?",
-    "options": {
-      "A": "अकबर — जल की कमी (Akbar — water scarcity)",
-      "B": "जहाँगीर — युद्ध (Jahangir — war)",
-      "C": "शाहजहाँ — संसाधन अभाव (Shah Jahan — lack of resources)",
-      "D": "औरंगज़ेब — आर्थिक तंगी (Aurangzeb — economic crisis)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 51,
-    "question": "अकबर की दीन-ए-इलाही के बारे में सही कथन चुनें / Select the correct statements about Din-i Ilahi:",
-    "options": {
-      "A": "1582 में शुरू की गई (Started in 1582)",
-      "B": "सभी धर्मों का मिश्रण था (It was a blend of all religions)",
-      "C": "बड़े पैमाने पर लोकप्रिय हुआ (Became widely popular)",
-      "D": "अकबर ने खुद इसकी सदस्यता ली (Akbar himself joined)"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 52,
-    "question": "मुगल काल के दौरान राजस्व प्रशासन में सही क्या है? / Which statements are correct about revenue administration during Mughal era?",
-    "options": {
-      "A": "अकबर ने टोडर मल को वित्त मंत्री बनाया (Akbar appointed Todar Mal as finance minister)",
-      "B": "ज़ब्ती प्रणाली लागू की गई (Zabt system implemented)",
-      "C": "मुगलों ने भूमि मापने के लिए गज-ए-इलाही का प्रयोग किया (Used Gaj-i-Ilahi for land measurement)",
-      "D": "औरंगज़ेब ने नकदी कर को समाप्त कर दिया (Aurangzeb abolished cash tax)"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 53,
-    "question": "सूफी सिलसिलों में सही जोड़ी कौन-सी है? / Which of the following Sufi orders are correctly matched?",
-    "options": {
-      "A": "चिश्ती — मोइनुद्दीन चिश्ती (Chishti — Moinuddin Chishti)",
-      "B": "सुहरवर्दी — शेख शाहाबुद्दीन (Suhrawardi — Shihabuddin)",
-      "C": "नक्शबंदी — ख्वाजा बहाउद्दीन (Naqshbandi — Bahauddin)",
-      "D": "कादिरी — निजामुद्दीन औलिया (Qadiri — Nizamuddin Auliya)"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 54,
-    "question": "भक्ति आंदोलन के संत और उनके क्षेत्र की सही जोड़ी चुनें / Match the Bhakti saints with their regions:",
-    "options": {
-      "A": "तुलसीदास — वाराणसी (Tulsidas — Varanasi)",
-      "B": "नामदेव — महाराष्ट्र (Namdev — Maharashtra)",
-      "C": "चैतन्य महाप्रभु — बंगाल (Chaitanya Mahaprabhu — Bengal)",
-      "D": "मीराबाई — कर्नाटक (Meerabai — Karnataka)"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 55,
-    "question": "शेरशाह सूरी के प्रशासनिक सुधारों में सही क्या है? / Which were correct administrative reforms of Sher Shah Suri?",
-    "options": {
-      "A": "रुपये की एकरूपता (Standardization of Rupee)",
-      "B": "डाक व्यवस्था सुधार (Postal reforms)",
-      "C": "रैयतवाड़ी प्रणाली (Ryotwari system)",
-      "D": "सड़क निर्माण (Road construction)"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 56,
-    "question": "मुगल काल की वास्तुकला के बारे में सही कथन चुनें / Select the correct statements about Mughal architecture:",
-    "options": {
-      "A": "ताजमहल का निर्माण शाहजहाँ ने करवाया (Shah Jahan built Taj Mahal)",
-      "B": "लाल किला दिल्ली — शाहजहाँ (Red Fort Delhi — Shah Jahan)",
-      "C": "बुलंद दरवाजा — अकबर (Buland Darwaza — Akbar)",
-      "D": "मोती मस्जिद — औरंगज़ेब (Moti Masjid — Aurangzeb)"
-    },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 57,
-    "question": "लोधी वंश के बारे में सही क्या है? / Which of the following are correct about Lodi dynasty?",
-    "options": {
-      "A": "यह दिल्ली सल्तनत का अंतिम वंश था (It was the last dynasty of Delhi Sultanate)",
-      "B": "इब्राहिम लोदी पानीपत युद्ध में मारा गया (Ibrahim Lodi died in Battle of Panipat)",
-      "C": "लोदी अफगान मूल के थे (Lodis were of Afghan origin)",
-      "D": "लोदी वंश ने सिकंदर लोदी के समय सबसे अधिक विस्तार किया (Lodi dynasty expanded most under Sikandar Lodi)"
-    },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 58,
-    "question": "औरंगज़ेब के शासन में कौन-से बदलाव हुए? / Which changes occurred during Aurangzeb's reign?",
-    "options": {
-      "A": "जज़िया कर पुनः लागू (Reimposed Jizya tax)",
-      "B": "मुगल साम्राज्य का दक्षिण की ओर विस्तार (Southern expansion of empire)",
-      "C": "शराब और संगीत पर प्रतिबंध (Ban on wine and music)",
-      "D": "राजपूतों के साथ स्थायी संधि (Permanent treaty with Rajputs)"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 59,
-    "question": "भक्ति आंदोलन के संदर्भ में कबीर के विचार क्या थे? / Which were Kabir's main ideas?",
-    "options": {
-      "A": "निर्गुण भक्ति का समर्थन (Supported Nirguna Bhakti)",
-      "B": "हिन्दू-मुस्लिम एकता (Hindu-Muslim unity)",
-      "C": "वर्ण व्यवस्था का समर्थन (Supported Varna system)",
-      "D": "मूर्तिपूजा का विरोध (Opposed idol worship)"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 60,
-    "question": "क्षेत्रीय राज्यों में अवध के बारे में सही क्या है? / Which of the following are correct about Awadh?",
-    "options": {
-      "A": "सादत अली खान इसके संस्थापक थे (Saadat Ali Khan was its founder)",
-      "B": "अवध की राजधानी फैजाबाद थी (Capital was Faizabad)",
-      "C": "1764 में बक्सर युद्ध में अंग्रेजों से संधि की (Treaty with British in 1764)",
-      "D": "अवध पर मराठों का कब्जा 1784 में हुआ (Marathas captured Awadh in 1784)"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 61,
-    "question": "मराठा साम्राज्य के संदर्भ में सही कथन चुनें / Select the correct statements about Maratha Empire:",
-    "options": {
-      "A": "शिवाजी ने अष्टप्रधान परिषद स्थापित की (Shivaji established Ashtapradhan council)",
-      "B": "राजा शाहू के समय पेशवा पद वंशानुगत हुआ (Peshwa post became hereditary under Shahu)",
-      "C": "1761 में पानीपत की तीसरी लड़ाई में हार (Lost 3rd Battle of Panipat in 1761)",
-      "D": "मराठा राजधानी पुणे थी (Capital was Pune)"
-    },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 62,
-    "question": "मुगल के बाद बंगाल में कौन-से शासक उभरे? / Which rulers emerged in Bengal after Mughals?",
-    "options": {
-      "A": "मुरशिद कुली खान (Murshid Quli Khan)",
-      "B": "अलीवर्दी खान (Alivardi Khan)",
-      "C": "सिराज-उद-दौला (Siraj-ud-Daulah)",
-      "D": "मीर कासिम (Mir Qasim)"
-    },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 63,
-    "question": "तुगलक वंश के सुधारों में सही कौन-से हैं? / Which reforms of Tughlaq dynasty are correct?",
-    "options": {
-      "A": "मोहम्मद बिन तुगलक का दौलताबाद स्थानांतरण (Transfer to Daulatabad)",
-      "B": "तांबे के टोकन मुद्रा का प्रयोग (Use of copper token currency)",
-      "C": "विशाल सिंचाई परियोजना (Large irrigation project)",
-      "D": "कृषि कर कम करना (Reduction in land tax)"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 64,
-    "question": "दिल्ली सल्तनत के समाज में कौन-से वर्ग प्रमुख थे? / Which were the main classes in Delhi Sultanate society?",
-    "options": {
-      "A": "अभिजात वर्ग (Nobility)",
-      "B": "व्यापारी वर्ग (Merchants)",
-      "C": "कृषक वर्ग (Peasants)",
-      "D": "गुलाम वर्ग (Slaves)"
-    },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 65,
-    "question": "सूफी संत निजामुद्दीन औलिया किस सिलसिले से जुड़े थे? / Nizamuddin Auliya belonged to which Sufi order?",
-    "options": {
-      "A": "चिश्ती (Chishti)",
-      "B": "सुहरवर्दी (Suhrawardi)",
-      "C": "नक्शबंदी (Naqshbandi)",
-      "D": "कादिरी (Qadiri)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 66,
-    "question": "मुगल चित्रकला के बारे में सही कथन चुनें / Select correct statements about Mughal painting:",
-    "options": {
-      "A": "अकबर के समय फारसी और भारतीय शैली का मिश्रण हुआ (Fusion of Persian and Indian styles under Akbar)",
-      "B": "जहाँगीर प्राकृतिक चित्रण में रुचि रखते थे (Jahangir was interested in naturalistic painting)",
-      "C": "औरंगज़ेब ने चित्रकला को बढ़ावा दिया (Aurangzeb promoted painting)",
-      "D": "मुगल चित्रकला में यूरोपीय प्रभाव भी आया (European influence present)"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 67,
-    "question": "शाहजहाँ के समय की प्रमुख इमारतें कौन-सी हैं? / Which were major buildings during Shah Jahan's reign?",
-    "options": {
-      "A": "ताजमहल (Taj Mahal)",
-      "B": "जामा मस्जिद (Jama Masjid)",
-      "C": "मोती मस्जिद आगरा (Moti Masjid Agra)",
-      "D": "बुलंद दरवाजा (Buland Darwaza)"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 68,
-    "question": "भक्ति-सूफी साहित्य में कौन-से ग्रंथ प्रमुख हैं? / Which texts are important in Bhakti-Sufi literature?",
-    "options": {
-      "A": "कबीर के साखी (Kabir's Sakhi)",
-      "B": "गुरु ग्रंथ साहिब (Guru Granth Sahib)",
-      "C": "पदावली (Padavali)",
-      "D": "अकबरनामा (Akbarnama)"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 69,
-    "question": "मैसूर राज्य के संदर्भ में सही कथन चुनें / Select the correct statements about Mysore state:",
-    "options": {
-      "A": "हैदर अली ने सत्ता संभाली (Hyder Ali took power)",
-      "B": "टीपू सुल्तान ने अंग्रेजों से चार युद्ध लड़े (Tipu Sultan fought four wars with British)",
-      "C": "सिरिंगपट्टनम संधि 1792 में हुई (Treaty of Seringapatam in 1792)",
-      "D": "टीपू ने फ्रांस से गठबंधन किया (Tipu allied with France)"
-    },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 70,
-    "question": "दिल्ली सल्तनत के दौरान अर्थव्यवस्था में कौन-से क्षेत्र प्रमुख थे? / Which sectors were important in the economy during Delhi Sultanate?",
-    "options": {
-      "A": "कृषि (Agriculture)",
-      "B": "हस्तशिल्प (Handicrafts)",
-      "C": "विदेशी व्यापार (Foreign trade)",
-      "D": "खनन (Mining)"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 71,
-    "question": "अकबर के दरबार में 2024 में नई खोजों के अनुसार कौन-सा यूरोपीय यात्री आया था? / According to 2024 research, which European traveller visited Akbar's court?",
-    "options": {
-      "A": "प्लाविनो (Plavino)",
-      "B": "राल्फ फिच (Ralph Fitch)",
-      "C": "थॉमस रो (Thomas Roe)",
-      "D": "निकोलाओ मानुची (Niccolao Manucci)"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 72,
-    "question": "2025 के ताजा पुरातात्विक साक्ष्यों के अनुसार किस मुगल शासक की कब्र का पुन:अध्ययन हुआ? / According to 2025 archaeological evidence, whose tomb has been re-studied?",
-    "options": {
-      "A": "हुमायूँ (Humayun)",
-      "B": "जहाँगीर (Jahangir)",
-      "C": "औरंगज़ेब (Aurangzeb)",
-      "D": "शाहजहाँ (Shah Jahan)"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 73,
-    "question": "दिल्ली सल्तनत के दौरान किस विदेशी यात्री ने भारत का दौरा किया? / Which foreign traveller visited India during Delhi Sultanate?",
-    "options": {
-      "A": "इब्न बतूता (Ibn Battuta)",
-      "B": "मार्को पोलो (Marco Polo)",
-      "C": "अल मसूदी (Al-Masudi)",
-      "D": "निकोलो डी कॉन्टी (Niccolo de Conti)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 74,
-    "question": "मुगल साम्राज्य के पतन के कारणों में कौन-से शामिल हैं? / Which were reasons for decline of Mughal Empire?",
-    "options": {
-      "A": "उत्तराधिकार युद्ध (Succession wars)",
-      "B": "प्रांतीय विद्रोह (Provincial revolts)",
-      "C": "विदेशी आक्रमण (Foreign invasions)",
-      "D": "प्रशासनिक भ्रष्टाचार (Administrative corruption)"
-    },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 75,
-    "question": "भक्ति आंदोलन में दक्षिण भारत के संत कौन थे? / Which were Bhakti saints from South India?",
-    "options": {
-      "A": "अलवार (Alvar)",
-      "B": "नयनार (Nayanar)",
-      "C": "कनकदास (Kanakadasa)",
-      "D": "तुलसीदास (Tulsidas)"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 76,
-    "question": "सैयद वंश के बारे में सही क्या है? / Which of the following are correct about Sayyid dynasty?",
-    "options": {
-      "A": "यह तुगलक वंश के बाद आया (It came after Tughlaq dynasty)",
-      "B": "इसके संस्थापक खिज्र खान थे (Founded by Khizr Khan)",
-      "C": "लोधी वंश ने इसे हटाया (Lodi dynasty replaced it)",
-      "D": "यह सबसे लंबा चलने वाला वंश था (It was the longest ruling dynasty)"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 77,
-    "question": "औरंगज़ेब के समय 2024 की नयी खोजों के अनुसार किस गढ़ी का विस्तार हुआ था? / According to 2024 discoveries, which fort was expanded during Aurangzeb's time?",
-    "options": {
-      "A": "गोलकोंडा किला (Golconda Fort)",
-      "B": "आसिरगढ़ किला (Asirgarh Fort)",
-      "C": "लाल किला (Red Fort)",
-      "D": "दौलताबाद किला (Daulatabad Fort)"
+      "A": "धर्मांतरण रोकना / Stop religious conversions",
+      "B": "हिंदू धर्म में पुनः प्रवेश / Re-conversion to Hinduism",
+      "C": "महिला शिक्षा को बढ़ावा / Promote women education",
+      "D": "जाति प्रथा समाप्त करना / End caste system"
     },
     "answer": ["B"]
   }
-]  
-
+]
+  
