@@ -163,5 +163,171 @@
       "D": "रॉलेट आयोग (Rowlatt Commission)"
     },
     "answer": ["A"]
+  },
+  {
+    "id": 16,
+    "question": "दीनदयाल नरोजी की 'ड्रेन थ्योरी' का मुख्य तात्पर्य क्या है? / What is the main idea of Dadabhai Naoroji's 'Drain Theory'?",
+    "options": {
+      "A": "ब्रिटिश भारत से धन का ब्रिटेन स्थानांतरण (Transfer of wealth from British India to Britain)",
+      "B": "भारत की आर्थिक समृद्धि (Economic prosperity of India)",
+      "C": "भारत में औद्योगिकीकरण (Industrialization in India)",
+      "D": "कृषि सुधार (Agricultural reforms)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 17,
+    "question": "दीनदयाल नरोजी ने ब्रिटिश शासन की आलोचना किस पुस्तक में की? / In which book did Dadabhai Naoroji criticize British rule?",
+    "options": {
+      "A": "Poverty and Un-British Rule in India",
+      "B": "Indian Economy under British Rule",
+      "C": "The Economic History of India",
+      "D": "Drain Theory Explained"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 18,
+    "question": "रमेशचन्द्र मजूमदार ने किस विषय पर व्यापक अध्ययन किया? / What was R.C. Majumdar’s major area of study?",
+    "options": {
+      "A": "ब्रिटिश भारत का आर्थिक इतिहास (Economic history of British India)",
+      "B": "भारतीय स्वतंत्रता संग्राम (Indian freedom struggle)",
+      "C": "भारतीय संस्कृति (Indian culture)",
+      "D": "विश्व युद्ध (World War)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 19,
+    "question": "सतीश चंद्र ने किस विषय पर अपनी प्रसिद्ध कृति लिखी? / On which subject did Satish Chandra write his famous work?",
+    "options": {
+      "A": "ब्रिटिश औपनिवेशिक आर्थिक नीतियाँ (British colonial economic policies)",
+      "B": "मुगल साम्राज्य (Mughal Empire)",
+      "C": "प्राचीन भारतीय इतिहास (Ancient Indian History)",
+      "D": "भारतीय कला (Indian Art)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 20,
+    "question": "नरोजी की ड्रेन थ्योरी के अनुसार, ब्रिटिश भारत से धन कैसे निकलता था? / According to Naoroji’s Drain Theory, how was wealth drained from British India?",
+    "options": {
+      "A": "करों और लाभ के रूप में (Through taxes and profits)",
+      "B": "विदेशी निवेश के माध्यम से (Through foreign investment)",
+      "C": "विदेशी व्यापार के कारण (Due to foreign trade)",
+      "D": "आर्थिक सहायता के रूप में (As economic aid)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 21,
+    "question": "रमेशचन्द्र मजूमदार ने किस आर्थिक क्षेत्र पर विशेष ध्यान दिया? / Which economic sector did R.C. Majumdar particularly focus on?",
+    "options": {
+      "A": "कृषि और उद्योग (Agriculture and Industry)",
+      "B": "वाणिज्य (Commerce)",
+      "C": "शिक्षा (Education)",
+      "D": "परिवहन (Transportation)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 22,
+    "question": "सतीश चंद्र ने ब्रिटिश प्रशासन की किन नीतियों पर आलोचना की? / On which British policies did Satish Chandra criticize?",
+    "options": {
+      "A": "आर्थिक शोषण और कर प्रणाली (Economic exploitation and taxation system)",
+      "B": "शिक्षा सुधार (Education reforms)",
+      "C": "सैन्य नीतियाँ (Military policies)",
+      "D": "धार्मिक नीतियाँ (Religious policies)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 23,
+    "question": "नरोजी का मानना था कि ब्रिटिश शासन भारत की संपत्ति कैसे हड़पता है? / According to Naoroji, how did British rule appropriate India's wealth?",
+    "options": {
+      "A": "ब्रिटिश अधिकारियों की सैलरी और मुनाफा (Salaries and profits of British officials)",
+      "B": "विदेशी व्यापार के माध्यम से (Through foreign trade)",
+      "C": "भारतीय सेना के खर्चों से (From Indian army expenses)",
+      "D": "कृषि उत्पादों से (From agricultural products)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 24,
+    "question": "रमेशचन्द्र मजूमदार के अनुसार ब्रिटिश आर्थिक नीतियाँ किस प्रकार भारतीय किसानों को प्रभावित करती थीं? / According to R.C. Majumdar, how did British economic policies affect Indian farmers?",
+    "options": {
+      "A": "कृषि करों में वृद्धि और कर्ज के बोझ से (Increase in agricultural taxes and debt burden)",
+      "B": "कृषि सुधारों से लाभ हुआ (Benefited from agricultural reforms)",
+      "C": "सरकारी सहायता से आर्थिक वृद्धि हुई (Economic growth due to government aid)",
+      "D": "किसानों को भूमि मिली (Farmers got land)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 25,
+    "question": "सतीश चंद्र ने भारतीय आर्थिक शोषण को किस रूप में वर्णित किया? / How did Satish Chandra describe Indian economic exploitation?",
+    "options": {
+      "A": "ब्रिटिश औपनिवेशिक नीतियों का परिणाम (Result of British colonial policies)",
+      "B": "स्वदेशी व्यापार का फल (Result of indigenous trade)",
+      "C": "विश्व आर्थिक प्रणाली का हिस्सा (Part of world economic system)",
+      "D": "स्वतंत्र विकास की प्रक्रिया (Process of independent development)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 26,
+    "question": "नरोजी की ड्रेन थ्योरी का उद्देश्य क्या था? / What was the purpose of Naoroji’s Drain Theory?",
+    "options": {
+      "A": "ब्रिटिश शासन के आर्थिक दुष्परिणामों को उजागर करना (To expose the economic harms of British rule)",
+      "B": "ब्रिटिश नीति का समर्थन करना (To support British policies)",
+      "C": "भारतीय उद्योग को बढ़ावा देना (To promote Indian industry)",
+      "D": "विदेशी निवेश को प्रोत्साहित करना (To encourage foreign investment)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 27,
+    "question": "रमेशचन्द्र मजूमदार की किताब 'The Economic History of India under Early British Rule' किस विषय पर केंद्रित है? / What is the focus of R.C. Majumdar's book 'The Economic History of India under Early British Rule'?",
+    "options": {
+      "A": "ब्रिटिश शासन के प्रारंभिक आर्थिक प्रभाव (Early economic effects of British rule)",
+      "B": "स्वतंत्रता संग्राम (Freedom struggle)",
+      "C": "धार्मिक आंदोलन (Religious movements)",
+      "D": "प्राचीन इतिहास (Ancient history)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 28,
+    "question": "सतीश चंद्र की कृतियों में किस विषय पर विशेष जोर दिया गया है? / What theme is emphasized in Satish Chandra’s works?",
+    "options": {
+      "A": "ब्रिटिश औपनिवेशिक आर्थिक और प्रशासनिक नीतियाँ (British colonial economic and administrative policies)",
+      "B": "भारतीय स्वतंत्रता संग्राम (Indian freedom struggle)",
+      "C": "मुगल कालीन शासन (Mughal administration)",
+      "D": "प्राचीन भारतीय धर्म (Ancient Indian religion)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 29,
+    "question": "नरोजी ने आर्थिक शोषण की समस्या को कैसे समझाया? / How did Naoroji explain the problem of economic exploitation?",
+    "options": {
+      "A": "ब्रिटिश राज के कारण धन का भारत से बाहर जाना (Outflow of wealth from India due to British rule)",
+      "B": "भारत के प्राकृतिक संसाधनों की कमी (Lack of natural resources in India)",
+      "C": "भारतीय किसानों की आलस्य (Laziness of Indian farmers)",
+      "D": "विश्व आर्थिक संकट (Global economic crisis)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 30,
+    "question": "नरोजी और रमेशचन्द्र मजूमदार की कृतियाँ किस विषय पर मुख्य रूप से आधारित हैं? / The works of Naoroji and R.C. Majumdar are mainly based on which subject?",
+    "options": {
+      "A": "ब्रिटिश उपनिवेशवाद और भारत का आर्थिक शोषण (British colonialism and economic exploitation of India)",
+      "B": "भारतीय कला और संस्कृति (Indian art and culture)",
+      "C": "भारतीय स्वतंत्रता संग्राम (Indian freedom struggle)",
+      "D": "वैज्ञानिक विकास (Scientific development)"
+    },
+    "answer": ["A"]
   }
 ]
+
