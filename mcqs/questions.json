@@ -1,333 +1,1097 @@
 [
-  {
-    "id": 1,
-    "question": "अंग्रेज़ी शासन में भारत का सबसे उच्च प्रशासनिक पद कौन सा था? / What was the highest administrative position in British India?",
-    "options": {
-      "A": "गवर्नर जनरल (Governor General)",
-      "B": "वाइसरॉय (Viceroy)",
-      "C": "डिप्टी कमिश्नर (Deputy Commissioner)",
-      "D": "कलेक्टर (Collector)"
+    {
+        "id": 1,
+        "question": "गौतम बुद्ध का जन्म किस स्थान पर हुआ था? / Where was Gautam Buddha born?",
+        "options": {
+            "A": "लुंबिनी (Lumbini)",
+            "B": "कपिलवस्तु (Kapilvastu)",
+            "C": "वैशाली (Vaishali)",
+            "D": "कुशीनगर (Kushinagar)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 2,
-    "question": "इंडियन सिविल सेवा (ICS) का गठन किस वर्ष हुआ? / When was the Indian Civil Service (ICS) established?",
-    "options": {
-      "A": "1858",
-      "B": "1861",
-      "C": "1773",
-      "D": "1905"
+    {
+        "id": 2,
+        "question": "महाभिनिष्क्रमण के समय बुद्ध ने किस नगर को छोड़ा था? / During the Great Renunciation, which city did Buddha leave?",
+        "options": {
+            "A": "राजगृह (Rajgriha)",
+            "B": "कपिलवस्तु (Kapilvastu)",
+            "C": "वैशाली (Vaishali)",
+            "D": "सारनाथ (Sarnath)"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 3,
-    "question": "1858 के बाद भारत का प्रशासन किसके नियंत्रण में आया? / After 1858, under whose control was the administration of India?",
-    "options": {
-      "A": "ब्रिटिश सरकार (British Government)",
-      "B": "ईस्ट इंडिया कंपनी (East India Company)",
-      "C": "भारतीय राष्ट्रीय कांग्रेस (Indian National Congress)",
-      "D": "मुगल बादशाह (Mughal Emperor)"
+    {
+        "id": 3,
+        "question": "गौतम बुद्ध को ज्ञान की प्राप्ति कहाँ हुई थी? / Where did Gautam Buddha attain enlightenment?",
+        "options": {
+            "A": "लुंबिनी (Lumbini)",
+            "B": "बोधगया (Bodh Gaya)",
+            "C": "सारनाथ (Sarnath)",
+            "D": "कुशीनगर (Kushinagar)"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 4,
-    "question": "ब्रिटिश भारत में जिलों का प्रशासन किस अधिकारी के तहत होता था? / Who was the administrative head of districts in British India?",
-    "options": {
-      "A": "कलेक्टर (Collector)",
-      "B": "सुपरिंटेंडेंट (Superintendent)",
-      "C": "जज (Judge)",
-      "D": "डिप्टी कमिश्नर (Deputy Commissioner)"
+    {
+        "id": 4,
+        "question": "बुद्ध का प्रथम उपदेश किस स्थान पर हुआ था? / Where did Buddha deliver his first sermon?",
+        "options": {
+            "A": "लुंबिनी (Lumbini)",
+            "B": "राजगृह (Rajgriha)",
+            "C": "सारनाथ (Sarnath)",
+            "D": "बोधगया (Bodh Gaya)"
+        },
+        "answer": [
+            "C"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 5,
-    "question": "ब्रिटिश भारत में प्रांतों का प्रशासन किस पद के अधीन था? / The provinces in British India were administered under which post?",
-    "options": {
-      "A": "लॉर्ड गवर्नर (Lord Governor)",
-      "B": "डिप्टी कलेक्टर (Deputy Collector)",
-      "C": "कलेक्टर (Collector)",
-      "D": "सुपरिंटेंडेंट (Superintendent)"
+    {
+        "id": 5,
+        "question": "महापरिनिर्वाण के समय बुद्ध कहाँ थे? / Where was Buddha at the time of Mahaparinirvana?",
+        "options": {
+            "A": "लुंबिनी (Lumbini)",
+            "B": "कपिलवस्तु (Kapilvastu)",
+            "C": "कुशीनगर (Kushinagar)",
+            "D": "वैशाली (Vaishali)"
+        },
+        "answer": [
+            "C"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 6,
-    "question": "ब्रिटिश प्रशासनिक व्यवस्था में 'डिप्टी कलेक्टर' की भूमिका क्या थी? / What was the role of Deputy Collector in British administration?",
-    "options": {
-      "A": "जिला स्तर पर कर वसूलना और प्रशासन करना (Tax collection and administration at district level)",
-      "B": "शिक्षा प्रबंधन (Education management)",
-      "C": "सेना की कमान (Military command)",
-      "D": "न्यायपालिका की जिम्मेदारी (Judicial responsibilities)"
+    {
+        "id": 6,
+        "question": "निम्न में से कौन-से स्थान बुद्ध के जीवन से संबंधित हैं? / Which of the following places are related to Buddha's life?",
+        "options": {
+            "A": "लुंबिनी (Lumbini)",
+            "B": "बोधगया (Bodh Gaya)",
+            "C": "सारनाथ (Sarnath)",
+            "D": "कुशीनगर (Kushinagar)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 7,
-    "question": "ब्रिटिश भारत में जिला स्तर पर न्यायपालिका किसके नियंत्रण में थी? / At the district level, the judiciary in British India was under whose control?",
-    "options": {
-      "A": "जज (Judge)",
-      "B": "कलेक्टर (Collector)",
-      "C": "डिप्टी कलेक्टर (Deputy Collector)",
-      "D": "थाना इंचार्ज (Police Superintendent)"
+    {
+        "id": 7,
+        "question": "महाभिनिष्क्रमण के समय बुद्ध ने कौन-सी नदी पार की थी? / Which river did Buddha cross during the Great Renunciation?",
+        "options": {
+            "A": "गंगा (Ganga)",
+            "B": "अनॉमा (Anoma)",
+            "C": "घाघरा (Ghaghra)",
+            "D": "राप्ती (Rapti)"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 8,
-    "question": "ब्रिटिश शासन के तहत भारत में कानून बनाने का अधिकार किसके पास था? / Under British rule, who had the authority to make laws in India?",
-    "options": {
-      "A": "ब्रिटिश संसद (British Parliament)",
-      "B": "भारतीय प्रांतीय सरकार (Indian Provincial Government)",
-      "C": "मुगल बादशाह (Mughal Emperor)",
-      "D": "भारतीय जनता (Indian People)"
+    {
+        "id": 8,
+        "question": "बुद्ध के जन्म के समय कपिलवस्तु के राजा कौन थे? / Who was the ruler of Kapilvastu at the time of Buddha's birth?",
+        "options": {
+            "A": "शुद्धोधन (Shuddhodana)",
+            "B": "सिद्धार्थ (Siddhartha)",
+            "C": "अजातशत्रु (Ajatashatru)",
+            "D": "बिम्बिसार (Bimbisara)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 9,
-    "question": "1858 के बाद भारत के लिए किस पद पर नियुक्ति ब्रिटिश राजा के द्वारा की जाती थी? / After 1858, who appointed the Viceroy of India?",
-    "options": {
-      "A": "ब्रिटिश राजा (British Monarch)",
-      "B": "ब्रिटिश संसद (British Parliament)",
-      "C": "भारतीय प्रांत सरकार (Indian Provincial Government)",
-      "D": "भारतीय राजा (Indian King)"
+    {
+        "id": 9,
+        "question": "निम्नलिखित में से कौन-सा बौद्ध स्थल बिहार में स्थित है? / Which of the following Buddhist sites is located in Bihar?",
+        "options": {
+            "A": "बोधगया (Bodh Gaya)",
+            "B": "सारनाथ (Sarnath)",
+            "C": "वैशाली (Vaishali)",
+            "D": "कुशीनगर (Kushinagar)"
+        },
+        "answer": [
+            "A",
+            "C"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 10,
-    "question": "इंडियन सिविल सेवा (ICS) के अधिकारियों का चयन कैसे होता था? / How were the officers of Indian Civil Service (ICS) selected?",
-    "options": {
-      "A": "प्रतियोगी परीक्षा के द्वारा (Through competitive examination)",
-      "B": "नामांकन (Nomination)",
-      "C": "राजनीतिक नियुक्ति (Political appointment)",
-      "D": "लोकतांत्रिक चुनाव (Democratic election)"
+    {
+        "id": 10,
+        "question": "बुद्ध के समय में ‘राजगृह’ किस राज्य की राजधानी थी? / During Buddha's time, Rajgriha was the capital of which kingdom?",
+        "options": {
+            "A": "मगध (Magadha)",
+            "B": "कोसल (Kosala)",
+            "C": "अंग (Anga)",
+            "D": "वज्जि (Vajji)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 11,
-    "question": "ब्रिटिश भारत में पुलिस व्यवस्था का प्रमुख अधिकारी कौन था? / Who was the chief officer of police system in British India?",
-    "options": {
-      "A": "थाना इंचार्ज (Police Superintendent)",
-      "B": "कलेक्टर (Collector)",
-      "C": "डिप्टी कलेक्टर (Deputy Collector)",
-      "D": "जज (Judge)"
+    {
+        "id": 11,
+        "question": "बुद्ध को ज्ञान किस वृक्ष के नीचे प्राप्त हुआ था? / Under which tree did Buddha attain enlightenment?",
+        "options": {
+            "A": "बरगद (Banyan)",
+            "B": "पीपल (Peepal)",
+            "C": "नीम (Neem)",
+            "D": "अशोक (Ashoka)"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 12,
-    "question": "ब्रिटिश प्रशासन में प्रांतीय सरकारों के प्रमुख कौन होते थे? / Who were the heads of provincial governments in British administration?",
-    "options": {
-      "A": "गवर्नर (Governor)",
-      "B": "कलेक्टर (Collector)",
-      "C": "डिप्टी कलेक्टर (Deputy Collector)",
-      "D": "थाना इंचार्ज (Police Superintendent)"
+    {
+        "id": 12,
+        "question": "सिद्धार्थ के गुरु अलार कालाम किस दर्शन से जुड़े थे? / Alara Kalama, Siddhartha's teacher, was associated with which philosophy?",
+        "options": {
+            "A": "सांख्य (Samkhya)",
+            "B": "योग (Yoga)",
+            "C": "जैन (Jain)",
+            "D": "बौद्ध (Buddhist)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 13,
-    "question": "ब्रिटिश भारत में कौन से प्रशासनिक पद का कार्य न्यायपालिका और प्रशासन दोनों था? / Which administrative post in British India had both judicial and administrative powers?",
-    "options": {
-      "A": "कलेक्टर (Collector)",
-      "B": "डिप्टी कलेक्टर (Deputy Collector)",
-      "C": "थाना इंचार्ज (Police Superintendent)",
-      "D": "गवर्नर (Governor)"
+    {
+        "id": 13,
+        "question": "बुद्ध का उपदेश 'धम्मचक्कप्पवत्तन सुत्त' किस भाषा में दिया गया था? / The Dhammachakkappavattana Sutta was delivered in which language?",
+        "options": {
+            "A": "पाली (Pali)",
+            "B": "संस्कृत (Sanskrit)",
+            "C": "प्राकृत (Prakrit)",
+            "D": "अर्धमागधी (Ardhamagadhi)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 14,
-    "question": "ब्रिटिश भारत में राज्य के प्रशासनिक कार्यों के लिए किस प्रकार का ढांचा था? / What type of administrative structure existed for state governance in British India?",
-    "options": {
-      "A": "सेंट्रलाइज्ड प्रशासन (Centralized administration)",
-      "B": "फेडरल प्रशासन (Federal administration)",
-      "C": "स्वायत्त प्रशासन (Autonomous administration)",
-      "D": "गैर-सरकारी प्रशासन (Non-government administration)"
+    {
+        "id": 14,
+        "question": "बुद्ध के प्रमुख lay follower में से कौन थे? / Who among the following were prominent lay followers of Buddha?",
+        "options": {
+            "A": "अनाथपिंडक (Anathapindika)",
+            "B": "चुंडा (Chunda)",
+            "C": "बिम्बिसार (Bimbisara)",
+            "D": "अजातशत्रु (Ajatashatru)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 15,
-    "question": "ब्रिटिश शासन के दौरान भारत में प्रशासनिक सुधारों के लिए कौन सा आयोग बना? / Which commission was formed for administrative reforms during British rule in India?",
-    "options": {
-      "A": "मोरिस आयोग (Morris Commission)",
-      "B": "माउंटबेटन आयोग (Mountbatten Commission)",
-      "C": "साइमन आयोग (Simon Commission)",
-      "D": "रॉलेट आयोग (Rowlatt Commission)"
+    {
+        "id": 15,
+        "question": "बुद्ध ने अपना अधिकांश वर्षा-वास कहाँ बिताया था? / Where did Buddha spend most of his Vassa (monsoon retreats)?",
+        "options": {
+            "A": "जेतवन विहार (Jetavana Monastery)",
+            "B": "वेलुवन विहार (Veluvana Monastery)",
+            "C": "गृध्रकूट पर्वत (Griddhakuta Hill)",
+            "D": "कपिलवस्तु (Kapilvastu)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 16,
-    "question": "दीनदयाल नरोजी की 'ड्रेन थ्योरी' का मुख्य तात्पर्य क्या है? / What is the main idea of Dadabhai Naoroji's 'Drain Theory'?",
-    "options": {
-      "A": "ब्रिटिश भारत से धन का ब्रिटेन स्थानांतरण (Transfer of wealth from British India to Britain)",
-      "B": "भारत की आर्थिक समृद्धि (Economic prosperity of India)",
-      "C": "भारत में औद्योगिकीकरण (Industrialization in India)",
-      "D": "कृषि सुधार (Agricultural reforms)"
+    {
+        "id": 16,
+        "question": "कुशीनगर किस नदी के किनारे स्थित है? / Kushinagar is situated on the bank of which river?",
+        "options": {
+            "A": "राप्ती (Rapti)",
+            "B": "गंडक (Gandak)",
+            "C": "घाघरा (Ghaghra)",
+            "D": "गंगा (Ganga)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 17,
-    "question": "दीनदयाल नरोजी ने ब्रिटिश शासन की आलोचना किस पुस्तक में की? / In which book did Dadabhai Naoroji criticize British rule?",
-    "options": {
-      "A": "Poverty and Un-British Rule in India",
-      "B": "Indian Economy under British Rule",
-      "C": "The Economic History of India",
-      "D": "Drain Theory Explained"
+    {
+        "id": 17,
+        "question": "निम्न में से कौन-सा राज्य बुद्ध के जीवनकाल में मौजूद था? / Which of the following states existed during Buddha's lifetime?",
+        "options": {
+            "A": "मगध (Magadha)",
+            "B": "वज्जि (Vajji)",
+            "C": "कोसल (Kosala)",
+            "D": "अंग (Anga)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 18,
-    "question": "रमेशचन्द्र मजूमदार ने किस विषय पर व्यापक अध्ययन किया? / What was R.C. Majumdar’s major area of study?",
-    "options": {
-      "A": "ब्रिटिश भारत का आर्थिक इतिहास (Economic history of British India)",
-      "B": "भारतीय स्वतंत्रता संग्राम (Indian freedom struggle)",
-      "C": "भारतीय संस्कृति (Indian culture)",
-      "D": "विश्व युद्ध (World War)"
+    {
+        "id": 18,
+        "question": "बुद्ध के पिता किस वंश से थे? / Buddha's father belonged to which dynasty?",
+        "options": {
+            "A": "शाक्य (Shakya)",
+            "B": "मौर्य (Maurya)",
+            "C": "लिच्छवि (Licchavi)",
+            "D": "इक्ष्वाकु (Ikshvaku)"
+        },
+        "answer": [
+            "A",
+            "D"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 19,
-    "question": "सतीश चंद्र ने किस विषय पर अपनी प्रसिद्ध कृति लिखी? / On which subject did Satish Chandra write his famous work?",
-    "options": {
-      "A": "ब्रिटिश औपनिवेशिक आर्थिक नीतियाँ (British colonial economic policies)",
-      "B": "मुगल साम्राज्य (Mughal Empire)",
-      "C": "प्राचीन भारतीय इतिहास (Ancient Indian History)",
-      "D": "भारतीय कला (Indian Art)"
+    {
+        "id": 19,
+        "question": "निम्न में से कौन-सा बौद्ध स्थल उत्तर प्रदेश में स्थित है? / Which of the following Buddhist sites is located in Uttar Pradesh?",
+        "options": {
+            "A": "सारनाथ (Sarnath)",
+            "B": "कुशीनगर (Kushinagar)",
+            "C": "वैशाली (Vaishali)",
+            "D": "श्रावस्ती (Shravasti)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 20,
-    "question": "नरोजी की ड्रेन थ्योरी के अनुसार, ब्रिटिश भारत से धन कैसे निकलता था? / According to Naoroji’s Drain Theory, how was wealth drained from British India?",
-    "options": {
-      "A": "करों और लाभ के रूप में (Through taxes and profits)",
-      "B": "विदेशी निवेश के माध्यम से (Through foreign investment)",
-      "C": "विदेशी व्यापार के कारण (Due to foreign trade)",
-      "D": "आर्थिक सहायता के रूप में (As economic aid)"
+    {
+        "id": 20,
+        "question": "बुद्ध के उपदेशों का संकलन किसमें हुआ है? / In which were the teachings of Buddha compiled?",
+        "options": {
+            "A": "त्रिपिटक (Tripitaka)",
+            "B": "अष्टाध्यायी (Ashtadhyayi)",
+            "C": "वेद (Vedas)",
+            "D": "धम्मपद (Dhammapada)"
+        },
+        "answer": [
+            "A",
+            "D"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 21,
-    "question": "रमेशचन्द्र मजूमदार ने किस आर्थिक क्षेत्र पर विशेष ध्यान दिया? / Which economic sector did R.C. Majumdar particularly focus on?",
-    "options": {
-      "A": "कृषि और उद्योग (Agriculture and Industry)",
-      "B": "वाणिज्य (Commerce)",
-      "C": "शिक्षा (Education)",
-      "D": "परिवहन (Transportation)"
+    {
+        "id": 21,
+        "question": "बुद्ध के जीवन से जुड़ी चार प्रमुख घटनाएँ किस नाम से जानी जाती हैं? / The four major events in Buddha's life are known by which term?",
+        "options": {
+            "A": "चतुर्महास्थान (Chaturmahasthana)",
+            "B": "चार आर्य सत्य (Four Noble Truths)",
+            "C": "महाभिनिष्क्रमण (Mahabhinishkraman)",
+            "D": "धर्मचक्र प्रवर्तन (Dharmachakra Pravartana)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 22,
-    "question": "सतीश चंद्र ने ब्रिटिश प्रशासन की किन नीतियों पर आलोचना की? / On which British policies did Satish Chandra criticize?",
-    "options": {
-      "A": "आर्थिक शोषण और कर प्रणाली (Economic exploitation and taxation system)",
-      "B": "शिक्षा सुधार (Education reforms)",
-      "C": "सैन्य नीतियाँ (Military policies)",
-      "D": "धार्मिक नीतियाँ (Religious policies)"
+    {
+        "id": 22,
+        "question": "गौतम बुद्ध का जन्म किस वर्ष के आसपास हुआ था? / Around which year was Gautam Buddha born?",
+        "options": {
+            "A": "623 ईसा पूर्व (623 BCE)",
+            "B": "563 ईसा पूर्व (563 BCE)",
+            "C": "483 ईसा पूर्व (483 BCE)",
+            "D": "500 ईसा पूर्व (500 BCE)"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 23,
-    "question": "नरोजी का मानना था कि ब्रिटिश शासन भारत की संपत्ति कैसे हड़पता है? / According to Naoroji, how did British rule appropriate India's wealth?",
-    "options": {
-      "A": "ब्रिटिश अधिकारियों की सैलरी और मुनाफा (Salaries and profits of British officials)",
-      "B": "विदेशी व्यापार के माध्यम से (Through foreign trade)",
-      "C": "भारतीय सेना के खर्चों से (From Indian army expenses)",
-      "D": "कृषि उत्पादों से (From agricultural products)"
+    {
+        "id": 23,
+        "question": "महापरिनिर्वाण के समय बुद्ध की आयु कितनी थी? / What was Buddha's age at the time of Mahaparinirvana?",
+        "options": {
+            "A": "70 वर्ष (70 years)",
+            "B": "80 वर्ष (80 years)",
+            "C": "75 वर्ष (75 years)",
+            "D": "85 वर्ष (85 years)"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 24,
-    "question": "रमेशचन्द्र मजूमदार के अनुसार ब्रिटिश आर्थिक नीतियाँ किस प्रकार भारतीय किसानों को प्रभावित करती थीं? / According to R.C. Majumdar, how did British economic policies affect Indian farmers?",
-    "options": {
-      "A": "कृषि करों में वृद्धि और कर्ज के बोझ से (Increase in agricultural taxes and debt burden)",
-      "B": "कृषि सुधारों से लाभ हुआ (Benefited from agricultural reforms)",
-      "C": "सरकारी सहायता से आर्थिक वृद्धि हुई (Economic growth due to government aid)",
-      "D": "किसानों को भूमि मिली (Farmers got land)"
+    {
+        "id": 24,
+        "question": "‘अनाथपिंडक’ किस नगर के व्यापारी थे? / Anathapindika was a merchant of which city?",
+        "options": {
+            "A": "सावत्त्थी (Sravasti)",
+            "B": "राजगृह (Rajgriha)",
+            "C": "वैशाली (Vaishali)",
+            "D": "कपिलवस्तु (Kapilvastu)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 25,
-    "question": "सतीश चंद्र ने भारतीय आर्थिक शोषण को किस रूप में वर्णित किया? / How did Satish Chandra describe Indian economic exploitation?",
-    "options": {
-      "A": "ब्रिटिश औपनिवेशिक नीतियों का परिणाम (Result of British colonial policies)",
-      "B": "स्वदेशी व्यापार का फल (Result of indigenous trade)",
-      "C": "विश्व आर्थिक प्रणाली का हिस्सा (Part of world economic system)",
-      "D": "स्वतंत्र विकास की प्रक्रिया (Process of independent development)"
+    {
+        "id": 25,
+        "question": "‘मल्ल’ गण किस क्षेत्र में स्थित थे? / The Malla republic was located in which region?",
+        "options": {
+            "A": "कुशीनगर और पावा (Kushinagar and Pava)",
+            "B": "वैशाली और पाटलिपुत्र (Vaishali and Pataliputra)",
+            "C": "श्रावस्ती और कपिलवस्तु (Shravasti and Kapilvastu)",
+            "D": "राजगृह और गया (Rajgriha and Gaya)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 26,
-    "question": "नरोजी की ड्रेन थ्योरी का उद्देश्य क्या था? / What was the purpose of Naoroji’s Drain Theory?",
-    "options": {
-      "A": "ब्रिटिश शासन के आर्थिक दुष्परिणामों को उजागर करना (To expose the economic harms of British rule)",
-      "B": "ब्रिटिश नीति का समर्थन करना (To support British policies)",
-      "C": "भारतीय उद्योग को बढ़ावा देना (To promote Indian industry)",
-      "D": "विदेशी निवेश को प्रोत्साहित करना (To encourage foreign investment)"
+    {
+        "id": 26,
+        "question": "बुद्ध ने 'अप्प दीपो भव' किससे कहा था? / To whom did Buddha say 'Appa Deepo Bhava' (Be a light unto yourself)?",
+        "options": {
+            "A": "आनंद (Ananda)",
+            "B": "महाकश्यप (Mahakassapa)",
+            "C": "सारिपुत्र (Sariputta)",
+            "D": "मोग्गलायन (Moggallana)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 27,
-    "question": "रमेशचन्द्र मजूमदार की किताब 'The Economic History of India under Early British Rule' किस विषय पर केंद्रित है? / What is the focus of R.C. Majumdar's book 'The Economic History of India under Early British Rule'?",
-    "options": {
-      "A": "ब्रिटिश शासन के प्रारंभिक आर्थिक प्रभाव (Early economic effects of British rule)",
-      "B": "स्वतंत्रता संग्राम (Freedom struggle)",
-      "C": "धार्मिक आंदोलन (Religious movements)",
-      "D": "प्राचीन इतिहास (Ancient history)"
+    {
+        "id": 27,
+        "question": "नालंदा विश्वविद्यालय की स्थापना किसके शासनकाल में हुई थी? / Nalanda University was established during the reign of which ruler?",
+        "options": {
+            "A": "कुमारगुप्त (Kumaragupta)",
+            "B": "अशोक (Ashoka)",
+            "C": "बिम्बिसार (Bimbisara)",
+            "D": "हर्षवर्धन (Harshavardhana)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 28,
-    "question": "सतीश चंद्र की कृतियों में किस विषय पर विशेष जोर दिया गया है? / What theme is emphasized in Satish Chandra’s works?",
-    "options": {
-      "A": "ब्रिटिश औपनिवेशिक आर्थिक और प्रशासनिक नीतियाँ (British colonial economic and administrative policies)",
-      "B": "भारतीय स्वतंत्रता संग्राम (Indian freedom struggle)",
-      "C": "मुगल कालीन शासन (Mughal administration)",
-      "D": "प्राचीन भारतीय धर्म (Ancient Indian religion)"
+    {
+        "id": 28,
+        "question": "प्राचीन भारत में बौद्ध परिषदें किसके संरक्षण में आयोजित हुईं? / Under whose patronage were Buddhist Councils held in ancient India?",
+        "options": {
+            "A": "अशोक (Ashoka)",
+            "B": "कनिष्क (Kanishka)",
+            "C": "अजातशत्रु (Ajatashatru)",
+            "D": "बिम्बिसार (Bimbisara)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 29,
-    "question": "नरोजी ने आर्थिक शोषण की समस्या को कैसे समझाया? / How did Naoroji explain the problem of economic exploitation?",
-    "options": {
-      "A": "ब्रिटिश राज के कारण धन का भारत से बाहर जाना (Outflow of wealth from India due to British rule)",
-      "B": "भारत के प्राकृतिक संसाधनों की कमी (Lack of natural resources in India)",
-      "C": "भारतीय किसानों की आलस्य (Laziness of Indian farmers)",
-      "D": "विश्व आर्थिक संकट (Global economic crisis)"
+    {
+        "id": 29,
+        "question": "पहली बौद्ध परिषद कहाँ हुई थी? / Where was the First Buddhist Council held?",
+        "options": {
+            "A": "राजगृह (Rajgriha)",
+            "B": "वैशाली (Vaishali)",
+            "C": "पाटलिपुत्र (Pataliputra)",
+            "D": "कश्मीर (Kashmir)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 30,
-    "question": "नरोजी और रमेशचन्द्र मजूमदार की कृतियाँ किस विषय पर मुख्य रूप से आधारित हैं? / The works of Naoroji and R.C. Majumdar are mainly based on which subject?",
-    "options": {
-      "A": "ब्रिटिश उपनिवेशवाद और भारत का आर्थिक शोषण (British colonialism and economic exploitation of India)",
-      "B": "भारतीय कला और संस्कृति (Indian art and culture)",
-      "C": "भारतीय स्वतंत्रता संग्राम (Indian freedom struggle)",
-      "D": "वैज्ञानिक विकास (Scientific development)"
+    {
+        "id": 30,
+        "question": "दूसरी बौद्ध परिषद का मुख्य कारण क्या था? / What was the main reason for the Second Buddhist Council?",
+        "options": {
+            "A": "विनय नियमों पर विवाद (Dispute over Vinaya rules)",
+            "B": "राजनीतिक विभाजन (Political division)",
+            "C": "धम्म व्याख्या पर मतभेद (Differences over Dhamma interpretation)",
+            "D": "अशोक का धर्म प्रचार (Ashoka's religious propagation)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  }
+    {
+        "id": 31,
+        "question": "तीसरी बौद्ध परिषद किसके संरक्षण में हुई? / Under whose patronage was the Third Buddhist Council held?",
+        "options": {
+            "A": "अशोक (Ashoka)",
+            "B": "कनिष्क (Kanishka)",
+            "C": "हर्षवर्धन (Harshavardhana)",
+            "D": "अजातशत्रु (Ajatashatru)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 32,
+        "question": "चौथी बौद्ध परिषद का आयोजन कहाँ हुआ था? / Where was the Fourth Buddhist Council held?",
+        "options": {
+            "A": "कश्मीर (Kashmir)",
+            "B": "पाटलिपुत्र (Pataliputra)",
+            "C": "वैशाली (Vaishali)",
+            "D": "राजगृह (Rajgriha)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "id": 33,
+        "question": "‘गृहस्थ’ बौद्ध अनुयायियों को क्या कहा जाता था? / What were lay Buddhist followers called?",
+        "options": {
+            "A": "उपासक (Upasaka)",
+            "B": "भिक्षु (Bhikkhu)",
+            "C": "भिक्षुणी (Bhikkhuni)",
+            "D": "श्रावक (Shravaka)"
+        },
+        "answer": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "id": 34,
+        "question": "बुद्ध की मूर्तियों में ‘अभय मुद्रा’ का अर्थ क्या है? / In Buddha's statues, what does the 'Abhaya Mudra' signify?",
+        "options": {
+            "A": "निर्भयता (Fearlessness)",
+            "B": "ध्यान (Meditation)",
+            "C": "ज्ञान (Enlightenment)",
+            "D": "उपदेश (Teaching)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 35,
+        "question": "बौद्ध धर्म के तीन रत्न क्या हैं? / What are the Three Jewels of Buddhism?",
+        "options": {
+            "A": "बुद्ध (Buddha)",
+            "B": "धम्म (Dhamma)",
+            "C": "संघ (Sangha)",
+            "D": "विनय (Vinaya)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 36,
+        "question": "‘महायान’ और ‘हीनयान’ का विभाजन कब हुआ? / When did the division into Mahayana and Hinayana take place?",
+        "options": {
+            "A": "दूसरी बौद्ध परिषद के बाद (After Second Buddhist Council)",
+            "B": "तीसरी बौद्ध परिषद के बाद (After Third Buddhist Council)",
+            "C": "अशोक के शासनकाल में (During Ashoka's reign)",
+            "D": "गुप्त काल में (During Gupta period)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 37,
+        "question": "‘स्तूप’ का मुख्य उद्देश्य क्या था? / What was the main purpose of a Stupa?",
+        "options": {
+            "A": "धार्मिक अवशेषों का संरक्षण (Preservation of relics)",
+            "B": "राजनीतिक सभा (Political meeting)",
+            "C": "शिक्षा केंद्र (Education center)",
+            "D": "युद्ध स्मारक (War memorial)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 38,
+        "question": "सारनाथ के सिंह स्तंभ का निर्माण किसने करवाया? / Who built the Lion Capital at Sarnath?",
+        "options": {
+            "A": "अशोक (Ashoka)",
+            "B": "कनिष्क (Kanishka)",
+            "C": "हर्षवर्धन (Harshavardhana)",
+            "D": "बिम्बिसार (Bimbisara)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 39,
+        "question": "‘चार आर्य सत्य’ किस धर्म का मूल सिद्धांत है? / The Four Noble Truths are the core principles of which religion?",
+        "options": {
+            "A": "जैन धर्म (Jainism)",
+            "B": "हिंदू धर्म (Hinduism)",
+            "C": "बौद्ध धर्म (Buddhism)",
+            "D": "सांख्य दर्शन (Samkhya)"
+        },
+        "answer": [
+            "C"
+        ]
+    },
+    {
+        "id": 40,
+        "question": "कौन-सा स्थल बौद्ध धर्म के ‘धर्मचक्र प्रवर्तन’ से जुड़ा है? / Which site is associated with the 'Dharmachakra Pravartana' in Buddhism?",
+        "options": {
+            "A": "सारनाथ (Sarnath)",
+            "B": "बोधगया (Bodh Gaya)",
+            "C": "कुशीनगर (Kushinagar)",
+            "D": "लुंबिनी (Lumbini)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 41,
+        "question": "चार आर्य सत्यों में पहला सत्य क्या है? / What is the First Noble Truth?",
+        "options": {
+            "A": "दुःख (Dukkha / Suffering)",
+            "B": "दुःख समुदय (Cause of Suffering)",
+            "C": "दुःख निरोध (Cessation of Suffering)",
+            "D": "मार्ग (Path to cessation)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 42,
+        "question": "चार आर्य सत्यों में 'दुःख समुदय' का तात्पर्य किससे है? / In the Four Noble Truths, 'Samudaya' refers to which concept?",
+        "options": {
+            "A": "लोभ (Craving)",
+            "B": "तृष्णा (Desire)",
+            "C": "कर्म (Karma)",
+            "D": "निर्वाण (Nirvana)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "id": 43,
+        "question": "चार आर्य सत्यों में अंतिम सत्य क्या है? / What is the Fourth Noble Truth?",
+        "options": {
+            "A": "अष्टांगिक मार्ग (Eightfold Path)",
+            "B": "निर्वाण (Nirvana)",
+            "C": "धम्म (Dhamma)",
+            "D": "ध्यान (Meditation)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 44,
+        "question": "अष्टांगिक मार्ग का कौन-सा अंग 'प्रज्ञा' श्रेणी में आता है? / Which part of the Eightfold Path comes under 'Prajna' category?",
+        "options": {
+            "A": "सम्यक दृष्टि (Right View)",
+            "B": "सम्यक संकल्प (Right Intention)",
+            "C": "सम्यक वाक (Right Speech)",
+            "D": "सम्यक आजीविका (Right Livelihood)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "id": 45,
+        "question": "अष्टांगिक मार्ग का कौन-सा अंग 'शील' श्रेणी में नहीं आता है? / Which of the following does NOT come under 'Sila' category in the Eightfold Path?",
+        "options": {
+            "A": "सम्यक वाक (Right Speech)",
+            "B": "सम्यक कर्मांत (Right Action)",
+            "C": "सम्यक स्मृति (Right Mindfulness)",
+            "D": "सम्यक आजीविका (Right Livelihood)"
+        },
+        "answer": [
+            "C"
+        ]
+    },
+    {
+        "id": 46,
+        "question": "अष्टांगिक मार्ग का 'सम्यक प्रयास' (Right Effort) किस श्रेणी में आता है? / 'Right Effort' belongs to which category in the Eightfold Path?",
+        "options": {
+            "A": "प्रज्ञा (Prajna)",
+            "B": "शील (Sila)",
+            "C": "समाधि (Samadhi)",
+            "D": "निर्वाण (Nirvana)"
+        },
+        "answer": [
+            "C"
+        ]
+    },
+    {
+        "id": 47,
+        "question": "मध्य मार्ग (Middle Path) का मुख्य उद्देश्य क्या है? / What is the main aim of the Middle Path?",
+        "options": {
+            "A": "भोग और तपस्या के अतिरेक से बचना (Avoid extremes of indulgence and asceticism)",
+            "B": "सिर्फ ध्यान करना (Only practice meditation)",
+            "C": "सिर्फ तपस्या करना (Only practice austerity)",
+            "D": "वेदों का अध्ययन (Study of Vedas)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 48,
+        "question": "मध्य मार्ग का पालन किस घटना के बाद बुद्ध ने सुझाया? / Buddha recommended the Middle Path after which event?",
+        "options": {
+            "A": "कठोर तपस्या का त्याग (Abandonment of extreme asceticism)",
+            "B": "प्रथम उपदेश (First Sermon)",
+            "C": "ज्ञान प्राप्ति (Enlightenment)",
+            "D": "महापरिनिर्वाण (Mahaparinirvana)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 49,
+        "question": "‘प्रतीत्य समुत्पाद’ का मूल सिद्धांत क्या है? / What is the core principle of 'Pratityasamutpada'?",
+        "options": {
+            "A": "सब कुछ कारण और परिणाम के नियम से जुड़ा है (Everything arises due to cause and effect)",
+            "B": "जीवन अनित्य है (Life is impermanent)",
+            "C": "आत्मा शाश्वत है (Soul is eternal)",
+            "D": "निर्वाण ही परम लक्ष्य है (Nirvana is the ultimate goal)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "id": 50,
+        "question": "प्रतीत्य समुत्पाद में ‘अविद्या’ किस कड़ी का प्रारंभ है? / In Dependent Origination, 'Ignorance' is the beginning of which link?",
+        "options": {
+            "A": "अविद्या → संस्कार (Ignorance → Formations)",
+            "B": "अविद्या → नामरूप (Ignorance → Name & Form)",
+            "C": "अविद्या → वेदना (Ignorance → Feeling)",
+            "D": "अविद्या → उपादान (Ignorance → Clinging)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 51,
+        "question": "प्रतीत्य समुत्पाद में कुल कितनी कड़ियाँ होती हैं? / How many links are there in Dependent Origination?",
+        "options": {
+            "A": "8",
+            "B": "10",
+            "C": "12",
+            "D": "14"
+        },
+        "answer": [
+            "C"
+        ]
+    },
+    {
+        "id": 52,
+        "question": "त्रिलक्षण में 'अनित्य' का अर्थ क्या है? / In Three Marks of Existence, what does 'Anicca' mean?",
+        "options": {
+            "A": "अस्थिरता (Impermanence)",
+            "B": "दुःख (Suffering)",
+            "C": "अनात्म (Non-self)",
+            "D": "शाश्वतता (Eternity)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 53,
+        "question": "त्रिलक्षण में 'अनात्म' किस सिद्धांत को खारिज करता है? / In Three Marks of Existence, 'Anatta' denies which concept?",
+        "options": {
+            "A": "स्थायी आत्मा (Permanent soul)",
+            "B": "कर्म का सिद्धांत (Doctrine of Karma)",
+            "C": "निर्वाण (Nirvana)",
+            "D": "दुःख का अस्तित्व (Existence of suffering)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 54,
+        "question": "‘दुःख’ लक्षण में कौन-कौन-से दुःख शामिल हैं? / Which types of suffering are included in 'Dukkha'?",
+        "options": {
+            "A": "जन्म का दुःख (Suffering of birth)",
+            "B": "मृत्यु का दुःख (Suffering of death)",
+            "C": "वियोग का दुःख (Suffering of separation)",
+            "D": "वस्तु प्राप्ति का दुःख (Suffering from gaining objects)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "id": 55,
+        "question": "अष्टांगिक मार्ग में 'सम्यक स्मृति' का संबंध किससे है? / In Eightfold Path, 'Right Mindfulness' is related to which practice?",
+        "options": {
+            "A": "शरीर, भाव, मन और धम्म की सजगता (Awareness of body, feelings, mind and dhamma)",
+            "B": "भौतिक संपत्ति की देखरेख (Care of material wealth)",
+            "C": "राजनीतिक जिम्मेदारी (Political responsibility)",
+            "D": "संगीत साधना (Musical practice)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 56,
+        "question": "चार आर्य सत्य किस उपदेश का हिस्सा हैं? / The Four Noble Truths are part of which sermon?",
+        "options": {
+            "A": "धम्मचक्कपवत्तन सुत्त (Dhammacakkappavattana Sutta)",
+            "B": "महापरिनिर्वाण सुत्त (Mahaparinibbana Sutta)",
+            "C": "कूल सुत्त (Kula Sutta)",
+            "D": "जातक कथाएँ (Jataka Tales)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 57,
+        "question": "अष्टांगिक मार्ग के 'सम्यक आजीविका' का अर्थ क्या है? / What does 'Right Livelihood' mean in the Eightfold Path?",
+        "options": {
+            "A": "ऐसा जीवनयापन जो हिंसा, झूठ, धोखाधड़ी से मुक्त हो (Livelihood free from violence, lying, deceit)",
+            "B": "ध्यान साधना के लिए नौकरी छोड़ना (Quitting job for meditation)",
+            "C": "सिर्फ खेती करना (Only farming)",
+            "D": "सिर्फ व्यापार करना (Only trading)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 58,
+        "question": "‘निर्वाण’ को बौद्ध दर्शन में किस रूप में वर्णित किया गया है? / How is 'Nirvana' described in Buddhist philosophy?",
+        "options": {
+            "A": "तृष्णा का पूर्ण अंत (Complete cessation of craving)",
+            "B": "कर्म चक्र का अंत (End of cycle of karma)",
+            "C": "शाश्वत आनंद (Eternal bliss)",
+            "D": "पूर्ण स्वतंत्रता (Complete liberation)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "id": 59,
+        "question": "‘सम्यक प्रयास’ में कौन-सी गतिविधियाँ शामिल हैं? / Which activities are included in 'Right Effort'?",
+        "options": {
+            "A": "अशुभ अवस्थाओं को रोकना (Prevent unwholesome states)",
+            "B": "अशुभ अवस्थाओं को दूर करना (Abandon unwholesome states)",
+            "C": "शुभ अवस्थाओं को विकसित करना (Develop wholesome states)",
+            "D": "शुभ अवस्थाओं को बनाए रखना (Maintain wholesome states)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "id": 60,
+        "question": "त्रिलक्षण में 'अनात्म' का प्रत्यक्ष अनुभव किस साधना से होता है? / The direct realization of 'Anatta' comes through which practice?",
+        "options": {
+            "A": "विपश्यना ध्यान (Vipassana meditation)",
+            "B": "भक्ति पूजा (Devotional worship)",
+            "C": "यज्ञ अनुष्ठान (Vedic rituals)",
+            "D": "सांख्य योग (Samkhya Yoga)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 61,
+        "question": "हीनयान (थेरवाद) बौद्ध परंपरा की मुख्य विशेषताओं में कौन-कौन सी शामिल हैं? / Which of the following are the main features of the Hinayana (Theravada) Buddhist tradition?",
+        "options": {
+            "A": "व्यक्तिगत मोक्ष पर जोर / Emphasis on individual salvation",
+            "B": "पालि भाषा में साहित्य / Literature in Pali language",
+            "C": "सभी जीवों के कल्याण पर बल / Emphasis on welfare of all beings",
+            "D": "बोधिसत्व मार्ग का अनुसरण / Following the Bodhisattva path"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "id": 62,
+        "question": "महायान बौद्ध धर्म की कौन-सी विशेषताएँ सही हैं? / Which features of Mahayana Buddhism are correct?",
+        "options": {
+            "A": "संस्कृत में ग्रंथ रचना / Texts composed in Sanskrit",
+            "B": "बोधिसत्व आदर्श / Bodhisattva ideal",
+            "C": "अर्हत बनने पर जोर / Emphasis on becoming Arhat",
+            "D": "सभी जीवों के लिए बुद्धत्व / Buddhahood for all beings"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "id": 63,
+        "question": "वज्रयान बौद्ध धर्म के संदर्भ में सही कथन कौन-से हैं? / Which statements about Vajrayana Buddhism are correct?",
+        "options": {
+            "A": "मंत्र, तंत्र और मंडल का प्रयोग / Use of mantras, tantras and mandalas",
+            "B": "तेजी से बुद्धत्व प्राप्त करने पर बल / Emphasis on rapid attainment of Buddhahood",
+            "C": "पालि भाषा में ग्रंथ / Texts in Pali language",
+            "D": "तिब्बत और मंगोलिया में प्रमुख / Prominent in Tibet and Mongolia"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "id": 64,
+        "question": "हीनयान (थेरवाद) बौद्ध धर्म के प्रसार क्षेत्र में कौन-कौन से देश आते हैं? / Which countries are included in the spread areas of Hinayana (Theravada) Buddhism?",
+        "options": {
+            "A": "श्रीलंका / Sri Lanka",
+            "B": "म्यांमार / Myanmar",
+            "C": "थाईलैंड / Thailand",
+            "D": "चीन / China"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 65,
+        "question": "महायान बौद्ध धर्म के प्रसार क्षेत्रों में कौन-कौन से देश प्रमुख हैं? / Which countries are major areas of spread for Mahayana Buddhism?",
+        "options": {
+            "A": "चीन / China",
+            "B": "जापान / Japan",
+            "C": "कोरिया / Korea",
+            "D": "श्रीलंका / Sri Lanka"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 66,
+        "question": "वज्रयान बौद्ध धर्म के प्रमुख प्रसार क्षेत्रों में कौन-कौन से शामिल हैं? / Which are the major regions of Vajrayana Buddhism's spread?",
+        "options": {
+            "A": "तिब्बत / Tibet",
+            "B": "भूटान / Bhutan",
+            "C": "मंगोलिया / Mongolia",
+            "D": "थाईलैंड / Thailand"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 67,
+        "question": "थेरवाद बौद्ध धर्म को अन्य नाम से क्या कहा जाता है? / By what other name is Theravada Buddhism known?",
+        "options": {
+            "A": "हीनयान / Hinayana",
+            "B": "महायान / Mahayana",
+            "C": "वज्रयान / Vajrayana",
+            "D": "ध्यानयान / Dhyana-yana"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 68,
+        "question": "महायान बौद्ध धर्म में 'बोधिसत्व' शब्द का क्या अर्थ है? / In Mahayana Buddhism, what does the term 'Bodhisattva' mean?",
+        "options": {
+            "A": "जो केवल अपने मोक्ष के लिए साधना करता है / One who practices for own salvation only",
+            "B": "जो सभी प्राणियों के मोक्ष के लिए प्रयासरत है / One who strives for salvation of all beings",
+            "C": "जो निर्वाण से पहले दूसरों की सहायता करता है / One who helps others before attaining Nirvana",
+            "D": "जो गृहस्थ जीवन त्याग देता है / One who renounces household life"
+        },
+        "answer": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 69,
+        "question": "वज्रयान बौद्ध धर्म में 'मंत्र' का प्रयोग किस उद्देश्य से होता है? / In Vajrayana Buddhism, for what purpose are mantras used?",
+        "options": {
+            "A": "आध्यात्मिक शक्ति और एकाग्रता हेतु / For spiritual power and concentration",
+            "B": "तेजी से ध्यान सिद्धि हेतु / For rapid meditation accomplishment",
+            "C": "सिर्फ पूजा के लिए / Only for rituals",
+            "D": "रोग निवारण हेतु / For curing diseases"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "id": 70,
+        "question": "अशोक काल की तीसरी बौद्ध संगीति का आयोजन कहाँ हुआ था? / Where was the Third Buddhist Council during Ashoka's reign held?",
+        "options": {
+            "A": "राजगृह / Rajgir",
+            "B": "पाटलिपुत्र / Pataliputra",
+            "C": "कुशीनगर / Kushinagar",
+            "D": "वैशाली / Vaishali"
+        },
+        "answer": [
+            "B"
+        ]
+    },
+    {
+        "id": 71,
+        "question": "तीसरी बौद्ध संगीति के परिणामस्वरूप कौन-कौन से क्षेत्रों में बौद्ध धर्म का विदेश प्रसार हुआ? / Which regions saw the foreign spread of Buddhism as a result of the Third Buddhist Council?",
+        "options": {
+            "A": "श्रीलंका / Sri Lanka",
+            "B": "मध्य एशिया / Central Asia",
+            "C": "मिस्र / Egypt",
+            "D": "यूनान / Greece"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "id": 72,
+        "question": "महेंद्र और संघमित्रा का मिशन किस देश में बौद्ध धर्म फैलाने के लिए भेजा गया था? / To which country was the mission of Mahendra and Sanghamitra sent to spread Buddhism?",
+        "options": {
+            "A": "म्यांमार / Myanmar",
+            "B": "श्रीलंका / Sri Lanka",
+            "C": "थाईलैंड / Thailand",
+            "D": "तिब्बत / Tibet"
+        },
+        "answer": [
+            "B"
+        ]
+    },
+    {
+        "id": 73,
+        "question": "अशोक के समय में बौद्ध धर्म का प्रसार किन-किन क्षेत्रों तक हुआ? / During Ashoka's time, to which regions did Buddhism spread?",
+        "options": {
+            "A": "दक्षिण-पूर्व एशिया / Southeast Asia",
+            "B": "मध्य एशिया / Central Asia",
+            "C": "मध्य पूर्व / Middle East",
+            "D": "अफ्रीका का उत्तरी भाग / Northern Africa"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 74,
+        "question": "महायान बौद्ध धर्म की उत्पत्ति किस शताब्दी में हुई मानी जाती है? / In which century is the origin of Mahayana Buddhism believed to have occurred?",
+        "options": {
+            "A": "ईसा पूर्व 3वीं शताब्दी / 3rd century BCE",
+            "B": "ईस्वी 1वीं शताब्दी / 1st century CE",
+            "C": "ईस्वी 3वीं शताब्दी / 3rd century CE",
+            "D": "ईसा पूर्व 5वीं शताब्दी / 5th century BCE"
+        },
+        "answer": [
+            "B"
+        ]
+    },
+    {
+        "id": 75,
+        "question": "हीनयान बौद्ध धर्म के अनुयायी बुद्ध को किस रूप में मानते हैं? / Followers of Hinayana Buddhism regard Buddha as:",
+        "options": {
+            "A": "ईश्वर / God",
+            "B": "महान शिक्षक / Great teacher",
+            "C": "अवतार / Incarnation",
+            "D": "देवता / Deity"
+        },
+        "answer": [
+            "B"
+        ]
+    },
+    {
+        "id": 76,
+        "question": "महायान बौद्ध धर्म में बुद्ध को किस रूप में स्वीकार किया जाता है? / In Mahayana Buddhism, Buddha is accepted as:",
+        "options": {
+            "A": "सुपरनैचुरल अस्तित्व / Supernatural being",
+            "B": "ईश्वर तुल्य / God-like",
+            "C": "केवल शिक्षक / Only teacher",
+            "D": "बोधिसत्व / Bodhisattva"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "id": 77,
+        "question": "वज्रयान बौद्ध धर्म का उद्भव मुख्य रूप से किस देश में हुआ? / In which country did Vajrayana Buddhism primarily originate?",
+        "options": {
+            "A": "भारत / India",
+            "B": "तिब्बत / Tibet",
+            "C": "मंगोलिया / Mongolia",
+            "D": "नेपाल / Nepal"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 78,
+        "question": "थेरवाद बौद्ध धर्म के अनुसार निर्वाण प्राप्ति का मार्ग कौन सा है? / According to Theravada Buddhism, which is the path to Nirvana?",
+        "options": {
+            "A": "अष्टांगिक मार्ग / Eightfold Path",
+            "B": "चार आर्य सत्य / Four Noble Truths",
+            "C": "भक्ति / Devotion",
+            "D": "तांत्रिक साधना / Tantric practice"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "id": 79,
+        "question": "महायान बौद्ध धर्म के ग्रंथ मुख्यतः किस भाषा में रचे गए? / In which language were the texts of Mahayana Buddhism mainly composed?",
+        "options": {
+            "A": "पालि / Pali",
+            "B": "संस्कृत / Sanskrit",
+            "C": "प्राकृत / Prakrit",
+            "D": "तिब्बती / Tibetan"
+        },
+        "answer": [
+            "B"
+        ]
+    },
+    {
+        "id": 80,
+        "question": "अशोक के समय तीसरी बौद्ध संगीति के बाद बौद्ध धर्म का प्रसार किन प्रमुख देशों तक हुआ? / After the Third Buddhist Council in Ashoka's time, Buddhism spread to which major countries?",
+        "options": {
+            "A": "श्रीलंका / Sri Lanka",
+            "B": "थाईलैंड / Thailand",
+            "C": "म्यांमार / Myanmar",
+            "D": "चीन / China"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    }
 ]
-
