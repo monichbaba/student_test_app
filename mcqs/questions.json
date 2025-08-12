@@ -1,421 +1,167 @@
 [
   {
     "id": 1,
-    "question": "बाल विवाह प्रतिबंध अधिनियम, 1929 (Child Marriage Restraint Act, 1929) के अनुसार प्रारंभिक रूप से लड़की की न्यूनतम विवाह आयु क्या निर्धारित की गई थी? / What was the initially fixed minimum marriageable age for girls under the Child Marriage Restraint Act, 1929?",
+    "question": "अंग्रेज़ी शासन में भारत का सबसे उच्च प्रशासनिक पद कौन सा था? / What was the highest administrative position in British India?",
     "options": {
-      "A": "14 वर्ष / 14 years",
-      "B": "15 वर्ष / 15 years",
-      "C": "16 वर्ष / 16 years",
-      "D": "18 वर्ष / 18 years"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 2,
-    "question": "शारदा अधिनियम, 1929 (Child Marriage Restraint Act) के तहत दंडात्मक प्रावधान किस Section में वर्णित हैं? / Under the Sharda Act, 1929, in which Section are the penal provisions described?",
-    "options": {
-      "A": "Section 3",
-      "B": "Section 5",
-      "C": "Section 7",
-      "D": "Section 9"
+      "A": "गवर्नर जनरल (Governor General)",
+      "B": "वाइसरॉय (Viceroy)",
+      "C": "डिप्टी कमिश्नर (Deputy Commissioner)",
+      "D": "कलेक्टर (Collector)"
     },
     "answer": ["B"]
   },
   {
-    "id": 3,
-    "question": "बाल विवाह प्रतिबंध (संशोधन) अधिनियम, 1978 के तहत लड़की की विवाह आयु कितनी कर दी गई? / As per the Child Marriage Restraint (Amendment) Act, 1978, what was the revised marriageable age for girls?",
+    "id": 2,
+    "question": "इंडियन सिविल सेवा (ICS) का गठन किस वर्ष हुआ? / When was the Indian Civil Service (ICS) established?",
     "options": {
-      "A": "15 वर्ष / 15 years",
-      "B": "16 वर्ष / 16 years",
-      "C": "17 वर्ष / 17 years",
-      "D": "18 वर्ष / 18 years"
+      "A": "1858",
+      "B": "1861",
+      "C": "1773",
+      "D": "1905"
     },
-    "answer": ["D"]
+    "answer": ["C"]
+  },
+  {
+    "id": 3,
+    "question": "1858 के बाद भारत का प्रशासन किसके नियंत्रण में आया? / After 1858, under whose control was the administration of India?",
+    "options": {
+      "A": "ब्रिटिश सरकार (British Government)",
+      "B": "ईस्ट इंडिया कंपनी (East India Company)",
+      "C": "भारतीय राष्ट्रीय कांग्रेस (Indian National Congress)",
+      "D": "मुगल बादशाह (Mughal Emperor)"
+    },
+    "answer": ["A"]
   },
   {
     "id": 4,
-    "question": "बाल विवाह प्रतिबंध अधिनियम का प्रवर्तन मुख्यतः किस कारण से चुनौतीपूर्ण था? / The enforcement of the Child Marriage Restraint Act was challenging mainly due to which reason?",
+    "question": "ब्रिटिश भारत में जिलों का प्रशासन किस अधिकारी के तहत होता था? / Who was the administrative head of districts in British India?",
     "options": {
-      "A": "अधिनियम में दंड कम था / Low penal provisions",
-      "B": "सामाजिक-धार्मिक रूढ़िवादिता / Socio-religious orthodoxy",
-      "C": "शहरी क्षेत्रों में विरोध / Opposition in urban areas",
-      "D": "कानून का अभाव / Absence of law"
+      "A": "कलेक्टर (Collector)",
+      "B": "सुपरिंटेंडेंट (Superintendent)",
+      "C": "जज (Judge)",
+      "D": "डिप्टी कमिश्नर (Deputy Commissioner)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 5,
-    "question": "बाल विवाह निषेध अधिनियम, 2006 (Prohibition of Child Marriage Act, 2006) के अनुसार विवाह की न्यूनतम आयु लड़कियों और लड़कों के लिए क्रमशः क्या है? / Under the Prohibition of Child Marriage Act, 2006, what is the minimum marriageable age for girls and boys respectively?",
+    "question": "ब्रिटिश भारत में प्रांतों का प्रशासन किस पद के अधीन था? / The provinces in British India were administered under which post?",
     "options": {
-      "A": "18 वर्ष और 21 वर्ष / 18 and 21 years",
-      "B": "16 वर्ष और 18 वर्ष / 16 and 18 years",
-      "C": "18 वर्ष और 18 वर्ष / 18 and 18 years",
-      "D": "21 वर्ष और 21 वर्ष / 21 and 21 years"
+      "A": "लॉर्ड गवर्नर (Lord Governor)",
+      "B": "डिप्टी कलेक्टर (Deputy Collector)",
+      "C": "कलेक्टर (Collector)",
+      "D": "सुपरिंटेंडेंट (Superintendent)"
     },
     "answer": ["A"]
   },
   {
     "id": 6,
-    "question": "बाल विवाह प्रतिबंध अधिनियम, 1929 के लागू होने का मुख्य उद्देश्य क्या था? / What was the primary objective of enforcing the Child Marriage Restraint Act, 1929?",
+    "question": "ब्रिटिश प्रशासनिक व्यवस्था में 'डिप्टी कलेक्टर' की भूमिका क्या थी? / What was the role of Deputy Collector in British administration?",
     "options": {
-      "A": "बाल विवाह को गैर-कानूनी घोषित करना / To declare child marriage illegal",
-      "B": "बाल विवाह की आयु बढ़ाना / To increase the marriageable age",
-      "C": "बाल विवाह करने वालों को दंडित करना / To penalize those performing child marriages",
-      "D": "महिला शिक्षा को बढ़ावा देना / To promote female education"
+      "A": "जिला स्तर पर कर वसूलना और प्रशासन करना (Tax collection and administration at district level)",
+      "B": "शिक्षा प्रबंधन (Education management)",
+      "C": "सेना की कमान (Military command)",
+      "D": "न्यायपालिका की जिम्मेदारी (Judicial responsibilities)"
     },
-    "answer": ["B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 7,
-    "question": "बाल विवाह निषेध अधिनियम, 2006 के तहत किसे 'बालक' माना जाता है? / Under the Prohibition of Child Marriage Act, 2006, who is considered a 'child'?",
+    "question": "ब्रिटिश भारत में जिला स्तर पर न्यायपालिका किसके नियंत्रण में थी? / At the district level, the judiciary in British India was under whose control?",
     "options": {
-      "A": "लड़की जिसकी आयु 18 वर्ष से कम हो / Girl under 18 years",
-      "B": "लड़का जिसकी आयु 21 वर्ष से कम हो / Boy under 21 years",
-      "C": "दोनों A और B / Both A and B",
-      "D": "कोई नहीं / None"
+      "A": "जज (Judge)",
+      "B": "कलेक्टर (Collector)",
+      "C": "डिप्टी कलेक्टर (Deputy Collector)",
+      "D": "थाना इंचार्ज (Police Superintendent)"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 8,
-    "question": "बाल विवाह प्रतिबंध अधिनियम, 1929 की सिफारिश किस समिति ने की थी? / Which committee recommended the Child Marriage Restraint Act, 1929?",
+    "question": "ब्रिटिश शासन के तहत भारत में कानून बनाने का अधिकार किसके पास था? / Under British rule, who had the authority to make laws in India?",
     "options": {
-      "A": "जॉन शारदा समिति / John Sharda Committee",
-      "B": "हरीलाल शारदा समिति / Harilal Sharda Committee",
-      "C": "बालिका शिक्षा समिति / Girl Education Committee",
-      "D": "भारत सामाजिक सुधार समिति / India Social Reform Committee"
+      "A": "ब्रिटिश संसद (British Parliament)",
+      "B": "भारतीय प्रांतीय सरकार (Indian Provincial Government)",
+      "C": "मुगल बादशाह (Mughal Emperor)",
+      "D": "भारतीय जनता (Indian People)"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 9,
-    "question": "शारदा अधिनियम के प्रवर्तन वर्ष में भारत का गवर्नर जनरल कौन था? / Who was the Governor-General of India in the year of enforcement of the Sharda Act?",
+    "question": "1858 के बाद भारत के लिए किस पद पर नियुक्ति ब्रिटिश राजा के द्वारा की जाती थी? / After 1858, who appointed the Viceroy of India?",
     "options": {
-      "A": "लॉर्ड इरविन / Lord Irwin",
-      "B": "लॉर्ड विलिंगडन / Lord Willingdon",
-      "C": "लॉर्ड लिनलिथगो / Lord Linlithgow",
-      "D": "लॉर्ड हार्डिंग / Lord Hardinge"
+      "A": "ब्रिटिश राजा (British Monarch)",
+      "B": "ब्रिटिश संसद (British Parliament)",
+      "C": "भारतीय प्रांत सरकार (Indian Provincial Government)",
+      "D": "भारतीय राजा (Indian King)"
     },
     "answer": ["A"]
   },
   {
     "id": 10,
-    "question": "बाल विवाह प्रतिबंध अधिनियम, 1929 का मुख्य प्रवर्तन क्षेत्र प्रारंभ में कौन सा था? / Initially, which area was the main enforcement jurisdiction of the Child Marriage Restraint Act, 1929?",
+    "question": "इंडियन सिविल सेवा (ICS) के अधिकारियों का चयन कैसे होता था? / How were the officers of Indian Civil Service (ICS) selected?",
     "options": {
-      "A": "ब्रिटिश भारत / British India",
-      "B": "देशी रियासतें / Princely States",
-      "C": "ब्रिटिश भारत और रियासतें दोनों / Both British India and Princely States",
-      "D": "केवल मद्रास प्रेसीडेंसी / Only Madras Presidency"
+      "A": "प्रतियोगी परीक्षा के द्वारा (Through competitive examination)",
+      "B": "नामांकन (Nomination)",
+      "C": "राजनीतिक नियुक्ति (Political appointment)",
+      "D": "लोकतांत्रिक चुनाव (Democratic election)"
     },
     "answer": ["A"]
   },
   {
     "id": 11,
-    "question": "Bengal Sati Regulation, 1829 (Regulation XVII of 1829) किसके शासनकाल में लागू हुआ? / The Bengal Sati Regulation, 1829 was enacted during the tenure of which Governor-General?",
+    "question": "ब्रिटिश भारत में पुलिस व्यवस्था का प्रमुख अधिकारी कौन था? / Who was the chief officer of police system in British India?",
     "options": {
-      "A": "लॉर्ड विलियम बेंटिंक / Lord William Bentinck",
-      "B": "लॉर्ड कॉर्नवालिस / Lord Cornwallis",
-      "C": "लॉर्ड डलहौजी / Lord Dalhousie",
-      "D": "लॉर्ड हेस्टिंग्स / Lord Hastings"
+      "A": "थाना इंचार्ज (Police Superintendent)",
+      "B": "कलेक्टर (Collector)",
+      "C": "डिप्टी कलेक्टर (Deputy Collector)",
+      "D": "जज (Judge)"
     },
     "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "Bengal Sati Regulation, 1829 के अनुसार सती प्रथा को किस Section के तहत अपराध घोषित किया गया? / Under which Section of the Bengal Sati Regulation, 1829 was Sati declared illegal?",
+    "question": "ब्रिटिश प्रशासन में प्रांतीय सरकारों के प्रमुख कौन होते थे? / Who were the heads of provincial governments in British administration?",
     "options": {
-      "A": "Section 1",
-      "B": "Section 2",
-      "C": "Section 3",
-      "D": "Section 4"
+      "A": "गवर्नर (Governor)",
+      "B": "कलेक्टर (Collector)",
+      "C": "डिप्टी कलेक्टर (Deputy Collector)",
+      "D": "थाना इंचार्ज (Police Superintendent)"
     },
     "answer": ["A"]
   },
   {
     "id": 13,
-    "question": "Bengal Sati Regulation, 1829 का कानूनी आधार किस कानून पर आधारित था? / The legal basis of Bengal Sati Regulation, 1829 was grounded on which law?",
+    "question": "ब्रिटिश भारत में कौन से प्रशासनिक पद का कार्य न्यायपालिका और प्रशासन दोनों था? / Which administrative post in British India had both judicial and administrative powers?",
     "options": {
-      "A": "Regulation XVII of Bengal Code",
-      "B": "Indian Penal Code, 1860",
-      "C": "Bombay Regulations Act",
-      "D": "Madras Code Regulation"
+      "A": "कलेक्टर (Collector)",
+      "B": "डिप्टी कलेक्टर (Deputy Collector)",
+      "C": "थाना इंचार्ज (Police Superintendent)",
+      "D": "गवर्नर (Governor)"
     },
     "answer": ["A"]
   },
   {
     "id": 14,
-    "question": "सती प्रथा उन्मूलन में राजा राम मोहन राय की प्रमुख भूमिका क्या थी? / What was the primary role of Raja Ram Mohan Roy in the abolition of Sati?",
+    "question": "ब्रिटिश भारत में राज्य के प्रशासनिक कार्यों के लिए किस प्रकार का ढांचा था? / What type of administrative structure existed for state governance in British India?",
     "options": {
-      "A": "सामाजिक अभियान चलाना / Running social campaigns",
-      "B": "ब्रिटिश सरकार को ज्ञापन देना / Petitioning British Government",
-      "C": "धार्मिक शास्त्रों से विरोध साबित करना / Proving opposition from scriptures",
-      "D": "उपरोक्त सभी / All of the above"
+      "A": "सेंट्रलाइज्ड प्रशासन (Centralized administration)",
+      "B": "फेडरल प्रशासन (Federal administration)",
+      "C": "स्वायत्त प्रशासन (Autonomous administration)",
+      "D": "गैर-सरकारी प्रशासन (Non-government administration)"
     },
-    "answer": ["D"]
+    "answer": ["A"]
   },
   {
     "id": 15,
-    "question": "Bengal Sati Regulation, 1829 का प्रवर्तन किन क्षेत्रों में लागू था? / The Bengal Sati Regulation, 1829 was applicable to which regions?",
+    "question": "ब्रिटिश शासन के दौरान भारत में प्रशासनिक सुधारों के लिए कौन सा आयोग बना? / Which commission was formed for administrative reforms during British rule in India?",
     "options": {
-      "A": "संपूर्ण ब्रिटिश भारत / Entire British India",
-      "B": "बंगाल, बिहार और उड़ीसा / Bengal, Bihar and Orissa",
-      "C": "केवल बंगाल / Only Bengal",
-      "D": "ब्रिटिश भारत और रियासतें दोनों / Both British India and Princely States"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 16,
-    "question": "Bengal Sati Regulation, 1829 में उल्लंघन करने पर अधिकतम दंड क्या था? / What was the maximum punishment for violating the Bengal Sati Regulation, 1829?",
-    "options": {
-      "A": "3 वर्ष कारावास / 3 years imprisonment",
-      "B": "7 वर्ष कारावास / 7 years imprisonment",
-      "C": "आजीवन कारावास / Life imprisonment",
-      "D": "मृत्युदंड / Death penalty"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 17,
-    "question": "Bengal Sati Regulation, 1829 को कानूनी चुनौती किसने दी थी? / Who legally challenged the Bengal Sati Regulation, 1829?",
-    "options": {
-      "A": "धार्मिक रूढ़िवादी समूह / Orthodox religious groups",
-      "B": "ब्रिटिश संसद / British Parliament",
-      "C": "ईस्ट इंडिया कंपनी के गवर्नर / Governors of East India Company",
-      "D": "मुगल दरबार / Mughal Court"
+      "A": "मोरिस आयोग (Morris Commission)",
+      "B": "माउंटबेटन आयोग (Mountbatten Commission)",
+      "C": "साइमन आयोग (Simon Commission)",
+      "D": "रॉलेट आयोग (Rowlatt Commission)"
     },
     "answer": ["A"]
-  },
-  {
-    "id": 18,
-    "question": "Bengal Sati Regulation, 1829 के लागू होने के पीछे मुख्य प्रेरणा क्या थी? / What was the main driving factor behind the enactment of Bengal Sati Regulation, 1829?",
-    "options": {
-      "A": "मानवाधिकार और जीवन का अधिकार / Human rights and right to life",
-      "B": "महिला शिक्षा / Women education",
-      "C": "राजस्व वृद्धि / Revenue increase",
-      "D": "धार्मिक एकता / Religious unity"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 19,
-    "question": "सती प्रथा उन्मूलन के बाद किस अधिनियम ने इसे स्थायी रूप से भारतीय दंड संहिता में शामिल किया? / After abolition of Sati, which Act permanently incorporated it into the IPC?",
-    "options": {
-      "A": "IPC Section 306 & 307 (1860)",
-      "B": "IPC Section 300 (1860)",
-      "C": "IPC Section 309 (1860)",
-      "D": "IPC Section 302 (1860)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 20,
-    "question": "Bengal Sati Regulation, 1829 किसके नाम से भी जाना जाता है? / The Bengal Sati Regulation, 1829 is also known as:",
-    "options": {
-      "A": "Regulation XVII of 1829",
-      "B": "Bombay Sati Regulation",
-      "C": "Madras Anti-Sati Act",
-      "D": "Indian Widow Protection Act"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 21,
-    "question": "Hindu Widows' Remarriage Act, 1856 के प्रवर्तन के समय गवर्नर जनरल कौन थे? / Who was the Governor-General at the time of Hindu Widows' Remarriage Act, 1856?",
-    "options": {
-      "A": "लॉर्ड कैनिंग / Lord Canning",
-      "B": "लॉर्ड डलहौजी / Lord Dalhousie",
-      "C": "लॉर्ड हार्डिंग / Lord Hardinge",
-      "D": "लॉर्ड रिपन / Lord Ripon"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 22,
-    "question": "Hindu Widows' Remarriage Act, 1856 को प्रोत्साहित करने में किस समाज सुधारक का मुख्य योगदान था? / Which social reformer was chiefly responsible for promoting Hindu Widows' Remarriage Act, 1856?",
-    "options": {
-      "A": "राजा राम मोहन राय / Raja Ram Mohan Roy",
-      "B": "ईश्वरचंद्र विद्यासागर / Ishwar Chandra Vidyasagar",
-      "C": "गोपाल हरी देशमुख / Gopal Hari Deshmukh",
-      "D": "एम.जी. रानाडे / M.G. Ranade"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 23,
-    "question": "Hindu Widows' Remarriage Act, 1856 की Section 2 का प्रावधान क्या था? / What was the provision under Section 2 of Hindu Widows' Remarriage Act, 1856?",
-    "options": {
-      "A": "विधवा के पुनर्विवाह को वैध घोषित करना / Legalising widow remarriage",
-      "B": "विधवा को सम्पत्ति का अधिकार देना / Giving property rights to widow",
-      "C": "बाल विवाह को समाप्त करना / Ending child marriage",
-      "D": "दहेज प्रतिबंध / Dowry prohibition"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 24,
-    "question": "Hindu Widows' Remarriage Act, 1856 के अंतर्गत विधवा को पुनर्विवाह करने पर कौन सा अधिकार खोना पड़ता था? / Under the Hindu Widows' Remarriage Act, 1856, which right did a widow lose upon remarriage?",
-    "options": {
-      "A": "पति की संपत्ति का अधिकार / Right to husband's property",
-      "B": "पैतृक संपत्ति का अधिकार / Right to parental property",
-      "C": "बच्चों की अभिरक्षा / Custody of children",
-      "D": "कोई नहीं / None"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 25,
-    "question": "1856 के विधवा पुनर्विवाह अधिनियम का उद्देश्य था: / The objective of the Hindu Widows' Remarriage Act, 1856 was:",
-    "options": {
-      "A": "विधवाओं के जीवन स्तर में सुधार / Improve living standards of widows",
-      "B": "विधवाओं की शिक्षा को प्रोत्साहित करना / Promote education of widows",
-      "C": "विधवाओं को पुनः विवाह का अधिकार देना / Grant right to remarry",
-      "D": "उपरोक्त सभी / All of the above"
-    },
-    "answer": ["D"]
-  },
-  {
-    "id": 26,
-    "question": "Hindu Widows' Remarriage Act, 1856 का विरोध मुख्य रूप से किस आधार पर किया गया था? / On what grounds was the Hindu Widows' Remarriage Act, 1856 mainly opposed?",
-    "options": {
-      "A": "धार्मिक मान्यताएं / Religious beliefs",
-      "B": "संपत्ति का नुकसान / Loss of property",
-      "C": "पारिवारिक प्रतिष्ठा / Family honour",
-      "D": "उपरोक्त सभी / All of the above"
-    },
-    "answer": ["D"]
-  },
-  {
-    "id": 27,
-    "question": "1856 अधिनियम के प्रवर्तन के बाद विधवा पुनर्विवाह की दर में शुरुआती वर्षों में क्या परिवर्तन हुआ? / What change occurred in widow remarriage rates in the early years after enforcement of 1856 Act?",
-    "options": {
-      "A": "तेजी से वृद्धि / Rapid increase",
-      "B": "धीमी वृद्धि / Slow increase",
-      "C": "कोई परिवर्तन नहीं / No change",
-      "D": "कमी / Decline"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 28,
-    "question": "विधवा पुनर्विवाह अधिनियम, 1856 का मुख्य प्रेरक स्रोत कौन सा दस्तावेज़ था? / Which document was the main motivating source for Hindu Widows' Remarriage Act, 1856?",
-    "options": {
-      "A": "ईश्वरचंद्र विद्यासागर का ज्ञापन / Petition by Ishwar Chandra Vidyasagar",
-      "B": "गवर्नर जनरल की रिपोर्ट / Governor-General's Report",
-      "C": "क्वीन्स प्रोकेलेशन / Queen's Proclamation",
-      "D": "भारतीय सुधार समिति का प्रस्ताव / Indian Reform Committee Resolution"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 29,
-    "question": "Hindu Widows' Remarriage Act, 1856 के कौन से प्रावधान को बाद में भारतीय उत्तराधिकार अधिनियम, 1925 में शामिल किया गया? / Which provision of Hindu Widows' Remarriage Act, 1856 was later incorporated into the Hindu Succession Act, 1925?",
-    "options": {
-      "A": "संपत्ति से वंचित होना / Disqualification from property",
-      "B": "पुनर्विवाह की वैधता / Legality of remarriage",
-      "C": "नाबालिग विधवा का अधिकार / Minor widow's rights",
-      "D": "कोई नहीं / None"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 30,
-    "question": "1856 अधिनियम के लागू होने के समय ब्रिटिश संसद का कौन सा कानून प्रभावी था जिसने इसे समर्थन दिया? / Which British Parliament law was in force that supported the 1856 Act at the time of its enforcement?",
-    "options": {
-      "A": "Indian Councils Act, 1853",
-      "B": "Charter Act, 1853",
-      "C": "Regulating Act, 1773",
-      "D": "Pitt's India Act, 1784"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 31,
-    "question": "ब्राह्म समाज की स्थापना किसने की थी और किस वर्ष में? / Who founded Brahmo Samaj and in which year?",
-    "options": {
-      "A": "राजा राम मोहन राय, 1828 / Raja Ram Mohan Roy, 1828",
-      "B": "देवेन्द्रनाथ ठाकुर, 1843 / Debendranath Tagore, 1843",
-      "C": "केशव चंद्र सेन, 1866 / Keshab Chandra Sen, 1866",
-      "D": "ईश्वरचंद्र विद्यासागर, 1850 / Ishwar Chandra Vidyasagar, 1850"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 32,
-    "question": "आर्य समाज के संस्थापक और स्थापना वर्ष का सही मेल कौन सा है? / Which is the correct match for founder and year of Arya Samaj?",
-    "options": {
-      "A": "स्वामी दयानंद सरस्वती, 1875 / Swami Dayanand Saraswati, 1875",
-      "B": "स्वामी विवेकानंद, 1897 / Swami Vivekananda, 1897",
-      "C": "गोपाल कृष्ण गोखले, 1905 / Gopal Krishna Gokhale, 1905",
-      "D": "लाला लाजपत राय, 1885 / Lala Lajpat Rai, 1885"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 33,
-    "question": "प्रार्थना समाज का मुख्य उद्देश्य क्या था? / What was the main objective of Prarthana Samaj?",
-    "options": {
-      "A": "हिंदू धर्म का पुनरुद्धार / Revival of Hinduism",
-      "B": "सामाजिक सुधार और महिला शिक्षा / Social reform and women education",
-      "C": "इस्लामिक शिक्षा का प्रचार / Promotion of Islamic education",
-      "D": "ईसाई धर्म का प्रसार / Spread of Christianity"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 34,
-    "question": "अलीगढ़ आंदोलन के जनक कौन माने जाते हैं? / Who is considered the father of the Aligarh Movement?",
-    "options": {
-      "A": "सर सैयद अहमद खान / Sir Syed Ahmad Khan",
-      "B": "मौलाना अबुल कलाम आजाद / Maulana Abul Kalam Azad",
-      "C": "शिबली नोमानी / Shibli Nomani",
-      "D": "लियाकत अली खान / Liaqat Ali Khan"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 35,
-    "question": "थियोसोफिकल सोसाइटी भारत में किस वर्ष स्थापित हुई? / In which year was the Theosophical Society established in India?",
-    "options": {
-      "A": "1879",
-      "B": "1882",
-      "C": "1893",
-      "D": "1905"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 36,
-    "question": "महिला शिक्षा के लिए सावित्रीबाई फुले का प्रमुख योगदान क्या था? / What was Savitribai Phule's major contribution towards women's education?",
-    "options": {
-      "A": "पहला बालिका विद्यालय / First girls' school",
-      "B": "पहला महिला विश्वविद्यालय / First women's university",
-      "C": "पहली महिला महाविद्यालय / First women's college",
-      "D": "पहली महिला पुस्तकालय / First women's library"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 37,
-    "question": "ब्राह्म समाज के किस सुधार ने महिला अधिकारों को सबसे अधिक प्रभावित किया? / Which reform of Brahmo Samaj most significantly impacted women's rights?",
-    "options": {
-      "A": "सती प्रथा उन्मूलन / Abolition of Sati",
-      "B": "विधवा पुनर्विवाह समर्थन / Support for widow remarriage",
-      "C": "बाल विवाह का विरोध / Opposition to child marriage",
-      "D": "उपरोक्त सभी / All of the above"
-    },
-    "answer": ["D"]
-  },
-  {
-    "id": 38,
-    "question": "आर्य समाज के शुद्धि आंदोलन का मुख्य उद्देश्य क्या था? / What was the main objective of Arya Samaj's Shuddhi Movement?",
-    "options": {
-      "A": "धर्मांतरण रोकना / Stop religious conversions",
-      "B": "हिंदू धर्म में पुनः प्रवेश / Re-conversion to Hinduism",
-      "C": "महिला शिक्षा को बढ़ावा / Promote women education",
-      "D": "जाति प्रथा समाप्त करना / End caste system"
-    },
-    "answer": ["B"]
   }
 ]
-  
