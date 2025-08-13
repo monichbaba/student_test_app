@@ -1,8 +1,10 @@
 services:
   - type: web
-    name: student-test-app
+    name: student_test_app
     runtime: python
-    buildCommand: ""
+    buildCommand: |
+      python -m pip install --upgrade pip
+      pip install -r requirements.txt
     startCommand: python app.py
     envVars:
       - key: FLASK_ENV
