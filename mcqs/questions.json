@@ -1,26 +1,1814 @@
 [
-    {
-        "id": 1,
-        "question": "भारत का सबसे बड़ा राज्य क्षेत्रफल के आधार पर कौन सा है? / Which is the largest state of India by area?",
-        "options": {
-            "A": "राजस्थान / Rajasthan",
-            "B": "मध्य प्रदेश / Madhya Pradesh",
-            "C": "उत्तर प्रदेश / Uttar Pradesh",
-            "D": "महारा्ष्ट्र / Maharashtra"
-        },
-        "answer": ["A"],
-        "explanation": "राजस्थान क्षेत्रफल के आधार पर भारत का सबसे बड़ा राज्य है, जिसका क्षेत्रफल लगभग 3,42,239 वर्ग किलोमीटर है। / Rajasthan is the largest state in India by area, with about 3,42,239 sq km."
+  {
+    "id": 1,
+    "question": "गंधार कला (Gandhara Art) के संबंध में निम्नलिखित कथनों पर विचार कीजिए: / Consider the following statements regarding Gandhara Art:",
+    "options": {
+      "A": "यह मुख्यतः यूनानी-रोमन प्रभाव से प्रेरित थी। / It was mainly inspired by Greco-Roman influence.",
+      "B": "इसमें बुद्ध की मूर्तियों में वास्तविक मानव शरीर की मांसपेशियों का चित्रण मिलता है। / It depicts real human musculature in Buddha images.",
+      "C": "यह अमरावती शैली से पूर्णतः असंबंधित थी। / It was completely unrelated to the Amaravati style.",
+      "D": "यह कला मुख्यतः उत्तर-पश्चिम भारत में विकसित हुई। / This art mainly developed in north-western India."
     },
-    {
-        "id": 2,
-        "question": "निम्नलिखित में से कौन से भारत के पड़ोसी देश हैं? / Which of the following are neighboring countries of India?",
-        "options": {
-            "A": "नेपाल / Nepal",
-            "B": "भूटान / Bhutan",
-            "C": "थाईलैंड / Thailand",
-            "D": "श्रीलंका / Sri Lanka"
-        },
-        "answer": ["A", "B", "D"],
-        "explanation": "भारत के पड़ोसी देशों में नेपाल, भूटान, पाकिस्तान, बांग्लादेश, म्यांमार और श्रीलंका शामिल हैं। थाईलैंड भारत का पड़ोसी देश नहीं है। / India's neighboring countries include Nepal, Bhutan, Pakistan, Bangladesh, Myanmar, and Sri Lanka. Thailand is not a neighbor."
-    }
+    "answer": ["A", "B", "D"],
+    "explanation": "गंधार कला यूनानी-रोमन प्रभाव के तहत विकसित हुई और इसमें यथार्थवादी शारीरिक चित्रण मिलता है। यह मुख्यतः उत्तर-पश्चिम भारत (गंधार, तक्षशिला) में फली-फूली, जबकि अमरावती शैली दक्कन में विकसित हुई।"
+  },
+  {
+    "id": 2,
+    "question": "इंडो-ग्रीक सिक्कों के बारे में निम्नलिखित कथनों में से कौन-से सही हैं? / Which of the following statements about Indo-Greek coins are correct?",
+    "options": {
+      "A": "इनमें प्रायः द्विभाषी अभिलेख होते थे। / They often had bilingual inscriptions.",
+      "B": "इनमें ग्रीक और खरोष्ठी लिपि दोनों का प्रयोग होता था। / They used both Greek and Kharosthi scripts.",
+      "C": "ये मुख्यतः चाँदी और तांबे के सिक्के थे। / They were mainly silver and copper coins.",
+      "D": "इनका उपयोग मुख्यतः धार्मिक अनुष्ठानों तक सीमित था। / Their use was mainly limited to religious rituals."
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "इंडो-ग्रीक सिक्कों में द्विभाषी अभिलेख मिलते हैं—ग्रीक और खरोष्ठी लिपि में। ये प्रायः चाँदी और तांबे के होते थे और व्यापार में व्यापक रूप से प्रयुक्त होते थे।"
+  },
+  {
+    "id": 3,
+    "question": "इंडो-स्किथियन शासन के संदर्भ में सही कथनों का चयन कीजिए: / Select the correct statements regarding Indo-Scythian rule:",
+    "options": {
+      "A": "इनका प्रमुख केंद्र मथुरा और सौराष्ट्र था। / Their main centers were Mathura and Saurashtra.",
+      "B": "इनके शासक कार्तिकेय और विष्णु जैसे भारतीय देवताओं की पूजा करते थे। / Their rulers worshipped Indian deities like Kartikeya and Vishnu.",
+      "C": "इनके शासन में बौद्ध स्तूप निर्माण का कोई उल्लेख नहीं मिलता। / There is no mention of Buddhist stupa construction in their rule.",
+      "D": "इनकी उत्पत्ति मध्य एशिया के सक (Saka) जनजातियों से हुई थी। / They originated from the Central Asian Saka tribes."
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "इंडो-स्किथियन मथुरा और सौराष्ट्र में सक्रिय थे, भारतीय देवताओं की पूजा करते थे, और इनकी उत्पत्ति सक जनजातियों से हुई थी। बौद्ध निर्माण कार्य भी इनके समय में हुए।"
+  },
+  {
+    "id": 4,
+    "question": "इंडो-पार्थियन काल के बारे में निम्नलिखित में से कौन-सा/से सही है/हैं? / Which of the following is/are correct about the Indo-Parthian period?",
+    "options": {
+      "A": "इनका प्रमुख शासक गोंडोफेरेस था। / Their main ruler was Gondophernes.",
+      "B": "इनके समय में ईसाई धर्म का आगमन भारत में हुआ। / Christianity entered India during their time.",
+      "C": "इनके सिक्कों पर केवल फारसी लिपि मिलती है। / Their coins show only Persian script.",
+      "D": "ये पंजाब और सिंध क्षेत्र में प्रमुख रूप से केंद्रित थे। / They were mainly concentrated in Punjab and Sindh regions."
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "गोंडोफेरेस इंडो-पार्थियन शासक थे, जिनके समय सेंट थॉमस के आगमन का उल्लेख है। इनकी शक्ति का केंद्र पंजाब और सिंध में था, और सिक्कों पर ग्रीक-फारसी लिपि मिलती है।"
+  },
+  {
+    "id": 5,
+    "question": "इंडो-ग्रीक, इंडो-स्किथियन और इंडो-पार्थियन काल के सांस्कृतिक प्रभाव के बारे में सही कथनों का चयन कीजिए: / Select the correct statements about the cultural influence of Indo-Greek, Indo-Scythian and Indo-Parthian periods:",
+    "options": {
+      "A": "इन कालों में गंधार कला का उत्कर्ष हुआ। / Gandhara art flourished during these periods.",
+      "B": "इनके शासन ने भारत-मध्य एशिया-मध्यसागर के बीच व्यापार को बढ़ावा दिया। / Their rule promoted trade between India, Central Asia, and the Mediterranean.",
+      "C": "इनका प्रभाव केवल सिक्कों और व्यापार तक सीमित था। / Their influence was limited only to coins and trade.",
+      "D": "इन कालों में धार्मिक और सांस्कृतिक सम्मिश्रण स्पष्ट रूप से दिखाई देता है। / Religious and cultural synthesis is clearly visible during these periods."
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "इन कालों में गंधार कला का उत्कर्ष हुआ, व्यापार मार्ग सुदृढ़ हुए और धार्मिक-सांस्कृतिक सम्मिश्रण विकसित हुआ। प्रभाव केवल सिक्कों और व्यापार तक सीमित नहीं था।"
+  },
+  {
+    "id": 6,
+    "question": "गंधार कला और मथुरा कला के बारे में निम्नलिखित कथनों पर विचार कीजिए: / Consider the following statements about Gandhara art and Mathura art:",
+    "options": {
+      "A": "गंधार कला में यूनानी-रोमन प्रभाव प्रमुख था, जबकि मथुरा कला पूरी तरह स्वदेशी थी। / Gandhara art had dominant Greco-Roman influence, while Mathura art was fully indigenous.",
+      "B": "दोनों शैलियों में बुद्ध की प्रतिमाओं का निर्माण होता था। / Both styles produced Buddha images.",
+      "C": "गंधार शैली में मूर्तियां लाल बलुआ पत्थर से बनती थीं। / Gandhara style sculptures were made of red sandstone.",
+      "D": "मथुरा कला में यथार्थवाद की तुलना में प्रतीकात्मकता अधिक थी। / Mathura art had more symbolism than realism."
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "गंधार कला में यूनानी-रोमन प्रभाव स्पष्ट है, मथुरा कला स्वदेशी थी। दोनों में बुद्ध की प्रतिमाएं बनीं, गंधार कला में शिलाएं ग्रे स्टोन से बनीं, जबकि मथुरा कला में लाल बलुआ पत्थर का प्रयोग हुआ। मथुरा में प्रतीकात्मकता अधिक थी।"
+  },
+  {
+    "id": 7,
+    "question": "इंडो-ग्रीक शासन के पतन के कारणों में निम्नलिखित में से कौन-से सही हैं? / Which of the following were reasons for the decline of Indo-Greek rule?",
+    "options": {
+      "A": "मध्य एशिया से सक (Saka) आक्रमण / Saka invasions from Central Asia",
+      "B": "स्थानीय जनजातियों का विद्रोह / Revolt by local tribes",
+      "C": "रोमन साम्राज्य का पतन / Fall of the Roman Empire",
+      "D": "राज्य का अत्यधिक विखंडन / Excessive political fragmentation"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "इंडो-ग्रीक शासन का पतन सक आक्रमण, स्थानीय विद्रोह और राजनीतिक विखंडन के कारण हुआ। रोमन साम्राज्य का पतन बाद में हुआ और इसका सीधा संबंध नहीं था।"
+  },
+  {
+    "id": 8,
+    "question": "इंडो-स्किथियन सिक्कों के बारे में सही कथनों का चयन कीजिए: / Select the correct statements about Indo-Scythian coins:",
+    "options": {
+      "A": "इन पर भारतीय और ग्रीक दोनों लिपियों का प्रयोग हुआ। / They used both Indian and Greek scripts.",
+      "B": "इन पर केवल बौद्ध प्रतीक मिलते हैं। / They show only Buddhist symbols.",
+      "C": "इनमें शासकों को घुड़सवार के रूप में भी दर्शाया गया है। / They also depict rulers as horsemen.",
+      "D": "इनके सिक्के प्रायः सोने के बने होते थे। / Their coins were mostly made of gold."
+    },
+    "answer": ["A", "C"],
+    "explanation": "इंडो-स्किथियन सिक्कों पर भारतीय और ग्रीक लिपि दोनों का प्रयोग हुआ और इनमें शासकों को घुड़सवार के रूप में दर्शाया गया। अधिकांश सिक्के तांबे और चांदी के होते थे, सोने के बहुत कम।"
+  },
+  {
+    "id": 9,
+    "question": "इंडो-पार्थियन शासनकाल के सांस्कृतिक योगदान के बारे में सही कथनों की पहचान कीजिए: / Identify the correct statements about the cultural contributions of Indo-Parthian rule:",
+    "options": {
+      "A": "इनके शासन में बौद्ध स्तूपों के विस्तार का उल्लेख मिलता है। / Their rule saw the expansion of Buddhist stupas.",
+      "B": "इनके समय रोमन व्यापारिक वस्तुएं भारत आईं। / Roman trade goods came to India during their time.",
+      "C": "इनकी कला शैली पूरी तरह मथुरा कला से ली गई थी। / Their art style was fully derived from Mathura art.",
+      "D": "इनके सिक्कों पर मिश्रित लिपि और प्रतीक मिलते हैं। / Their coins show mixed scripts and symbols."
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "इंडो-पार्थियन काल में बौद्ध निर्माण हुए, रोमन व्यापारिक वस्तुएं आईं और इनके सिक्कों पर मिश्रित लिपियां और प्रतीक पाए गए।"
+  },
+  {
+    "id": 10,
+    "question": "निम्नलिखित में से किन-किन के दौरान भारत और भूमध्यसागर के बीच प्रत्यक्ष व्यापारिक संबंध थे? / During which of the following periods did India have direct trade relations with the Mediterranean?",
+    "options": {
+      "A": "इंडो-ग्रीक काल / Indo-Greek period",
+      "B": "इंडो-स्किथियन काल / Indo-Scythian period",
+      "C": "इंडो-पार्थियन काल / Indo-Parthian period",
+      "D": "शुंग काल / Shunga period"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "इंडो-ग्रीक, इंडो-स्किथियन और इंडो-पार्थियन काल में रोमन और अन्य भूमध्यसागरीय क्षेत्रों के साथ प्रत्यक्ष व्यापारिक संबंध रहे।"
+  },
+  {
+    "id": 11,
+    "question": "गंधार कला में प्रयुक्त सामग्री और तकनीक के बारे में निम्न कथनों पर विचार कीजिए: / Consider the following statements about materials and techniques used in Gandhara art:",
+    "options": {
+      "A": "मुख्यतः ग्रे शिस्ट (Grey Schist) का उपयोग हुआ। / Mainly Grey Schist was used.",
+      "B": "पत्थर पर उच्च उत्कीर्णन तकनीक अपनाई गई। / High-relief carving technique was used.",
+      "C": "इसमें रंग भरने की कोई परंपरा नहीं थी। / There was no tradition of colouring.",
+      "D": "यूनानी मूर्तिकला तकनीक से प्रभावित थी। / It was influenced by Greek sculptural techniques."
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "गंधार कला में ग्रे शिस्ट पत्थर, उच्च उत्कीर्णन और यूनानी तकनीक का प्रयोग हुआ। मूर्तियों में रंग भरने की परंपरा भी थी, अतः C गलत है।"
+  },
+  {
+    "id": 12,
+    "question": "इंडो-ग्रीक शासकों में से कौन-से बौद्ध धर्म के संरक्षक के रूप में प्रसिद्ध थे? / Which of the Indo-Greek rulers are famous as patrons of Buddhism?",
+    "options": {
+      "A": "मेनांडर (Menander)",
+      "B": "ऐपोलोडोटस (Apollodotus)",
+      "C": "एंटियलसिडास (Antialcidas)",
+      "D": "एगाथोक्लीस (Agathocles)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "मेनांडर और एंटियलसिडास बौद्ध धर्म के संरक्षक माने जाते हैं; मेनांडर का उल्लेख 'मिलिंद पन्हा' में है।"
+  },
+  {
+    "id": 13,
+    "question": "इंडो-स्किथियन और इंडो-पार्थियन शासनकाल के दौरान रोमन व्यापार में प्रमुख निर्यात वस्तुएं कौन-सी थीं? / What were the main export goods in Roman trade during Indo-Scythian and Indo-Parthian periods?",
+    "options": {
+      "A": "मसाले / Spices",
+      "B": "रेशम / Silk",
+      "C": "कीमती पत्थर / Precious stones",
+      "D": "घोड़े / Horses"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "इन कालों में रोमन व्यापार में भारत से मसाले, रेशम और कीमती पत्थर का निर्यात होता था; घोड़े का निर्यात सीमित था।"
+  },
+  {
+    "id": 14,
+    "question": "गंधार कला के विषयों में प्रमुख रूप से क्या शामिल था? / What themes were predominantly included in Gandhara art?",
+    "options": {
+      "A": "बुद्ध के जीवन की घटनाएं / Events from the life of Buddha",
+      "B": "ग्रीक पौराणिक कथाएं / Greek mythological stories",
+      "C": "जातक कथाएं / Jataka tales",
+      "D": "विष्णु और शिव के अवतार / Avatars of Vishnu and Shiva"
+    },
+    "answer": ["A", "C"],
+    "explanation": "गंधार कला में बुद्ध के जीवन की घटनाएं और जातक कथाएं प्रमुख विषय थे; ग्रीक पौराणिक कथाएं प्रत्यक्ष विषय नहीं थीं।"
+  },
+  {
+    "id": 15,
+    "question": "इंडो-ग्रीक सिक्कों की विशेषताओं में से कौन-सी सही हैं? / Which of the following are correct features of Indo-Greek coins?",
+    "options": {
+      "A": "यथार्थवादी शासक चित्र / Realistic portraits of rulers",
+      "B": "पौराणिक प्रतीकों का उपयोग / Use of mythological symbols",
+      "C": "द्विभाषी अभिलेख / Bilingual inscriptions",
+      "D": "एक ही धातु का प्रयोग / Use of single metal only"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "इंडो-ग्रीक सिक्कों में यथार्थवादी चित्र, पौराणिक प्रतीक और द्विभाषी अभिलेख पाए जाते थे; धातुएं विविध थीं।"
+  },
+  {
+    "id": 16,
+    "question": "इंडो-स्किथियन काल में निम्न में से कौन-सा धार्मिक विकास प्रमुख था? / Which of the following was a major religious development during the Indo-Scythian period?",
+    "options": {
+      "A": "मथुरा में महायान बौद्ध केंद्रों का विकास / Development of Mahayana Buddhist centers in Mathura",
+      "B": "अमरावती स्तूप का निर्माण / Construction of Amaravati stupa",
+      "C": "गंधार में बौद्ध विहार / Buddhist viharas in Gandhara",
+      "D": "वैष्णव मंदिरों की स्थापना / Establishment of Vaishnav temples"
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "इंडो-स्किथियन काल में मथुरा में महायान केंद्र, गंधार में बौद्ध विहार और वैष्णव मंदिरों का निर्माण हुआ; अमरावती स्तूप दक्कन क्षेत्र से संबंधित है।"
+  },
+  {
+    "id": 17,
+    "question": "इंडो-पार्थियन शासनकाल के सिक्कों के बारे में सही कथन कौन-से हैं? / Which statements are correct about Indo-Parthian coins?",
+    "options": {
+      "A": "इन पर ग्रीक और फारसी लिपि दोनों का प्रयोग हुआ। / They used both Greek and Persian scripts.",
+      "B": "इनमें घोड़े पर बैठे शासक के चित्र भी मिलते हैं। / They depict rulers on horseback.",
+      "C": "इनमें केवल धार्मिक प्रतीक पाए जाते हैं। / They contain only religious symbols.",
+      "D": "ये प्रायः चांदी के सिक्के होते थे। / They were mostly silver coins."
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "इनमें ग्रीक और फारसी लिपि का प्रयोग, घुड़सवार चित्र और चांदी के सिक्के मिलते हैं; केवल धार्मिक प्रतीक वाली बात गलत है।"
+  },
+  {
+    "id": 18,
+    "question": "निम्नलिखित में से कौन-सा/से गंधार कला के प्रभाव को दर्शाता/दर्शाते हैं? / Which of the following reflect the influence of Gandhara art?",
+    "options": {
+      "A": "बुद्ध की यथार्थवादी प्रतिमाएं / Realistic images of Buddha",
+      "B": "यूनानी शैली की ड्रेसिंग / Greek-style drapery",
+      "C": "रोमन वास्तुकला के स्तंभ / Roman architectural columns",
+      "D": "भारतीय प्रतीकों का लोप / Disappearance of Indian symbols"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "गंधार कला में यथार्थवादी बुद्ध प्रतिमाएं, यूनानी शैली की ड्रेसिंग और रोमन स्तंभ प्रभाव पाए जाते हैं; भारतीय प्रतीकों का लोप नहीं हुआ।"
+  },
+  {
+    "id": 19,
+    "question": "इंडो-ग्रीक शासन का भारतीय संस्कृति पर क्या प्रभाव पड़ा? / What was the impact of Indo-Greek rule on Indian culture?",
+    "options": {
+      "A": "यूनानी और भारतीय कला का सम्मिश्रण / Fusion of Greek and Indian art",
+      "B": "द्विभाषी अभिलेख परंपरा का आरंभ / Introduction of bilingual inscription tradition",
+      "C": "भारतीय धर्मों का दमन / Suppression of Indian religions",
+      "D": "हेलनिस्टिक स्थापत्य तकनीक का आगमन / Introduction of Hellenistic architectural techniques"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "इंडो-ग्रीक शासन में कला का सम्मिश्रण, द्विभाषी अभिलेख और हेलनिस्टिक स्थापत्य तकनीक का आगमन हुआ; धर्मों का दमन नहीं हुआ।"
+  },
+  {
+    "id": 20,
+    "question": "इंडो-स्किथियन काल में कौन-से व्यापार मार्ग सक्रिय थे? / Which trade routes were active during the Indo-Scythian period?",
+    "options": {
+      "A": "उत्तरी रेशम मार्ग / Northern Silk Route",
+      "B": "दक्षिणी समुद्री मार्ग / Southern maritime route",
+      "C": "अरब-मिस्र मार्ग / Arab-Egypt route",
+      "D": "कांची-चीन स्थल मार्ग / Kanchi-China land route"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "इंडो-स्किथियन काल में उत्तरी रेशम मार्ग, समुद्री मार्ग और अरब-मिस्र मार्ग सक्रिय थे; कांची-चीन स्थल मार्ग का महत्व बाद में बढ़ा।"
+  },
+  {
+    "id": 21,
+    "question": "निम्नलिखित में से कौन-से इंडो-ग्रीक शासक अपने विस्तृत साम्राज्य और सांस्कृतिक योगदान के लिए प्रसिद्ध थे? / Which of the following Indo-Greek rulers were famous for their vast empire and cultural contributions?",
+    "options": {
+      "A": "डेमेट्रियस (Demetrius)",
+      "B": "मेनांडर (Menander)",
+      "C": "एंटियलसिडास (Antialcidas)",
+      "D": "अपोलोडोटस द्वितीय (Apollodotus II)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "डेमेट्रियस ने उत्तर-पश्चिम भारत में विस्तार किया, मेनांडर बौद्ध धर्म से जुड़ा और एंटियलसिडास ने धार्मिक वाणिज्यिक संबंध बढ़ाए।"
+  },
+  {
+    "id": 22,
+    "question": "इंडो-ग्रीक काल की प्रमुख राजधानियों के बारे में कौन-से कथन सही हैं? / Which statements are correct about major capitals of Indo-Greek period?",
+    "options": {
+      "A": "तक्षशिला एक प्रमुख राजधानी थी। / Taxila was a major capital.",
+      "B": "पुष्कलावती इंडो-ग्रीक शासन का केंद्र रही। / Pushkalavati was a centre of Indo-Greek rule.",
+      "C": "साँची इनकी धार्मिक राजधानी थी। / Sanchi was their religious capital.",
+      "D": "उज्जैन इंडो-ग्रीक प्रशासनिक केंद्र रहा। / Ujjain was an Indo-Greek administrative centre."
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "तक्षशिला और पुष्कलावती प्रमुख राजधानियां थीं; उज्जैन एक प्रशासनिक केंद्र था। साँची बौद्ध स्थल था पर इंडो-ग्रीक राजधानी नहीं।"
+  },
+  {
+    "id": 23,
+    "question": "इंडो-स्किथियन शासकों में से कौन-से शासक सौराष्ट्र और मथुरा क्षेत्रों से जुड़े थे? / Which Indo-Scythian rulers were associated with Saurashtra and Mathura regions?",
+    "options": {
+      "A": "मउस (Maues)",
+      "B": "आज़ेस प्रथम (Azes I)",
+      "C": "रुद्रदामन प्रथम (Rudradaman I)",
+      "D": "गोंडोफेरेस (Gondophares)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "आज़ेस प्रथम और रुद्रदामन प्रथम का शासन सौराष्ट्र-मथुरा में रहा; गोंडोफेरेस इंडो-पार्थियन शासक थे।"
+  },
+  {
+    "id": 24,
+    "question": "इंडो-स्किथियन काल की प्रमुख राजधानियां कौन-सी थीं? / Which were the major capitals of Indo-Scythian period?",
+    "options": {
+      "A": "तक्षशिला / Taxila",
+      "B": "गिरिनगर / Girinagar",
+      "C": "मथुरा / Mathura",
+      "D": "धनकटका / Dhanyakataka"
+    },
+    "answer": ["B", "C"],
+    "explanation": "गिरिनगर और मथुरा इंडो-स्किथियन की प्रमुख राजधानियां थीं; तक्षशिला इंडो-ग्रीक और इंडो-पार्थियन के अधीन थी।"
+  },
+  {
+    "id": 25,
+    "question": "निम्न में से कौन-से शासक इंडो-पार्थियन साम्राज्य के अंतर्गत आते हैं? / Which of the following rulers belonged to Indo-Parthian empire?",
+    "options": {
+      "A": "गोंडोफेरेस (Gondophares)",
+      "B": "अबडागेस (Abdagases)",
+      "C": "वोमा (Voma)",
+      "D": "रुद्रसिंह प्रथम (Rudra Simha I)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "गोंडोफेरेस और अबडागेस इंडो-पार्थियन शासक थे; रुद्रसिंह और वोमा पश्चिमी क्षत्रप काल से संबंधित हैं।"
+  },
+  {
+    "id": 26,
+    "question": "इंडो-पार्थियन काल की प्रमुख राजधानी और उसका स्थान कौन-सा था? / Which was the major capital of Indo-Parthian period and its location?",
+    "options": {
+      "A": "तक्षशिला – पंजाब / Taxila – Punjab",
+      "B": "मथुरा – उत्तर प्रदेश / Mathura – Uttar Pradesh",
+      "C": "कपुरकोट – सिंध / Kapurkot – Sindh",
+      "D": "उज्जैन – मालवा / Ujjain – Malwa"
+    },
+    "answer": ["A"],
+    "explanation": "इंडो-पार्थियन काल की प्रमुख राजधानी तक्षशिला थी, जो पंजाब क्षेत्र में स्थित थी।"
+  },
+  {
+    "id": 27,
+    "question": "इंडो-ग्रीक शासन के दौरान कौन-से शासक ने भारतीय क्षेत्र में पहली बार ग्रीक शैली की राजधानी स्थापित की? / Which ruler during Indo-Greek rule first established a Greek-style capital in Indian territory?",
+    "options": {
+      "A": "डेमेट्रियस (Demetrius)",
+      "B": "मेनांडर (Menander)",
+      "C": "एंटियलसिडास (Antialcidas)",
+      "D": "एगाथोक्लीस (Agathocles)"
+    },
+    "answer": ["A"],
+    "explanation": "डेमेट्रियस ने पहली बार भारतीय क्षेत्र में ग्रीक शैली की राजधानी स्थापित की, जो तक्षशिला क्षेत्र में थी।"
+  },
+  {
+    "id": 28,
+    "question": "निम्नलिखित में से कौन-से शासक और राजधानी का संयोजन सही है? / Which of the following ruler and capital combinations is correct?",
+    "options": {
+      "A": "मेनांडर – साकेत / Menander – Saket",
+      "B": "गोंडोफेरेस – तक्षशिला / Gondophares – Taxila",
+      "C": "रुद्रदामन – गिरिनगर / Rudradaman – Girinagar",
+      "D": "आज़ेस प्रथम – मथुरा / Azes I – Mathura"
+    },
+    "answer": ["B", "C", "D"],
+    "explanation": "गोंडोफेरेस की राजधानी तक्षशिला थी, रुद्रदामन की गिरिनगर और आज़ेस प्रथम की मथुरा से संबद्धता थी। मेनांडर की राजधानी साकेत नहीं थी।"
+  },
+  {
+    "id": 29,
+    "question": "इंडो-स्किथियन और पश्चिमी क्षत्रप शासकों में संबंध के बारे में कौन-सा कथन सही है? / Which statement is correct about the relation between Indo-Scythian and Western Kshatrapa rulers?",
+    "options": {
+      "A": "पश्चिमी क्षत्रप इंडो-स्किथियन वंश की शाखा थे। / Western Kshatrapas were a branch of Indo-Scythian dynasty.",
+      "B": "इनकी राजधानियां एक ही क्षेत्र में स्थित थीं। / Their capitals were located in the same region.",
+      "C": "इनके सिक्कों पर समान प्रतीक पाए जाते थे। / Similar symbols appeared on their coins.",
+      "D": "दोनों का उद्गम पार्थियन साम्राज्य से था। / Both originated from Parthian empire."
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "पश्चिमी क्षत्रप इंडो-स्किथियन की शाखा थे, उनकी राजधानियां सौराष्ट्र-गुजरात में थीं और सिक्कों पर समान प्रतीक पाए जाते थे।"
+  },
+  {
+    "id": 30,
+    "question": "इंडो-ग्रीक शासन के दौरान कौन-से शहर प्रशासनिक व सांस्कृतिक केंद्र रहे? / Which cities were administrative and cultural centres during Indo-Greek rule?",
+    "options": {
+      "A": "तक्षशिला / Taxila",
+      "B": "पुष्कलावती / Pushkalavati",
+      "C": "उज्जैन / Ujjain",
+      "D": "धनकटका / Dhanyakataka"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "तक्षशिला, पुष्कलावती और उज्जैन इंडो-ग्रीक के महत्वपूर्ण केंद्र थे; धनकटका अमरावती क्षेत्र से जुड़ा है।"
+  },
+  {
+    "id": 31,
+    "question": "इंडो-पार्थियन साम्राज्य के पतन के कारणों में कौन-से शामिल थे? / Which were the causes for the decline of Indo-Parthian empire?",
+    "options": {
+      "A": "कुषाण आक्रमण / Kushan invasions",
+      "B": "राजनीतिक विखंडन / Political fragmentation",
+      "C": "रोमन व्यापार में गिरावट / Decline in Roman trade",
+      "D": "स्थानीय विद्रोह / Local rebellions"
+    },
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "इंडो-पार्थियन साम्राज्य का पतन कुषाण आक्रमण, विखंडन, रोमन व्यापार में कमी और स्थानीय विद्रोह के कारण हुआ।"
+  },
+  {
+    "id": 32,
+    "question": "कौन-से इंडो-ग्रीक शासक ने अपनी राजधानी से धार्मिक सहिष्णुता का उदाहरण प्रस्तुत किया? / Which Indo-Greek ruler demonstrated religious tolerance from his capital?",
+    "options": {
+      "A": "मेनांडर (Menander)",
+      "B": "एंटियलसिडास (Antialcidas)",
+      "C": "एगाथोक्लीस (Agathocles)",
+      "D": "अपोलोडोटस प्रथम (Apollodotus I)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "मेनांडर और एंटियलसिडास दोनों ने अपने राजधानियों से धार्मिक सहिष्णुता दिखाई; मेनांडर का उल्लेख 'मिलिंद पन्हा' में है।"
+  },
+  {
+    "id": 33,
+    "question": "इंडो-स्किथियन काल के प्रमुख बंदरगाह कौन-से थे? / Which were the major ports during Indo-Scythian period?",
+    "options": {
+      "A": "भरुकच्छ / Barygaza (Bharuch)",
+      "B": "सोपारा / Sopara",
+      "C": "तम्रलिप्ति / Tamralipti",
+      "D": "काम्बे / Cambay"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "भरुकच्छ, सोपारा और काम्बे इंडो-स्किथियन काल के प्रमुख समुद्री बंदरगाह थे; तम्रलिप्ति पूर्वी भारत का बंदरगाह था।"
+  },
+  {
+    "id": 34,
+    "question": "कौन-से इंडो-पार्थियन शासक ने तक्षशिला में निर्माण कार्य कराए? / Which Indo-Parthian ruler undertook construction works in Taxila?",
+    "options": {
+      "A": "गोंडोफेरेस (Gondophares)",
+      "B": "अबडागेस (Abdagases)",
+      "C": "वोमा (Voma)",
+      "D": "आज़ेस द्वितीय (Azes II)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "गोंडोफेरेस और अबडागेस दोनों ने तक्षशिला में धार्मिक और प्रशासनिक निर्माण कराए।"
+  },
+  {
+    "id": 35,
+    "question": "इंडो-ग्रीक साम्राज्य के अंतर्गत निम्नलिखित में से कौन-से क्षेत्र आते थे? / Which of the following regions were part of Indo-Greek empire?",
+    "options": {
+      "A": "पंजाब / Punjab",
+      "B": "सिंध / Sindh",
+      "C": "गुजरात / Gujarat",
+      "D": "गंधार / Gandhara"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "इंडो-ग्रीक साम्राज्य में पंजाब, सिंध और गंधार क्षेत्र आते थे; गुजरात बाद में इंडो-स्किथियन-पश्चिमी क्षत्रप के अधीन आया।"
+  },
+  {
+    "id": 36,
+    "question": "इंडो-स्किथियन और इंडो-पार्थियन दोनों के लिए कौन-सा क्षेत्र रणनीतिक दृष्टि से महत्वपूर्ण था? / Which region was strategically important for both Indo-Scythians and Indo-Parthians?",
+    "options": {
+      "A": "पंजाब / Punjab",
+      "B": "सौराष्ट्र / Saurashtra",
+      "C": "गंधार / Gandhara",
+      "D": "मालवा / Malwa"
+    },
+    "answer": ["A", "C"],
+    "explanation": "पंजाब और गंधार दोनों साम्राज्यों के लिए सामरिक और व्यापारिक दृष्टि से महत्वपूर्ण थे।"
+  },
+  {
+    "id": 37,
+    "question": "इंडो-ग्रीक और इंडो-स्किथियन दोनों के सिक्कों में क्या समानता पाई जाती है? / What similarity is found in the coins of both Indo-Greek and Indo-Scythian?",
+    "options": {
+      "A": "द्विभाषी अभिलेख / Bilingual inscriptions",
+      "B": "यथार्थवादी चित्रांकन / Realistic portraits",
+      "C": "धार्मिक प्रतीकों का प्रयोग / Use of religious symbols",
+      "D": "सिर्फ एक ही धातु का प्रयोग / Use of single metal only"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "दोनों के सिक्कों में द्विभाषी अभिलेख, यथार्थवादी चित्रांकन और धार्मिक प्रतीक मिलते हैं; एक धातु का प्रयोग नहीं था।"
+  },
+  {
+    "id": 38,
+    "question": "कौन-से इंडो-स्किथियन शासक का नाम गिरनार अभिलेख में मिलता है? / Which Indo-Scythian ruler's name is found in Girnar inscription?",
+    "options": {
+      "A": "रुद्रदामन प्रथम (Rudradaman I)",
+      "B": "आज़ेस प्रथम (Azes I)",
+      "C": "मउस (Maues)",
+      "D": "गोंडोफेरेस (Gondophares)"
+    },
+    "answer": ["A"],
+    "explanation": "गिरनार अभिलेख में रुद्रदामन प्रथम का नाम मिलता है; वे पश्चिमी क्षत्रप थे, जो इंडो-स्किथियन वंश से संबंधित थे।"
+  },
+  {
+    "id": 39,
+    "question": "इंडो-पार्थियन शासकों के व्यापारिक संपर्क किन-किन क्षेत्रों से थे? / Indo-Parthian rulers had trade connections with which regions?",
+    "options": {
+      "A": "रोमन साम्राज्य / Roman Empire",
+      "B": "मध्य एशिया / Central Asia",
+      "C": "चीन / China",
+      "D": "दक्षिण-पूर्व एशिया / Southeast Asia"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "इंडो-पार्थियन व्यापार संपर्क रोमन साम्राज्य, मध्य एशिया और चीन से थे; दक्षिण-पूर्व एशिया से प्रत्यक्ष संबंध कम थे।"
+  },
+  {
+    "id": 40,
+    "question": "कौन-से इंडो-ग्रीक शासक ने पुष्कलावती को अपनी राजधानी बनाया? / Which Indo-Greek ruler made Pushkalavati his capital?",
+    "options": {
+      "A": "डेमेट्रियस (Demetrius)",
+      "B": "एंटियलसिडास (Antialcidas)",
+      "C": "मेनांडर (Menander)",
+      "D": "एगाथोक्लीस (Agathocles)"
+    },
+    "answer": ["B"],
+    "explanation": "एंटियलसिडास ने पुष्कलावती को अपनी राजधानी बनाया, जिससे गंधार और उत्तर-पश्चिमी भारत में उनका प्रभाव मजबूत हुआ।"
+  },
+  {
+    "id": 41,
+    "question": "गंधार कला को किस मिश्रण के रूप में जाना जाता है? / Gandhara art is known as a fusion of which styles?",
+    "options": {
+      "A": "ग्रीक और बौद्ध शैली (Greek and Buddhist styles)",
+      "B": "रोमन और हिंदू शैली (Roman and Hindu styles)",
+      "C": "ईरानी और बौद्ध शैली (Iranian and Buddhist styles)",
+      "D": "भारतीय और पर्शियन शैली (Indian and Persian styles)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "गंधार कला को प्रायः Greco-Buddhist कहा जाता है, जिसमें ग्रीक प्रभाव और कुछ हद तक ईरानी प्रभाव भी देखने को मिलता है।"
+  },
+  {
+    "id": 42,
+    "question": "गंधार कला का प्रमुख केंद्र कहाँ था? / What was the main centre of Gandhara art?",
+    "options": {
+      "A": "तक्षशिला (Taxila)",
+      "B": "पेशावर (Peshawar)",
+      "C": "मथुरा (Mathura)",
+      "D": "अमरावती (Amaravati)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "गंधार कला का प्रमुख विकास तक्षशिला और पेशावर क्षेत्र में हुआ, विशेषकर कुशाण शासनकाल में।"
+  },
+  {
+    "id": 43,
+    "question": "गंधार कला में बुद्ध की मूर्तियों की कौन-सी विशेषता पाई जाती है? / Which feature is found in Buddha images of Gandhara art?",
+    "options": {
+      "A": "ग्रीक शैली का चोगा (Greek-style robe)",
+      "B": "अभय मुद्रा (Abhaya Mudra)",
+      "C": "धर्मचक्र मुद्रा (Dharmachakra Mudra)",
+      "D": "मुकुटधारी बुद्ध (Crowned Buddha)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "गंधार कला में बुद्ध को ग्रीक शैली के चोगे में, शांत मुद्रा और अभय व धर्मचक्र मुद्रा में दर्शाया गया।"
+  },
+  {
+    "id": 44,
+    "question": "गंधार कला के विकास का चरम किस शासक के समय हुआ? / During whose reign did Gandhara art reach its peak?",
+    "options": {
+      "A": "कनिष्क (Kanishka)",
+      "B": "अशोक (Ashoka)",
+      "C": "हुविष्क (Huvishka)",
+      "D": "मेनांडर (Menander)"
+    },
+    "answer": ["A"],
+    "explanation": "गंधार कला का सर्वाधिक विकास कुशाण शासक कनिष्क के समय हुआ।"
+  },
+  {
+    "id": 45,
+    "question": "गंधार कला में प्रयुक्त प्रमुख सामग्री कौन-सी थी? / What was the main material used in Gandhara art?",
+    "options": {
+      "A": "ग्रे शिस्ट पत्थर (Grey schist stone)",
+      "B": "बलुआ पत्थर (Sandstone)",
+      "C": "संगमरमर (Marble)",
+      "D": "लकड़ी (Wood)"
+    },
+    "answer": ["A"],
+    "explanation": "गंधार कला में मूर्तियों के निर्माण में मुख्यतः ग्रे शिस्ट पत्थर का प्रयोग किया गया।"
+  },
+  {
+    "id": 46,
+    "question": "गंधार कला की विषयवस्तु में क्या शामिल था? / What subjects were included in Gandhara art?",
+    "options": {
+      "A": "बुद्ध के जीवन की घटनाएँ (Events from Buddha's life)",
+      "B": "जातक कथाएँ (Jataka tales)",
+      "C": "यूनानी देवताओं के चित्रण (Depictions of Greek gods)",
+      "D": "पौराणिक हिंदू कथाएँ (Mythological Hindu stories)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "गंधार कला में बुद्ध के जीवन, जातक कथाएँ और यूनानी देवताओं के तत्व शामिल थे।"
+  },
+  {
+    "id": 47,
+    "question": "गंधार कला में यूनानी प्रभाव के प्रमाण कौन-से हैं? / Which are evidences of Greek influence in Gandhara art?",
+    "options": {
+      "A": "यथार्थवादी मानव आकृतियाँ (Realistic human figures)",
+      "B": "घुँघराले बाल और मूंछें (Curly hair and moustaches)",
+      "C": "प्राकृतिक पृष्ठभूमि (Natural background)",
+      "D": "नग्नता का प्रदर्शन (Depiction of nudity)"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "गंधार कला में ग्रीक मूर्तिकला के समान यथार्थवाद, घुँघराले बाल, और नग्नता का प्रदर्शन मिलता है।"
+  },
+  {
+    "id": 48,
+    "question": "गंधार कला का सबसे प्रसिद्ध स्तूप स्थल कौन-सा है? / Which is the most famous stupa site of Gandhara art?",
+    "options": {
+      "A": "शाहजी-की-ढेरी (Shah-ji-ki-Dheri)",
+      "B": "सांची (Sanchi)",
+      "C": "धमेक स्तूप (Dhamek Stupa)",
+      "D": "जामल गढ़ी (Jamal Garhi)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "शाहजी-की-ढेरी और जामल गढ़ी गंधार कला के प्रमुख स्तूप स्थल हैं।"
+  },
+  {
+    "id": 49,
+    "question": "गंधार कला के अध्ययन का प्रमुख स्रोत क्या है? / What is the main source for studying Gandhara art?",
+    "options": {
+      "A": "मूर्तियाँ (Sculptures)",
+      "B": "शिलालेख (Inscriptions)",
+      "C": "प्राचीन ग्रंथ (Ancient texts)",
+      "D": "यूनानी यात्रियों के विवरण (Greek travellers' accounts)"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "गंधार कला के अध्ययन के लिए मूर्तियाँ, शिलालेख और विदेशी यात्रियों के विवरण महत्वपूर्ण हैं।"
+  },
+  {
+    "id": 50,
+    "question": "गंधार कला का प्रसार किन क्षेत्रों में हुआ? / In which regions did Gandhara art spread?",
+    "options": {
+      "A": "अफगानिस्तान (Afghanistan)",
+      "B": "पंजाब (Punjab)",
+      "C": "बंगाल (Bengal)",
+      "D": "उत्तर-पश्चिम पाकिस्तान (North-West Pakistan)"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "गंधार कला का प्रसार अफगानिस्तान, पंजाब और उत्तर-पश्चिम पाकिस्तान में हुआ।"
+  },
+  {
+    "id": 51,
+    "question": "गंधार कला और मथुरा कला में मुख्य अंतर क्या था? / What was the main difference between Gandhara and Mathura schools of art?",
+    "options": {
+      "A": "सामग्री का उपयोग (Use of material)",
+      "B": "बुद्ध के चित्रण की शैली (Style of depiction of Buddha)",
+      "C": "धार्मिक प्रभाव (Religious influence)",
+      "D": "प्राकृतिक दृश्य (Natural scenery)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "गंधार कला में ग्रे शिस्ट और यूनानी शैली, जबकि मथुरा में बलुआ पत्थर और भारतीय शैली का प्रयोग हुआ।"
+  },
+  {
+    "id": 52,
+    "question": "गंधार कला में बुद्ध को किस रूप में दर्शाया गया? / In Gandhara art, how was Buddha depicted?",
+    "options": {
+      "A": "मानवीय रूप में (In human form)",
+      "B": "प्रतीकात्मक रूप में (In symbolic form)",
+      "C": "कई बार देवताओं के साथ (Sometimes with deities)",
+      "D": "राजसी वस्त्रों में (In royal garments)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "गंधार कला में बुद्ध को मानवीय रूप में, और कभी-कभी यूनानी या बौद्ध देवताओं के साथ दर्शाया गया।"
+  },
+  {
+    "id": 53,
+    "question": "गंधार कला में कौन-सी मुद्रा दुर्लभ है? / Which pose is rare in Gandhara art?",
+    "options": {
+      "A": "ध्यान मुद्रा (Meditation pose)",
+      "B": "भू-मिस्पर्श मुद्रा (Bhumisparsha pose)",
+      "C": "वज्रासन (Vajrasana)",
+      "D": "शेषशायी मुद्रा (Reclining pose)"
+    },
+    "answer": ["D"],
+    "explanation": "गंधार कला में शेषशायी (Reclining) बुद्ध की मूर्ति दुर्लभ है।"
+  },
+  {
+    "id": 54,
+    "question": "गंधार कला के उत्खनन में कौन-से विदेशी प्रभाव भी मिले हैं? / Which foreign influences were also found in Gandhara art excavations?",
+    "options": {
+      "A": "रोमन प्रभाव (Roman influence)",
+      "B": "पर्शियन प्रभाव (Persian influence)",
+      "C": "चीनी प्रभाव (Chinese influence)",
+      "D": "मध्य एशियाई प्रभाव (Central Asian influence)"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "गंधार कला में रोमन, पर्शियन और मध्य एशियाई प्रभाव भी मिले हैं।"
+  },
+  {
+    "id": 55,
+    "question": "गंधार कला का पतन कब शुरू हुआ? / When did Gandhara art begin to decline?",
+    "options": {
+      "A": "5वीं सदी ई. के बाद (After 5th century CE)",
+      "B": "7वीं सदी ई. (7th century CE)",
+      "C": "कुषाणों के पतन के तुरंत बाद (Immediately after the fall of Kushanas)",
+      "D": "हूण आक्रमणों के बाद (After Hun invasions)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "गंधार कला का पतन 5वीं सदी ई. के बाद हूण आक्रमणों के चलते हुआ।"
+  },
+  {
+    "id": 56,
+    "question": "मथुरा कला के प्रमुख विषय कौन से थे? / What were the main themes of Mathura art?",
+    "options": {
+      "A": "बौद्ध मूर्तियां (Buddhist sculptures)",
+      "B": "जैन मूर्तियां (Jain sculptures)",
+      "C": "हिंदू देवताओं की मूर्तियां (Hindu deity sculptures)",
+      "D": "रोमन सम्राटों के चित्र (Portraits of Roman emperors)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "मथुरा कला में बौद्ध, जैन और हिंदू देवताओं की मूर्तियों का निर्माण हुआ। रोमन सम्राटों के चित्र मथुरा शैली में नहीं बनाए जाते थे।"
+  },
+  {
+    "id": 57,
+    "question": "अमरावती कला की सबसे बड़ी विशेषता क्या थी? / What was the most prominent feature of Amaravati art?",
+    "options": {
+      "A": "संगमरमर का उपयोग (Use of marble)",
+      "B": "चूना पत्थर की नक्काशी (Carving on limestone)",
+      "C": "लाल बलुआ पत्थर का प्रयोग (Use of red sandstone)",
+      "D": "धातु मूर्तियां (Metal sculptures)"
+    },
+    "answer": ["B"],
+    "explanation": "अमरावती कला में चूना पत्थर पर सूक्ष्म नक्काशी की विशेषता थी।"
+  },
+  {
+    "id": 58,
+    "question": "मथुरा कला और अमरावती कला में कौन सी समानताएं थीं? / Which similarities existed between Mathura and Amaravati art?",
+    "options": {
+      "A": "दोनों में बौद्ध विषय प्रमुख थे (Both had Buddhist themes prominently)",
+      "B": "दोनों में लाल बलुआ पत्थर का उपयोग हुआ (Both used red sandstone)",
+      "C": "दोनों में कथात्मक मूर्तिकला का प्रयोग (Both used narrative sculpture)",
+      "D": "दोनों का विकास शुंग काल में हुआ (Both developed during Shunga period)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "दोनों शैलियों में बौद्ध विषय और कथात्मक मूर्तिकला महत्वपूर्ण थी, लेकिन पत्थर और काल अलग थे।"
+  },
+  {
+    "id": 59,
+    "question": "मथुरा कला में किस प्रकार की बौद्ध प्रतिमाएं प्रमुख थीं? / Which type of Buddhist images were prominent in Mathura art?",
+    "options": {
+      "A": "बुद्ध की मानवीय प्रतिमाएं (Human images of Buddha)",
+      "B": "बोधि वृक्ष का प्रतीकात्मक चित्रण (Symbolic depiction of Bodhi tree)",
+      "C": "पद्मासन मुद्रा की मूर्तियां (Padmasana posture statues)",
+      "D": "धातु की मूर्तियां (Metal statues)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "मथुरा कला में बुद्ध की मानवीय प्रतिमाएं, प्रतीकात्मक चित्रण और विभिन्न मुद्राओं की मूर्तियां मिलती हैं।"
+  },
+  {
+    "id": 60,
+    "question": "अमरावती कला का प्रमुख संरक्षक कौन था? / Who was the main patron of Amaravati art?",
+    "options": {
+      "A": "सातवाहन शासक (Satavahana rulers)",
+      "B": "शुंग शासक (Shunga rulers)",
+      "C": "कुषाण शासक (Kushan rulers)",
+      "D": "इक्ष्वाकु शासक (Ikshvaku rulers)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "अमरावती कला का विकास मुख्यतः सातवाहन और इक्ष्वाकु शासकों के संरक्षण में हुआ।"
+  },
+  {
+    "id": 61,
+    "question": "मथुरा कला में प्रयुक्त प्रमुख पत्थर कौन सा था? / Which stone was mainly used in Mathura art?",
+    "options": {
+      "A": "संगमरमर (Marble)",
+      "B": "लाल बलुआ पत्थर (Red sandstone)",
+      "C": "ग्रेनाइट (Granite)",
+      "D": "चूना पत्थर (Limestone)"
+    },
+    "answer": ["B"],
+    "explanation": "मथुरा कला में लाल बलुआ पत्थर का प्रमुख रूप से उपयोग हुआ।"
+  },
+  {
+    "id": 62,
+    "question": "अमरावती कला में बौद्ध धर्म के किस रूप का चित्रण अधिक था? / Which form of Buddhism was more depicted in Amaravati art?",
+    "options": {
+      "A": "महायान (Mahayana)",
+      "B": "हीनयान (Hinayana)",
+      "C": "वज्रयान (Vajrayana)",
+      "D": "थेरवाद (Theravada)"
+    },
+    "answer": ["B"],
+    "explanation": "अमरावती कला में हीनयान रूप अधिक प्रमुख था, जिसमें बुद्ध का प्रतीकात्मक चित्रण होता था।"
+  },
+  {
+    "id": 63,
+    "question": "मथुरा और अमरावती कला में प्रमुख अंतर क्या था? / What was the major difference between Mathura and Amaravati art?",
+    "options": {
+      "A": "मथुरा में प्रतीकात्मक और अमरावती में मानवीय चित्रण (Symbolic in Mathura and human depiction in Amaravati)",
+      "B": "मथुरा में लाल बलुआ पत्थर, अमरावती में चूना पत्थर (Red sandstone in Mathura, limestone in Amaravati)",
+      "C": "मथुरा में हिंदू विषय, अमरावती में केवल बौद्ध (Hindu themes in Mathura, only Buddhist in Amaravati)",
+      "D": "अमरावती में कथात्मक शैली, मथुरा में नहीं (Narrative style in Amaravati, not in Mathura)"
+    },
+    "answer": ["B"],
+    "explanation": "मुख्य अंतर पत्थर के प्रकार में था—मथुरा में लाल बलुआ पत्थर और अमरावती में चूना पत्थर।"
+  },
+  {
+    "id": 64,
+    "question": "अमरावती कला में कथात्मक मूर्तिकला का विषय क्या था? / What was the theme of narrative sculptures in Amaravati art?",
+    "options": {
+      "A": "जातक कथाएं (Jataka tales)",
+      "B": "बुद्ध के जीवन की घटनाएं (Events from Buddha's life)",
+      "C": "रामायण कथाएं (Ramayana stories)",
+      "D": "महाभारत की घटनाएं (Mahabharata events)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "अमरावती कला में जातक कथाएं और बुद्ध के जीवन की घटनाएं प्रमुख कथात्मक विषय थे।"
+  },
+  {
+    "id": 65,
+    "question": "मथुरा कला में बुद्ध प्रतिमाओं का मुख्य प्रतीक कौन-सा था? / What was the main symbol of Buddha images in Mathura art?",
+    "options": {
+      "A": "चक्र मुद्रा / Wheel posture",
+      "B": "धर्मचक्र मुद्रा / Dharmachakra Mudra",
+      "C": "अभय मुद्रा / Abhaya Mudra",
+      "D": "ध्यान मुद्रा / Dhyana Mudra"
+    },
+    "answer": ["B", "C"],
+    "explanation": "मथुरा कला में बुद्ध प्रतिमाओं में धर्मचक्र मुद्रा और अभय मुद्रा का विशेष प्रभाव दिखता है, जो शिक्षण और निडरता का प्रतीक हैं।"
+  },
+  {
+    "id": 66,
+    "question": "अमरावती कला में प्रयुक्त मुख्य पत्थर कौन-सा था? / Which stone was primarily used in Amaravati art?",
+    "options": {
+      "A": "लाल बलुआ पत्थर / Red sandstone",
+      "B": "सफेद संगमरमर / White marble",
+      "C": "सफेद चूना पत्थर / White limestone",
+      "D": "ग्रेनाइट / Granite"
+    },
+    "answer": ["C"],
+    "explanation": "अमरावती कला में मुख्य रूप से सफेद चूना पत्थर का उपयोग होता था, जिस पर बारीक नक्काशी और कथाचित्र उकेरे जाते थे।"
+  },
+  {
+    "id": 67,
+    "question": "मथुरा और अमरावती कला में समानता कौन-सी थी? / What was a common feature between Mathura and Amaravati art?",
+    "options": {
+      "A": "दोनों में बौद्ध विषय / Both had Buddhist themes",
+      "B": "दोनों में जीवंत मूर्तिकला / Both had lively sculpture",
+      "C": "दोनों में ग्रीक प्रभाव / Both had Greek influence",
+      "D": "दोनों में स्थानीय शैली का विकास / Both had development of local style"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "दोनों कला शैलियों में बौद्ध धर्म के विषय, जीवंत मूर्तिकला, और स्थानीय शैली का विकास देखा जाता है, हालांकि ग्रीक प्रभाव मथुरा में कम और अमरावती में लगभग नहीं था।"
+  },
+  {
+    "id": 68,
+    "question": "मथुरा कला का मुख्य संरक्षक कौन था? / Who was the main patron of Mathura art?",
+    "options": {
+      "A": "शुंग वंश / Shunga dynasty",
+      "B": "कुशाण वंश / Kushan dynasty",
+      "C": "सातवाहन वंश / Satavahana dynasty",
+      "D": "गुप्त वंश / Gupta dynasty"
+    },
+    "answer": ["B"],
+    "explanation": "मथुरा कला का उत्कर्ष मुख्य रूप से कुशाण वंश के शासन में हुआ, विशेषकर कनिष्क के समय।"
+  },
+  {
+    "id": 69,
+    "question": "अमरावती कला किस नदी के तट पर विकसित हुई? / On which riverbank did Amaravati art flourish?",
+    "options": {
+      "A": "कृष्णा / Krishna",
+      "B": "गोदावरी / Godavari",
+      "C": "कावेरी / Kaveri",
+      "D": "तूंगभद्रा / Tungabhadra"
+    },
+    "answer": ["A"],
+    "explanation": "अमरावती कला का विकास आंध्र प्रदेश में कृष्णा नदी के तट पर हुआ।"
+  },
+  {
+    "id": 70,
+    "question": "मथुरा कला में प्रयुक्त मुख्य पत्थर कौन-सा था? / Which stone was mainly used in Mathura art?",
+    "options": {
+      "A": "लाल बलुआ पत्थर / Red sandstone",
+      "B": "सफेद संगमरमर / White marble",
+      "C": "सफेद चूना पत्थर / White limestone",
+      "D": "ग्रेनाइट / Granite"
+    },
+    "answer": ["A"],
+    "explanation": "मथुरा कला में लाल बलुआ पत्थर का प्रमुख रूप से उपयोग किया जाता था, जिससे मूर्तियों को विशिष्ट लाल आभा मिलती थी।"
+  },
+  {
+    "id": 71,
+    "question": "अमरावती कला की विशेषता क्या थी? / What was the special feature of Amaravati art?",
+    "options": {
+      "A": "कथानक पैनल / Narrative panels",
+      "B": "अत्यधिक अलंकरण / Highly ornate",
+      "C": "सरल रेखांकन / Simple lines",
+      "D": "नग्न आकृतियाँ / Nude figures"
+    },
+    "answer": ["A", "B"],
+    "explanation": "अमरावती कला में कथानक पैनल और बारीक अलंकरण प्रमुख विशेषताएँ थीं।"
+  },
+  {
+    "id": 72,
+    "question": "मथुरा कला में बुद्ध प्रतिमा किस रूप में पहली बार प्रकट हुई? / In what form did Buddha's image first appear in Mathura art?",
+    "options": {
+      "A": "मानवीय रूप / Human form",
+      "B": "प्रतीकात्मक रूप / Symbolic form",
+      "C": "जंतु रूप / Animal form",
+      "D": "शिलालेख रूप / Inscriptional form"
+    },
+    "answer": ["A"],
+    "explanation": "मथुरा कला में पहली बार बुद्ध को मानवीय रूप में दर्शाया गया, जबकि पहले वे केवल प्रतीकों द्वारा दर्शाए जाते थे।"
+  },
+  {
+    "id": 73,
+    "question": "अमरावती कला किस वंश के संरक्षण में फली-फूली? / Under which dynasty did Amaravati art flourish?",
+    "options": {
+      "A": "कुशाण / Kushan",
+      "B": "सातवाहन / Satavahana",
+      "C": "शुंग / Shunga",
+      "D": "गुप्त / Gupta"
+    },
+    "answer": ["B"],
+    "explanation": "अमरावती कला सातवाहन वंश के संरक्षण में विकसित हुई, जिसने बौद्ध धर्म के प्रचार में योगदान दिया।"
+  },
+  {
+    "id": 74,
+    "question": "मथुरा कला में ग्रीको-रोमन प्रभाव कैसा था? / How was the Greco-Roman influence in Mathura art?",
+    "options": {
+      "A": "प्रमुख / Prominent",
+      "B": "मध्यम / Moderate",
+      "C": "कम / Low",
+      "D": "न के बराबर / Almost none"
+    },
+    "answer": ["C"],
+    "explanation": "मथुरा कला में ग्रीको-रोमन प्रभाव कम था, जबकि मुख्यतः भारतीय परंपरा प्रमुख थी।"
+  },
+  {
+    "id": 75,
+    "question": "अमरावती कला में बुद्ध को किस मुद्रा में अधिक दर्शाया गया? / In which posture was Buddha mostly depicted in Amaravati art?",
+    "options": {
+      "A": "ध्यान मुद्रा / Meditation posture",
+      "B": "धर्मचक्र मुद्रा / Dharmachakra posture",
+      "C": "पद्मासन / Lotus posture",
+      "D": "खड़े मुद्रा / Standing posture"
+    },
+    "answer": ["A", "C"],
+    "explanation": "अमरावती कला में बुद्ध को ध्यान मुद्रा और पद्मासन में अक्सर दर्शाया गया, जो शांति और ज्ञान का प्रतीक थे।"
+  },
+  {
+    "id": 76,
+    "question": "मथुरा और अमरावती कला में मुख्य अंतर क्या था? / What was the main difference between Mathura and Amaravati art?",
+    "options": {
+      "A": "मथुरा में लाल पत्थर, अमरावती में सफेद पत्थर / Red stone in Mathura, white stone in Amaravati",
+      "B": "मथुरा में भारतीय प्रभाव, अमरावती में मिश्रित प्रभाव / Indian influence in Mathura, mixed in Amaravati",
+      "C": "मथुरा में प्रतीकात्मक रूप, अमरावती में मानवीय रूप / Symbolic in Mathura, human in Amaravati",
+      "D": "मथुरा में कुशाण संरक्षण, अमरावती में सातवाहन संरक्षण / Kushan patronage in Mathura, Satavahana in Amaravati"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "मुख्य अंतर पत्थर के प्रकार, सांस्कृतिक प्रभाव और संरक्षण करने वाले वंशों में था।"
+  },
+  {
+    "id": 77,
+    "question": "अमरावती कला में किस धर्म का अधिक प्रभाव था? / Which religion had more influence in Amaravati art?",
+    "options": {
+      "A": "बौद्ध / Buddhist",
+      "B": "जैन / Jain",
+      "C": "हिन्दू / Hindu",
+      "D": "जरथुष्ट्र / Zoroastrian"
+    },
+    "answer": ["A"],
+    "explanation": "अमरावती कला मुख्यतः बौद्ध धर्म से प्रभावित थी, जिसमें जातक कथाएँ प्रमुख थीं।"
+  },
+  {
+    "id": 78,
+    "question": "मथुरा कला में जैन प्रतिमाएँ भी बनती थीं। / Jain idols were also made in Mathura art.",
+    "options": {
+      "A": "सही / True",
+      "B": "गलत / False",
+      "C": "केवल प्रारंभिक काल में / Only in the early period",
+      "D": "केवल गुप्त काल में / Only in Gupta period"
+    },
+    "answer": ["A"],
+    "explanation": "मथुरा कला में बौद्ध प्रतिमाओं के साथ-साथ जैन प्रतिमाएँ भी बनाई जाती थीं।"
+  },
+  {
+    "id": 79,
+    "question": "अमरावती कला की मूर्तियों की मुख्य विशेषता क्या थी? / What was the main feature of Amaravati sculptures?",
+    "options": {
+      "A": "लहरदार वस्त्र / Wavy drapery",
+      "B": "भावपूर्ण चेहरे / Expressive faces",
+      "C": "साधारण आकार / Simple form",
+      "D": "गहन प्रतीकवाद / Deep symbolism"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "अमरावती मूर्तियों में लहरदार वस्त्र, भावपूर्ण चेहरे और गहन प्रतीकवाद प्रमुख थे।"
+  },
+  {
+    "id": 80,
+    "question": "मथुरा और अमरावती कला का संगम किस काल में अधिक देखा गया? / In which period was the fusion of Mathura and Amaravati art more visible?",
+    "options": {
+      "A": "गुप्त काल / Gupta period",
+      "B": "कुशाण काल / Kushan period",
+      "C": "सातवाहन काल / Satavahana period",
+      "D": "मौर्य काल / Maurya period"
+    },
+    "answer": ["A"],
+    "explanation": "गुप्त काल में मथुरा और अमरावती कला की विशेषताओं का संगम देखने को मिलता है।"
+  },
+  {
+    "id": 81,
+    "question": "Indo-Parthians ke pramukh shasak Gondophares ke baare me nimn likhit kathano me kaun se sahi hain? / Which of the following statements about Gondophares, the prominent Indo-Parthian ruler, are correct?",
+    "options": {
+      "A": "Unka naam 'Acts of Thomas' me Saint Thomas ke sambandh me aata hai / His name appears in the 'Acts of Thomas' in connection with Saint Thomas.",
+      "B": "Unke shasan ka pramukh kendra Mathura tha / Mathura was the main center of his rule.",
+      "C": "Unke sikko par Greek aur Kharoshthi lipi ka prayog hua / His coins used both Greek and Kharoshthi scripts.",
+      "D": "Unhone Gandhara kala ko badhava diya / He promoted Gandhara art."
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "Gondophares ka sambandh Saint Thomas ke visit se 'Acts of Thomas' me milta hai, unke sikko me Greek + Kharoshthi lipi payi gayi, aur Gandhara kala unke samay me prachalit rahi; Mathura unka kendra nahi tha, balki Taxila tha."
+  },
+  {
+    "id": 82,
+    "question": "Indo-Parthian shasan ke sandarbh me nimn likhit kaun sa sthaan unki rajdhani tha? / In the context of Indo-Parthian rule, which of the following was their capital?",
+    "options": {
+      "A": "Sirkap, Taxila",
+      "B": "Purushapura",
+      "C": "Sanchi",
+      "D": "Bharhut"
+    },
+    "answer": ["A"],
+    "explanation": "Indo-Parthian rajdhani Taxila thi, jiska puratatvik praman Sirkap site se milta hai."
+  },
+  {
+    "id": 83,
+    "question": "Indo-Parthianon ke baare me kaun se kathano sahi hain? / Which of the following statements about Indo-Parthians are correct?",
+    "options": {
+      "A": "Ve Iranian Parthian empire ke ek branch the jo NW India aaye / They were a branch of the Iranian Parthian empire that came to NW India.",
+      "B": "Unhone apni sikka vyavastha me Roman numeral system ka upyog kiya / They used the Roman numeral system in their coinage.",
+      "C": "Unka prabhav Gandhara kala par tha / They influenced Gandhara art.",
+      "D": "Unke samay me Bharat-Rome vyapar sambandh bane rahe / India-Rome trade relations continued during their period."
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "Indo-Parthians Iranian Parthians ki branch the, Gandhara kala ko samarthan diya, aur Roman trade links banaye rakhe; lekin unhone Roman numeral system ka upyog nahi kiya."
+  },
+  {
+    "id": 84,
+    "question": "Gondophares ke samay Bharat me aayi hui kaun si prasiddh dharmik vyakti ka ullekh hota hai? / Which famous religious figure is mentioned as having visited India during Gondophares’ reign?",
+    "options": {
+      "A": "Bodhidharma",
+      "B": "Saint Thomas",
+      "C": "Fa-Hien",
+      "D": "I-Tsing"
+    },
+    "answer": ["B"],
+    "explanation": "'Acts of Thomas' ke anusar Saint Thomas, Gondophares ke court me aaye the."
+  },
+  {
+    "id": 85,
+    "question": "Indo-Parthians ke shasan kaal me prachalit kala shaili me kaun si mukhya thi? / Which was the predominant art style during Indo-Parthian rule?",
+    "options": {
+      "A": "Amaravati School",
+      "B": "Mathura School",
+      "C": "Gandhara School",
+      "D": "Pala School"
+    },
+    "answer": ["C"],
+    "explanation": "Indo-Parthians ne Gandhara school ko samarthan diya, jisme Greco-Buddhist kala ke tatva the."
+  },
+  {
+    "id": 86,
+    "question": "Indo-Parthianon ke baare me kaun sa kathan galat hai? / Which statement about Indo-Parthians is incorrect?",
+    "options": {
+      "A": "Unka mool sthaan Iran ke Parthian samrajya se tha / Their origin was from the Parthian Empire in Iran.",
+      "B": "Unka mukhya shasan kendr Purushapura tha / Their main administrative center was Purushapura.",
+      "C": "Unke sikke me Greek aur Kharoshthi lipi ka mishran tha / Their coins had a mix of Greek and Kharoshthi scripts.",
+      "D": "Unka prabhav Gandhara kala par tha / They influenced Gandhara art."
+    },
+    "answer": ["B"],
+    "explanation": "Purushapura Kushan samrajya ka mukhya kendra tha; Indo-Parthians ka mukhya kendra Taxila tha."
+  },
+  {
+    "id": 87,
+    "question": "Indo-Parthians ke baare me nimn likhit me se kaun si baatein unke vyapar sambandh darshati hain? / Which of the following indicate Indo-Parthian trade relations?",
+    "options": {
+      "A": "Roman coins ka Bharat me milna / Finding of Roman coins in India",
+      "B": "Gandhara kala me Mediterranean prabhav / Mediterranean influence in Gandhara art",
+      "C": "Persian Gulf ke raste se vyapar / Trade via the Persian Gulf route",
+      "D": "Only overland trade via Central Asia"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Roman coins ka Bharat me milna, Gandhara kala me Mediterranean prabhav, aur Persian Gulf ke raste se vyapar Indo-Parthian samay ke vyapar sambandh ko darshata hai."
+  },
+  {
+    "id": 88,
+    "question": "Indo-Parthianon ki lipi vyavastha ke sandarbh me sahi kathan chunen / Choose the correct statements regarding Indo-Parthian script usage:",
+    "options": {
+      "A": "Sikke me keval Brahmi lipi ka prayog hua / Only Brahmi script was used in coins.",
+      "B": "Greek lipi ka prayog unke sikke me hua / Greek script was used in their coins.",
+      "C": "Kharoshthi lipi ka prayog hua / Kharoshthi script was used.",
+      "D": "Coin legends me bilingual system tha / The coin legends were bilingual."
+    },
+    "answer": ["B", "C", "D"],
+    "explanation": "Indo-Parthian coins bilingual the—Greek aur Kharoshthi lipi dono ka prayog hota tha; Brahmi lipi ka use nahi hua."
+  },
+  {
+    "id": 89,
+    "question": "निम्न में से कौन-से कथन Indo-Parthians (Pahlavas) के बारे में सही हैं? / Which of the following statements about the Indo-Parthians (Pahlavas) are correct?",
+    "options": {
+      "A": "इनका प्रमुख शासन केंद्र Taxila था। / Their main seat of power was at Taxila.",
+      "B": "इनका उद्गम ईरानी Parthian Empire की एक शाखा से हुआ। / They originated from a branch of the Iranian Parthian Empire.",
+      "C": "इन्होंने केवल ब्राह्मी लिपि में सिक्के जारी किए। / They issued coins only in Brahmi script.",
+      "D": "Saint Thomas के इनके दरबार में आने का उल्लेख 'Acts of Thomas' में मिलता है। / The visit of Saint Thomas to their court is mentioned in the 'Acts of Thomas'."
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Indo-Parthians का उद्गम Parthian Empire से हुआ और इनकी राजधानी Taxila (Sirkap) थी। Saint Thomas का उल्लेख 'Acts of Thomas' में है। इन्होंने Greek और Kharoshthi लिपियों का उपयोग किया, न कि केवल ब्राह्मी का।"
+  },
+  {
+    "id": 90,
+    "question": "Gondophares (Guduvhara) के संदर्भ में सही कथन चुनिए। / Select the correct statements regarding Gondophares (Guduvhara).",
+    "options": {
+      "A": "इनका उल्लेख 'Acts of Thomas' में मिलता है। / He is mentioned in the 'Acts of Thomas'.",
+      "B": "इनके सिक्कों पर केवल यूनानी भाषा का प्रयोग हुआ। / Their coins used only the Greek language.",
+      "C": "इनका शासनकाल प्रथम शताब्दी ईस्वी में था। / His reign was in the 1st century CE.",
+      "D": "इनके दरबार में Saint Thomas आने का वर्णन ईसाई परंपरा में है। / Christian tradition mentions Saint Thomas visiting his court."
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "Gondophares का उल्लेख 'Acts of Thomas' में है, वे प्रथम शताब्दी CE में शासक थे और ईसाई परंपरा के अनुसार Saint Thomas इनके दरबार में आए। उनके सिक्कों में Greek और Kharoshthi दोनों का प्रयोग था।"
+  },
+  {
+    "id": 91,
+    "question": "Indo-Parthians के शासन के सांस्कृतिक प्रभावों में क्या शामिल था? / Which cultural influences were part of the Indo-Parthian rule?",
+    "options": {
+      "A": "Gandhara कला शैली में योगदान / Contribution to Gandhara art style",
+      "B": "Indo-Greek परंपराओं का निरंतरता / Continuation of Indo-Greek traditions",
+      "C": "मथुरा कला का आरंभ / Beginning of Mathura school of art",
+      "D": "रोमन साम्राज्य से व्यापारिक संबंध / Trade links with the Roman Empire"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Indo-Parthians ने Gandhara कला में योगदान दिया, Indo-Greek परंपराओं को आगे बढ़ाया और रोमन साम्राज्य से व्यापारिक संबंध बनाए रखे। मथुरा कला का उद्भव उनसे पहले शुरू हुआ था।"
+  },
+  {
+    "id": 92,
+    "question": "Taxila के Sirkap स्थल से संबंधित Indo-Parthian शासन की कौन-सी विशेषताएँ सही हैं? / Which features of the Indo-Parthian rule are correct with reference to the Sirkap site at Taxila?",
+    "options": {
+      "A": "यूनानी, पार्थियन और भारतीय स्थापत्य का मिश्रण / Blend of Greek, Parthian, and Indian architecture",
+      "B": "गंधार कला के कई मूर्तिशिल्प / Several Gandhara sculptures",
+      "C": "रोमन सिक्कों के अवशेष / Remains of Roman coins",
+      "D": "मौर्यकालीन अशोक स्तंभ / Mauryan Ashokan pillar"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Sirkap स्थल पर Greek, Parthian और Indian स्थापत्य के उदाहरण, Gandhara मूर्तियाँ और रोमन सिक्के मिले हैं। Mauryan Ashokan स्तंभ यहाँ Indo-Parthian काल का भाग नहीं है।"
+  },
+  {
+    "id": 93,
+    "question": "Indo-Parthians द्वारा प्रयोग की गई लिपियों में कौन-सी शामिल थीं? / Which scripts were used by the Indo-Parthians?",
+    "options": {
+      "A": "Greek / यूनानी",
+      "B": "Kharoshthi / खरोष्ठी",
+      "C": "Brahmi / ब्राह्मी",
+      "D": "Aramaic / अरामाईक"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Indo-Parthians ने सिक्कों और शिलालेखों में Greek और Kharoshthi लिपियों का उपयोग किया। Brahmi या Aramaic उनके प्रशासन में प्रमुख रूप से नहीं पाए जाते।"
+  },
+  {
+    "id": 94,
+    "question": "निम्न में से कौन-से कारक Indo-Parthians के पतन में सहायक रहे? / Which factors contributed to the decline of the Indo-Parthians?",
+    "options": {
+      "A": "कुषाणों का उदय / Rise of the Kushans",
+      "B": "रोमन साम्राज्य से व्यापार में गिरावट / Decline in trade with the Roman Empire",
+      "C": "अंतरिक राजनीतिक अस्थिरता / Internal political instability",
+      "D": "हूणों का आक्रमण / Huna invasions"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Indo-Parthians का पतन मुख्यतः कुषाणों के उदय, रोमन व्यापार में कमी और राजनीतिक अस्थिरता के कारण हुआ। हूणों का आक्रमण बहुत बाद में हुआ।"
+  },
+  {
+    "id": 95,
+    "question": "Indo-Parthian samay ke Gondophares ke baare me kaun se kathans sahi hain? / Which statements about Gondophares in Indo-Parthian period are correct?",
+    "options": {
+      "A": "Woh Indo-Parthian samrajya ke pratham shasak the",
+      "B": "Unka zikr 'Acts of Thomas' me aata hai",
+      "C": "Unke sikko par kewal Greek script thi",
+      "D": "Taxila unki rajdhani thi"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Gondophares Indo-Parthian shasak the jo Acts of Thomas me prakat hote hain, Taxila unka prashasanik kendra tha; unke sikko par Greek + Kharoshthi dono script milti thi, isliye option C galat hai."
+  },
+  {
+    "id": 96,
+    "question": "Indo-Parthian rajya ki rajdhani kaun si thi, aur kaun se sthalon se iska pramaan milta hai? / What was the capital of Indo-Parthian kingdom, and which sites provide evidence?",
+    "options": {
+      "A": "Sirkap excavation, Taxila",
+      "B": "Purushapura (Peshawar)",
+      "C": "Begram site",
+      "D": "Mathura stupa site"
+    },
+    "answer": ["A"],
+    "explanation": "Archaeological evidence Sirkap excavation, Taxila se milta hai jo Indo-Parthian rajdhani ke roop me pehchana gaya; Purushapura aur Mathura is samay unka mukhya kendra nahi the."
+  },
+  {
+    "id": 97,
+    "question": "Indo-Parthian coinage ke vishay me kaun se kathans sahi hain? / Which statements about Indo-Parthian coinage are correct?",
+    "options": {
+      "A": "Greek legends ke saath Kharoshthi legends ka prayog",
+      "B": "Sikkon par Buddhist symbols nahi milte",
+      "C": "Coins me Indo-Greek shaili ka prabhav tha",
+      "D": "Roman aureus type ka prabhav tha"
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "Indo-Parthian sikkon par Greek + Kharoshthi dono legends milte hain, Indo-Greek artistic prabhav tha aur Roman trade ke karan aureus type ka prabhav bhi tha; Buddhist symbols kabhi-kabhi milte the, isliye option B galat."
+  },
+  {
+    "id": 98,
+    "question": "‘Acts of Thomas’ granth me Gondophares ke sandarbh me kya bataya gaya hai? / In 'Acts of Thomas', what is mentioned about Gondophares?",
+    "options": {
+      "A": "Saint Thomas unke darbar me aaye",
+      "B": "Unke rajya me Christianity pravesh hua",
+      "C": "Unhone Saint Thomas ko apne mahal banane ka kaam diya",
+      "D": "Unhone Buddhism apnaya"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Acts of Thomas ke anusar Saint Thomas Gondophares ke darbar me aaye, Christianity pravesh hui, aur ek mahal nirman ka katha prachalit hai; Buddhism apnane ka ullekh nahi."
+  },
+  {
+    "id": 99,
+    "question": "Indo-Parthianon ka pravesh Bharat ke kis chhetra se hua tha? / Through which region did Indo-Parthians enter India?",
+    "options": {
+      "A": "Bolān Pass",
+      "B": "Khyber Pass",
+      "C": "Shipki La",
+      "D": "Karakoram Pass"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Indo-Parthian Iran se aakar NW India me pravesh kiye, mukhya dwar Bolān Pass aur Khyber Pass the; Shipki La aur Karakoram ka is sandarbh me pramaan nahi."
+  },
+  {
+    "id": 100,
+    "question": "Indo-Parthian samay ke sanskritik vikas me kaun se tatva pramukh the? / Which elements were prominent in Indo-Parthian cultural developments?",
+    "options": {
+      "A": "Gandhara shaili ka vikas",
+      "B": "Mathura shaili ka pratham udgam",
+      "C": "Greco-Roman kala ka prabhav",
+      "D": "Buddhist stupa nirman"
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "Indo-Parthian samay me Gandhara art me Greco-Roman prabhav spashṭ tha, aur Buddhist stupa nirman hua; Mathura shaili ka mukhya vikas unke samay nahi hua."
+  },
+  {
+    "id": 101,
+    "question": "Kaun se Indo-Parthian shasak ke samay Roman trade links ka pramaan milta hai? / During whose reign in Indo-Parthian period is evidence of Roman trade links found?",
+    "options": {
+      "A": "Gondophares",
+      "B": "Abdagases",
+      "C": "Pacores",
+      "D": "Vima Kadphises"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Gondophares aur Abdagases ke samay Roman trade links ka pramaan milta hai; Vima Kadphises Kushan ruler the."
+  },
+  {
+    "id": 102,
+    "question": "Indo-Parthianon ki bhasha aur lipi sambandhi kaun se kathans sahi hain? / Which statements about Indo-Parthian language and script are correct?",
+    "options": {
+      "A": "Greek bhasha prashasan me prayukt hoti thi",
+      "B": "Kharoshthi lipi sikkon me upyog hoti thi",
+      "C": "Brahmi lipi ka koi pramaan nahi",
+      "D": "Do-bhashi sikke milte hain"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Indo-Parthian samay me Greek bhasha aur Kharoshthi lipi ka prayog hota tha, aur coins bilingual milte hain; Brahmi ka bhi pramaan hai, isliye option C galat."
+  },
+  {
+    "id": 103,
+    "question": "Indo-Parthian aur Indo-Greek shasan shaili me kaun se tatva milte hain? / Which elements are common between Indo-Parthian and Indo-Greek rule?",
+    "options": {
+      "A": "Bilingual coinage",
+      "B": "Urban centres me Hellenistic architecture",
+      "C": "Only Indian scripts ka upyog",
+      "D": "Greek titles ka prayog"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Indo-Parthianon ne Indo-Greek parampara jaari rakhi — bilingual coins, Hellenistic architecture aur Greek titles ka prayog; sirf Indian scripts ka upyog nahi tha."
+  },
+  {
+    "id": 104,
+    "question": "Kaun se sthanon par Indo-Parthianon ke stupa nirman ke pramaan milte hain? / At which places is evidence of Indo-Parthian stupa construction found?",
+    "options": {
+      "A": "Taxila",
+      "B": "Butkara",
+      "C": "Sanchi",
+      "D": "Shah-ji-ki-Dheri"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Indo-Parthianon ne Taxila, Butkara aur Shah-ji-ki-Dheri me stupa nirman ke pramaan diye; Sanchi unka pramukh kshetra nahi tha."
+  },
+  {
+    "id": 105,
+    "question": "Indo-Parthian shasan ke patan ke pramukh karan kya the? / What were the main causes of Indo-Parthian decline?",
+    "options": {
+      "A": "Kushan expansion",
+      "B": "Internal fragmentation",
+      "C": "Roman empire ke hamle",
+      "D": "Satavahana uday"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Indo-Parthian patan ka pramukh karan Kushan vistar aur aantarik tukdo me batna tha; Roman hamle aur Satavahana uday isse pratyaksh nahi jude."
+  },
+  {
+    "id": 106,
+    "question": "Indo-Parthian samay me kaun sa kala kendr pramukh tha jo aage Kushanon ke samay bhi viksit hua? / Which art centre during Indo-Parthians remained prominent into Kushan period?",
+    "options": {
+      "A": "Gandhara (Taxila)",
+      "B": "Mathura",
+      "C": "Amaravati",
+      "D": "Nalanda"
+    },
+    "answer": ["A"],
+    "explanation": "Gandhara (Taxila) Indo-Parthian samay me kala ka pramukh kendra tha, jo Kushan samay me bhi viksit hua."
+  },
+  {
+    "id": 107,
+    "question": "Indo-Parthian rajya me shasan pranali ke sandarbh me kaun se kathans sahi hain? / Which statements about the administrative system of Indo-Parthians are correct?",
+    "options": {
+      "A": "Greek aur local prashasanik पद ka mishran",
+      "B": "Kendrit shasan pranali",
+      "C": "Feudal-type rajya vyavastha",
+      "D": "Rajyon me swatantra shasak"
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "Indo-Parthianon me Greek aur sthaniya पद ka mishran tha, feudal-type vyavastha thi, jisme kuch rajya swatantra shasak ke adhikar me the; kendrit shasan nahi tha."
+  },
+  {
+    "id": 108,
+    "question": "Indo-Parthian rajya me dharm ke sandarbh me kaun se tatva milte hain? / Which religious features are found in Indo-Parthian kingdom?",
+    "options": {
+      "A": "Buddhism ka samarthan",
+      "B": "Zoroastrian traditions",
+      "C": "Christianity ka pravesh",
+      "D": "Shaivism ka pramukh prachar"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Indo-Parthianon ne Buddhism ka samarthan kiya, Zoroastrian parampara banaye rakhi, aur Christianity ka pravesh Acts of Thomas ke madhyam se hua; Shaivism ka koi vishesh pramaan nahi."
+  },
+  {
+    "id": 109,
+    "question": "Indo-Parthian shasakon ki mudraon par kaun se pratik milte hain? / Which symbols are found on Indo-Parthian rulers' coins?",
+    "options": {
+      "A": "Thunderbolt (Vajra)",
+      "B": "Heracles ka figure",
+      "C": "Buddhist triratna",
+      "D": "Roman eagle"
+    },
+    "answer": ["B", "C", "D"],
+    "explanation": "Indo-Parthian coins par Heracles ka figure, Buddhist triratna, aur Roman eagle milte hain; Thunderbolt ka pramaan sadharan nahi."
+  },
+  {
+    "id": 110,
+    "question": "Indo-Parthianon ki bhaugolik seema apne charam par kaun se kshetron tak thi? / At their peak, which regions did the Indo-Parthian territory cover?",
+    "options": {
+      "A": "Sindh",
+      "B": "Punjab",
+      "C": "Afghanistan",
+      "D": "Bengal"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Indo-Parthian charam samay me Sindh, Punjab aur Afghanistan kshetra me prabhutva tha; Bengal kabhi unke niyantran me nahi tha."
+  },
+  {
+    "id": 111,
+    "question": "निम्नलिखित में से कौन-सा तथ्य इंडो-स्किथियन (शक) शासन से संबंधित है?/Which of the following facts is related to Indo-Scythian (Shaka) rule?",
+    "options": {
+      "A": "इनकी उत्पत्ति मध्य एशियाई खानाबदोश स्किथियन जनजातियों से हुई थी।/They originated from Central Asian nomadic Scythian tribes.",
+      "B": "युएझी जनजातियों के दबाव से भारत के उत्तर-पश्चिमी क्षेत्र की ओर बढ़े।/They moved towards NW India due to pressure from Yuezhi tribes.",
+      "C": "मूल राजधानी पाटलिपुत्र थी।/The original capital was Pataliputra.",
+      "D": "इन्होंने ग्रीक शैली के सिक्के और स्थानीय भारतीय रूपांकन दोनों अपनाए।/They adopted Greek-style coinage and local Indian motifs."
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "शक मूल रूप से मध्य एशिया के खानाबदोश स्किथियन थे। युएझी के दबाव से NW India की ओर बढ़े। पाटलिपुत्र इनकी राजधानी नहीं थी, बल्कि NW और पश्चिमी भारत के क्षेत्रों में शासन किया। सिक्कों में ग्रीक व स्थानीय शैली का मिश्रण देखा गया।"
+  },
+  {
+    "id": 112,
+    "question": "रुद्रदामन प्रथम के शासनकाल से संबंधित सही कथनों का चयन करें/Select the correct statements related to Rudradaman I's reign:",
+    "options": {
+      "A": "वह पश्चिमी क्षत्रपों के प्रमुख शासक थे।/He was a major ruler of the Western Satraps.",
+      "B": "उनका जूनागढ़ शिलालेख संस्कृत का सबसे प्राचीन विस्तृत शिलालेख है।/His Junagadh inscription is the earliest long inscription in Sanskrit.",
+      "C": "उन्होंने पाटलिपुत्र को राजधानी बनाया।/He made Pataliputra the capital.",
+      "D": "उन्होंने गंधार कला को संरक्षण दिया।/He patronised Gandhara art."
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "रुद्रदामन प्रथम पश्चिमी क्षत्रपों के महत्वपूर्ण शासक थे। जूनागढ़ शिलालेख संस्कृत में सबसे प्रारंभिक लंबा अभिलेख माना जाता है। पाटलिपुत्र उनकी राजधानी नहीं थी। गंधार कला के प्रति उनका संरक्षण देखा गया।"
+  },
+  {
+    "id": 113,
+    "question": "शकों की प्रशासनिक उपाधियों में 'महाक्षत्रप' और 'क्षत्रप' किससे संबंधित हैं?/The administrative titles 'Mahakshatrapa' and 'Kshatrapa' among the Shakas are related to:",
+    "options": {
+      "A": "धार्मिक पद/Religious positions",
+      "B": "राज्यपाल (Satrap) पद/Governor positions (Satrap)",
+      "C": "सैन्य पद/Military positions",
+      "D": "कर अधिकारी/Tax officials"
+    },
+    "answer": ["B"],
+    "explanation": "'महाक्षत्रप' और 'क्षत्रप' शब्द यूनानी 'Satrap' के समकक्ष थे, जो प्रांतीय राज्यपालों के लिए प्रयुक्त होते थे।"
+  },
+  {
+    "id": 114,
+    "question": "निम्न में से कौन-सा इंडो-स्किथियन (शक) और इंडो-ग्रीक शासन की साझा विशेषता थी?/Which of the following was a shared feature of Indo-Scythian (Shaka) and Indo-Greek rule?",
+    "options": {
+      "A": "ग्रीक शैली की मुद्रा प्रणाली/Greek-style coinage system",
+      "B": "स्थानीय भारतीय रूपांकनों का प्रयोग/Use of local Indian motifs",
+      "C": "संस्कृत भाषा के अभिलेख/Sanskrit inscriptions",
+      "D": "पाटलिपुत्र में राजधानी/Capital at Pataliputra"
+    },
+    "answer": ["A", "B"],
+    "explanation": "दोनों ने ग्रीक शैली के सिक्कों का प्रयोग किया और स्थानीय भारतीय प्रतीकों को भी सम्मिलित किया, लेकिन संस्कृत अभिलेख शकों में अधिक दिखते हैं और राजधानी पाटलिपुत्र नहीं थी।"
+  },
+  {
+    "id": 115,
+    "question": "मौएस (मोआ) और आज़ेस I-II किससे संबंधित हैं?/Maues (Moga) and Azes I-II are related to:",
+    "options": {
+      "A": "इंडो-ग्रीक शासन/Indo-Greek rule",
+      "B": "इंडो-स्किथियन शासन/Indo-Scythian rule",
+      "C": "गुप्त शासन/Gupta rule",
+      "D": "सातवाहन शासन/Satavahana rule"
+    },
+    "answer": ["B"],
+    "explanation": "मौएस और आज़ेस प्रथम-द्वितीय इंडो-स्किथियन शासन के प्रमुख शासक थे जिन्होंने NW India में शासन किया।"
+  },
+  {
+    "id": 116,
+    "question": "पश्चिमी क्षत्रपों की शक्ति किन क्षेत्रों में अधिक थी?/In which regions was the power of the Western Satraps most prominent?",
+    "options": {
+      "A": "गुजरात/Gujarat",
+      "B": "मालवा/Malwa",
+      "C": "राजस्थान/Rajasthan",
+      "D": "कश्मीर/Kashmir"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "पश्चिमी क्षत्रप मुख्य रूप से गुजरात, मालवा और राजस्थान के क्षेत्रों में प्रभावी थे, कश्मीर में नहीं।"
+  },
+  {
+    "id": 117,
+    "question": "निम्नलिखित में से कौन-सा तथ्य शकों की सांस्कृतिक भूमिका को दर्शाता है?/Which of the following reflects the cultural role of the Shakas?",
+    "options": {
+      "A": "गंधार कला का संरक्षण/Patronage of Gandhara art",
+      "B": "स्थानीय भाषाओं के प्रयोग को बढ़ावा/Promotion of local languages",
+      "C": "प्राचीन लंबी संस्कृत अभिलेखों की शुरुआत/Beginning of long Sanskrit inscriptions",
+      "D": "धार्मिक सहिष्णुता/Religious tolerance"
+    },
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "शकों ने गंधार कला को संरक्षण दिया, स्थानीय भाषाओं और संस्कृत अभिलेखों को अपनाया, और धार्मिक सहिष्णुता भी रखी।"
+  },
+  {
+    "id": 118,
+    "question": "शकों के भारत में प्रवेश का मुख्य कारण क्या था?/What was the main reason for the Shakas' entry into India?",
+    "options": {
+      "A": "युएझी जनजातियों का दबाव/Pressure from Yuezhi tribes",
+      "B": "गुप्त साम्राज्य का विस्तार/Expansion of Gupta Empire",
+      "C": "कृषि भूमि की खोज/Search for agricultural land",
+      "D": "समुद्री व्यापार पर नियंत्रण/Control over maritime trade"
+    },
+    "answer": ["A"],
+    "explanation": "युएझी जनजातियों के दबाव के कारण शकों को भारत के उत्तर-पश्चिमी क्षेत्रों की ओर धकेला गया।"
+  },
+  {
+    "id": 119,
+    "question": "निम्नलिखित में से कौन-सा शकों द्वारा नियंत्रित प्रमुख व्यापार मार्ग था?/Which of the following was a major trade route controlled by the Shakas?",
+    "options": {
+      "A": "उत्तर-पश्चिमी सीमा से मध्य एशिया/North-West Frontier to Central Asia",
+      "B": "पाटलिपुत्र से श्रीलंका/Pataliputra to Sri Lanka",
+      "C": "उज्जैन से पर्शिया/Ujjain to Persia",
+      "D": "कांचीपुरम से दक्षिण-पूर्व एशिया/Kanchipuram to Southeast Asia"
+    },
+    "answer": ["A", "C"],
+    "explanation": "शकों ने NW frontier से Central Asia और उज्जैन से पर्शिया तक के व्यापार मार्गों पर नियंत्रण रखा।"
+  },
+  {
+    "id": 120,
+    "question": "शकों की शासन पद्धति में सिक्का निर्माण का महत्व क्यों था?/Why was coinage important in the Shaka administration?",
+    "options": {
+      "A": "राज्य की वैधता दर्शाने के लिए/To display legitimacy of the state",
+      "B": "विभिन्न सांस्कृतिक प्रभाव दिखाने के लिए/To reflect diverse cultural influences",
+      "C": "धार्मिक अनुष्ठानों के लिए/For religious rituals",
+      "D": "व्यापार के सुचारु संचालन हेतु/For smooth functioning of trade"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "सिक्के राज्य की वैधता, सांस्कृतिक प्रभाव और व्यापार के सुचारु संचालन के प्रतीक थे।"
+  },
+  {
+    "id": 121,
+    "question": "निम्न में से कौन-सा कथन Indo-Scythians (शक) के संदर्भ में सही है? / Which of the following statements is correct regarding the Indo-Scythians (Shakas)?",
+    "options": {
+      "A": "इनकी उत्पत्ति मध्य एशियाई घुमंतू स्किथियन जनजातियों से हुई। / They originated from Central Asian nomadic Scythian tribes.",
+      "B": "इन्होंने पश्चिमी भारत में 'Western Kshatrapas' के रूप में सत्ता स्थापित की। / They established power in Western India as 'Western Kshatrapas'.",
+      "C": "इन्होंने भारतीय उपमहाद्वीप में प्रवेश सीधे दक्षिण भारत से किया। / They entered the Indian subcontinent directly from South India.",
+      "D": "इनके सिक्कों पर यूनानी शैली पूरी तरह समाप्त कर दी गई थी। / Greek style was completely abandoned in their coinage."
+    },
+    "answer": ["A", "B"],
+    "explanation": "Indo-Scythians मध्य एशियाई स्किथियन जनजातियों से थे जिन्होंने Western Kshatrapas के रूप में पश्चिमी भारत में सत्ता स्थापित की। वे NW frontier से प्रवेश किए थे और यूनानी सिक्कों की शैली को अपनाया, समाप्त नहीं किया। / The Indo-Scythians were Central Asian Scythian tribes who established power as Western Kshatrapas in Western India. They entered from the NW frontier and adopted, not abandoned, Greek coinage style."
+  },
+  {
+    "id": 122,
+    "question": "Western Kshatrapas के किस शासक का जुनागढ़ शिला-लेख संस्कृत में सबसे पुराना लंबा शिलालेख माना जाता है? / Which ruler of the Western Kshatrapas is associated with the earliest long Sanskrit inscription at Junagadh?",
+    "options": {
+      "A": "मौस (Moga)",
+      "B": "रुद्रदामन प्रथम (Rudradaman I)",
+      "C": "आज़ेस द्वितीय (Azes II)",
+      "D": "गोंडोफेरेस (Gondophares)"
+    },
+    "answer": ["B"],
+    "explanation": "रुद्रदामन प्रथम का जुनागढ़ शिला-लेख संस्कृत का सबसे पुराना लंबा शिलालेख है, जो 2वीं सदी CE का है। / Rudradaman I's Junagadh rock inscription is the earliest long Sanskrit inscription, dating to the 2nd century CE."
+  },
+  {
+    "id": 123,
+    "question": "Indo-Scythians के राजनीतिक शीर्षक 'महाक्षत्रप' और 'क्षत्रप' किससे प्रेरित थे? / The political titles 'Mahakshatrapa' and 'Kshatrapa' of the Indo-Scythians were inspired from which system?",
+    "options": {
+      "A": "मौर्य प्रशासन / Mauryan administration",
+      "B": "फारसी-सात्रापीय व्यवस्था / Persian Satrapal system",
+      "C": "यूनानी पोलिस प्रणाली / Greek polis system",
+      "D": "गुप्त प्रशासन / Gupta administration"
+    },
+    "answer": ["B"],
+    "explanation": "महाक्षत्रप और क्षत्रप शीर्षक फारसी सात्रापीय (Satrapal) प्रणाली से आए, जिसे यूनानी और बाद में शक शासकों ने अपनाया। / The titles Mahakshatrapa and Kshatrapa came from the Persian Satrapal system, later adopted by Greek and Shaka rulers."
+  },
+  {
+    "id": 124,
+    "question": "मौस (Moga) किस ऐतिहासिक घटना के लिए प्रसिद्ध है? / Maues (Moga) is famous for which historical event?",
+    "options": {
+      "A": "भारत में Indo-Scythian शासन की शुरुआत / Beginning of Indo-Scythian rule in India",
+      "B": "गुप्त साम्राज्य का पतन / Fall of the Gupta Empire",
+      "C": "पहली गुप्त-मौर्य संधि / First Gupta-Maurya treaty",
+      "D": "अमरावती कला का संरक्षण / Patronage of Amaravati art"
+    },
+    "answer": ["A"],
+    "explanation": "मौस को भारत में Indo-Scythian शासन की शुरुआत का श्रेय दिया जाता है, विशेषकर NW भारत में। / Maues is credited with the beginning of Indo-Scythian rule in India, especially in NW India."
+  },
+  {
+    "id": 125,
+    "question": "Indo-Scythians ने किस कला शैली को संरक्षित किया और विकसित किया? / Which art style was preserved and developed by the Indo-Scythians?",
+    "options": {
+      "A": "मथुरा कला / Mathura school",
+      "B": "गांधार कला / Gandhara school",
+      "C": "अमरावती कला / Amaravati school",
+      "D": "पाली कला / Pali school"
+    },
+    "answer": ["B"],
+    "explanation": "Indo-Scythians ने गांधार कला शैली को संरक्षित और विकसित किया, जो यूनानी और भारतीय प्रभाव का मिश्रण थी। / The Indo-Scythians preserved and developed the Gandhara school of art, which was a blend of Greek and Indian influences."
+  },
+  {
+    "id": 126,
+    "question": "Western Kshatrapas का आर्थिक महत्व मुख्य रूप से किस कारण था? / The economic importance of the Western Kshatrapas was mainly due to which factor?",
+    "options": {
+      "A": "रेशम मार्ग के व्यापार मार्गों का नियंत्रण / Control of Silk Route trade routes",
+      "B": "मौर्य कर प्रणाली / Mauryan tax system",
+      "C": "सिंधु घाटी कृषि उत्पादन / Indus Valley agricultural production",
+      "D": "बौद्ध विश्वविद्यालयों की आय / Revenue from Buddhist universities"
+    },
+    "answer": ["A"],
+    "explanation": "Western Kshatrapas का आर्थिक महत्व रेशम मार्ग और NW frontier से Central Asia तक के व्यापार मार्गों पर नियंत्रण के कारण था। / The Western Kshatrapas' economic importance came from their control over Silk Route and NW frontier trade routes to Central Asia."
+  },
+  {
+    "id": 127,
+    "question": "रुद्रदामन प्रथम के जुनागढ़ शिला-लेख में किस संरचना की मरम्मत का उल्लेख है? / The Junagadh rock inscription of Rudradaman I mentions the repair of which structure?",
+    "options": {
+      "A": "सांची स्तूप / Sanchi Stupa",
+      "B": "सुदर्शन झील बांध / Sudarshana lake dam",
+      "C": "कुतुब मीनार / Qutub Minar",
+      "D": "कोणार्क सूर्य मंदिर / Konark Sun Temple"
+    },
+    "answer": ["B"],
+    "explanation": "रुद्रदामन प्रथम के शिला-लेख में सुदर्शन झील बांध की मरम्मत का उल्लेख है। / Rudradaman I's inscription mentions the repair of the Sudarshana lake dam."
+  },
+  {
+    "id": 128,
+    "question": "Indo-Scythians के संदर्भ में 'Western Satraps' शब्द का क्या अर्थ है? / In the context of Indo-Scythians, what does the term 'Western Satraps' mean?",
+    "options": {
+      "A": "पूर्वी भारत में गवर्नर / Governors in Eastern India",
+      "B": "पश्चिमी भारत में शक सात्राप / Shaka satraps in Western India",
+      "C": "दक्षिण भारत के शासक / Rulers of South India",
+      "D": "उत्तर भारत के कुषाण गवर्नर / Kushan governors in North India"
+    },
+    "answer": ["B"],
+    "explanation": "'Western Satraps' का तात्पर्य पश्चिमी भारत के शक सात्रापों से है, विशेषकर गुजरात और मालवा क्षेत्रों में। / 'Western Satraps' refers to Shaka satraps in Western India, particularly in Gujarat and Malwa regions."
+  },
+  {
+    "id": 129,
+    "question": "Indo-Scythian सिक्कों में कौन-सी विशेषता पाई जाती है? / Which feature is found in Indo-Scythian coins?",
+    "options": {
+      "A": "केवल स्थानीय भारतीय प्रतीक / Only local Indian motifs",
+      "B": "यूनानी और भारतीय प्रतीकों का मिश्रण / Blend of Greek and Indian motifs",
+      "C": "केवल फारसी लिपि / Only Persian script",
+      "D": "सोने के सिक्कों का अभाव / Absence of gold coins"
+    },
+    "answer": ["B"],
+    "explanation": "Indo-Scythian सिक्कों में यूनानी और भारतीय प्रतीकों का मिश्रण था, जो सांस्कृतिक संमिश्रण का प्रतीक है। / Indo-Scythian coins had a blend of Greek and Indian motifs, symbolizing cultural synthesis."
+  },
+  {
+    "id": 130,
+    "question": "Indo-Scythians के पतन का मुख्य कारण क्या था? / What was the main reason for the decline of the Indo-Scythians?",
+    "options": {
+      "A": "गुप्त साम्राज्य का उदय / Rise of the Gupta Empire",
+      "B": "कुषाणों का उदय / Rise of the Kushanas",
+      "C": "मौर्यों का पुनरुत्थान / Revival of the Mauryas",
+      "D": "यूनानियों का पुनः आक्रमण / Return of the Greeks"
+    },
+    "answer": ["B"],
+    "explanation": "Indo-Scythians का पतन मुख्यतः कुषाण साम्राज्य के उदय और उनके सैन्य प्रभुत्व के कारण हुआ। / The decline of the Indo-Scythians was mainly due to the rise of the Kushanas and their military dominance."
+  },
+  {
+    "id": 131,
+    "question": "Indo-Scythian (Shaka) ruler Rudradaman I का Junagadh rock inscription निम्न में से किन कारणों से महत्वपूर्ण है? / Why is the Junagadh rock inscription of Rudradaman I significant?",
+    "options": {
+      "A": "It is the earliest long inscription in classical Sanskrit",
+      "B": "It records repairs to Sudarshana lake",
+      "C": "It mentions Indo-Greek alliances",
+      "D": "It was engraved in Brahmi and Kharoshthi scripts"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Rudradaman I’s Junagadh rock inscription (c. 150 CE) is the earliest long inscription in classical Sanskrit and mentions the repair of the Sudarshana lake, initially built during Mauryan times."
+  },
+  {
+    "id": 132,
+    "question": "Shaka rulers द्वारा अपनाए गए 'Mahakshatrapa' और 'Kshatrapa' शीर्षक किससे प्रभावित थे? / The titles 'Mahakshatrapa' and 'Kshatrapa' used by Shaka rulers were influenced by which tradition?",
+    "options": {
+      "A": "Achaemenid Persian governance",
+      "B": "Indo-Greek monarchy",
+      "C": "Roman provincial administration",
+      "D": "Mauryan provincial system"
+    },
+    "answer": ["A"],
+    "explanation": "The titles were derived from the Persian 'Satrap', indicating governors under the Achaemenid empire, later adopted in the Shaka polity."
+  },
+  {
+    "id": 133,
+    "question": "Indo-Scythian rule के दौरान Western Kshatrapas का मुख्य क्षेत्र कौन सा था? / Which was the main territory of the Western Kshatrapas under Indo-Scythian rule?",
+    "options": {
+      "A": "Punjab",
+      "B": "Gujarat",
+      "C": "Malwa",
+      "D": "Sindh"
+    },
+    "answer": ["B", "C"],
+    "explanation": "Western Kshatrapas primarily ruled over Gujarat and Malwa regions, controlling vital trade routes."
+  },
+  {
+    "id": 134,
+    "question": "Maues (Moga) को निम्न में से किस उपलब्धि के लिए जाना जाता है? / Maues (Moga) is known for which of the following achievements?",
+    "options": {
+      "A": "First Indo-Scythian ruler in NW India",
+      "B": "Issuing bilingual coins with Greek and Kharoshthi",
+      "C": "Patronage to Ajanta caves",
+      "D": "Defeating the Yuezhi"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Maues, the first Indo-Scythian ruler in NW India, issued bilingual coins in Greek and Kharoshthi, reflecting Hellenistic influences."
+  },
+  {
+    "id": 135,
+    "question": "Azes I और Azes II के बारे में कौन सा कथन सही है? / Which statements about Azes I and Azes II are correct?",
+    "options": {
+      "A": "They captured Indo-Greek territories",
+      "B": "They adopted purely Indian coinage styles",
+      "C": "They continued Hellenistic traditions",
+      "D": "They were contemporaries of Gondophares"
+    },
+    "answer": ["A", "C"],
+    "explanation": "Azes I and II expanded into Indo-Greek regions and continued certain Hellenistic traditions, particularly in coinage."
+  },
+  {
+    "id": 136,
+    "question": "Western Kshatrapas की आर्थिक शक्ति का मुख्य कारण क्या था? / What was the main reason for the economic strength of the Western Kshatrapas?",
+    "options": {
+      "A": "Control over silk route connections",
+      "B": "Maritime trade through Gujarat ports",
+      "C": "Agricultural surplus from Malwa plateau",
+      "D": "Tributes from Indo-Parthians"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Their economic strength derived from controlling silk route trade links and maritime trade through Gujarat’s ports."
+  },
+  {
+    "id": 137,
+    "question": "Rudradaman I का शासन किस सांस्कृतिक संरक्षण के लिए उल्लेखनीय है? / Rudradaman I’s reign is notable for the patronage of which cultural form?",
+    "options": {
+      "A": "Gandhara art",
+      "B": "Mathura school of sculpture",
+      "C": "Early classical Sanskrit inscriptions",
+      "D": "Dravidian temple architecture"
+    },
+    "answer": ["C"],
+    "explanation": "Rudradaman I is especially noted for producing early classical Sanskrit inscriptions, moving away from Prakrit dominance."
+  },
+  {
+    "id": 138,
+    "question": "Indo-Scythian coinage में कौन सा मिश्रण देखा जाता है? / Which combination is seen in Indo-Scythian coinage?",
+    "options": {
+      "A": "Greek artistic motifs with Indian symbols",
+      "B": "Roman imagery with Kharoshthi script",
+      "C": "Persian cuneiform with Prakrit legends",
+      "D": "Chinese characters with Buddhist motifs"
+    },
+    "answer": ["A"],
+    "explanation": "Indo-Scythian coins blended Hellenistic artistic elements with Indian religious and symbolic motifs."
+  },
+  {
+    "id": 139,
+    "question": "Indo-Scythian expansion Gujarat तक कैसे पहुँची? / How did Indo-Scythian expansion reach Gujarat?",
+    "options": {
+      "A": "Through Malwa after entering NW India",
+      "B": "Via Sindh and Kathiawar coast",
+      "C": "By defeating Satavahanas",
+      "D": "Through alliances with local rulers"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Expansion proceeded through Malwa and Sindh to Gujarat, supported by local alliances and strategic port control."
+  },
+  {
+    "id": 140,
+    "question": "Shaka rulers के समय का सामाजिक-सांस्कृतिक प्रभाव कौन सा था? / Which was a socio-cultural impact of the Shaka rulers’ period?",
+    "options": {
+      "A": "Spread of Sanskrit inscriptions",
+      "B": "Continuation of Indo-Greek artistic styles",
+      "C": "Decline of Buddhist monasteries",
+      "D": "Increased foreign trade"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Their reign saw the spread of Sanskrit inscriptions, continuation of Hellenistic art forms, and booming foreign trade."
+  },
+  {
+    "id": 141,
+    "question": "Junagadh inscription में Rudradaman I ने किस Mauryan अधिकारी के काम का उल्लेख किया है? / In the Junagadh inscription, whose work from the Mauryan period is mentioned by Rudradaman I?",
+    "options": {
+      "A": "Kautilya",
+      "B": "Pushyagupta",
+      "C": "Ashoka",
+      "D": "Bindusara"
+    },
+    "answer": ["B"],
+    "explanation": "The inscription refers to the work of Pushyagupta, a Mauryan governor who originally built the Sudarshana lake."
+  },
+  {
+    "id": 142,
+    "question": "Indo-Scythian trade links किससे जुड़े थे? / Indo-Scythian trade links were connected to which regions?",
+    "options": {
+      "A": "Central Asia",
+      "B": "Roman Empire",
+      "C": "Han China",
+      "D": "South-East Asia"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "They were connected through the Silk Route to Central Asia, the Roman Empire, and indirectly to Han China."
+  },
+  {
+    "id": 143,
+    "question": "Western Kshatrapas का पतन किन कारणों से हुआ? / What factors led to the decline of the Western Kshatrapas?",
+    "options": {
+      "A": "Defeat by Gupta ruler Chandragupta II",
+      "B": "Internal succession disputes",
+      "C": "Decline of maritime trade",
+      "D": "Invasion by Huns"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Their decline was due to defeat by Chandragupta II and internal conflicts over succession."
+  },
+  {
+    "id": 144,
+    "question": "Shaka rule के दौरान कौन सा धार्मिक प्रोत्साहन देखा गया? / Which religious patronage was seen during Shaka rule?",
+    "options": {
+      "A": "Buddhism",
+      "B": "Jainism",
+      "C": "Shaivism",
+      "D": "Zoroastrianism"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shaka rulers patronized Buddhism, Jainism, and Brahmanical traditions like Shaivism."
+  },
+  {
+    "id": 145,
+    "question": "Indo-Scythian military strategies में क्या शामिल था? / What did Indo-Scythian military strategies include?",
+    "options": {
+      "A": "Use of horse archers",
+      "B": "Fortified urban centers",
+      "C": "Naval warfare dominance",
+      "D": "Alliances with local powers"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Their strategies used nomadic-style horse archers, fortified cities, and political alliances."
+  },
+  {
+    "id": 146,
+    "question": "Indo-Scythian काल के दौरान कौन सा script अधिक प्रचलित था? / Which script was more prevalent during the Indo-Scythian period?",
+    "options": {
+      "A": "Brahmi",
+      "B": "Kharoshthi",
+      "C": "Sharada",
+      "D": "Gupta script"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Brahmi was widespread in central and southern regions, while Kharoshthi was common in the northwest."
+  },
+  {
+    "id": 147,
+    "question": "Indo-Scythians का सांस्कृतिक मिश्रण किसका परिणाम था? / The cultural synthesis of Indo-Scythians was a result of which influences?",
+    "options": {
+      "A": "Central Asian nomadic traditions",
+      "B": "Hellenistic art",
+      "C": "Indian religious motifs",
+      "D": "Persian administration"
+    },
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "It was a composite culture blending Central Asian, Hellenistic, Indian, and Persian elements."
+  },
+  {
+    "id": 148,
+    "question": "Indo-Scythian administration में कौन सी विशेषता नहीं थी? / Which was NOT a feature of Indo-Scythian administration?",
+    "options": {
+      "A": "Use of satrap system",
+      "B": "Centralized Mauryan-like bureaucracy",
+      "C": "Local autonomy to governors",
+      "D": "Hereditary succession of satraps"
+    },
+    "answer": ["B"],
+    "explanation": "Unlike the Mauryan centralized bureaucracy, the Shaka polity relied on a satrapal system with local autonomy."
+  },
+  {
+    "id": 149,
+    "question": "Indo-Scythian rulers के सिक्कों पर अक्सर कौन सा देवता दिखाया जाता था? / Which deity was often depicted on Indo-Scythian coins?",
+    "options": {
+      "A": "Zeus",
+      "B": "Shiva",
+      "C": "Buddha",
+      "D": "Athena"
+    },
+    "answer": ["B", "D"],
+    "explanation": "Indo-Scythian coins often featured Athena from Greek tradition and Shiva from Indian tradition."
+  },
+  {
+    "id": 150,
+    "question": "Shaka expansion के संदर्भ में कौन सा कथन गलत है? / Which statement is incorrect regarding Shaka expansion?",
+    "options": {
+      "A": "They entered India due to Yuezhi pressure",
+      "B": "They first settled in Malwa before NW India",
+      "C": "They extended to Gujarat and Rajasthan",
+      "D": "They adopted titles from Persian governance"
+    },
+    "answer": ["B"],
+    "explanation": "They entered NW India first, then expanded to Malwa, Gujarat, and Rajasthan; not the other way round."
+  }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
