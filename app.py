@@ -44,7 +44,8 @@ def result():
             'options': q['options'],
             'selected': selected,
             'correct': correct,
-            'is_correct': is_correct
+            'is_correct': is_correct,
+            'explanation': q.get('explanation', '')  # ✅ Added explanation
         })
 
     return render_template('result.html', results=results, score=score, total=len(questions))
