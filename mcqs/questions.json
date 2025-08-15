@@ -1,1522 +1,472 @@
 [
   {
     "id": 1,
-    "question": "अलाहाबाद स्तंभ शिलालेख किसके विजयों का काव्यात्मक विवरण प्रस्तुत करता है? / The Allahabad Pillar Inscription poetically records the conquests of whom?",
+    "question": "एत्तुत्तोगै और पत्तुप्पाट्टु में मुख्य अंतर क्या है? / What is the main difference between Ettuthogai and Pattuppaṭṭu?",
     "options": {
-      "A": "समुद्रगुप्त / Samudragupta",
-      "B": "स्कंदगुप्त / Skandagupta",
-      "C": "कुमारगुप्त / Kumaragupta",
-      "D": "चंद्रगुप्त / Chandragupta"
+      "A": "एत्तुत्तोगै आठ संग्रह हैं, पत्तुप्पाट्टु दस लंबी कविताओं का संग्रह है / Ettuthogai is eight anthologies, Pattuppaṭṭu is ten long poems",
+      "B": "एत्तुत्तोगै केवल पुरम विषयों पर है, पत्तुप्पाट्टु केवल अकम् विषयों पर है / Ettuthogai covers only Puram themes, Pattuppaṭṭu only Akam themes",
+      "C": "एत्तुत्तोगै में मिश्रित कविताएं हैं, पत्तुप्पाट्टु महाकाव्य रूप है / Ettuthogai contains mixed poems, Pattuppaṭṭu is epic in nature",
+      "D": "दोनों संगम साहित्य के भाग हैं लेकिन संग्रहण की विधि अलग है / Both are part of Sangam literature but compiled differently"
     },
-    "answer": ["A"],
-    "explanation": "अलाहाबाद स्तंभ शिलालेख समुद्रगुप्त के digvijay (संपूर्ण विजयों) का काव्यात्मक विवरण प्रस्तुत करता है।"
+    "answer": ["A", "D"],
+    "explanation": "एत्तुत्तोगै आठ संकलनों का समूह है, जिसमें विभिन्न कवियों की रचनाएं हैं, जबकि पत्तुप्पाट्टु दस लंबे कविताओं का अलग संकलन है। दोनों संगम युग के हैं लेकिन संकलन की पद्धति अलग है।"
   },
   {
     "id": 2,
-    "question": "भितारी और मंडसौर शिलालेख किसके सैन्य अभियानों और प्रशासनिक रिकॉर्ड को दर्शाते हैं? / Bhitari and Mandsaur inscriptions record military campaigns and administration of whom?",
+    "question": "अकम और पुरम वर्गीकरण का आधार क्या है? / What is the basis of Akam–Puram classification?",
     "options": {
-      "A": "समुद्रगुप्त / Samudragupta",
-      "B": "स्कंदगुप्त / Skandagupta",
-      "C": "कुमारगुप्त / Kumaragupta",
-      "D": "चंद्रगुप्त / Chandragupta"
+      "A": "अकम – आंतरिक, निजी भावनाएं / Akam – internal, personal emotions",
+      "B": "पुरम – बाहरी, सार्वजनिक क्रियाएं / Puram – external, public actions",
+      "C": "अकम – युद्ध विषय / Akam – war themes",
+      "D": "पुरम – प्रेम विषय / Puram – love themes"
     },
-    "answer": ["B", "C"],
-    "explanation": "भितारी शिलालेख स्कंदगुप्त और मंडसौर शिलालेख कुमारगुप्त के सैन्य अभियानों और प्रशासनिक दृष्टि को दर्शाते हैं।"
+    "answer": ["A", "B"],
+    "explanation": "अकम कविताएं प्रेम और निजी भावनाओं पर केंद्रित होती हैं, जबकि पुरम कविताएं युद्ध, दान और सार्वजनिक कार्यों पर आधारित होती हैं।"
   },
   {
     "id": 3,
-    "question": "मेहरौली लौह स्तंभ किस प्रकार का प्रमाण प्रस्तुत करता है? / Mehrauli Iron Pillar provides evidence of what?",
+    "question": "पांच लैंडस्केप (टिनै) में कौन-सा प्रेम के विरह को दर्शाता है? / Which of the five landscapes (Tinai) depicts separation in love?",
     "options": {
-      "A": "गुप्त काल की धातु विज्ञान / Gupta period metallurgy",
-      "B": "शिलालेख / Epigraphic evidence",
-      "C": "धार्मिक मूर्तिकला / Religious sculpture",
-      "D": "कृषि तकनीक / Agricultural technique"
+      "A": "कुरिंजी / Kurinji",
+      "B": "नेयथल / Neythal",
+      "C": "मुल्लई / Mullai",
+      "D": "पलई / Palai"
     },
-    "answer": ["A", "B"],
-    "explanation": "मेहरौली लौह स्तंभ गुप्त काल के धातु विज्ञान और शिलालेखीय प्रमाण को प्रदर्शित करता है।"
+    "answer": ["B", "D"],
+    "explanation": "नेयथल (तटीय क्षेत्र) और पलई (रेगिस्तान) टिनै विरह और कठिनाइयों को दर्शाते हैं, जबकि कुरिंजी और मुल्लई मिलन और प्रतीक्षा से जुड़े हैं।"
   },
   {
     "id": 4,
-    "question": "सांची और उदयगिरि शिलालेख किस धार्मिक समर्थन का प्रमाण देते हैं? / Sanchi and Udayagiri inscriptions provide evidence of patronage for which religions?",
+    "question": "टोल्काप्पियम के लेखक और विषय के बारे में सही कथन चुनें। / Choose the correct statements about the author and subject of Tolkappiyam.",
     "options": {
-      "A": "बौद्ध / Buddhism",
-      "B": "हिंदू / Hinduism",
-      "C": "जैन / Jainism",
-      "D": "इस्लाम / Islam"
+      "A": "लेखक – टोल्काप्पियार / Author – Tolkappiyar",
+      "B": "विषय – व्याकरण और काव्यशास्त्र / Subject – grammar and poetics",
+      "C": "यह संगम काल का सबसे पुराना ग्रंथ है / It is the oldest work of Sangam age",
+      "D": "केवल राजनीतिक इतिहास / Only political history"
     },
-    "answer": ["A", "B"],
-    "explanation": "सांची और उदयगिरि शिलालेख बौद्ध और हिंदू धर्म की गुप्त काल में प्राप्त संरक्षण का प्रमाण देते हैं।"
+    "answer": ["A", "B", "C"],
+    "explanation": "टोल्काप्पियम को टोल्काप्पियार ने लिखा और यह संगम काल का सबसे पुराना ग्रंथ है, जिसमें तमिल व्याकरण और काव्यशास्त्र का वर्णन है।"
   },
   {
     "id": 5,
-    "question": "अलाहाबाद स्तंभ शिलालेख की सबसे महत्वपूर्ण विशेषता क्या है? / What is the most important feature of Allahabad Pillar Inscription?",
+    "question": "पुरनानूरु में किन-किन विषयों का उल्लेख है? / What topics are mentioned in Purananuru?",
     "options": {
-      "A": "काव्यात्मक शैली / Poetic style",
-      "B": "धातु विज्ञान / Metallurgy",
-      "C": "सैन्य विवरण / Military record",
-      "D": "धार्मिक चित्र / Religious depiction"
+      "A": "युद्ध और वीरता / War and heroism",
+      "B": "दान और उदारता / Charity and generosity",
+      "C": "कृषि तकनीक / Agricultural techniques",
+      "D": "राजाओं का वर्णन / Description of kings"
     },
-    "answer": ["A", "C"],
-    "explanation": "अलाहाबाद स्तंभ शिलालेख समुद्रगुप्त के विजयों का काव्यात्मक विवरण और सैन्य रिकॉर्ड प्रस्तुत करता है।"
+    "answer": ["A", "B", "D"],
+    "explanation": "पुरनानूरु मुख्यतः युद्ध, वीरता, दानशीलता और संगम कालीन राजाओं के वर्णन पर केंद्रित है।"
   },
   {
     "id": 6,
-    "question": "भितारी शिलालेख किस भाषा में खुदा हुआ है? / In which language is the Bhitari inscription engraved?",
+    "question": "संगम युग के कौन से बंदरगाह विदेशी व्यापार के लिए प्रसिद्ध थे? / Which Sangam ports were famous for foreign trade?",
     "options": {
-      "A": "संस्कृत / Sanskrit",
-      "B": "प्राकृत / Prakrit",
-      "C": "पारसी / Parsi",
-      "D": "अरबी / Arabic"
+      "A": "पुहार (कावेरीपट्टिनम) / Puhar (Kaveripattinam)",
+      "B": "मुजिरिस / Muziris",
+      "C": "ताम्रलिप्ति / Tamralipti",
+      "D": "कन्यकुमारी / Kanyakumari"
     },
-    "answer": ["A"],
-    "explanation": "भितारी शिलालेख संस्कृत में खुदा गया है और यह स्कंदगुप्त के प्रशासनिक और सैन्य रिकॉर्ड को दर्शाता है।"
+    "answer": ["A", "B"],
+    "explanation": "पुहार और मुजिरिस संगम युग में रोमन और अन्य देशों के साथ समुद्री व्यापार के महत्वपूर्ण केंद्र थे।"
   },
   {
     "id": 7,
-    "question": "मंडसौर शिलालेख मुख्यतः किस विषय पर केंद्रित है? / What is the primary focus of Mandsaur inscription?",
+    "question": "संगम साहित्य में पंच टिनै का प्राकृतिक परिदृश्य से क्या संबंध है? / How are the five Tinai related to natural landscapes?",
     "options": {
-      "A": "कुमारगुप्त के अभियानों / Kumaragupta’s campaigns",
-      "B": "धार्मिक अनुष्ठान / Religious rituals",
-      "C": "कृषि / Agriculture",
-      "D": "सांस्कृतिक उत्सव / Cultural festivals"
+      "A": "कुरिंजी – पहाड़ी क्षेत्र / Kurinji – mountainous region",
+      "B": "मुल्लई – वन क्षेत्र / Mullai – forest region",
+      "C": "नेयथल – तटीय क्षेत्र / Neythal – coastal region",
+      "D": "मारुतम – कृषि भूमि / Marutam – agricultural land"
     },
-    "answer": ["A"],
-    "explanation": "मंडसौर शिलालेख कुमारगुप्त के सैन्य अभियानों और प्रशासनिक मामलों पर केंद्रित है।"
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "पांच टिनै – कुरिंजी, मुल्लई, नेयथल, मारुतम और पलई – प्राकृतिक परिदृश्यों और उनके अनुरूप मानव जीवन के भावनात्मक पक्षों का प्रतिनिधित्व करते हैं।"
   },
   {
     "id": 8,
-    "question": "मेहरौली लौह स्तंभ का निर्माण किस युग का है? / Mehrauli Iron Pillar belongs to which period?",
+    "question": "पत्तुप्पाट्टु में किस प्रकार की कविताएं हैं? / What type of poems are in Pattuppaṭṭu?",
     "options": {
-      "A": "मौर्य / Maurya",
-      "B": "गुप्त / Gupta",
-      "C": "चोल / Chola",
-      "D": "मुगल / Mughal"
+      "A": "लंबी एकल कविताएं / Long individual poems",
+      "B": "छोटी मिश्रित कविताएं / Short mixed poems",
+      "C": "राजाओं की प्रशंसा / Praise of kings",
+      "D": "केवल प्रेम गीत / Only love songs"
     },
-    "answer": ["B"],
-    "explanation": "मेहरौली लौह स्तंभ गुप्त काल का उदाहरण है और इसमें धातु विज्ञान और शिलालेखीय प्रमाण दिखाई देते हैं।"
+    "answer": ["A", "C"],
+    "explanation": "पत्तुप्पाट्टु में दस लंबी कविताएं हैं, जिनमें कई कविताएं राजाओं की प्रशंसा में लिखी गई हैं।"
   },
   {
     "id": 9,
-    "question": "सांची स्तूप और उदयगिरि गुफाओं की शिलालेखीय प्रमाण क्या दर्शाते हैं? / What do the inscriptions at Sanchi Stupa and Udayagiri caves indicate?",
+    "question": "एत्तुत्तोगै में कौन से संग्रह शामिल हैं? / Which anthologies are included in Ettuthogai?",
     "options": {
-      "A": "धार्मिक संरक्षण / Religious patronage",
-      "B": "सैन्य अभियान / Military campaigns",
-      "C": "साम्राज्यिक विस्तार / Imperial expansion",
-      "D": "कृषि तकनीक / Agricultural techniques"
+      "A": "आहनानुरु / Ahananuru",
+      "B": "पुरनानूरु / Purananuru",
+      "C": "नाट्रिनै / Natrinai",
+      "D": "पत्तिनाप्पालै / Pattinappalai"
     },
-    "answer": ["A"],
-    "explanation": "सांची और उदयगिरि के शिलालेख धार्मिक संरक्षण, बौद्ध और हिंदू धर्म में गुप्त शासकों की सक्रिय भागीदारी को दर्शाते हैं।"
+    "answer": ["A", "B", "C"],
+    "explanation": "एत्तुत्तोगै आठ संग्रहों का समूह है, जिसमें आहनानुरु, पुरनानूरु, नाट्रिनै आदि शामिल हैं; पत्तिनाप्पालै पत्तुप्पाट्टु का हिस्सा है।"
   },
   {
     "id": 10,
-    "question": "अलाहाबाद स्तंभ शिलालेख में समुद्रगुप्त के किस कार्य का उल्लेख नहीं है? / Which aspect of Samudragupta’s deeds is not mentioned in Allahabad Pillar Inscription?",
+    "question": "संगम साहित्य में चेर, चोल और पांड्य राजाओं की भूमिका क्या थी? / What was the role of Chera, Chola, and Pandya kings in Sangam literature?",
     "options": {
-      "A": "सैन्य विजयों / Military conquests",
-      "B": "धार्मिक संरक्षण / Religious patronage",
-      "C": "राजनीतिक विस्तार / Political expansion",
-      "D": "कृषि सुधार / Agricultural reforms"
+      "A": "कवियों को संरक्षण देना / Patronizing poets",
+      "B": "कविताएं स्वयं लिखना / Writing poems themselves",
+      "C": "विदेशी व्यापार को बढ़ावा देना / Promoting foreign trade",
+      "D": "मंदिर निर्माण में भाग लेना / Participating in temple building"
     },
-    "answer": ["D"],
-    "explanation": "अलाहाबाद स्तंभ शिलालेख में सैन्य, राजनीतिक और काव्यात्मक विवरण हैं, लेकिन कृषि सुधार का कोई उल्लेख नहीं है।"
+    "answer": ["A", "C"],
+    "explanation": "संगम साहित्य में चेर, चोल और पांड्य शासकों ने कवियों को संरक्षण दिया और समुद्री व्यापार को प्रोत्साहन दिया।"
   },
   {
     "id": 11,
-    "question": "भितारी शिलालेख हमें क्या जानकारी प्रदान करता है? / What information does Bhitari inscription provide?",
+    "question": "अकम्पुरम वर्गीकरण में ‘विहार’ और ‘युद्ध’ का संबंध किस श्रेणी से है? / In the Akam–Puram classification, which category relates to ‘warfare’ and ‘public life’?",
     "options": {
-      "A": "स्कंदगुप्त के सैन्य अभियान / Skandagupta’s military campaigns",
-      "B": "कुमारगुप्त के शासनकाल / Kumaragupta’s reign",
-      "C": "धार्मिक उत्सव / Religious festivals",
-      "D": "सिक्का जारी करना / Coin issuance"
+      "A": "Akam",
+      "B": "Puram",
+      "C": "Both Akam and Puram",
+      "D": "Neither"
     },
-    "answer": ["A"],
-    "explanation": "भितारी शिलालेख स्कंदगुप्त के सैन्य अभियानों और साम्राज्य की सुरक्षा उपायों का विवरण देता है।"
+    "answer": ["B"],
+    "explanation": "Akam deals with love and personal life, while Puram focuses on warfare, valor, and public events."
   },
   {
     "id": 12,
-    "question": "मंडसौर शिलालेख किसका प्रशासनिक रिकॉर्ड दिखाता है? / Mandsaur inscription shows administrative record of whom?",
+    "question": "संगम साहित्य में ‘पैरी’ और ‘करिकाल चोल’ के उल्लेख किस विशेषता से जुड़े हैं? / Mentions of 'Pāri' and 'Karikala Chola' in Sangam literature are related to which feature?",
     "options": {
-      "A": "कुमारगुप्त / Kumaragupta",
-      "B": "समुद्रगुप्त / Samudragupta",
-      "C": "स्कंदगुप्त / Skandagupta",
-      "D": "चंद्रगुप्त / Chandragupta"
+      "A": "Generosity of kings",
+      "B": "Architectural achievements",
+      "C": "Naval warfare",
+      "D": "Foreign trade"
     },
-    "answer": ["A"],
-    "explanation": "मंडसौर शिलालेख कुमारगुप्त के प्रशासनिक और सैन्य गतिविधियों का प्रमाण प्रस्तुत करता है।"
+    "answer": ["A", "B"],
+    "explanation": "Pāri is remembered for generosity to poets, while Karikala Chola is credited with engineering feats like the Kallanai dam."
   },
   {
     "id": 13,
-    "question": "मेहरौली लौह स्तंभ का शिलालेख किस भाषा में है? / In which language is the Mehrauli Iron Pillar inscription?",
+    "question": "‘मुडल थिनै’ (Mudal Tinai) किस प्रकार का वर्गीकरण है? / ‘Mudal Tinai’ refers to what type of classification?",
     "options": {
-      "A": "संस्कृत / Sanskrit",
-      "B": "प्राकृत / Prakrit",
-      "C": "पालि / Pali",
-      "D": "संस्कृत और प्राकृत / Sanskrit and Prakrit"
+      "A": "General landscape themes not specific to any Tinai",
+      "B": "Seasonal variations of Tinai",
+      "C": "Special military zones",
+      "D": "Sacred temple sites"
     },
     "answer": ["A"],
-    "explanation": "मेहरौली लौह स्तंभ का शिलालेख संस्कृत में खुदा गया है और यह धातु विज्ञान और शिलालेखीय प्रमाण को दर्शाता है।"
+    "explanation": "Mudal Tinai covers generic themes before classifying into the five specific Tinai landscapes."
   },
   {
     "id": 14,
-    "question": "सांची और उदयगिरि शिलालेखों में किस धर्म का प्रभाव स्पष्ट है? / Which religion’s influence is clear in Sanchi and Udayagiri inscriptions?",
+    "question": "‘एट्टुत्तोकै’ (Ettuthogai) और ‘पट्टुप्पाट्टू’ (Pattuppāṭṭu) में कौन सा कथन सही है? / Which statement is correct about ‘Ettuthogai’ and ‘Pattuppāṭṭu’?",
     "options": {
-      "A": "बौद्ध / Buddhism",
-      "B": "हिंदू / Hinduism",
-      "C": "जैन / Jainism",
-      "D": "इस्लाम / Islam"
+      "A": "Ettuthogai = Eight anthologies; Pattuppaṭṭu = Ten Idylls",
+      "B": "Both belong to post-Sangam period",
+      "C": "Pattuppaṭṭu has more emphasis on individual long poems",
+      "D": "Ettuthogai focuses entirely on Akam poetry"
     },
-    "answer": ["A", "B"],
-    "explanation": "सांची और उदयगिरि शिलालेख बौद्ध और हिंदू धर्म के संरक्षण और प्रभाव को दर्शाते हैं।"
+    "answer": ["A", "C"],
+    "explanation": "Ettuthogai consists of 8 anthologies of varied themes; Pattuppaṭṭu has 10 long poems, often focusing on royal praise and landscapes."
   },
   {
     "id": 15,
-    "question": "अलाहाबाद स्तंभ शिलालेख का समय किस शासक के शासनकाल से संबंधित है? / Allahabad Pillar Inscription belongs to the reign of which ruler?",
+    "question": "पुरनानूरु में किस प्रकार की सामग्री मिलती है? / What type of content is found in Purananuru?",
     "options": {
-      "A": "समुद्रगुप्त / Samudragupta",
-      "B": "स्कंदगुप्त / Skandagupta",
-      "C": "कुमारगुप्त / Kumaragupta",
-      "D": "चंद्रगुप्त / Chandragupta"
+      "A": "Love poems",
+      "B": "War and heroism",
+      "C": "Kings’ generosity",
+      "D": "Agricultural manuals"
     },
-    "answer": ["A"],
-    "explanation": "अलाहाबाद स्तंभ शिलालेख समुद्रगुप्त के शासनकाल में निर्मित हुआ।"
+    "answer": ["B", "C"],
+    "explanation": "Purananuru contains Puram poems on war, heroism, and generosity of kings."
   },
   {
     "id": 16,
-    "question": "भितारी और मंडसौर शिलालेखों का मुख्य उद्देश्य क्या था? / What was the main purpose of Bhitari and Mandsaur inscriptions?",
+    "question": "संगम काल के प्रमुख बंदरगाहों का विदेशी व्यापार में उल्लेख किस प्रकार मिलता है? / How are Sangam ports mentioned in context of foreign trade?",
     "options": {
-      "A": "सैन्य अभियानों और प्रशासनिक रिकॉर्ड को दस्तावेजित करना / Document military campaigns and administration",
-      "B": "धार्मिक अनुष्ठानों का विवरण / Record religious rituals",
-      "C": "सिक्कों का विवरण / Coin details",
-      "D": "सांस्कृतिक उत्सवों का विवरण / Cultural festivals"
+      "A": "Muziris linked to Roman trade",
+      "B": "Korkai famous for pearl fishing",
+      "C": "Puhar as a Chola port",
+      "D": "Kaveripattinam for Buddhist pilgrimages only"
     },
-    "answer": ["A"],
-    "explanation": "भितारी और मंडसौर शिलालेख मुख्यतः सैन्य और प्रशासनिक गतिविधियों का दस्तावेजीकरण करते हैं।"
+    "answer": ["A", "B", "C"],
+    "explanation": "Muziris had Indo–Roman trade, Korkai was famous for pearls, and Puhar was a major Chola port."
   },
   {
     "id": 17,
-    "question": "मेहरौली लौह स्तंभ गुप्त काल के किस प्रकार के तकनीकी कौशल का उदाहरण है? / Mehrauli Iron Pillar is an example of which technical skill of Gupta period?",
+    "question": "टोलकाप्पियम में कौन-कौन से विषय शामिल हैं? / Which subjects are included in the Tolkappiyam?",
     "options": {
-      "A": "धातु विज्ञान / Metallurgy",
-      "B": "सिक्का निर्माण / Coin minting",
-      "C": "मंदिर निर्माण / Temple architecture",
-      "D": "सैनिक रणनीति / Military strategy"
+      "A": "Grammar",
+      "B": "Poetics",
+      "C": "Sociology",
+      "D": "Military science"
     },
-    "answer": ["A"],
-    "explanation": "मेहरौली लौह स्तंभ गुप्त काल में उन्नत धातु विज्ञान और लोहे के संरक्षण का उदाहरण है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "Tolkappiyam covers Tamil grammar, poetic conventions, and aspects of social life."
   },
   {
     "id": 18,
-    "question": "सांची और उदयगिरि शिलालेख किसके धार्मिक संरक्षण को दर्शाते हैं? / Sanchi and Udayagiri inscriptions show religious patronage of whom?",
+    "question": "संगम साहित्य में ‘कुरिंजी’ थिनै किससे संबंधित है? / In Sangam literature, 'Kurinji' Tinai is associated with what?",
     "options": {
-      "A": "गुप्त शासक / Gupta rulers",
-      "B": "मौर्य शासक / Maurya rulers",
-      "C": "चोल शासक / Chola rulers",
-      "D": "मुगल शासक / Mughal rulers"
+      "A": "Mountains and union of lovers",
+      "B": "Deserts and separation",
+      "C": "Seashore and waiting",
+      "D": "Forest warfare"
     },
     "answer": ["A"],
-    "explanation": "सांची और उदयगिरि शिलालेख गुप्त शासकों द्वारा बौद्ध और हिंदू धर्म के संरक्षण का प्रमाण हैं।"
+    "explanation": "Kurinji landscape depicts mountains and the lovers’ union theme in Akam poetry."
   },
   {
     "id": 19,
-    "question": "अलाहाबाद स्तंभ शिलालेख में काव्यात्मक शैली का महत्व क्या है? / What is the significance of poetic style in Allahabad Pillar Inscription?",
+    "question": "एट्टुत्तोकै में किस प्रकार की कविताएँ अधिक हैं? / What type of poems are more prevalent in Ettuthogai?",
     "options": {
-      "A": "सैन्य विजय और राजसी गौरव को प्रदर्शित करना / To display military victory and royal glory",
-      "B": "धार्मिक अनुष्ठान / Religious rituals",
-      "C": "कृषि और अर्थव्यवस्था / Agriculture and economy",
-      "D": "सिर्फ सजावटी उद्देश्य / Decorative purpose"
+      "A": "Shorter anthologies of various poets",
+      "B": "Single poet compositions",
+      "C": "Religious hymns only",
+      "D": "Only agricultural themes"
     },
     "answer": ["A"],
-    "explanation": "काव्यात्मक शैली समुद्रगुप्त के सैन्य विजयों और राजसी गौरव को प्रभावशाली रूप में प्रस्तुत करती है।"
+    "explanation": "Ettuthogai is a compilation of shorter works by multiple poets across varied themes."
   },
   {
     "id": 20,
-    "question": "भितारी और मंडसौर शिलालेखों से हमें कौन-कौन सी जानकारी मिलती है? / What information is obtained from Bhitari and Mandsaur inscriptions?",
+    "question": "पट्टुप्पाट्टू का मुख्य सांस्कृतिक योगदान क्या है? / What is the main cultural contribution of Pattuppaṭṭu?",
     "options": {
-      "A": "सैन्य अभियान / Military campaigns",
-      "B": "प्रशासन / Administration",
-      "C": "धार्मिक संरक्षण / Religious patronage",
-      "D": "सिक्का निर्माण / Coin minting"
+      "A": "Long narrative poems praising kings and landscapes",
+      "B": "Earliest Tamil grammatical rules",
+      "C": "Compilation of Buddhist chants",
+      "D": "Maritime navigation manuals"
     },
-    "answer": ["A", "B"],
-    "explanation": "भितारी और मंडसौर शिलालेख मुख्य रूप से सैन्य अभियानों और प्रशासनिक गतिविधियों की जानकारी प्रदान करते हैं।"
+    "answer": ["A"],
+    "explanation": "Pattuppaṭṭu consists of 10 long narrative poems often glorifying kings and describing natural landscapes."
   },
   {
     "id": 21,
-    "question": "गुप्त कला को सामान्यतः किस रूप में वर्णित किया जाता है? / How is Gupta art generally described?",
+    "question": "ऐहोल स्तंभलेख (Aihole inscription) किसके समय लिखा गया था और इसका उद्देश्य क्या था? / During whose reign was the Aihole inscription composed and what was its purpose?",
     "options": {
-      "A": "क्लासिकल / Classical",
-      "B": "आदर्शवादी / Idealistic",
-      "C": "गद्यात्मक / Narrative",
-      "D": "स्थूल / Crude"
+      "A": "पल्लव राजाओं के समय / During Pallava rule",
+      "B": "कृष्ण प्रथम चालुक्य के समय / During Krishna I of Chalukyas",
+      "C": "राज्य विस्तार और विजय का उल्लेख / Records of territorial expansion and victories",
+      "D": "धार्मिक अनुष्ठान का विवरण / Details of religious ceremonies"
     },
-    "answer": ["A", "B"],
-    "explanation": "गुप्त कला को 'Classical' और 'Idealistic' कहा जाता है क्योंकि इसमें proportion, grace और serenity दिखाई देती है।"
+    "answer": ["B", "C"],
+    "explanation": "ऐहोल स्तंभलेख कृष्ण प्रथम चालुक्य के शासनकाल में लिखा गया और इसमें उनके सैन्य विजय और राज्य विस्तार का वर्णन है।"
   },
   {
     "id": 22,
-    "question": "गुप्त मानव आकृतियों की प्रमुख विशेषता क्या है? / What is the main feature of human figures in Gupta art?",
+    "question": "हर्ष और चालुक्य शासक के बीच नर्मदा नदी सीमा संधि का महत्व क्या था? / What was the significance of the Narmada boundary treaty between Harsha and the Chalukya king?",
     "options": {
-      "A": "अनुपात / Proportion",
-      "B": "सौंदर्य और कृपा / Grace and elegance",
-      "C": "भीषण मुद्रा / Harsh posture",
-      "D": "असमान आकार / Disproportion"
+      "A": "राजनीतिक सीमा निर्धारण / Determination of political boundary",
+      "B": "सांस्कृतिक सहयोग को बढ़ावा / Promotion of cultural collaboration",
+      "C": "व्यापार और कर प्रणाली तय करना / Regulation of trade and taxation",
+      "D": "सैन्य गठबंधन का निर्माण / Formation of military alliance"
     },
-    "answer": ["A", "B"],
-    "explanation": "गुप्त मानव आकृतियों में अनुपात, सौंदर्य, कृपा और serenity दिखाई देती है।"
+    "answer": ["A"],
+    "explanation": "नर्मदा संधि ने उत्तरी और दक्षिणी साम्राज्यों के बीच स्पष्ट राजनीतिक सीमा तय की, जिससे संघर्ष टला।"
   },
   {
     "id": 23,
-    "question": "गुप्त मूर्तियों में ट्रिभंग मुद्रा का महत्व क्या है? / What is the significance of tribhanga posture in Gupta sculptures?",
+    "question": "चालुक्य शासन के तहत कौन-से वर्तमान यूनेस्को स्थल आते हैं? / Which present-day UNESCO sites were under Chalukya rule?",
     "options": {
-      "A": "प्राकृतिक और लचीली मुद्रा / Natural and flexible posture",
-      "B": "धार्मिक अर्थ / Religious symbolism",
-      "C": "सिर्फ सजावटी उद्देश्य / Decorative purpose only",
-      "D": "सैन्य शक्ति दिखाना / Show military power"
+      "A": "अजंता गुफाएं / Ajanta Caves",
+      "B": "एलोरा गुफाएं / Ellora Caves",
+      "C": "ऐहोल मंदिर समूह / Aihole temple complex",
+      "D": "बादामी गुफा मंदिर / Badami cave temples"
     },
-    "answer": ["A", "B"],
-    "explanation": "Tribhangi मुद्रा प्राकृतिक, लचीली और सौम्य मुद्रा प्रदर्शित करती है और धार्मिक संदर्भ भी रखती है।"
+    "answer": ["C", "D"],
+    "explanation": "ऐहोल और बादामी के मंदिर समूह चालुक्य शासन के दौरान बनाए गए और आज UNESCO के दृष्टिकोण से महत्वपूर्ण स्थल हैं।"
   },
   {
     "id": 24,
-    "question": "गुप्त मूर्तियों और शिल्प में किस प्रकार के वस्त्र या drapery का प्रयोग होता था? / What type of drapery is seen in Gupta sculptures and craft?",
+    "question": "वेसरा शैली (Vesara style) की विशेषताएँ और उदाहरण चुनें। / Select features and examples of Vesara style.",
     "options": {
-      "A": "बहती हुई और नरम / Flowing and soft",
-      "B": "कठोर और कठोर / Stiff and rigid",
-      "C": "सिर्फ सजावटी / Only decorative",
-      "D": "सैन्य वेशभूषा / Military attire"
+      "A": "संगम शैली और नागर शैली का मिश्रण / Combination of Dravida and Nagara styles",
+      "B": "ऊँचे शिखर और जटिल मूर्तिकला / Tall shikhara and intricate sculpture",
+      "C": "ऐहोल और एलोरा मंदिर / Temples of Aihole and Ellora",
+      "D": "मुख्यतः दक्षिण भारत का ग्रामीण मंदिर / Predominantly rural South Indian temples"
     },
-    "answer": ["A"],
-    "explanation": "गुप्त मूर्तियों में drapery प्राकृतिक रूप से बहती हुई और नरम दिखाई देती है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "वेसरा शैली में द्रविड़ और नागर शैली का मिश्रण है, जटिल मूर्तिकला के साथ, ऐहोल और एलोरा इसके प्रमुख उदाहरण हैं।"
   },
   {
     "id": 25,
-    "question": "गुप्त कला में मुख्य रूप से किस धर्म का प्रभाव देखा जाता है? / Which religion mainly influenced Gupta art?",
+    "question": "बादामी और कल्याणी चालुक्य कला में मुख्य अंतर क्या है? / What is the main difference between Badami and Kalyani Chalukya art?",
     "options": {
-      "A": "हिंदू धर्म / Hinduism",
-      "B": "बौद्ध धर्म / Buddhism",
-      "C": "जैन धर्म / Jainism",
-      "D": "इस्लाम / Islam"
+      "A": "बादामी – प्राचीन प्रारंभिक शैली / Badami – Early Chalukya style",
+      "B": "कल्याणी – विकसित शैली, विस्तृत सजावट / Kalyani – Later, elaborate style",
+      "C": "बादामी – केवल शिला मूर्तिकला / Badami – Only stone sculpture",
+      "D": "कल्याणी – केवल मंदिर निर्माण / Kalyani – Only temple construction"
     },
     "answer": ["A", "B"],
-    "explanation": "गुप्त कला में हिंदू और बौद्ध धर्म का प्रमुख प्रभाव देखा जाता है, जबकि जैन धर्म का प्रभाव सीमित है।"
+    "explanation": "बादामी चालुक्य कला प्रारंभिक शैली दिखाती है, जबकि कल्याणी चालुक्य कला विकसित, विस्तृत सजावट और वास्तु में अधिक जटिलता लिए है।"
   },
   {
     "id": 26,
-    "question": "गुप्त कला में प्रयुक्त प्रमुख सामग्री कौन-कौन सी हैं? / What are the main materials used in Gupta art?",
+    "question": "पूर्वी चालुक्य और चोल साम्राज्य के बीच संबंध किस प्रकार के थे? / What was the nature of relations between Eastern Chalukyas and Cholas?",
     "options": {
-      "A": "पत्थर / Stone",
-      "B": "स्टुको / Stucco",
-      "C": "टेराकोटा / Terracotta",
-      "D": "कागज / Paper",
-      "E": "कांस्य / Bronze and metalwork"
+      "A": "सामरिक गठबंधन / Military alliances",
+      "B": "विवाह संबंध / Marital alliances",
+      "C": "पूरे दक्षिण भारत पर संघर्ष / Conflict over whole South India",
+      "D": "सांस्कृतिक और व्यापारिक आदान-प्रदान / Cultural and trade exchanges"
     },
-    "answer": ["A", "B", "C", "E"],
-    "explanation": "गुप्त कला में stone, stucco, terracotta और bronze/metalwork का प्रमुख उपयोग होता था।"
+    "answer": ["B", "D"],
+    "explanation": "पूर्वी चालुक्य और चोल साम्राज्य ने विवाह और सांस्कृतिक आदान-प्रदान के माध्यम से मजबूत संबंध बनाए।"
   },
   {
     "id": 27,
-    "question": "गुप्त मूर्तियों की विशेषता क्या दर्शाती है? / What does the feature of Gupta sculptures indicate?",
+    "question": "रवीकिर्ति (Ravikirti) की प्रमुख कृति कौन-सी है और इसका विषय क्या है? / What is the main work of Ravikirti and its subject?",
     "options": {
-      "A": "सौंदर्य और proportion / Beauty and proportion",
-      "B": "भावनाओं की शांति / Serenity of expression",
-      "C": "भारी और कठोर बनावट / Heavy and rigid structure",
-      "D": "सैनिक शक्ति / Military power"
+      "A": "अजयश्री / Ajayashri",
+      "B": "राजा दशरत की प्रशंसा / Praise of king Dasharatha",
+      "C": "काव्यशास्त्र / Poetics",
+      "D": "धार्मिक शास्त्र / Religious texts"
     },
     "answer": ["A", "B"],
-    "explanation": "गुप्त मूर्तियों में सौंदर्य, proportion और शांत भावनाओं को प्रमुखता दी गई है।"
+    "explanation": "रवीकिर्ति की प्रमुख कृति अजयश्री है, जिसमें उसके शासक की विजय और गुणों का विवरण है।"
   },
   {
     "id": 28,
-    "question": "गुप्त कला में त्रिभंग मुद्रा का प्रयोग किसलिए किया गया? / Why was tribhanga posture used in Gupta art?",
+    "question": "बिल्हाणा (Bilhana) का साहित्यिक योगदान क्या था? / What was Bilhana’s literary contribution?",
     "options": {
-      "A": "प्राकृतिक सौंदर्य और लचक दिखाने के लिए / To show natural beauty and flexibility",
-      "B": "धार्मिक संदर्भ के लिए / For religious symbolism",
-      "C": "सिर्फ सजावटी / For decoration only",
-      "D": "शक्ति और युद्ध का प्रदर्शन / Display power and warfare"
+      "A": "विक्रमांकदेवचरित / Vikramankadeva Charita",
+      "B": "काव्यशास्त्र / Poetics",
+      "C": "राजा विक्रमादित्य की प्रशंसा / Praise of king Vikramaditya",
+      "D": "धार्मिक अनुष्ठान विवरण / Religious ceremonies description"
     },
-    "answer": ["A", "B"],
-    "explanation": "Tribhangi मुद्रा प्राकृतिक सौंदर्य और धार्मिक अर्थ दोनों को प्रदर्शित करती है।"
+    "answer": ["A", "C"],
+    "explanation": "बिल्हाणा ने विक्रमांकदेवचरित लिखा, जिसमें राजा विक्रमादित्य की वीरता और गुणों का वर्णन है।"
   },
   {
     "id": 29,
-    "question": "गुप्त मूर्तियों और शिल्प में flowing drapery क्यों महत्वपूर्ण थी? / Why was flowing drapery significant in Gupta sculptures and craft?",
+    "question": "ऐहोल स्तंभलेख के माध्यम से हमें कौन-सी जानकारी मिलती है? / What information is obtained from the Aihole inscription?",
     "options": {
-      "A": "प्राकृतिकता और सौंदर्य बढ़ाने के लिए / To enhance naturalism and beauty",
-      "B": "सिर्फ सजावटी / Only decorative",
-      "C": "धार्मिक और प्रतीकात्मक अर्थ / Religious and symbolic significance",
-      "D": "सैन्य शक्ति दिखाने के लिए / To show military power"
+      "A": "कृष्ण प्रथम की विजय / Krishna I’s victories",
+      "B": "मंदिर निर्माण का विवरण / Temple construction details",
+      "C": "हर्ष के साथ युद्ध विवरण / War details with Harsha",
+      "D": "आर्थिक और कर विवरण / Economic and taxation details"
     },
-    "answer": ["A", "C"],
-    "explanation": "Flowing drapery प्राकृतिकता और सौंदर्य बढ़ाती है और धार्मिक-प्रतीकात्मक महत्व भी रखती है।"
+    "answer": ["A", "B"],
+    "explanation": "ऐहोल स्तंभलेख में कृष्ण प्रथम की सैन्य विजय और मंदिर निर्माण के विवरण मिलते हैं।"
   },
   {
     "id": 30,
-    "question": "गुप्त कला में जैन धर्म का प्रभाव कितना था? / How significant was Jain influence in Gupta art?",
+    "question": "वेसरा शैली में प्रमुख स्थापत्य तत्व कौन-से हैं? / What are the key architectural elements of Vesara style?",
     "options": {
-      "A": "सीमित / Minor",
-      "B": "प्रमुख / Major",
-      "C": "संपूर्ण / Dominant",
-      "D": "कोई नहीं / None"
+      "A": "गणेश और विष्णु की मूर्तियां / Sculptures of Ganesha and Vishnu",
+      "B": "गुम्बद जैसी शिखर संरचना / Dome-like shikhara",
+      "C": "शिला और काष्ठ नक्काशी का मिश्रण / Mix of stone and wood carving",
+      "D": "नागर और द्रविड़ शैली का मिश्रण / Combination of Nagara and Dravida styles"
     },
-    "answer": ["A"],
-    "explanation": "गुप्त कला में जैन धर्म का प्रभाव सीमित था, जबकि मुख्यतः हिंदू और बौद्ध धर्म का प्रभाव दिखता है।"
+    "answer": ["B", "D"],
+    "explanation": "वेसरा शैली में गुम्बद जैसी शिखर संरचना और नागर तथा द्रविड़ शैली का मिश्रण प्रमुख है।"
   },
   {
     "id": 31,
-    "question": "सारनाथ बुद्ध मूर्ति किस काल की सबसे प्रसिद्ध उदाहरण मानी जाती है? / Sarnath Buddha sculpture is considered the most famous example of which period?",
+    "question": "नर्मदा संधि के परिणाम क्या हुए? / What were the results of the Narmada treaty?",
     "options": {
-      "A": "गुप्त काल / Gupta period",
-      "B": "मौर्य काल / Maurya period",
-      "C": "चोल काल / Chola period",
-      "D": "मुगल काल / Mughal period"
+      "A": "उत्तर और दक्षिण साम्राज्यों में स्थिर सीमा / Stable boundary between North and South empires",
+      "B": "सामरिक गठबंधन का निर्माण / Formation of military alliance",
+      "C": "हर्ष का दक्षिण में प्रभाव / Influence of Harsha in South",
+      "D": "व्यापारिक अनुबंध / Trade agreements"
     },
     "answer": ["A"],
-    "explanation": "सारनाथ बुद्ध मूर्ति गुप्त काल की मूर्ति कला का सबसे प्रसिद्ध उदाहरण है।"
+    "explanation": "नर्मदा संधि ने उत्तरी और दक्षिणी साम्राज्यों के बीच स्थिर राजनीतिक सीमा निर्धारित की।"
   },
   {
     "id": 32,
-    "question": "सारनाथ बुद्ध मूर्ति की प्रमुख विशेषता क्या है? / What is the main feature of Sarnath Buddha sculpture?",
+    "question": "बादामी और कल्याणी चालुक्य कला में क्या समानताएँ हैं? / What are the similarities between Badami and Kalyani Chalukya art?",
     "options": {
-      "A": "शांत और आध्यात्मिक भाव / Serene and spiritual expression",
-      "B": "भारी और कठोर मुद्रा / Heavy and rigid posture",
-      "C": "सैन्य शक्ति का प्रदर्शन / Display of military power",
-      "D": "उत्सवों का चित्रण / Depiction of festivals"
+      "A": "मूल वेसरा शैली / Core Vesara style",
+      "B": "सजावटी मूर्तिकला / Decorative sculpture",
+      "C": "सिर्फ काष्ठ निर्माण / Only wood construction",
+      "D": "सिर्फ धार्मिक ग्रंथों का चित्रण / Only religious texts depiction"
     },
-    "answer": ["A"],
-    "explanation": "सारनाथ बुद्ध मूर्ति में serene facial expression और spiritual calm प्रमुख हैं।"
+    "answer": ["A", "B"],
+    "explanation": "दोनों शैली वेसरा के तत्वों का पालन करती हैं और सजावटी मूर्तिकला प्रमुख है।"
   },
   {
     "id": 33,
-    "question": "गुप्त मूर्तियों में उष्णीष और हिलो का महत्व क्या है? / What is the significance of Ushnisha and halo in Gupta sculptures?",
+    "question": "पूर्वी चालुक्य–चोल संबंधों का राजनीतिक महत्व क्या था? / What was the political significance of Eastern Chalukya–Chola relations?",
     "options": {
-      "A": "आध्यात्मिक शक्ति / Spiritual power",
-      "B": "सिर्फ सजावटी उद्देश्य / Only decorative",
-      "C": "सैन्य प्रभुत्व / Military dominance",
-      "D": "कृषि प्रतीक / Agricultural symbol"
+      "A": "दक्षिण भारत में शक्ति संतुलन / Balance of power in South India",
+      "B": "एकीकरण और विस्तार / Integration and expansion",
+      "C": "पूरी भारत की विजय / Conquest of entire India",
+      "D": "सांस्कृतिक विनिमय / Cultural exchange"
     },
-    "answer": ["A"],
-    "explanation": "Ushnisha और halo बुद्ध और दिव्य आकृतियों की आध्यात्मिक शक्ति और शांति को दर्शाते हैं।"
+    "answer": ["A", "B", "D"],
+    "explanation": "पूर्वी चालुक्य–चोल संबंधों ने दक्षिण भारत में शक्ति संतुलन बनाए रखा, क्षेत्रीय विस्तार संभव किया और सांस्कृतिक आदान-प्रदान को बढ़ावा दिया।"
   },
   {
     "id": 34,
-    "question": "गुप्त मूर्तियों में वस्त्रों की शैली कैसी दिखाई देती है? / How is clothing drapery depicted in Gupta sculptures?",
-    "options": {
-      "A": "पारदर्शी और शरीर के अनुसार / Transparent, clinging to body",
-      "B": "कठोर और भारी / Stiff and heavy",
-      "C": "सिर्फ सजावटी / Only decorative",
-      "D": "सैनिक वेशभूषा / Military attire"
-    },
-    "answer": ["A"],
-    "explanation": "वस्त्र पारदर्शी, शरीर के अनुसार और flowing lines में दिखते हैं।"
-  },
-  {
-    "id": 35,
-    "question": "Mathura शैली का गुप्त मूर्तियों में क्या योगदान था? / What was the contribution of Mathura style to Gupta sculptures?",
-    "options": {
-      "A": "पहले का प्रभाव / Earlier influence",
-      "B": "सुधार और आदर्श मानवीय रूप / Refined and idealized human forms",
-      "C": "सैनिक मूर्तिकला / Military sculptures",
-      "D": "सिर्फ सजावटी / Only decorative"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Mathura शैली ने प्रारंभिक प्रभाव डाला और गुप्त शैली में आदर्श और refined मानव रूप विकसित किए।"
-  },
-  {
-    "id": 36,
-    "question": "Yakshas और Yakshinis का गुप्त मूर्तियों में क्या महत्व था? / What was the significance of Yakshas and Yakshinis in Gupta sculptures?",
-    "options": {
-      "A": "प्रजनन और प्राकृतिक शक्तियाँ / Fertility and nature spirits",
-      "B": "सैनिक शक्ति / Military power",
-      "C": "धार्मिक अनुष्ठान / Religious rituals",
-      "D": "सिर्फ सजावटी / Only decorative"
-    },
-    "answer": ["A"],
-    "explanation": "Yakshas और Yakshinis प्राकृतिक और प्रजनन शक्तियों के प्रतीक के रूप में मूर्तियों में दर्शाए गए।"
-  },
-  {
-    "id": 37,
-    "question": "गुप्त मूर्तियों में Yakshas और Yakshinis की शैली कैसी होती थी? / How were Yakshas and Yakshinis depicted in Gupta sculptures?",
-    "options": {
-      "A": "गोल और प्राकृतिक / Rounded and naturalistic",
-      "B": "भारी और कठोर / Heavy and rigid",
-      "C": "असमान / Disproportionate",
-      "D": "सैन्य वेशभूषा / Military attire"
-    },
-    "answer": ["A"],
-    "explanation": "Yakshas और Yakshinis गोल, संतुलित और प्राकृतिक रूप में दर्शाए गए थे।"
-  },
-  {
-    "id": 38,
-    "question": "गुप्त मूर्तियों में कौन-कौन सी सामग्री इस्तेमाल होती थी? / What materials were used in Gupta sculptures?",
-    "options": {
-      "A": "पत्थर / Stone",
-      "B": "कांस्य / Bronze",
-      "C": "छोटे कांस्य चित्र / Smaller bronze images for home worship",
-      "D": "कागज / Paper"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "गुप्त मूर्तियों में stone और bronze प्रमुख हैं; छोटे कांस्य चित्र घर पर पूजा के लिए बनाए जाते थे।"
-  },
-  {
-    "id": 39,
-    "question": "सारनाथ बुद्ध मूर्ति में मुख की अभिव्यक्ति का क्या अर्थ है? / What does the facial expression in Sarnath Buddha sculpture signify?",
-    "options": {
-      "A": "आध्यात्मिक शांति / Spiritual calm",
-      "B": "सैन्य शक्ति / Military strength",
-      "C": "सामाजिक गतिविधियाँ / Social activities",
-      "D": "सिर्फ सजावटी / Only decorative"
-    },
-    "answer": ["A"],
-    "explanation": "मुख की शांत अभिव्यक्ति बुद्ध की आध्यात्मिक शांति और ध्यान की स्थिति को दर्शाती है।"
-  },
-  {
-    "id": 40,
-    "question": "गुप्त मूर्तियों में flowing drapery का उद्देश्य क्या था? / What was the purpose of flowing drapery in Gupta sculptures?",
-    "options": {
-      "A": "प्राकृतिकता और सौंदर्य / Naturalism and beauty",
-      "B": "धार्मिक प्रतीक / Religious symbolism",
-      "C": "सिर्फ सजावटी / Decorative only",
-      "D": "सैन्य शक्ति दिखाना / Display military power"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Flowing drapery मूर्तियों में प्राकृतिकता और सौंदर्य बढ़ाने के साथ-साथ धार्मिक प्रतीक का कार्य भी करता था।"
-  },
-  {
-    "id": 41,
-    "question": "Mathura शैली और गुप्त शैली में मानव आकृतियों का मुख्य अंतर क्या है? / What is the main difference between Mathura and Gupta style human figures?",
-    "options": {
-      "A": "गुप्त शैली अधिक आदर्श और refined / Gupta style more idealized and refined",
-      "B": "Mathura शैली कठोर और स्थूल / Mathura style rigid and crude",
-      "C": "गुप्त शैली में सैन्य वेशभूषा / Military attire in Gupta style",
-      "D": "Mathura शैली में flowing drapery / Flowing drapery in Mathura style"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Mathura शैली अपेक्षाकृत कठोर और स्थूल थी, जबकि गुप्त शैली में आदर्श और refined human forms विकसित किए गए।"
-  },
-  {
-    "id": 42,
-    "question": "सारनाथ बुद्ध मूर्ति में halo का क्या उद्देश्य है? / What is the purpose of halo in Sarnath Buddha sculpture?",
-    "options": {
-      "A": "दिव्यता और आध्यात्मिक शक्ति / Divinity and spiritual power",
-      "B": "सिर्फ सजावटी / Decorative only",
-      "C": "सैन्य विजय दिखाना / Show military victory",
-      "D": "कृषि प्रतीक / Agricultural symbol"
-    },
-    "answer": ["A"],
-    "explanation": "Halo दिव्यता और बुद्ध की आध्यात्मिक शक्ति को दर्शाने के लिए मूर्ति में शामिल किया गया।"
-  },
-  {
-    "id": 43,
-    "question": "गुप्त मूर्तियों में छोटे कांस्य चित्र मुख्यतः किसलिए बनाए जाते थे? / Why were smaller bronze images made in Gupta period?",
-    "options": {
-      "A": "घर पर पूजा / Home worship",
-      "B": "सैन्य प्रदर्शन / Military display",
-      "C": "सजावटी / Decorative only",
-      "D": "सार्वजनिक उत्सव / Public festivals"
-    },
-    "answer": ["A"],
-    "explanation": "छोटे कांस्य चित्र घर पर पूजा के लिए बनाए जाते थे।"
-  },
-  {
-    "id": 44,
-    "question": "Yakshas और Yakshinis मूर्तियों में कौन-कौन सी विशेषताएँ दिखाई देती हैं? / What features are seen in Yakshas and Yakshinis sculptures?",
-    "options": {
-      "A": "गोल आकृति / Rounded form",
-      "B": "प्राकृतिकता / Naturalistic",
-      "C": "कठोरता / Stiffness",
-      "D": "सैन्य शक्ति / Military power"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Yakshas और Yakshinis गोल और प्राकृतिक रूप में मूर्तियों में दर्शाए गए हैं।"
-  },
-  {
-    "id": 45,
-    "question": "सारनाथ बुद्ध मूर्ति का मुख भाव किस दर्शन का प्रतीक है? / The facial expression of Sarnath Buddha symbolizes which philosophy?",
-    "options": {
-      "A": "शांति और ध्यान / Peace and meditation",
-      "B": "सैन्य शक्ति / Military power",
-      "C": "सामाजिक गतिविधियाँ / Social activity",
-      "D": "आर्थिक समृद्धि / Economic prosperity"
-    },
-    "answer": ["A"],
-    "explanation": "मुख की शांत अभिव्यक्ति ध्यान और आध्यात्मिक शांति का प्रतीक है।"
-  },
-  {
-    "id": 46,
-    "question": "गुप्त मूर्तियों में flowing drapery किस कला तत्व को बढ़ाती है? / What does flowing drapery enhance in Gupta sculptures?",
-    "options": {
-      "A": "सौंदर्य और प्राकृतिकता / Beauty and naturalism",
-      "B": "धार्मिक प्रतीक / Religious symbolism",
-      "C": "सैनिक शक्ति / Military power",
-      "D": "सामाजिक प्रतिष्ठा / Social status"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Flowing drapery मूर्तियों की प्राकृतिकता, सौंदर्य और धार्मिक प्रतीक को बढ़ाती है।"
-  },
-  {
-    "id": 47,
-    "question": "गुप्त मूर्तियों में प्रमुख सामग्री कौन सी है? / What are the primary materials used in Gupta sculptures?",
-    "options": {
-      "A": "पत्थर / Stone",
-      "B": "कांस्य / Bronze",
-      "C": "स्टुको / Stucco",
-      "D": "कागज / Paper"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "Gupta sculptures में stone, bronze और stucco का प्रमुख उपयोग होता था।"
-  },
-  {
-    "id": 48,
-    "question": "Mathura शैली का गुप्त मूर्तियों पर क्या प्रभाव था? / How did Mathura style influence Gupta sculptures?",
-    "options": {
-      "A": "प्रारंभिक शैली / Early style influence",
-      "B": "Refined human forms / आदर्श मानव रूप विकसित करना",
-      "C": "सैन्य शक्ति दिखाना / Display military power",
-      "D": "सिर्फ सजावटी / Only decorative"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Mathura शैली ने प्रारंभिक प्रभाव डाला और गुप्त शैली में refined, idealized human forms विकसित किए।"
-  },
-  {
-    "id": 49,
-    "question": "Yakshas और Yakshinis मूर्तियों में किस प्रकार की मुद्रा दिखाई देती है? / What kind of posture is depicted in Yakshas and Yakshinis sculptures?",
-    "options": {
-      "A": "प्राकृतिक और गोल / Natural and rounded",
-      "B": "कठोर / Rigid",
-      "C": "असंतुलित / Disproportionate",
-      "D": "सैन्य मुद्रा / Martial posture"
-    },
-    "answer": ["A"],
-    "explanation": "Yakshas और Yakshinis मूर्तियों में प्राकृतिक और गोल आकृति की मुद्रा दिखाई देती है।"
-  },
-  {
-    "id": 50,
-    "question": "सारनाथ बुद्ध मूर्ति में उष्णीष का क्या महत्व है? / What is the significance of Ushnisha in Sarnath Buddha sculpture?",
-    "options": {
-      "A": "आध्यात्मिक ज्ञान और दिव्यता / Spiritual wisdom and divinity",
-      "B": "सिर्फ सजावटी / Decorative only",
-      "C": "सैन्य शक्ति / Military strength",
-      "D": "धार्मिक अनुष्ठान / Religious ritual"
-    },
-    "answer": ["A"],
-    "explanation": "Ushnisha बुद्ध की आध्यात्मिक ज्ञान और दिव्यता का प्रतीक है।"
-  },
-  {
-    "id": 51,
-    "question": "उदयगिरी गुफाएँ किस धर्म के मंदिरों के लिए प्रसिद्ध हैं? / Udayagiri Caves are famous for temples of which religion?",
-    "options": {
-      "A": "शैव / Shaivism",
-      "B": "वैष्णव / Vaishnavism",
-      "C": "जैन / Jainism",
-      "D": "बौद्ध / Buddhism"
-    },
-    "answer": ["A"],
-    "explanation": "उदयगिरी गुफाएँ मुख्यतः शैव धर्म के rock-cut मंदिरों के लिए प्रसिद्ध हैं।"
-  },
-  {
-    "id": 52,
-    "question": "उदयगिरी गुफाओं में 'वराह पैनल' क्या दर्शाता है? / What does the 'Varaha panel' in Udayagiri Caves depict?",
-    "options": {
-      "A": "विष्णु पृथ्वी को उठा रहे हैं / Vishnu lifting the Earth",
-      "B": "शिव का नृत्य / Shiva's dance",
-      "C": "बुद्ध का ध्यान / Buddha meditating",
-      "D": "जैन तीर्थंकर / Jain Tirthankara"
-    },
-    "answer": ["A"],
-    "explanation": "वराह पैनल में विष्णु पृथ्वी को समुद्र से उठा रहे हैं, जो धार्मिक और प्रतीकात्मक महत्व रखता है।"
-  },
-  {
-    "id": 53,
-    "question": "उदयगिरी गुफाओं की वास्तुकला में किस शैली की विशेषताएँ देखी जाती हैं? / What features are seen in Udayagiri Cave architecture?",
-    "options": {
-      "A": "Reliefs carved into hillsides / पहाड़ियों में खुदी हुई मूर्तियाँ",
-      "B": "Precise human proportions / सटीक मानव अनुपात",
-      "C": "Symbolic gestures / प्रतीकात्मक मुद्राएँ",
-      "D": "Floating wooden structures / तैरती लकड़ी संरचना"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "उदयगिरी गुफाओं में पहाड़ियों में खुदी मूर्तियाँ, सटीक अनुपात और प्रतीकात्मक मुद्राएँ प्रमुख हैं।"
-  },
-  {
-    "id": 54,
-    "question": "अजन्ता गुफाएँ किस काल से प्रारंभ हुई थीं और गुप्त शैली में किसकी परिष्कृत चित्रकला देखी जाती है? / Ajanta Caves began in which period and what refinement is seen in Gupta style?",
-    "options": {
-      "A": "सातवाहन काल / Satavahana period",
-      "B": "गुप्त काल / Gupta period",
-      "C": "चित्रकला / Wall painting refinement",
-      "D": "मधुबनी शैली / Madhubani style"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "अजन्ता गुफाएँ सातवाहन काल से प्रारंभ हुई थीं, और गुप्त शैली में दीवार चित्रकला की परिष्कृत तकनीक विकसित हुई।"
-  },
-  {
-    "id": 55,
-    "question": "अजन्ता गुफाओं में frescoes में किन तत्वों का प्रमुख प्रयोग होता है? / Which elements are prominently used in Ajanta frescoes?",
-    "options": {
-      "A": "मानव आकृतियाँ / Human figures",
-      "B": "मुद्राएँ / Gestures",
-      "C": "मुख की अभिव्यक्ति / Facial expressions",
-      "D": "लकड़ी और धातु / Wood and metal"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "अजन्ता की frescoes में मानव आकृतियाँ, मुद्राएँ और मुखाभिव्यक्ति प्रमुख हैं; लकड़ी और धातु का प्रयोग नहीं होता।"
-  },
-  {
-    "id": 56,
-    "question": "अजन्ता चित्रकला में प्रकाश और छाया का उपयोग किसलिए किया जाता है? / What is the purpose of using light and shadow in Ajanta paintings?",
-    "options": {
-      "A": "तीव्रता और आयाम देने के लिए / To give depth and dimension",
-      "B": "सिर्फ सजावटी / Decorative only",
-      "C": "सैनिक शक्ति दिखाने के लिए / Display military power",
-      "D": "धार्मिक प्रतीक बढ़ाने के लिए / Enhance religious symbolism"
-    },
-    "answer": ["A", "D"],
-    "explanation": "प्रकाश और छाया का प्रयोग चित्रों में आयाम और धार्मिक प्रतीक बढ़ाने के लिए किया गया।"
-  },
-  {
-    "id": 57,
-    "question": "उदयगिरी गुफाओं की कितनी गुफाएँ हैं और उनकी विशेषता क्या है? / How many caves are in Udayagiri and what is their significance?",
-    "options": {
-      "A": "20 caves / 20 गुफाएँ",
-      "B": "Shaivism rock-cut temples / शैव मंदिर",
-      "C": "Buddhist monastic cells / बौद्ध विहार",
-      "D": "Jain temples / जैन मंदिर"
-    },
-    "answer": ["A", "B"],
-    "explanation": "उदयगिरी में 20 गुफाएँ हैं और ये मुख्यतः शैव धर्म के rock-cut मंदिर हैं।"
-  },
-  {
-    "id": 58,
-    "question": "अजन्ता गुफाओं की दीवार चित्रकला में मानव आकृतियों की विशेषता क्या है? / What is the characteristic of human figures in Ajanta wall paintings?",
-    "options": {
-      "A": "प्राकृतिकता और सूक्ष्म भाव / Naturalism and subtle expressions",
-      "B": "गंभीर और कठोर / Stern and rigid",
-      "C": "सिर्फ प्रतीकात्मक / Only symbolic",
-      "D": "सैन्य प्रदर्शन / Military display"
-    },
-    "answer": ["A"],
-    "explanation": "अजन्ता की चित्रकला में मानव आकृतियाँ प्राकृतिक और सूक्ष्म भावों के साथ दिखाई देती हैं।"
-  },
-  {
-    "id": 59,
-    "question": "अजन्ता गुफाओं की चित्रकला में gesture और facial expression का महत्व क्या है? / What is the importance of gestures and facial expressions in Ajanta paintings?",
-    "options": {
-      "A": "भावों और कथा को स्पष्ट करने के लिए / To convey emotions and narrative",
-      "B": "सिर्फ सजावटी / Decorative only",
-      "C": "सैन्य शक्ति दिखाने के लिए / Show military power",
-      "D": "आर्थिक संपन्नता दिखाने के लिए / Display wealth"
-    },
-    "answer": ["A"],
-    "explanation": "Gesture और facial expression का उपयोग भावों और कथा को स्पष्ट करने के लिए किया गया।"
-  },
-  {
-    "id": 60,
-    "question": "उदयगिरी और अजन्ता गुफाओं में शिल्प और चित्रकला का मुख्य उद्देश्य क्या था? / What was the main purpose of sculpture and painting in Udayagiri and Ajanta Caves?",
-    "options": {
-      "A": "धार्मिक शिक्षण और प्रतीक / Religious teaching and symbolism",
-      "B": "सिर्फ सजावटी / Decorative only",
-      "C": "सैन्य विजय का प्रदर्शन / Display military victory",
-      "D": "व्यावसायिक उद्देश्य / Commercial purpose"
-    },
-    "answer": ["A"],
-    "explanation": "उदयगिरी और अजन्ता गुफाओं में शिल्प और चित्रकला का उद्देश्य धार्मिक शिक्षण और प्रतीकात्मकता था।"
-  },
-  {
-    "id": 61,
-    "question": "बौद्ध स्थापत्य में छोटे स्तूपों का मुख्य उद्देश्य क्या था? / What was the main purpose of smaller stupas in Buddhist architecture?",
-    "options": {
-      "A": "पूजा के लिए / For worship",
-      "B": "सैन्य किले के रूप में / As military fort",
-      "C": "सजावटी संरचना / Decorative structures",
-      "D": "व्यावसायिक प्रयोग / Commercial use"
-    },
-    "answer": ["A"],
-    "explanation": "छोटे स्तूप मुख्यतः पूजा और श्रद्धा के लिए बनाए गए थे।"
-  },
-  {
-    "id": 62,
-    "question": "विहारों का निर्माण किस प्रकार से किया गया था? / How were Buddhist viharas constructed?",
-    "options": {
-      "A": "सरल और कार्यात्मक / Simple and functional",
-      "B": "भव्य और सजावटी / Grand and decorative",
-      "C": "सैन्य उद्देश्यों के लिए / For military purposes",
-      "D": "व्यावसायिक / Commercial use"
-    },
-    "answer": ["A"],
-    "explanation": "विहारों को साधारण, कार्यात्मक रूप में बनाया गया था ताकि साधु शांतिपूर्वक निवास कर सकें।"
-  },
-  {
-    "id": 63,
-    "question": "विहारों में शिल्प का क्या स्तर था? / What was the level of craftsmanship in viharas?",
-    "options": {
-      "A": "पत्थर की उन्नत नक़्क़ाशी / Refined stone carving",
-      "B": "साधारण लकड़ी / Simple woodwork",
-      "C": "सजावटी चित्रकला / Decorative painting",
-      "D": "कपड़े और धातु / Fabric and metal"
-    },
-    "answer": ["A"],
-    "explanation": "विहारों में पत्थर की उन्नत नक़्क़ाशी दिखाई देती थी, जबकि निर्माण सरल और कार्यात्मक था।"
-  },
-  {
-    "id": 64,
-    "question": "स्तूप और विहारों में बौद्ध प्रभाव का मुख्य संकेत क्या है? / What is the main indication of Buddhist influence in stupas and viharas?",
-    "options": {
-      "A": "धार्मिक उद्देश्य / Religious purpose",
-      "B": "सैन्य किला / Military fort",
-      "C": "सजावटी अभिव्यक्ति / Decorative expression",
-      "D": "व्यावसायिक उपयोग / Commercial use"
-    },
-    "answer": ["A"],
-    "explanation": "स्तूप और विहारों में बौद्ध प्रभाव धार्मिक उद्देश्य और साधु निवास के रूप में देखा जाता है।"
-  },
-  {
-    "id": 65,
-    "question": "छोटे स्तूपों में किस प्रकार की संरचना होती थी? / What type of structure did smaller stupas have?",
-    "options": {
-      "A": "श्राइन जैसी / Shrine-like",
-      "B": "सैन्य किले जैसी / Fort-like",
-      "C": "महल जैसी / Palace-like",
-      "D": "सजावटी गुम्बद / Decorative dome only"
-    },
-    "answer": ["A"],
-    "explanation": "छोटे स्तूप मुख्यतः shrine-like structures थे, जो पूजा और श्रद्धा के लिए उपयुक्त थे।"
-  },
-  {
-    "id": 66,
-    "question": "विहारों में पत्थर की नक़्क़ाशी का उद्देश्य क्या था? / What was the purpose of stone carving in viharas?",
-    "options": {
-      "A": "सौंदर्य और धार्मिक प्रतीक / Aesthetic and religious symbolism",
-      "B": "सैन्य शक्ति दिखाने के लिए / Display military power",
-      "C": "व्यावसायिक पहचान / Commercial identification",
-      "D": "सिर्फ सजावटी / Decorative only"
-    },
-    "answer": ["A"],
-    "explanation": "पत्थर की नक़्क़ाशी विहारों में सौंदर्य और धार्मिक प्रतीक बढ़ाने के लिए की गई थी।"
-  },
-  {
-    "id": 67,
-    "question": "बौद्ध विहारों की कार्यात्मक विशेषता क्या थी? / What was the functional feature of Buddhist viharas?",
-    "options": {
-      "A": "साधु निवास / Monastic residence",
-      "B": "सैनिक प्रशिक्षण / Military training",
-      "C": "व्यापार और वाणिज्य / Trade and commerce",
-      "D": "सिर्फ सजावट / Decoration only"
-    },
-    "answer": ["A"],
-    "explanation": "विहारों का मुख्य कार्य साधुओं के निवास और ध्यान के लिए था।"
-  },
-  {
-    "id": 68,
-    "question": "स्तूपों का बौद्ध स्थापत्य में धार्मिक महत्व क्या था? / What was the religious significance of stupas in Buddhist architecture?",
-    "options": {
-      "A": "बुद्ध और धार्मिक शिक्षण का प्रतीक / Symbol of Buddha and teachings",
-      "B": "सैनिक शक्ति का प्रतीक / Symbol of military power",
-      "C": "सामाजिक संपन्नता / Display social prosperity",
-      "D": "व्यावसायिक प्रतिष्ठा / Commercial status"
-    },
-    "answer": ["A"],
-    "explanation": "स्तूप बौद्ध धर्म में बुद्ध और उनके शिक्षण का प्रतीक हैं।"
-  },
-  {
-    "id": 69,
-    "question": "छोटे स्तूप और विहारों में पत्थर का उपयोग क्यों महत्वपूर्ण था? / Why was stone important in smaller stupas and viharas?",
-    "options": {
-      "A": "स्थायित्व और सजावटी क्षमता / Durability and aesthetic potential",
-      "B": "सैनिक रक्षा / Military defense",
-      "C": "व्यापार हेतु / Commercial purpose",
-      "D": "सिर्फ सजावट / Decorative only"
-    },
-    "answer": ["A"],
-    "explanation": "पत्थर का उपयोग स्थायित्व और सजावटी क्षमता बढ़ाने के लिए किया गया।"
-  },
-  {
-    "id": 70,
-    "question": "बौद्ध स्थापत्य में स्तूप और विहारों का संयुक्त उद्देश्य क्या था? / What was the combined purpose of stupas and viharas in Buddhist architecture?",
-    "options": {
-      "A": "धार्मिक अभ्यास और साधु निवास / Religious practice and monastic residence",
-      "B": "सैनिक अभ्यास / Military training",
-      "C": "व्यापार और वाणिज्य / Trade and commerce",
-      "D": "सिर्फ सजावट / Decorative only"
-    },
-    "answer": ["A"],
-    "explanation": "स्तूप और विहारों का संयुक्त उद्देश्य धार्मिक अभ्यास और साधु निवास को सुनिश्चित करना था।"
-  },
-  {
-    "id": 71,
-    "question": "अजन्ता की frescoes किस काल में परिष्कृत रूप में पहुँचीं? / In which period did Ajanta frescoes reach peak refinement?",
-    "options": {
-      "A": "गुप्त काल / Gupta period",
-      "B": "मौर्य काल / Maurya period",
-      "C": "सातवाहन काल / Satavahana period",
-      "D": "मध्यकालीन / Medieval period"
-    },
-    "answer": ["A"],
-    "explanation": "अजन्ता की frescoes गुप्त काल में अपनी परिष्कृत शैली और naturalism के लिए प्रसिद्ध हुईं।"
-  },
-  {
-    "id": 72,
-    "question": "अजन्ता frescoes में किस प्रकार की कथाएँ चित्रित की गई हैं? / What type of stories are depicted in Ajanta frescoes?",
-    "options": {
-      "A": "जataka कथाएँ / Jataka tales",
-      "B": "महायान बुद्ध जीवन / Mahayana Buddha life",
-      "C": "मौर्य राजाओं की वीरता / Mauryan kings’ valor",
-      "D": "पौराणिक युद्ध / Mythical wars"
-    },
-    "answer": ["A", "B"],
-    "explanation": "अजन्ता की चित्रकला में मुख्यतः Jataka कथाएँ और Mahayana Buddha के जीवन से जुड़ी कहानियाँ चित्रित की गई हैं।"
-  },
-  {
-    "id": 73,
-    "question": "अजन्ता frescoes में प्राकृतिकता किस रूप में दिखाई देती है? / How is naturalism depicted in Ajanta frescoes?",
-    "options": {
-      "A": "परिदृश्य / Landscapes",
-      "B": "जानवर / Animals",
-      "C": "मानव मुद्राएँ / Human gestures",
-      "D": "सिर्फ प्रतीकात्मक चित्र / Only symbolic drawings"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "अजन्ता की frescoes में प्राकृतिकता landscapes, animals और human gestures में दिखाई देती है।"
-  },
-  {
-    "id": 74,
-    "question": "अजन्ता frescoes में उपयोग किए गए रंग किससे प्राप्त होते थे? / From what were colors in Ajanta frescoes derived?",
-    "options": {
-      "A": "प्राकृतिक पिगमेंट / Natural pigments",
-      "B": "रासायनिक रंग / Chemical dyes",
-      "C": "धातु मिश्रण / Metal alloys",
-      "D": "पानी / Water only"
-    },
-    "answer": ["A"],
-    "explanation": "अजन्ता frescoes में लाल, पीला, सफेद और ओकर जैसे रंग प्राकृतिक पिगमेंट से बनाए जाते थे।"
-  },
-  {
-    "id": 75,
-    "question": "अजन्ता frescoes में भाव और अभिव्यक्ति का महत्व क्या है? / What is the significance of emotion and expression in Ajanta frescoes?",
-    "options": {
-      "A": "कथा और भावनाओं को स्पष्ट करना / Convey story and emotion",
-      "B": "सिर्फ सजावटी / Decorative only",
-      "C": "सैन्य शक्ति दिखाना / Display military power",
-      "D": "धार्मिक अनुष्ठान / Religious ritual"
-    },
-    "answer": ["A"],
-    "explanation": "फेस्को में भाव और अभिव्यक्ति का प्रयोग कथा और भावनाओं को स्पष्ट करने के लिए किया गया।"
-  },
-  {
-    "id": 76,
-    "question": "अजन्ता frescoes में landscapes का प्रयोग किस लिए किया गया? / What was the purpose of landscapes in Ajanta frescoes?",
-    "options": {
-      "A": "कथाओं का प्राकृतिक संदर्भ / Natural context to stories",
-      "B": "सजावटी उद्देश्य / Decorative only",
-      "C": "सैन्य प्रशिक्षण / Military display",
-      "D": "व्यावसायिक पहचान / Commercial identification"
-    },
-    "answer": ["A"],
-    "explanation": "Landscapes का प्रयोग कथाओं में naturalistic background देने के लिए किया गया।"
-  },
-  {
-    "id": 77,
-    "question": "अजन्ता frescoes में मानव मुद्राओं का क्या महत्व है? / What is the importance of human gestures in Ajanta frescoes?",
-    "options": {
-      "A": "भाव और कहानी व्यक्त करना / Convey emotions and story",
-      "B": "सिर्फ सजावटी / Decorative only",
-      "C": "सैन्य शक्ति दिखाना / Military display",
-      "D": "व्यावसायिक प्रतीक / Commercial symbolism"
-    },
-    "answer": ["A"],
-    "explanation": "मानव मुद्राएँ कथा और भावनाओं को स्पष्ट रूप से व्यक्त करती हैं।"
-  },
-  {
-    "id": 78,
-    "question": "अजन्ता frescoes में पशुओं का चित्रण किस उद्देश्य से किया गया? / Why were animals depicted in Ajanta frescoes?",
-    "options": {
-      "A": "कथाओं के संदर्भ में / Context of stories",
-      "B": "सजावटी उद्देश्य / Decorative only",
-      "C": "सैन्य शक्ति / Military symbolism",
-      "D": "व्यावसायिक प्रतीक / Commercial symbolism"
-    },
-    "answer": ["A"],
-    "explanation": "Animals का चित्रण कथाओं और naturalism को दर्शाने के लिए किया गया।"
-  },
-  {
-    "id": 79,
-    "question": "अजन्ता frescoes में लाल, पीला, सफेद और ओकर रंग किसके लिए उपयोग किए गए? / What were ochre, red, white, and yellow colors used for in Ajanta frescoes?",
-    "options": {
-      "A": "मानव आकृति और पृष्ठभूमि / Human figures and background",
-      "B": "सैन्य प्रदर्शन / Military display",
-      "C": "व्यावसायिक प्रतीक / Commercial symbolism",
-      "D": "सिर्फ सजावटी / Decorative only"
-    },
-    "answer": ["A"],
-    "explanation": "ये रंग मुख्यतः मानव आकृतियों, वस्त्रों और प्राकृतिक पृष्ठभूमि को जीवंत बनाने के लिए इस्तेमाल किए गए।"
-  },
-  {
-    "id": 80,
-    "question": "अजन्ता frescoes में किस शैली का प्रमुख प्रभाव दिखाई देता है? / What style is prominently seen in Ajanta frescoes?",
-    "options": {
-      "A": "गुप्त शैली / Gupta style",
-      "B": "मौर्य शैली / Maurya style",
-      "C": "चोल शैली / Chola style",
-      "D": "पल्लव शैली / Pallava style"
-    },
-    "answer": ["A"],
-    "explanation": "अजन्ता frescoes में गुप्त शैली का प्रभाव स्पष्ट है, जो naturalism और refined technique को दर्शाता है।"
-  },
-  {
-    "id": 81,
-    "question": "अजन्ता frescoes में कथा और भाव को दर्शाने का प्रमुख माध्यम क्या था? / What was the main medium to depict story and emotion in Ajanta frescoes?",
-    "options": {
-      "A": "मानव आकृतियाँ और मुद्राएँ / Human figures and gestures",
-      "B": "सजावटी पैटर्न / Decorative patterns",
-      "C": "सैन्य युद्ध चित्र / Military depictions",
-      "D": "धातु और लकड़ी / Metal and wood"
-    },
-    "answer": ["A"],
-    "explanation": "मानव आकृतियाँ और मुद्राएँ कथा और भावनाओं को स्पष्ट रूप से व्यक्त करती थीं।"
-  },
-  {
-    "id": 82,
-    "question": "अजन्ता frescoes में naturalism किस रूप में दिखाई देता है? / How is naturalism shown in Ajanta frescoes?",
-    "options": {
-      "A": "मानव और पशु आकृतियों में / Human and animal figures",
-      "B": "भवन संरचनाओं में / Architectural structures",
-      "C": "सैनिक चित्रों में / Military scenes",
-      "D": "सिर्फ सजावट / Only decorative"
-    },
-    "answer": ["A"],
-    "explanation": "Naturalism मानव और पशु आकृतियों में दिखाई देता है, जो कथाओं को वास्तविक रूप देता है।"
-  },
-  {
-    "id": 83,
-    "question": "अजन्ता frescoes में light और shadow का प्रयोग क्यों किया गया? / Why were light and shadow used in Ajanta frescoes?",
-    "options": {
-      "A": "तीव्रता और गहराई देने के लिए / To provide depth and intensity",
-      "B": "सिर्फ सजावट / Decorative only",
-      "C": "सैन्य शक्ति दिखाने के लिए / Display military power",
-      "D": "व्यावसायिक प्रतीक / Commercial symbolism"
-    },
-    "answer": ["A"],
-    "explanation": "Light और shadow का प्रयोग चित्रों में तीव्रता और गहराई देने के लिए किया गया।"
-  },
-  {
-    "id": 84,
-    "question": "अजन्ता frescoes में human gestures का उद्देश्य क्या था? / What was the purpose of human gestures in Ajanta frescoes?",
-    "options": {
-      "A": "कथा और भाव व्यक्त करना / Convey story and emotions",
-      "B": "सिर्फ सजावटी / Decorative only",
-      "C": "सैन्य प्रदर्शन / Military display",
-      "D": "व्यावसायिक पहचान / Commercial symbol"
-    },
-    "answer": ["A"],
-    "explanation": "Human gestures का प्रयोग कथा और भाव को स्पष्ट रूप से व्यक्त करने के लिए किया गया।"
-  },
-  {
-    "id": 85,
-    "question": "अजन्ता frescoes में Mahayana Buddha जीवन चित्रण का उद्देश्य क्या था? / What was the purpose of depicting Mahayana Buddha life in Ajanta frescoes?",
-    "options": {
-      "A": "धार्मिक शिक्षण / Religious instruction",
-      "B": "सैन्य शक्ति / Military display",
-      "C": "सिर्फ सजावट / Decorative only",
-      "D": "व्यावसायिक उद्देश्य / Commercial purpose"
-    },
-    "answer": ["A"],
-    "explanation": "Mahayana Buddha जीवन का चित्रण धार्मिक शिक्षण और साधु अनुशासन दिखाने के लिए किया गया।"
-  },
-  {
-    "id": 86,
-    "question": "अजन्ता frescoes में कथाओं के चित्रण में पशुओं का क्या महत्व था? / What was the significance of animals in Ajanta fresco storytelling?",
-    "options": {
-      "A": "कथा और प्राकृतिक संदर्भ / Story and natural context",
-      "B": "सजावटी तत्व / Decorative elements only",
-      "C": "सैन्य शक्ति / Military symbolism",
-      "D": "व्यावसायिक प्रतीक / Commercial symbol"
-    },
-    "answer": ["A"],
-    "explanation": "पशुओं का चित्रण कथाओं में प्राकृतिकता और संदर्भ जोड़ने के लिए किया गया।"
-  },
-  {
-    "id": 87,
-    "question": "अजन्ता frescoes में natural pigments से कौन-कौन से रंग बनाए गए? / Which colors were made from natural pigments in Ajanta frescoes?",
-    "options": {
-      "A": "लाल / Red",
-      "B": "पीला / Yellow",
-      "C": "सफेद / White",
-      "D": "नीला / Blue"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "लाल, पीला, सफेद और ओकर रंग प्राकृतिक पिगमेंट से बनाए गए; नीला बहुत कम प्रयोग होता था।"
-  },
-  {
-    "id": 88,
-    "question": "अजन्ता frescoes में emotion और expression को दर्शाने का तरीका क्या था? / How were emotion and expression conveyed in Ajanta frescoes?",
-    "options": {
-      "A": "मानव आकृति और मुखाभिव्यक्ति / Human figures and facial expression",
-      "B": "सजावटी पैटर्न / Decorative patterns",
-      "C": "सैनिक चित्र / Military depictions",
-      "D": "धातु मूर्तियाँ / Metal sculptures"
-    },
-    "answer": ["A"],
-    "explanation": "Emotion और expression मानव आकृति और मुखाभिव्यक्ति के माध्यम से स्पष्ट किए गए।"
-  },
-  {
-    "id": 89,
-    "question": "अजन्ता frescoes में storytelling का मुख्य माध्यम क्या था? / What was the main medium of storytelling in Ajanta frescoes?",
-    "options": {
-      "A": "मानव आकृति, मुद्रा और परिदृश्य / Human figures, gestures, and landscapes",
-      "B": "सिर्फ सजावटी पैटर्न / Decorative patterns only",
-      "C": "सैनिक चित्र / Military depictions",
-      "D": "धातु और लकड़ी / Metal and wood"
-    },
-    "answer": ["A"],
-    "explanation": "कथाओं को स्पष्ट रूप से व्यक्त करने के लिए मानव आकृति, मुद्रा और परिदृश्य का प्रयोग किया गया।"
-  },
-  {
-    "id": 90,
-    "question": "अजन्ता frescoes में peak refinement का संकेत क्या है? / What indicates peak refinement in Ajanta frescoes?",
-    "options": {
-      "A": "Naturalism और refined technique / Naturalism and refined technique",
-      "B": "सिर्फ आकार / Size only",
-      "C": "सैनिक शक्ति / Military display",
-      "D": "व्यावसायिक प्रतीक / Commercial symbol"
-    },
-    "answer": ["A"],
-    "explanation": "Peak refinement naturalism, human gestures, landscapes और refined painting technique में दिखाई देता है।"
-  },
-  {
-    "id": 91,
-    "question": "चोल काल की मूर्तियों में किस देवता का चित्रण सबसे अधिक मिलता है? / Which deity is most commonly depicted in Chola period sculptures?",
+    "question": "ऐहोल स्तंभलेख में किस देवता का उल्लेख अधिक है? / Which deity is prominently mentioned in Aihole inscription?",
     "options": {
       "A": "शिव / Shiva",
       "B": "विष्णु / Vishnu",
-      "C": "दुर्गा / Durga",
-      "D": "सूर्य / Surya"
-    },
-    "answer": ["A"],
-    "explanation": "चोल काल में मुख्यतः शिव के ब्रॉन्ज़ और पत्थर की मूर्तियाँ बनाई गईं, विशेषकर नटराज के रूप में।"
-  },
-  {
-    "id": 92,
-    "question": "विजयनगर साम्राज्य की मूर्तियों की विशेष शैली क्या थी? / What was the characteristic style of Vijayanagara sculptures?",
-    "options": {
-      "A": "भव्य और विस्तृत सजावट / Grand and elaborate ornamentation",
-      "B": "सरल और न्यूनतावादी / Simple and minimalist",
-      "C": "मौद्रिक प्रतीक / Coin-like depiction",
-      "D": "केवल लकड़ी / Only wood"
-    },
-    "answer": ["A"],
-    "explanation": "विजयनगर मूर्तियाँ भव्य, विस्तृत और स्थापत्य से जुड़ी हुई थीं, विशेषकर मंदिरों में।"
-  },
-  {
-    "id": 93,
-    "question": "चोल ब्रॉन्ज़ मूर्तियों की विशेषता क्या है? / What is the distinctive feature of Chola bronze sculptures?",
-    "options": {
-      "A": "Lost-wax technique / लॉस्ट-वैक्स तकनीक",
-      "B": "पत्थर की नक्काशी / Stone carving",
-      "C": "साधारण चित्रकला / Simple painting",
-      "D": "लकड़ी की मूर्तियाँ / Wooden sculptures"
-    },
-    "answer": ["A"],
-    "explanation": "चोल ब्रॉन्ज़ मूर्तियों में लॉस्ट-वैक्स तकनीक का प्रयोग होता था, जो मूर्तियों को जीवंत और स्थायी बनाती थी।"
-  },
-  {
-    "id": 94,
-    "question": "विजयनगर मूर्तियों में मानव आकृति और मुद्रा की विशेषता क्या थी? / What was the feature of human figures and posture in Vijayanagara sculptures?",
-    "options": {
-      "A": "सशक्त और गतिशील / Robust and dynamic",
-      "B": "स्थिर और कठोर / Static and rigid",
-      "C": "सूक्ष्म और कोमल / Subtle and soft",
-      "D": "सिर्फ प्रतीकात्मक / Only symbolic"
-    },
-    "answer": ["A"],
-    "explanation": "विजयनगर मूर्तियाँ सशक्त और गतिशील मानव आकृतियों के लिए जानी जाती हैं, जो युद्ध और धार्मिक कथाओं को दर्शाती हैं।"
-  },
-  {
-    "id": 95,
-    "question": "चोल मंदिर मूर्तियों में नटराज का क्या प्रतीक है? / What does Nataraja symbolize in Chola temple sculptures?",
-    "options": {
-      "A": "सृष्टि, पालन और संहार / Creation, preservation, and destruction",
-      "B": "सिर्फ सजावटी मूर्ति / Decorative only",
-      "C": "सैन्य शक्ति / Military power",
-      "D": "व्यावसायिक समृद्धि / Commercial prosperity"
-    },
-    "answer": ["A"],
-    "explanation": "नटराज मूर्ति शिव की त्रितत्व शक्ति का प्रतीक है: सृष्टि, पालन और संहार।"
-  },
-  {
-    "id": 96,
-    "question": "विजयनगर मंदिरों में मूर्तियों में कौन-कौन से देवता अधिकतर दिखाई देते हैं? / Which deities are prominently depicted in Vijayanagara temple sculptures?",
-    "options": {
-      "A": "शिव और विष्णु / Shiva and Vishnu",
-      "B": "कृष्ण और रामा / Krishna and Rama",
-      "C": "सूर्य और अग्नि / Surya and Agni",
-      "D": "जैन तीर्थंकर / Jain Tirthankaras"
+      "C": "देवी / Goddess",
+      "D": "गणेश / Ganesha"
     },
     "answer": ["A", "B"],
-    "explanation": "विजयनगर मंदिरों में शिव, विष्णु और उनके अवतार जैसे कृष्ण और रामा का चित्रण अधिक होता है।"
+    "explanation": "ऐहोल स्तंभलेख में शिव और विष्णु दोनों देवताओं का उल्लेख है, जो तत्कालीन धार्मिक सहिष्णुता को दर्शाता है।"
   },
   {
-    "id": 97,
-    "question": "चोल और विजयनगर मूर्तियों में स्थापत्य और मूर्तिकला का संबंध कैसा था? / How were architecture and sculpture related in Chola and Vijayanagara periods?",
+    "id": 35,
+    "question": "बिल्हाणा का काव्य किस प्रकार का था? / What type of poetry did Bilhana compose?",
     "options": {
-      "A": "मंदिर की दीवारों और गुम्बद में मूर्तिकला / Sculpture on temple walls and towers",
-      "B": "सिर्फ स्वतंत्र मूर्तियाँ / Only independent sculptures",
-      "C": "सिर्फ लकड़ी की संरचना / Only wooden structures",
-      "D": "सजावटी पेंटिंग / Decorative painting only"
+      "A": "महाकाव्य / Epic poetry",
+      "B": "अल्पकाव्य / Short poems",
+      "C": "धार्मिक गाथा / Religious narrative",
+      "D": "राजनीतिक गाथा / Political narrative"
     },
-    "answer": ["A"],
-    "explanation": "मूर्तिकला मंदिर की दीवारों, गुम्बद और स्तंभों के साथ घुलमिलकर स्थापत्य का हिस्सा थी।"
+    "answer": ["A", "D"],
+    "explanation": "बिल्हाणा ने महाकाव्यात्मक शैली में राजा और राजनीतिक विषयों का वर्णन किया।"
   },
   {
-    "id": 98,
-    "question": "चोल मूर्तियों में देवी और पुरुष आकृतियों की अनुपात और मुद्रा कैसी होती थी? / What was the proportion and posture of male and female figures in Chola sculptures?",
+    "id": 36,
+    "question": "वेसरा शैली में मूर्तिकला किसके प्रभाव से विकसित हुई? / Vesara style sculpture developed under influence of which styles?",
     "options": {
-      "A": "संतुलित और सौम्य / Balanced and graceful",
-      "B": "असंतुलित और कठोर / Unbalanced and rigid",
-      "C": "गंभीर और स्थिर / Stern and static",
-      "D": "सिर्फ प्रतीकात्मक / Only symbolic"
-    },
-    "answer": ["A"],
-    "explanation": "चोल मूर्तियों में मानव आकृतियों का अनुपात संतुलित और मुद्रा सौम्य होती थी, जो classical और idealistic शैली को दर्शाती है।"
-  },
-  {
-    "id": 99,
-    "question": "विजयनगर मूर्तियों में decorative motifs में क्या शामिल था? / What was included in decorative motifs of Vijayanagara sculptures?",
-    "options": {
-      "A": "फूल, पशु और पौराणिक पात्र / Floral, animal, and mythical figures",
-      "B": "सिर्फ ज्यामितीय पैटर्न / Only geometric patterns",
-      "C": "सैनिक चित्र / Military depictions",
-      "D": "व्यावसायिक प्रतीक / Commercial symbols"
-    },
-    "answer": ["A"],
-    "explanation": "विजयनगर मूर्तियों में फूल, पशु और पौराणिक पात्रों की विस्तृत सजावटी नक्काशी होती थी।"
-  },
-  {
-    "id": 100,
-    "question": "चोल ब्रॉन्ज़ मूर्तियों में छोटे स्तंभ और आधार का महत्व क्या था? / What was the significance of small pillars and base in Chola bronze sculptures?",
-    "options": {
-      "A": "संतुलन और स्थायित्व / Balance and stability",
-      "B": "सजावटी कारण / Decorative only",
-      "C": "सैन्य मजबूती / Military strength",
-      "D": "सिर्फ प्रतीकात्मक / Only symbolic"
-    },
-    "answer": ["A"],
-    "explanation": "छोटे स्तंभ और आधार मूर्तियों को संतुलित और स्थायी बनाए रखते थे, विशेषकर नटराज जैसी गतिशील आकृतियों में।"
-  },
-  {
-    "id": 101,
-    "question": "विजयनगर मूर्तियों में human figures का आकार कैसा था? / What was the size of human figures in Vijayanagara sculptures?",
-    "options": {
-      "A": "बड़े और शक्तिशाली / Large and robust",
-      "B": "छोटे और सूक्ष्म / Small and delicate",
-      "C": "असंतुलित / Disproportionate",
-      "D": "सिर्फ प्रतीकात्मक / Only symbolic"
-    },
-    "answer": ["A"],
-    "explanation": "विजयनगर मूर्तियों में मानव आकृतियाँ बड़े और शक्तिशाली रूप में बनाई जाती थीं।"
-  },
-  {
-    "id": 102,
-    "question": "चोल और विजयनगर मूर्तियों में कौन-कौन से पदार्थ प्रयोग किए गए? / Which materials were used in Chola and Vijayanagara sculptures?",
-    "options": {
-      "A": "ब्रॉन्ज़ / Bronze",
-      "B": "पत्थर / Stone",
-      "C": "लकड़ी / Wood",
-      "D": "सिरेमिक / Ceramic"
+      "A": "नागर शैली / Nagara style",
+      "B": "द्रविड़ शैली / Dravida style",
+      "C": "पल्लव शैली / Pallava style",
+      "D": "चोल शैली / Chola style"
     },
     "answer": ["A", "B"],
-    "explanation": "चोल और विजयनगर मूर्तियों में मुख्यतः ब्रॉन्ज़ और पत्थर का प्रयोग किया गया, लकड़ी और सिरेमिक कम होती थी।"
+    "explanation": "वेसरा शैली नागर और द्रविड़ शैली के मिश्रण से विकसित हुई।"
   },
   {
-    "id": 103,
-    "question": "चोल मूर्तियों में Shiva Nataraja की मुद्रा किस प्रकार की होती थी? / What is the posture of Shiva Nataraja in Chola sculptures?",
+    "id": 37,
+    "question": "नर्मदा संधि का ऐतिहासिक महत्व क्यों है? / Why is the Narmada treaty historically significant?",
     "options": {
-      "A": "सक्रिय नृत्य / Dynamic dance",
-      "B": "स्थिर मुद्रा / Static posture",
-      "C": "सिर्फ प्रतीकात्मक / Only symbolic",
-      "D": "ध्यान मुद्रा / Meditation posture"
+      "A": "हर्ष और चालुक्य के बीच शक्ति संतुलन स्थापित हुआ / Balance of power established between Harsha and Chalukyas",
+      "B": "धार्मिक सुधार लागू हुए / Religious reforms implemented",
+      "C": "व्यापारिक मार्गों की सुरक्षा / Security of trade routes",
+      "D": "सैन्य गठबंधन बना / Military alliance formed"
     },
     "answer": ["A"],
-    "explanation": "Shiva Nataraja की मुद्रा सक्रिय नृत्य और त्रितत्व शक्ति को दर्शाती है।"
+    "explanation": "यह संधि राजनीतिक सीमा और शक्ति संतुलन की दृष्टि से महत्वपूर्ण थी।"
   },
   {
-    "id": 104,
-    "question": "विजयनगर मूर्तियों में युद्ध और वीरता को किस माध्यम से दिखाया गया? / How were war and valor depicted in Vijayanagara sculptures?",
+    "id": 38,
+    "question": "बादामी चालुक्य मंदिर कला का प्रमुख उदाहरण कौन-सा है? / Which is a prominent example of Badami Chalukya temple art?",
     "options": {
-      "A": "शस्त्र और युद्ध मुद्रा / Weapons and battle posture",
-      "B": "सिर्फ धार्मिक प्रतीक / Only religious symbols",
-      "C": "सजावटी पैटर्न / Decorative patterns",
-      "D": "व्यावसायिक प्रतीक / Commercial symbolism"
+      "A": "द्रविड़ शैली का मंदिर / Dravida style temple",
+      "B": "गुफा मंदिर / Cave temples",
+      "C": "मौलिक वेसरा शैली का मंदिर / Original Vesara style temple",
+      "D": "चोल शैली का मंदिर / Chola style temple"
     },
-    "answer": ["A"],
-    "explanation": "वीरता और युद्ध को मूर्तियों में शस्त्र, युद्ध मुद्रा और गतिशील आकृतियों के माध्यम से दिखाया गया।"
+    "answer": ["B", "C"],
+    "explanation": "बादामी चालुक्य कला में गुफा मंदिर और मूल वेसरा शैली प्रमुख उदाहरण हैं।"
   },
   {
-    "id": 105,
-    "question": "चोल मूर्तियों की शैली को किस प्रकार कहा जाता है? / How is the style of Chola sculptures described?",
+    "id": 39,
+    "question": "पूर्वी चालुक्य–चोल संबंधों का सांस्कृतिक प्रभाव क्या था? / What was the cultural impact of Eastern Chalukya–Chola relations?",
     "options": {
-      "A": "क्लासिकल और आदर्श / Classical and idealistic",
-      "B": "मौद्रिक / Coin-like",
-      "C": "असंतुलित / Disproportionate",
-      "D": "मध्यकालीन / Medieval"
+      "A": "संगीत और कला का विकास / Development of music and arts",
+      "B": "नृत्य शास्त्र का प्रचार / Promotion of dance",
+      "C": "साहित्यिक आदान-प्रदान / Literary exchanges",
+      "D": "धार्मिक विद्वत्ता का पतन / Decline of religious scholarship"
     },
-    "answer": ["A"],
-    "explanation": "चोल मूर्तियों की शैली classical और idealistic है, जिसमें proportion, grace और सौम्यता दिखाई देती है।"
-  },
-  {
-    "id": 106,
-    "question": "विजयनगर मूर्तियों में अलंकरण और विस्तार का प्रमुख उद्देश्य क्या था? / What was the main purpose of ornamentation in Vijayanagara sculptures?",
-    "options": {
-      "A": "भव्यता और शक्ति प्रदर्शन / Grandeur and display of power",
-      "B": "सिर्फ सजावट / Decorative only",
-      "C": "सैनिक प्रशिक्षण / Military training",
-      "D": "व्यावसायिक पहचान / Commercial purpose"
-    },
-    "answer": ["A"],
-    "explanation": "अलंकरण और विस्तार मूर्तियों को भव्य और शक्तिशाली रूप देने के लिए किया गया।"
-  },
-  {
-    "id": 107,
-    "question": "चोल मंदिर मूर्तियों में देवता की विशेष मुद्राएँ किस लिए होती थीं? / Why did Chola temple sculptures depict specific gestures of deities?",
-    "options": {
-      "A": "धार्मिक और आध्यात्मिक अर्थ / Religious and spiritual meaning",
-      "B": "सिर्फ सजावट / Decorative only",
-      "C": "सैन्य प्रदर्शन / Military display",
-      "D": "व्यावसायिक प्रतीक / Commercial symbols"
-    },
-    "answer": ["A"],
-    "explanation": "देवता की मुद्राएँ धार्मिक और आध्यात्मिक संदेश देने के लिए होती थीं।"
-  },
-  {
-    "id": 108,
-    "question": "विजयनगर मूर्तियों में पशु और mythical creatures का क्या महत्व था? / What was the significance of animals and mythical creatures in Vijayanagara sculptures?",
-    "options": {
-      "A": "सजावट और प्रतीकात्मक अर्थ / Decoration and symbolic meaning",
-      "B": "सैन्य उद्देश्य / Military purpose",
-      "C": "व्यावसायिक प्रतीक / Commercial symbol",
-      "D": "सिर्फ धार्मिक मूर्तियाँ / Only religious figures"
-    },
-    "answer": ["A"],
-    "explanation": "पशु और mythical creatures मूर्तियों में सजावट और प्रतीकात्मक अर्थ जोड़ते थे।"
-  },
-  {
-    "id": 109,
-    "question": "चोल और विजयनगर मूर्तियों में धार्मिक कथाओं का चित्रण किस माध्यम से होता था? / How were religious stories depicted in Chola and Vijayanagara sculptures?",
-    "options": {
-      "A": "मानव आकृति, मुद्रा और दृश्य / Human figures, gestures, and scenes",
-      "B": "सिर्फ प्रतीकात्मक चिन्ह / Only symbolic marks",
-      "C": "सजावटी पैटर्न / Decorative patterns",
-      "D": "लकड़ी और धातु / Wood and metal"
-    },
-    "answer": ["A"],
-    "explanation": "धार्मिक कथाओं को मूर्तियों में मानव आकृति, मुद्रा और दृश्य के माध्यम से दर्शाया गया।"
-  },
-  {
-    "id": 110,
-    "question": "चोल और विजयनगर मूर्तियों की स्थायित्व और टिकाऊपन का प्रमुख कारण क्या था? / What was the main reason for durability of Chola and Vijayanagara sculptures?",
-    "options": {
-      "A": "उच्च गुणवत्ता वाले पत्थर और ब्रॉन्ज़ / High-quality stone and bronze",
-      "B": "लकड़ी / Wood",
-      "C": "सिरेमिक / Ceramic",
-      "D": "सिर्फ पेंटिंग / Only painting"
-    },
-    "answer": ["A"],
-    "explanation": "उच्च गुणवत्ता वाले पत्थर और ब्रॉन्ज़ मूर्तियों को टिकाऊ और स्थायी बनाते थे।"
-  },
-  {
-    "id": 111,
-    "question": "Deccan Sultanate painting ka pramukh vishesh feature kya tha? / What was the main feature of Deccan Sultanate painting?",
-    "options": {
-      "A": "Bright colors and intricate detailing / उज्ज्वल रंग और जटिल विवरण",
-      "B": "Simple and rustic style / सरल और देहाती शैली",
-      "C": "Only calligraphy / केवल सुलेख",
-      "D": "Stone carving / पत्थर की नक्काशी"
-    },
-    "answer": ["A"],
-    "explanation": "Deccan Sultanate painting mein bright colors aur intricate detailing ka pramukh mahatva tha."
-  },
-  {
-    "id": 112,
-    "question": "Deccan Sultanate miniature paintings me pramukh vishay kya tha? / What was the main subject of Deccan Sultanate miniature paintings?",
-    "options": {
-      "A": "Court scenes and royal portraits / दरबार और शाही चित्र",
-      "B": "Village folk life / ग्राम्य जीवन",
-      "C": "Agricultural activities / कृषि कार्य",
-      "D": "Religious rituals only / केवल धार्मिक अनुष्ठान"
-    },
-    "answer": ["A"],
-    "explanation": "Miniature paintings me royal court, shahi portraits aur darbar scenes ko depict kiya gaya."
-  },
-  {
-    "id": 113,
-    "question": "Deccan Sultanate paintings me European influence kis prakar dikhai deta hai? / How is European influence seen in Deccan Sultanate paintings?",
-    "options": {
-      "A": "Perspective aur shading / परिप्रेक्ष्य और छायांकन",
-      "B": "Simple line drawings / सरल रेखाचित्र",
-      "C": "Sculptural relief / मूर्तिकला",
-      "D": "Calligraphic motifs / सुलेखात्मक पैटर्न"
-    },
-    "answer": ["A"],
-    "explanation": "European artists ke perspective aur shading techniques Deccan Sultanate paintings me dikhai deti hain."
-  },
-  {
-    "id": 114,
-    "question": "Bidar aur Ahmednagar Sultanate painting style me kya common tha? / What was common in Bidar and Ahmednagar Sultanate painting styles?",
-    "options": {
-      "A": "Rich colors and courtly elegance / समृद्ध रंग और शाही भव्यता",
-      "B": "Simple folk style / सरल लोक शैली",
-      "C": "Stone sculpting techniques / पत्थर की मूर्तिकला",
-      "D": "Only calligraphy / केवल सुलेख"
-    },
-    "answer": ["A"],
-    "explanation": "Dono styles me rich colors, gold embellishment aur shahi elegance dekha jata hai."
-  },
-  {
-    "id": 115,
-    "question": "Deccan Sultanate miniatures me human figures ka pramukh feature kya tha? / What was the main feature of human figures in Deccan Sultanate miniatures?",
-    "options": {
-      "A": "Elongated forms and elegant postures / लम्बी आकृति और सौम्य मुद्रा",
-      "B": "Stiff and rigid posture / कठोर और स्थिर मुद्रा",
-      "C": "Abstract representation / सारगर्भित चित्रण",
-      "D": "Only symbolic / केवल प्रतीकात्मक"
-    },
-    "answer": ["A"],
-    "explanation": "Figures generally elongated aur elegant posture me depict kiye jate the, jo grace aur refinement dikhate hain."
-  },
-  {
-    "id": 116,
-    "question": "Deccan Sultanate paintings me floral aur geometric motifs ka kya role tha? / What was the role of floral and geometric motifs in Deccan Sultanate paintings?",
-    "options": {
-      "A": "Background decoration and embellishment / पृष्ठभूमि सजावट और अलंकरण",
-      "B": "Only religious symbolism / केवल धार्मिक प्रतीक",
-      "C": "Structural support / संरचनात्मक सहारा",
-      "D": "Agricultural depiction / कृषि चित्रण"
-    },
-    "answer": ["A"],
-    "explanation": "Floral aur geometric motifs background ko decorate karne aur artwork me rich detailing lane ke liye use hote the."
-  },
-  {
-    "id": 117,
-    "question": "Deccan Sultanate miniatures me gold ka kya use tha? / What was the use of gold in Deccan Sultanate miniatures?",
-    "options": {
-      "A": "Highlight aur embellishment / प्रमुखता और अलंकरण",
-      "B": "Base material / आधार सामग्री",
-      "C": "Calligraphy only / केवल सुलेख",
-      "D": "Structural strength / संरचनात्मक मजबूती"
-    },
-    "answer": ["A"],
-    "explanation": "Gold ka use miniature paintings me highlights aur luxurious embellishment ke liye hota tha."
-  },
-  {
-    "id": 118,
-    "question": "Deccan Sultanate paintings me nature aur animals ka kya role tha? / What was the role of nature and animals in Deccan Sultanate paintings?",
-    "options": {
-      "A": "Enhance realism aur storytelling / यथार्थवाद और कथा प्रस्तुत करना",
-      "B": "Only decorative / केवल सजावटी",
-      "C": "Military symbolism / सैन्य प्रतीक",
-      "D": "Calligraphy motif / सुलेख पैटर्न"
-    },
-    "answer": ["A"],
-    "explanation": "Nature aur animals ka depiction paintings me realism aur narrative ko enhance karta tha."
-  },
-  {
-    "id": 119,
-    "question": "Bijapur Sultanate painting style me kya unique tha? / What was unique in Bijapur Sultanate painting style?",
-    "options": {
-      "A": "Rich gold detailing aur Persian influence / समृद्ध सोने की नक्काशी और फारसी प्रभाव",
-      "B": "Simple folk depictions / सरल लोक चित्रण",
-      "C": "Stone carving only / केवल पत्थर की नक्काशी",
-      "D": "Calligraphy only / केवल सुलेख"
-    },
-    "answer": ["A"],
-    "explanation": "Bijapur paintings Persian miniature influence aur gold embellishments ke liye famous hain."
-  },
-  {
-    "id": 120,
-    "question": "Deccan Sultanate miniatures me court scenes ka kya significance tha? / What was the significance of court scenes in Deccan Sultanate miniatures?",
-    "options": {
-      "A": "Royal authority aur culture depict karna / शाही सत्ता और संस्कृति दिखाना",
-      "B": "Village life depict karna / ग्राम्य जीवन दिखाना",
-      "C": "Agriculture depict karna / कृषि दिखाना",
-      "D": "Military only / केवल सैन्य"
-    },
-    "answer": ["A"],
-    "explanation": "Court scenes se royal authority, etiquette aur luxury lifestyle ko depict kiya jata tha."
-  },
-  {
-    "id": 121,
-    "question": "Deccan Sultanate miniatures me Persian aur local elements ka combination kaisa tha? / How was the combination of Persian and local elements in Deccan Sultanate miniatures?",
-    "options": {
-      "A": "Fusion of Persian elegance and Deccan naturalism / फारसी भव्यता और डेक्कन प्राकृतिकता का मिश्रण",
-      "B": "Only Persian style / केवल फारसी शैली",
-      "C": "Only local style / केवल स्थानीय शैली",
-      "D": "Strictly abstract / केवल सारगर्भित"
-    },
-    "answer": ["A"],
-    "explanation": "Paintings me Persian refinement aur local motifs ka combination dekhne ko milta hai."
-  },
-  {
-    "id": 122,
-    "question": "Ahmadnagar Sultanate paintings me colors ka primary source kya tha? / What was the primary source of colors in Ahmadnagar Sultanate paintings?",
-    "options": {
-      "A": "Natural pigments / प्राकृतिक रंग",
-      "B": "Synthetic dyes / कृत्रिम रंग",
-      "C": "Metals / धातु",
-      "D": "Wood extracts / लकड़ी के अर्क"
-    },
-    "answer": ["A"],
-    "explanation": "Colors natural pigments se banaye jate the, jaise red, yellow, ochre aur white."
-  },
-  {
-    "id": 123,
-    "question": "Deccan Sultanate paintings me human anatomy ka portrayal kaisa tha? / How was human anatomy depicted in Deccan Sultanate paintings?",
-    "options": {
-      "A": "Stylized aur elongated forms / स्टाइलाइज्ड और लंबी आकृतियाँ",
-      "B": "Realistic proportions / यथार्थवादी अनुपात",
-      "C": "Abstract / सारगर्भित",
-      "D": "Symbolic only / केवल प्रतीकात्मक"
-    },
-    "answer": ["A"],
-    "explanation": "Figures stylized aur slightly elongated hote the, jo elegance aur grace dikhate the."
-  },
-  {
-    "id": 124,
-    "question": "Bidar Sultanate miniatures me borders aur framing ka kya role tha? / What was the role of borders and framing in Bidar Sultanate miniatures?",
-    "options": {
-      "A": "Separate aur highlight scenes / दृश्यों को अलग और प्रमुख बनाना",
-      "B": "Structural support / संरचनात्मक सहारा",
-      "C": "Only calligraphy / केवल सुलेख",
-      "D": "Decoration nahi / कोई सजावट नहीं"
-    },
-    "answer": ["A"],
-    "explanation": "Borders aur frames scenes ko alag aur visually prominent banate the."
-  },
-  {
-    "id": 125,
-    "question": "Deccan Sultanate miniature art me perspective ka kya role tha? / What was the role of perspective in Deccan Sultanate miniature art?",
-    "options": {
-      "A": "Depth aur three-dimensionality dena / Depth and 3D effect",
-      "B": "Only decoration / केवल सजावट",
-      "C": "Flat depiction / सपाट चित्रण",
-      "D": "Calligraphic emphasis / सुलेख पर जोर"
-    },
-    "answer": ["A"],
-    "explanation": "Perspective ka use depth aur realism ko enhance karne ke liye hota tha."
-  },
-  {
-    "id": 126,
-    "question": "Deccan Sultanate miniatures me horse aur hunting scenes ka kya significance tha? / What was the significance of horses and hunting scenes in Deccan Sultanate miniatures?",
-    "options": {
-      "A": "Royal power aur leisure depict karna / शाही शक्ति और मनोरंजन दिखाना",
-      "B": "Agricultural activity / कृषि दिखाना",
-      "C": "Religious symbolism / धार्मिक प्रतीक",
-      "D": "Decoration only / केवल सजावट"
-    },
-    "answer": ["A"],
-    "explanation": "Horses aur hunting scenes se shahi authority aur luxury lifestyle ko depict kiya jata tha."
+    "answer": ["A", "C"],
+    "explanation": "पूर्वी चालुक्य–चोल संबंधों ने संगीत, कला और साहित्यिक आदान-प्रदान को प्रोत्साहित किया।"
   }
 ]  
-
-
-
-
-
 
 
