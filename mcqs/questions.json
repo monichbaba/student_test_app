@@ -1,222 +1,482 @@
 [
   {
     "id": 1,
-    "question": "Which of the following rights has been declared as a part of Right to Life under Article 21? / निम्नलिखित में से किस अधिकार को अनुच्छेद 21 के तहत जीवन के अधिकार का हिस्सा घोषित किया गया है?",
+    "question": "राष्ट्रकूटों की राजधानी कहाँ स्थित थी? / Where was the capital of the Rashtrakutas located?",
     "options": {
-      "A": "Right to education / शिक्षा का अधिकार",
-      "B": "Right to vote / मतदान का अधिकार",
-      "C": "Right to property / संपत्ति का अधिकार",
-      "D": "Right to work / कार्य करने का अधिकार"
+      "A": "मालखेड (Manyakheta)",
+      "B": "अन्नेकल (Annekal)",
+      "C": "देवगिरि (Devagiri)",
+      "D": "पाटन (Patan)"
     },
-    "answer": "A"
+    "answer": ["A"],
+    "explanation": "राष्ट्रकूटों की राजधानी प्रारंभ में मलकानगर थी, परंतु बाद में इसे मण्यक्षेटा (मालखेड, कर्नाटक) स्थानांतरित कर दिया गया।"
   },
   {
     "id": 2,
-    "question": "In which case did the Supreme Court propound the doctrine of 'Basic Structure' of the Constitution? / सुप्रीम कोर्ट ने संविधान की 'मूल संरचना' के सिद्धांत को किस मामले में प्रतिपादित किया था?",
+    "question": "निम्नलिखित में से कौन-सा साहित्यिक कृति राष्ट्रकूट काल से संबंधित है? / Which of the following literary works belong to the Rashtrakuta period?",
     "options": {
-      "A": "Golak Nath Case / गोलक नाथ मामला",
-      "B": "Minerva Mills Case / मिनर्वा मिल्स मामला",
-      "C": "Kesavananda Bharati Case / केशवानंद भारती मामला",
-      "D": "A.K. Gopalan Case / ए.के. गोपालन मामला"
+      "A": "कविराजमार्ग (Kavirajamarga)",
+      "B": "गाथा सप्तशती (Gatha Saptashati)",
+      "C": "कामसूत्र (Kamasutra)",
+      "D": "निघण्टु (Nighantu)"
     },
-    "answer": "C"
+    "answer": ["A", "B"],
+    "explanation": "‘कविराजमार्ग’ (कन्नड़ साहित्य की प्राचीनतम कृति) और ‘गाथा सप्तशती’ (प्राकृत साहित्य) राष्ट्रकूट काल में रचित हुईं।"
   },
   {
     "id": 3,
-    "question": "Which Article of the Constitution deals with the Right to Constitutional Remedies? / संविधान का कौन-सा अनुच्छेद संवैधानिक उपचारों के अधिकार से संबंधित है?",
+    "question": "राष्ट्रकूटों ने किस प्रसिद्ध चालुक्य शासक को पराजित कर सत्ता प्राप्त की? / The Rashtrakutas overthrew which famous Chalukya ruler to gain power?",
     "options": {
-      "A": "Article 19",
-      "B": "Article 21",
-      "C": "Article 32",
-      "D": "Article 14"
+      "A": "किरति वर्मन द्वितीय (Kirtivarman II)",
+      "B": "विक्रमादित्य प्रथम (Vikramaditya I)",
+      "C": "पुलकेशिन द्वितीय (Pulakesin II)",
+      "D": "विक्रमादित्य द्वितीय (Vikramaditya II)"
     },
-    "answer": "C"
+    "answer": ["A"],
+    "explanation": "दन्तिदुर्ग (राष्ट्रकूट शासक) ने चालुक्य शासक ‘किरति वर्मन द्वितीय’ को पराजित कर राष्ट्रकूट सत्ता स्थापित की।"
   },
   {
     "id": 4,
-    "question": "Right to Equality is ensured under which Articles of the Indian Constitution? / समानता का अधिकार भारतीय संविधान के किन अनुच्छेदों में सुनिश्चित किया गया है?",
+    "question": "एलीफैंटा गुफाओं का निर्माण किसने करवाया? / Who is credited with the construction of the Elephanta Caves?",
     "options": {
-      "A": "Articles 14 to 18 / अनुच्छेद 14 से 18",
-      "B": "Articles 19 to 22 / अनुच्छेद 19 से 22",
-      "C": "Articles 23 to 24 / अनुच्छेद 23 से 24",
-      "D": "Articles 25 to 28 / अनुच्छेद 25 से 28"
+      "A": "गुप्त शासक",
+      "B": "राष्ट्रकूट शासक",
+      "C": "पल्लव शासक",
+      "D": "सातवाहन शासक"
     },
-    "answer": "A"
+    "answer": ["B"],
+    "explanation": "एलीफैंटा (घारापुरी) गुफाओं का निर्माण मुख्यतः राष्ट्रकूटों द्वारा करवाया गया माना जाता है।"
   },
   {
     "id": 5,
-    "question": "Which of the following is not a Fundamental Right? / निम्नलिखित में से कौन एक मौलिक अधिकार नहीं है?",
+    "question": "कौन-सा राष्ट्रकूट शासक अपने समय में 'दक्षिण का सम्राट' कहा जाता था? / Which Rashtrakuta ruler was called 'Emperor of the South' in his time?",
     "options": {
-      "A": "Right to Freedom / स्वतंत्रता का अधिकार",
-      "B": "Right to Property / संपत्ति का अधिकार",
-      "C": "Right to Equality / समानता का अधिकार",
-      "D": "Cultural and Educational Rights / सांस्कृतिक और शैक्षिक अधिकार"
+      "A": "अमोघवर्ष प्रथम",
+      "B": "गोविंद तृतीय",
+      "C": "दन्तिदुर्ग",
+      "D": "कृष्ण प्रथम"
     },
-    "answer": "B"
+    "answer": ["B"],
+    "explanation": "गोविंद तृतीय ने उत्तर भारत तक अपना साम्राज्य फैलाया और उन्हें 'दक्षिण का सम्राट' कहा गया।"
   },
   {
     "id": 6,
-    "question": "Which Fundamental Right is guaranteed only to citizens and not to foreigners? / कौन-सा मौलिक अधिकार केवल नागरिकों को प्राप्त है, विदेशियों को नहीं?",
+    "question": "एलोरा का कैलाशनाथ मंदिर किसने बनवाया? / Who built the Kailasanatha Temple at Ellora?",
     "options": {
-      "A": "Right to Equality before Law / कानून के समक्ष समानता का अधिकार",
-      "B": "Right against Exploitation / शोषण के विरुद्ध अधिकार",
-      "C": "Right to Freedom of Speech / वाक स्वतंत्रता का अधिकार",
-      "D": "Right to Protection of Life / जीवन की सुरक्षा का अधिकार"
+      "A": "गोविंद तृतीय",
+      "B": "दन्तिदुर्ग",
+      "C": "कृष्ण प्रथम",
+      "D": "अमोघवर्ष प्रथम"
     },
-    "answer": "C"
+    "answer": ["C"],
+    "explanation": "एलोरा का प्रसिद्ध कैलाशनाथ मंदिर राष्ट्रकूट शासक कृष्ण प्रथम ने बनवाया था।"
   },
   {
     "id": 7,
-    "question": "Which Article of the Constitution abolishes Untouchability? / संविधान का कौन-सा अनुच्छेद अस्पृश्यता को समाप्त करता है?",
+    "question": "‘त्रैलोक्यमल्ल’ की उपाधि किसे प्राप्त थी? / Who held the title ‘Trailokyamalla’?",
     "options": {
-      "A": "Article 15",
-      "B": "Article 16",
-      "C": "Article 17",
-      "D": "Article 18"
+      "A": "अमोघवर्ष प्रथम",
+      "B": "इंद्र तृतीय",
+      "C": "दन्तिदुर्ग",
+      "D": "कृष्ण द्वितीय"
     },
-    "answer": "C"
+    "answer": ["B"],
+    "explanation": "इंद्र तृतीय ने परमार शासक महिपाल को हराकर ‘त्रैलोक्यमल्ल’ की उपाधि धारण की।"
   },
   {
     "id": 8,
-    "question": "Right to Education was added to the Constitution through which Amendment? / शिक्षा का अधिकार संविधान में किस संशोधन के माध्यम से जोड़ा गया?",
+    "question": "राष्ट्रकूटों की धार्मिक नीति के संबंध में कौन-सा कथन सही है? / Which statement about Rashtrakuta religious policy is correct?",
     "options": {
-      "A": "42nd Amendment / 42वां संशोधन",
-      "B": "44th Amendment / 44वां संशोधन",
-      "C": "86th Amendment / 86वां संशोधन",
-      "D": "93rd Amendment / 93वां संशोधन"
+      "A": "उन्होंने केवल शैव मत को संरक्षण दिया",
+      "B": "उन्होंने बौद्ध और जैन धर्म को भी संरक्षण दिया",
+      "C": "उनकी नीति असहिष्णु थी",
+      "D": "उनका झुकाव केवल वैष्णव मत की ओर था"
     },
-    "answer": "C"
+    "answer": ["B"],
+    "explanation": "राष्ट्रकूट शासक धार्मिक सहिष्णु थे और शैव, वैष्णव, जैन तथा बौद्ध सभी को संरक्षण दिया।"
   },
   {
     "id": 9,
-    "question": "Under which Article is Freedom of Religion guaranteed? / धर्म की स्वतंत्रता किस अनुच्छेद के अंतर्गत सुनिश्चित की गई है?",
+    "question": "राष्ट्रकूटों के प्रमुख विरोधी कौन-से राजवंश थे? / Which dynasties were the main rivals of the Rashtrakutas?",
     "options": {
-      "A": "Article 19",
-      "B": "Article 20",
-      "C": "Article 25",
-      "D": "Article 23"
+      "A": "गुर्जर-प्रतिहार",
+      "B": "पाल वंश",
+      "C": "चालुक्य",
+      "D": "पल्लव"
     },
-    "answer": "C"
+    "answer": ["A", "B"],
+    "explanation": "राष्ट्रकूटों का त्रिपक्षीय संघर्ष गुर्जर-प्रतिहारों और पालों के साथ उत्तरी भारत में प्रसिद्ध है।"
   },
   {
     "id": 10,
-    "question": "Which Article protects against arrest and detention in certain cases? / कौन-सा अनुच्छेद कुछ मामलों में गिरफ्तारी और नजरबंदी से सुरक्षा देता है?",
+    "question": "कवि पम्प राष्ट्रकूट दरबार से किस भाषा में जुड़े थे? / In which language did poet Pampa, associated with the Rashtrakuta court, write?",
     "options": {
-      "A": "Article 20",
-      "B": "Article 21",
-      "C": "Article 22",
-      "D": "Article 18"
+      "A": "संस्कृत",
+      "B": "कन्नड़",
+      "C": "प्राकृत",
+      "D": "तेलुगु"
     },
-    "answer": "C"
+    "answer": ["B"],
+    "explanation": "पम्प कन्नड़ साहित्य के प्रसिद्ध कवि थे और राष्ट्रकूट दरबार से जुड़े थे।"
   },
   {
     "id": 11,
-    "question": "Which of the following Articles ensures abolition of titles? / निम्नलिखित में से कौन-सा अनुच्छेद उपाधियों के उन्मूलन को सुनिश्चित करता है?",
+    "question": "‘त्रिपक्षीय संघर्ष’ (Tripartite Struggle) में राष्ट्रकूटों ने किन-किन शक्तियों से मुकाबला किया? / In the ‘Tripartite Struggle’, which powers did the Rashtrakutas fight against?",
     "options": {
-      "A": "Article 14",
-      "B": "Article 17",
-      "C": "Article 18",
-      "D": "Article 21"
+      "A": "गुर्जर-प्रतिहार (Gurjara-Pratiharas)",
+      "B": "पाल वंश (Palas)",
+      "C": "पल्लव (Pallavas)",
+      "D": "चोल (Cholas)"
     },
-    "answer": "C"
+    "answer": ["A", "B"],
+    "explanation": "त्रिपक्षीय संघर्ष राष्ट्रकूट, गुर्जर-प्रतिहार और पाल वंश के बीच कन्नौज पर आधिपत्य को लेकर हुआ।"
   },
   {
     "id": 12,
-    "question": "Which Fundamental Right prohibits traffic in human beings and forced labour? / कौन-सा मौलिक अधिकार मानव तस्करी और जबरन श्रम पर रोक लगाता है?",
+    "question": "कौन-सा राष्ट्रकूट शासक 'अतिशय धर्मनिष्ठ' के रूप में प्रसिद्ध है? / Which Rashtrakuta ruler is famous as being 'extremely religious'?",
     "options": {
-      "A": "Article 21",
-      "B": "Article 23",
-      "C": "Article 24",
-      "D": "Article 25"
+      "A": "गोविंद III",
+      "B": "अमोघवर्ष I",
+      "C": "दन्तिदुर्ग",
+      "D": "कृष्ण I"
     },
-    "answer": "B"
+    "answer": ["B"],
+    "explanation": "अमोघवर्ष I ने युद्ध से अधिक धर्म और साहित्य को महत्व दिया और उन्हें 'अतिशय धर्मनिष्ठ' कहा गया।"
   },
   {
     "id": 13,
-    "question": "Under which Article are minorities given the right to establish and administer educational institutions? / अल्पसंख्यकों को शैक्षिक संस्थानों की स्थापना और प्रबंधन का अधिकार किस अनुच्छेद के अंतर्गत दिया गया है?",
+    "question": "राष्ट्रकूट शासक अमोघवर्ष I ने किस धर्म का विशेष संरक्षण किया? / Which religion was particularly patronized by Amoghavarsha I?",
     "options": {
-      "A": "Article 29",
-      "B": "Article 30",
-      "C": "Article 31",
-      "D": "Article 32"
+      "A": "जैन धर्म (Jainism)",
+      "B": "बौद्ध धर्म (Buddhism)",
+      "C": "शैव धर्म (Shaivism)",
+      "D": "वैष्णव धर्म (Vaishnavism)"
     },
-    "answer": "B"
+    "answer": ["A"],
+    "explanation": "अमोघवर्ष I जैन धर्म से गहराई से प्रभावित थे और उन्होंने जैन धर्माचार्यों का संरक्षण किया।"
   },
   {
     "id": 14,
-    "question": "Which case is related to the implementation of Mid-Day Meal Scheme under Article 21? / मध्याह्न भोजन योजना को अनुच्छेद 21 के तहत लागू करने से संबंधित मामला कौन-सा है?",
+    "question": "एलोरा स्थित कैलाशनाथ मंदिर किस वास्तुशैली का उदाहरण है? / The Kailasanatha temple at Ellora is an example of which architectural style?",
     "options": {
-      "A": "M.C. Mehta v. Union of India",
-      "B": "Unnikrishnan v. State of A.P.",
-      "C": "People’s Union for Civil Liberties (PUCL) v. Union of India",
-      "D": "Vishaka v. State of Rajasthan"
+      "A": "द्रविड़ शैली (Dravidian Style)",
+      "B": "नागर शैली (Nagara Style)",
+      "C": "वेसर शैली (Vesara Style)",
+      "D": "गंधार शैली (Gandhara Style)"
     },
-    "answer": "C"
+    "answer": ["A", "C"],
+    "explanation": "कैलाशनाथ मंदिर में द्रविड़ एवं वेसर शैली का मिश्रण मिलता है।"
   },
   {
     "id": 15,
-    "question": "Which Article guarantees Freedom of Speech and Expression? / कौन-सा अनुच्छेद वाक और अभिव्यक्ति की स्वतंत्रता की गारंटी देता है?",
+    "question": "कौन-सा राष्ट्रकूट शासक ‘कविराजमार्ग’ से जुड़ा है? / Which Rashtrakuta ruler is associated with ‘Kavirajamarga’?",
     "options": {
-      "A": "Article 14",
-      "B": "Article 19",
-      "C": "Article 21",
-      "D": "Article 22"
+      "A": "गोविंद III",
+      "B": "अमोघवर्ष I",
+      "C": "कृष्ण I",
+      "D": "दन्तिदुर्ग"
     },
-    "answer": "B"
+    "answer": ["B"],
+    "explanation": "‘कविराजमार्ग’ अमोघवर्ष I से संबंधित है और यह कन्नड़ साहित्य की प्राचीनतम कृति है।"
   },
   {
     "id": 16,
-    "question": "Which Fundamental Right is violated when a person is not presented before a magistrate within 24 hours of arrest? / जब किसी व्यक्ति को गिरफ्तारी के 24 घंटे के भीतर मजिस्ट्रेट के सामने पेश नहीं किया जाता है, तब कौन-सा मौलिक अधिकार उल्लंघन होता है?",
+    "question": "किस राष्ट्रकूट शासक ने ‘त्रैलोक्यमल्ल’ उपाधि धारण की? / Which Rashtrakuta ruler assumed the title ‘Trailokyamalla’?",
     "options": {
-      "A": "Article 20",
-      "B": "Article 21",
-      "C": "Article 22",
-      "D": "Article 14"
+      "A": "अमोघवर्ष I",
+      "B": "इंद्र III",
+      "C": "कृष्ण II",
+      "D": "गोविंद IV"
     },
-    "answer": "C"
+    "answer": ["B"],
+    "explanation": "इंद्र III ने परमार शासक को हराकर ‘त्रैलोक्यमल्ल’ की उपाधि धारण की।"
   },
   {
     "id": 17,
-    "question": "Which Fundamental Right is related to environmental protection? / पर्यावरण संरक्षण से संबंधित मौलिक अधिकार कौन-सा है?",
+    "question": "राष्ट्रकूटों ने उत्तरी भारत में किस स्थान पर अपनी शक्ति केंद्रित की थी? / Where did the Rashtrakutas focus their power in Northern India?",
     "options": {
-      "A": "Article 14",
-      "B": "Article 19",
-      "C": "Article 21",
-      "D": "Article 23"
+      "A": "कन्नौज (Kannauj)",
+      "B": "काशी (Kashi)",
+      "C": "अयोध्या (Ayodhya)",
+      "D": "गया (Gaya)"
     },
-    "answer": "C"
+    "answer": ["A"],
+    "explanation": "त्रिपक्षीय संघर्ष का मुख्य केंद्र कन्नौज था, जिस पर राष्ट्रकूटों ने अपनी शक्ति केंद्रित की।"
   },
   {
     "id": 18,
-    "question": "Which Article deals with the protection of interest of minorities? / अल्पसंख्यकों के हितों की सुरक्षा से संबंधित अनुच्छेद कौन-सा है?",
+    "question": "अमोघवर्ष I के समय कौन-सा जैन विद्वान प्रमुख था? / Which Jain scholar was prominent during the reign of Amoghavarsha I?",
     "options": {
-      "A": "Article 14",
-      "B": "Article 29",
-      "C": "Article 30",
-      "D": "Article 32"
+      "A": "जिनसेन (Jinasena)",
+      "B": "भद्रबाहु (Bhadrabahu)",
+      "C": "समन्तभद्र (Samantabhadra)",
+      "D": "उमास्वाति (Umaswati)"
     },
-    "answer": "B"
+    "answer": ["A"],
+    "explanation": "अमोघवर्ष I के दरबार में जैन विद्वान जिनसेन प्रमुख थे।"
   },
   {
     "id": 19,
-    "question": "Which Article provides free legal aid to the poor? / गरीबों को निःशुल्क कानूनी सहायता देने वाला अनुच्छेद कौन-सा है?",
+    "question": "कृष्ण I की सर्वाधिक प्रसिद्ध उपलब्धि कौन-सी है? / What is the most famous achievement of Krishna I?",
     "options": {
-      "A": "Article 21",
-      "B": "Article 39A",
-      "C": "Article 32",
-      "D": "Article 19"
+      "A": "गोदावरी पर नियंत्रण",
+      "B": "कैलाशनाथ मंदिर निर्माण",
+      "C": "त्रिपक्षीय संघर्ष में विजय",
+      "D": "गुर्जर-प्रतिहारों की पराजय"
     },
-    "answer": "B"
+    "answer": ["B"],
+    "explanation": "कृष्ण I की सर्वाधिक प्रसिद्ध उपलब्धि एलोरा स्थित कैलाशनाथ मंदिर का निर्माण है।"
   },
   {
     "id": 20,
-    "question": "Under which Article are citizens protected from conviction for ex-post-facto laws? / किस अनुच्छेद के तहत नागरिकों को पूर्वव्यापी दंडात्मक कानूनों से सुरक्षा प्राप्त है?",
+    "question": "राष्ट्रकूट काल में प्रमुख मुद्रा क्या थी? / What was the chief coin during Rashtrakuta period?",
     "options": {
-      "A": "Article 19",
-      "B": "Article 20",
-      "C": "Article 22",
-      "D": "Article 23"
+      "A": "द्रम्म (Dramma)",
+      "B": "दिनार (Dinar)",
+      "C": "कर्षापण (Karshapana)",
+      "D": "तम्रपत्र (Tamrapatra)"
     },
-    "answer": "B"
+    "answer": ["A"],
+    "explanation": "राष्ट्रकूट काल की प्रमुख मुद्रा 'द्रम्म' कहलाती थी।"
+  },
+  {
+    "id": 21,
+    "question": "किस राष्ट्रकूट शासक ने पाल शासक देवपाल को पराजित किया था? / Which Rashtrakuta ruler defeated Pala ruler Devapala?",
+    "options": {
+      "A": "गोविंद III",
+      "B": "इंद्र III",
+      "C": "दन्तिदुर्ग",
+      "D": "कृष्ण II"
+    },
+    "answer": ["A"],
+    "explanation": "गोविंद III ने पाल शासक देवपाल को पराजित किया और उत्तर भारत तक अपना प्रभाव बढ़ाया।"
+  },
+  {
+    "id": 22,
+    "question": "अमोघवर्ष I को किस उपाधि से सम्मानित किया जाता है? / By which title was Amoghavarsha I honored?",
+    "options": {
+      "A": "अतिशय धर्मनिष्ठ",
+      "B": "कविराज",
+      "C": "त्रैलोक्यमल्ल",
+      "D": "गुरु"
+    },
+    "answer": ["A", "B"],
+    "explanation": "अमोघवर्ष I को ‘अतिशय धर्मनिष्ठ’ और ‘कविराज’ दोनों कहा गया।"
+  },
+  {
+    "id": 23,
+    "question": "राष्ट्रकूट शासकों ने मुख्यतः किस भाषा के साहित्य को संरक्षण दिया? / Which language’s literature was mainly patronized by Rashtrakuta rulers?",
+    "options": {
+      "A": "संस्कृत",
+      "B": "कन्नड़",
+      "C": "प्राकृत",
+      "D": "पंजाबी"
+    },
+    "answer": ["A", "B"],
+    "explanation": "राष्ट्रकूटों ने संस्कृत और कन्नड़ दोनों साहित्य का संरक्षण किया।"
+  },
+  {
+    "id": 24,
+    "question": "राष्ट्रकूटों के पतन का प्रमुख कारण क्या था? / What was the main reason for the decline of Rashtrakutas?",
+    "options": {
+      "A": "चोलों का उदय",
+      "B": "गुर्जर-प्रतिहारों का पुनरुत्थान",
+      "C": "अत्यधिक विस्तार और आंतरिक विद्रोह",
+      "D": "विदेशी आक्रमण"
+    },
+    "answer": ["A", "C"],
+    "explanation": "राष्ट्रकूटों का पतन चोलों के उदय और आंतरिक विद्रोह के कारण हुआ।"
+  },
+  {
+    "id": 25,
+    "question": "राष्ट्रकूट शासक दन्तिदुर्ग ने किसे पराजित कर अपनी सत्ता स्थापित की? / Whom did Dantidurga defeat to establish Rashtrakuta power?",
+    "options": {
+      "A": "पल्लव",
+      "B": "चालुक्य",
+      "C": "गुर्जर-प्रतिहार",
+      "D": "चोल"
+    },
+    "answer": ["B"],
+    "explanation": "दन्तिदुर्ग ने चालुक्य शासक को हराकर राष्ट्रकूट सत्ता स्थापित की।"
+  },
+  {
+    "id": 26,
+    "question": "कविराजमार्ग किस भाषा में रचित है? / In which language was Kavirajamarga composed?",
+    "options": {
+      "A": "संस्कृत",
+      "B": "कन्नड़",
+      "C": "प्राकृत",
+      "D": "पाली"
+    },
+    "answer": ["B"],
+    "explanation": "‘कविराजमार्ग’ कन्नड़ भाषा में रचित साहित्य है।"
+  },
+  {
+    "id": 27,
+    "question": "राष्ट्रकूट शासकों ने किस बंदरगाह पर नियंत्रण रखा था? / Which port was controlled by the Rashtrakutas?",
+    "options": {
+      "A": "सोपर (Sopara)",
+      "B": "कैलीन (Kalyan)",
+      "C": "भृगुकच्छ (Bharuch)",
+      "D": "ताम्रलिप्ति (Tamralipti)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "राष्ट्रकूटों ने सोपर और कैलीन बंदरगाहों पर नियंत्रण रखा।"
+  },
+  {
+    "id": 28,
+    "question": "राष्ट्रकूट काल में व्यापार का प्रमुख साधन क्या था? / What was the main mode of trade during Rashtrakuta period?",
+    "options": {
+      "A": "जमीन मार्ग (Land route)",
+      "B": "समुद्री मार्ग (Sea route)",
+      "C": "हवा मार्ग (Air route)",
+      "D": "नदी मार्ग (River route)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "राष्ट्रकूट काल में भूमि और समुद्री मार्ग से व्यापार होता था।"
+  },
+  {
+    "id": 29,
+    "question": "राष्ट्रकूटों के अधीन कौन-से विद्वान प्रसिद्ध थे? / Which scholars were famous under the Rashtrakutas?",
+    "options": {
+      "A": "पम्प",
+      "B": "पोन्न",
+      "C": "रन्न",
+      "D": "भास"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "पम्प, पोन्न और रन्न कन्नड़ के तीन प्रसिद्ध कवि थे जिन्हें राष्ट्रकूटों का संरक्षण प्राप्त था।"
+  },
+  {
+    "id": 30,
+    "question": "राष्ट्रकूट काल में धार्मिक सहिष्णुता का प्रमाण कौन-सा है? / Which is evidence of religious tolerance during Rashtrakuta period?",
+    "options": {
+      "A": "एलीफैंटा गुफाएँ",
+      "B": "एलोरा गुफाएँ",
+      "C": "कैलाशनाथ मंदिर",
+      "D": "सांची स्तूप"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "राष्ट्रकूट काल में एलोरा और एलीफैंटा गुफाएँ तथा कैलाशनाथ मंदिर धार्मिक सहिष्णुता के उदाहरण हैं।"
+  },
+  {
+    "id": 31,
+    "question": "गोविंद III की विजय यात्राएँ किन-किन क्षेत्रों में हुईं? / Govinda III carried out his military campaigns in which regions?",
+    "options": {
+      "A": "उत्तर भारत",
+      "B": "दक्षिण भारत",
+      "C": "गुर्जर-प्रतिहार क्षेत्र",
+      "D": "कश्मीर"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "गोविंद III ने उत्तर भारत, दक्षिण भारत और गुर्जर-प्रतिहार क्षेत्र तक विजय यात्राएँ कीं।"
+  },
+  {
+    "id": 32,
+    "question": "कौन-सा राष्ट्रकूट शासक शांति नीति अपनाने के लिए जाना जाता है? / Which Rashtrakuta ruler is known for adopting peace policy?",
+    "options": {
+      "A": "गोविंद III",
+      "B": "अमोघवर्ष I",
+      "C": "कृष्ण I",
+      "D": "दन्तिदुर्ग"
+    },
+    "answer": ["B"],
+    "explanation": "अमोघवर्ष I युद्ध से बचकर शांति नीति अपनाने के लिए प्रसिद्ध थे।"
+  },
+  {
+    "id": 33,
+    "question": "राष्ट्रकूट शासकों की राजभाषा कौन-सी थी? / What was the official language of Rashtrakuta rulers?",
+    "options": {
+      "A": "कन्नड़",
+      "B": "संस्कृत",
+      "C": "प्राकृत",
+      "D": "पाली"
+    },
+    "answer": ["A", "B"],
+    "explanation": "राष्ट्रकूटों की राजभाषा कन्नड़ और संस्कृत दोनों थीं।"
+  },
+  {
+    "id": 34,
+    "question": "राष्ट्रकूट काल के समय प्रमुख विदेशी व्यापार किस वस्तु का होता था? / During Rashtrakuta period, which commodity was the main item of foreign trade?",
+    "options": {
+      "A": "घोड़े (Horses)",
+      "B": "काली मिर्च (Black Pepper)",
+      "C": "कपास (Cotton)",
+      "D": "सोना (Gold)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "राष्ट्रकूट काल में घोड़े, काली मिर्च और कपास का विदेशी व्यापार होता था।"
+  },
+  {
+    "id": 35,
+    "question": "एलोरा के शिलालेखों में किस राष्ट्रकूट शासक का उल्लेख मिलता है? / Which Rashtrakuta ruler is mentioned in Ellora inscriptions?",
+    "options": {
+      "A": "कृष्ण I",
+      "B": "गोविंद III",
+      "C": "अमोघवर्ष I",
+      "D": "इंद्र III"
+    },
+    "answer": ["A"],
+    "explanation": "एलोरा के शिलालेखों में कृष्ण I का उल्लेख मिलता है जिन्होंने कैलाशनाथ मंदिर बनवाया।"
+  },
+  {
+    "id": 36,
+    "question": "‘गाथा सप्तशती’ किस भाषा में रचित है और इसका संबंध किससे है? / In which language was 'Gatha Saptashati' composed and with whom is it associated?",
+    "options": {
+      "A": "संस्कृत – अमोघवर्ष I",
+      "B": "प्राकृत – अमोघवर्ष I",
+      "C": "प्राकृत – दन्तिदुर्ग",
+      "D": "कन्नड़ – कृष्ण I"
+    },
+    "answer": ["B"],
+    "explanation": "‘गाथा सप्तशती’ प्राकृत भाषा में अमोघवर्ष I से संबंधित है।"
+  },
+  {
+    "id": 37,
+    "question": "राष्ट्रकूटों की सैन्य शक्ति का आधार क्या था? / What was the basis of Rashtrakuta military strength?",
+    "options": {
+      "A": "अश्वारोही सेना (Cavalry)",
+      "B": "नौसेना (Navy)",
+      "C": "पदाति सेना (Infantry)",
+      "D": "हाथी सेना (Elephant army)"
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "राष्ट्रकूट सेना में मुख्यतः अश्वारोही, पदाति और हाथी सेना शामिल थी।"
+  },
+  {
+    "id": 38,
+    "question": "राष्ट्रकूटों ने किन क्षेत्रों पर अपना प्रभाव जमाया था? / Which regions did Rashtrakutas dominate?",
+    "options": {
+      "A": "कर्नाटक",
+      "B": "महाराष्ट्र",
+      "C": "आंध्र",
+      "D": "गुजरात"
+    },
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "राष्ट्रकूटों का प्रभाव कर्नाटक, महाराष्ट्र, आंध्र और गुजरात तक था।"
+  },
+  {
+    "id": 39,
+    "question": "राष्ट्रकूट शासक अमोघवर्ष I ने राजधानी कहाँ स्थापित की थी? / Where did Amoghavarsha I establish the capital?",
+    "options": {
+      "A": "मण्यक्षेटा (Manyakheta)",
+      "B": "कैलासनगर",
+      "C": "देवगिरि",
+      "D": "कांची"
+    },
+    "answer": ["A"],
+    "explanation": "अमोघवर्ष I ने मण्यक्षेटा (मालखेड) को राजधानी बनाया।"
+  },
+  {
+    "id": 40,
+    "question": "राष्ट्रकूटों के समय जैन साहित्य में कौन-सी महत्वपूर्ण कृति लिखी गई? / Which important Jain work was written during Rashtrakuta period?",
+    "options": {
+      "A": "आदिपुराण",
+      "B": "परमपुराण",
+      "C": "महापुराण",
+      "D": "उत्तरपुराण"
+    },
+    "answer": ["A", "C"],
+    "explanation": "राष्ट्रकूट काल में जिनसेन और गुणभद्र द्वारा 'आदिपुराण' और 'महापुराण' लिखी गई।"
   }
 ]
