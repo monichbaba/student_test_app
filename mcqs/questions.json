@@ -1,472 +1,222 @@
 [
   {
     "id": 1,
-    "question": "एत्तुत्तोगै और पत्तुप्पाट्टु में मुख्य अंतर क्या है? / What is the main difference between Ettuthogai and Pattuppaṭṭu?",
+    "question": "Which of the following rights has been declared as a part of Right to Life under Article 21? / निम्नलिखित में से किस अधिकार को अनुच्छेद 21 के तहत जीवन के अधिकार का हिस्सा घोषित किया गया है?",
     "options": {
-      "A": "एत्तुत्तोगै आठ संग्रह हैं, पत्तुप्पाट्टु दस लंबी कविताओं का संग्रह है / Ettuthogai is eight anthologies, Pattuppaṭṭu is ten long poems",
-      "B": "एत्तुत्तोगै केवल पुरम विषयों पर है, पत्तुप्पाट्टु केवल अकम् विषयों पर है / Ettuthogai covers only Puram themes, Pattuppaṭṭu only Akam themes",
-      "C": "एत्तुत्तोगै में मिश्रित कविताएं हैं, पत्तुप्पाट्टु महाकाव्य रूप है / Ettuthogai contains mixed poems, Pattuppaṭṭu is epic in nature",
-      "D": "दोनों संगम साहित्य के भाग हैं लेकिन संग्रहण की विधि अलग है / Both are part of Sangam literature but compiled differently"
+      "A": "Right to education / शिक्षा का अधिकार",
+      "B": "Right to vote / मतदान का अधिकार",
+      "C": "Right to property / संपत्ति का अधिकार",
+      "D": "Right to work / कार्य करने का अधिकार"
     },
-    "answer": ["A", "D"],
-    "explanation": "एत्तुत्तोगै आठ संकलनों का समूह है, जिसमें विभिन्न कवियों की रचनाएं हैं, जबकि पत्तुप्पाट्टु दस लंबे कविताओं का अलग संकलन है। दोनों संगम युग के हैं लेकिन संकलन की पद्धति अलग है।"
+    "answer": "A"
   },
   {
     "id": 2,
-    "question": "अकम और पुरम वर्गीकरण का आधार क्या है? / What is the basis of Akam–Puram classification?",
+    "question": "In which case did the Supreme Court propound the doctrine of 'Basic Structure' of the Constitution? / सुप्रीम कोर्ट ने संविधान की 'मूल संरचना' के सिद्धांत को किस मामले में प्रतिपादित किया था?",
     "options": {
-      "A": "अकम – आंतरिक, निजी भावनाएं / Akam – internal, personal emotions",
-      "B": "पुरम – बाहरी, सार्वजनिक क्रियाएं / Puram – external, public actions",
-      "C": "अकम – युद्ध विषय / Akam – war themes",
-      "D": "पुरम – प्रेम विषय / Puram – love themes"
+      "A": "Golak Nath Case / गोलक नाथ मामला",
+      "B": "Minerva Mills Case / मिनर्वा मिल्स मामला",
+      "C": "Kesavananda Bharati Case / केशवानंद भारती मामला",
+      "D": "A.K. Gopalan Case / ए.के. गोपालन मामला"
     },
-    "answer": ["A", "B"],
-    "explanation": "अकम कविताएं प्रेम और निजी भावनाओं पर केंद्रित होती हैं, जबकि पुरम कविताएं युद्ध, दान और सार्वजनिक कार्यों पर आधारित होती हैं।"
+    "answer": "C"
   },
   {
     "id": 3,
-    "question": "पांच लैंडस्केप (टिनै) में कौन-सा प्रेम के विरह को दर्शाता है? / Which of the five landscapes (Tinai) depicts separation in love?",
+    "question": "Which Article of the Constitution deals with the Right to Constitutional Remedies? / संविधान का कौन-सा अनुच्छेद संवैधानिक उपचारों के अधिकार से संबंधित है?",
     "options": {
-      "A": "कुरिंजी / Kurinji",
-      "B": "नेयथल / Neythal",
-      "C": "मुल्लई / Mullai",
-      "D": "पलई / Palai"
+      "A": "Article 19",
+      "B": "Article 21",
+      "C": "Article 32",
+      "D": "Article 14"
     },
-    "answer": ["B", "D"],
-    "explanation": "नेयथल (तटीय क्षेत्र) और पलई (रेगिस्तान) टिनै विरह और कठिनाइयों को दर्शाते हैं, जबकि कुरिंजी और मुल्लई मिलन और प्रतीक्षा से जुड़े हैं।"
+    "answer": "C"
   },
   {
     "id": 4,
-    "question": "टोल्काप्पियम के लेखक और विषय के बारे में सही कथन चुनें। / Choose the correct statements about the author and subject of Tolkappiyam.",
+    "question": "Right to Equality is ensured under which Articles of the Indian Constitution? / समानता का अधिकार भारतीय संविधान के किन अनुच्छेदों में सुनिश्चित किया गया है?",
     "options": {
-      "A": "लेखक – टोल्काप्पियार / Author – Tolkappiyar",
-      "B": "विषय – व्याकरण और काव्यशास्त्र / Subject – grammar and poetics",
-      "C": "यह संगम काल का सबसे पुराना ग्रंथ है / It is the oldest work of Sangam age",
-      "D": "केवल राजनीतिक इतिहास / Only political history"
+      "A": "Articles 14 to 18 / अनुच्छेद 14 से 18",
+      "B": "Articles 19 to 22 / अनुच्छेद 19 से 22",
+      "C": "Articles 23 to 24 / अनुच्छेद 23 से 24",
+      "D": "Articles 25 to 28 / अनुच्छेद 25 से 28"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "टोल्काप्पियम को टोल्काप्पियार ने लिखा और यह संगम काल का सबसे पुराना ग्रंथ है, जिसमें तमिल व्याकरण और काव्यशास्त्र का वर्णन है।"
+    "answer": "A"
   },
   {
     "id": 5,
-    "question": "पुरनानूरु में किन-किन विषयों का उल्लेख है? / What topics are mentioned in Purananuru?",
+    "question": "Which of the following is not a Fundamental Right? / निम्नलिखित में से कौन एक मौलिक अधिकार नहीं है?",
     "options": {
-      "A": "युद्ध और वीरता / War and heroism",
-      "B": "दान और उदारता / Charity and generosity",
-      "C": "कृषि तकनीक / Agricultural techniques",
-      "D": "राजाओं का वर्णन / Description of kings"
+      "A": "Right to Freedom / स्वतंत्रता का अधिकार",
+      "B": "Right to Property / संपत्ति का अधिकार",
+      "C": "Right to Equality / समानता का अधिकार",
+      "D": "Cultural and Educational Rights / सांस्कृतिक और शैक्षिक अधिकार"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "पुरनानूरु मुख्यतः युद्ध, वीरता, दानशीलता और संगम कालीन राजाओं के वर्णन पर केंद्रित है।"
+    "answer": "B"
   },
   {
     "id": 6,
-    "question": "संगम युग के कौन से बंदरगाह विदेशी व्यापार के लिए प्रसिद्ध थे? / Which Sangam ports were famous for foreign trade?",
+    "question": "Which Fundamental Right is guaranteed only to citizens and not to foreigners? / कौन-सा मौलिक अधिकार केवल नागरिकों को प्राप्त है, विदेशियों को नहीं?",
     "options": {
-      "A": "पुहार (कावेरीपट्टिनम) / Puhar (Kaveripattinam)",
-      "B": "मुजिरिस / Muziris",
-      "C": "ताम्रलिप्ति / Tamralipti",
-      "D": "कन्यकुमारी / Kanyakumari"
+      "A": "Right to Equality before Law / कानून के समक्ष समानता का अधिकार",
+      "B": "Right against Exploitation / शोषण के विरुद्ध अधिकार",
+      "C": "Right to Freedom of Speech / वाक स्वतंत्रता का अधिकार",
+      "D": "Right to Protection of Life / जीवन की सुरक्षा का अधिकार"
     },
-    "answer": ["A", "B"],
-    "explanation": "पुहार और मुजिरिस संगम युग में रोमन और अन्य देशों के साथ समुद्री व्यापार के महत्वपूर्ण केंद्र थे।"
+    "answer": "C"
   },
   {
     "id": 7,
-    "question": "संगम साहित्य में पंच टिनै का प्राकृतिक परिदृश्य से क्या संबंध है? / How are the five Tinai related to natural landscapes?",
+    "question": "Which Article of the Constitution abolishes Untouchability? / संविधान का कौन-सा अनुच्छेद अस्पृश्यता को समाप्त करता है?",
     "options": {
-      "A": "कुरिंजी – पहाड़ी क्षेत्र / Kurinji – mountainous region",
-      "B": "मुल्लई – वन क्षेत्र / Mullai – forest region",
-      "C": "नेयथल – तटीय क्षेत्र / Neythal – coastal region",
-      "D": "मारुतम – कृषि भूमि / Marutam – agricultural land"
+      "A": "Article 15",
+      "B": "Article 16",
+      "C": "Article 17",
+      "D": "Article 18"
     },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "पांच टिनै – कुरिंजी, मुल्लई, नेयथल, मारुतम और पलई – प्राकृतिक परिदृश्यों और उनके अनुरूप मानव जीवन के भावनात्मक पक्षों का प्रतिनिधित्व करते हैं।"
+    "answer": "C"
   },
   {
     "id": 8,
-    "question": "पत्तुप्पाट्टु में किस प्रकार की कविताएं हैं? / What type of poems are in Pattuppaṭṭu?",
+    "question": "Right to Education was added to the Constitution through which Amendment? / शिक्षा का अधिकार संविधान में किस संशोधन के माध्यम से जोड़ा गया?",
     "options": {
-      "A": "लंबी एकल कविताएं / Long individual poems",
-      "B": "छोटी मिश्रित कविताएं / Short mixed poems",
-      "C": "राजाओं की प्रशंसा / Praise of kings",
-      "D": "केवल प्रेम गीत / Only love songs"
+      "A": "42nd Amendment / 42वां संशोधन",
+      "B": "44th Amendment / 44वां संशोधन",
+      "C": "86th Amendment / 86वां संशोधन",
+      "D": "93rd Amendment / 93वां संशोधन"
     },
-    "answer": ["A", "C"],
-    "explanation": "पत्तुप्पाट्टु में दस लंबी कविताएं हैं, जिनमें कई कविताएं राजाओं की प्रशंसा में लिखी गई हैं।"
+    "answer": "C"
   },
   {
     "id": 9,
-    "question": "एत्तुत्तोगै में कौन से संग्रह शामिल हैं? / Which anthologies are included in Ettuthogai?",
+    "question": "Under which Article is Freedom of Religion guaranteed? / धर्म की स्वतंत्रता किस अनुच्छेद के अंतर्गत सुनिश्चित की गई है?",
     "options": {
-      "A": "आहनानुरु / Ahananuru",
-      "B": "पुरनानूरु / Purananuru",
-      "C": "नाट्रिनै / Natrinai",
-      "D": "पत्तिनाप्पालै / Pattinappalai"
+      "A": "Article 19",
+      "B": "Article 20",
+      "C": "Article 25",
+      "D": "Article 23"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "एत्तुत्तोगै आठ संग्रहों का समूह है, जिसमें आहनानुरु, पुरनानूरु, नाट्रिनै आदि शामिल हैं; पत्तिनाप्पालै पत्तुप्पाट्टु का हिस्सा है।"
+    "answer": "C"
   },
   {
     "id": 10,
-    "question": "संगम साहित्य में चेर, चोल और पांड्य राजाओं की भूमिका क्या थी? / What was the role of Chera, Chola, and Pandya kings in Sangam literature?",
+    "question": "Which Article protects against arrest and detention in certain cases? / कौन-सा अनुच्छेद कुछ मामलों में गिरफ्तारी और नजरबंदी से सुरक्षा देता है?",
     "options": {
-      "A": "कवियों को संरक्षण देना / Patronizing poets",
-      "B": "कविताएं स्वयं लिखना / Writing poems themselves",
-      "C": "विदेशी व्यापार को बढ़ावा देना / Promoting foreign trade",
-      "D": "मंदिर निर्माण में भाग लेना / Participating in temple building"
+      "A": "Article 20",
+      "B": "Article 21",
+      "C": "Article 22",
+      "D": "Article 18"
     },
-    "answer": ["A", "C"],
-    "explanation": "संगम साहित्य में चेर, चोल और पांड्य शासकों ने कवियों को संरक्षण दिया और समुद्री व्यापार को प्रोत्साहन दिया।"
+    "answer": "C"
   },
   {
     "id": 11,
-    "question": "अकम्पुरम वर्गीकरण में ‘विहार’ और ‘युद्ध’ का संबंध किस श्रेणी से है? / In the Akam–Puram classification, which category relates to ‘warfare’ and ‘public life’?",
+    "question": "Which of the following Articles ensures abolition of titles? / निम्नलिखित में से कौन-सा अनुच्छेद उपाधियों के उन्मूलन को सुनिश्चित करता है?",
     "options": {
-      "A": "Akam",
-      "B": "Puram",
-      "C": "Both Akam and Puram",
-      "D": "Neither"
+      "A": "Article 14",
+      "B": "Article 17",
+      "C": "Article 18",
+      "D": "Article 21"
     },
-    "answer": ["B"],
-    "explanation": "Akam deals with love and personal life, while Puram focuses on warfare, valor, and public events."
+    "answer": "C"
   },
   {
     "id": 12,
-    "question": "संगम साहित्य में ‘पैरी’ और ‘करिकाल चोल’ के उल्लेख किस विशेषता से जुड़े हैं? / Mentions of 'Pāri' and 'Karikala Chola' in Sangam literature are related to which feature?",
+    "question": "Which Fundamental Right prohibits traffic in human beings and forced labour? / कौन-सा मौलिक अधिकार मानव तस्करी और जबरन श्रम पर रोक लगाता है?",
     "options": {
-      "A": "Generosity of kings",
-      "B": "Architectural achievements",
-      "C": "Naval warfare",
-      "D": "Foreign trade"
+      "A": "Article 21",
+      "B": "Article 23",
+      "C": "Article 24",
+      "D": "Article 25"
     },
-    "answer": ["A", "B"],
-    "explanation": "Pāri is remembered for generosity to poets, while Karikala Chola is credited with engineering feats like the Kallanai dam."
+    "answer": "B"
   },
   {
     "id": 13,
-    "question": "‘मुडल थिनै’ (Mudal Tinai) किस प्रकार का वर्गीकरण है? / ‘Mudal Tinai’ refers to what type of classification?",
+    "question": "Under which Article are minorities given the right to establish and administer educational institutions? / अल्पसंख्यकों को शैक्षिक संस्थानों की स्थापना और प्रबंधन का अधिकार किस अनुच्छेद के अंतर्गत दिया गया है?",
     "options": {
-      "A": "General landscape themes not specific to any Tinai",
-      "B": "Seasonal variations of Tinai",
-      "C": "Special military zones",
-      "D": "Sacred temple sites"
+      "A": "Article 29",
+      "B": "Article 30",
+      "C": "Article 31",
+      "D": "Article 32"
     },
-    "answer": ["A"],
-    "explanation": "Mudal Tinai covers generic themes before classifying into the five specific Tinai landscapes."
+    "answer": "B"
   },
   {
     "id": 14,
-    "question": "‘एट्टुत्तोकै’ (Ettuthogai) और ‘पट्टुप्पाट्टू’ (Pattuppāṭṭu) में कौन सा कथन सही है? / Which statement is correct about ‘Ettuthogai’ and ‘Pattuppāṭṭu’?",
+    "question": "Which case is related to the implementation of Mid-Day Meal Scheme under Article 21? / मध्याह्न भोजन योजना को अनुच्छेद 21 के तहत लागू करने से संबंधित मामला कौन-सा है?",
     "options": {
-      "A": "Ettuthogai = Eight anthologies; Pattuppaṭṭu = Ten Idylls",
-      "B": "Both belong to post-Sangam period",
-      "C": "Pattuppaṭṭu has more emphasis on individual long poems",
-      "D": "Ettuthogai focuses entirely on Akam poetry"
+      "A": "M.C. Mehta v. Union of India",
+      "B": "Unnikrishnan v. State of A.P.",
+      "C": "People’s Union for Civil Liberties (PUCL) v. Union of India",
+      "D": "Vishaka v. State of Rajasthan"
     },
-    "answer": ["A", "C"],
-    "explanation": "Ettuthogai consists of 8 anthologies of varied themes; Pattuppaṭṭu has 10 long poems, often focusing on royal praise and landscapes."
+    "answer": "C"
   },
   {
     "id": 15,
-    "question": "पुरनानूरु में किस प्रकार की सामग्री मिलती है? / What type of content is found in Purananuru?",
+    "question": "Which Article guarantees Freedom of Speech and Expression? / कौन-सा अनुच्छेद वाक और अभिव्यक्ति की स्वतंत्रता की गारंटी देता है?",
     "options": {
-      "A": "Love poems",
-      "B": "War and heroism",
-      "C": "Kings’ generosity",
-      "D": "Agricultural manuals"
+      "A": "Article 14",
+      "B": "Article 19",
+      "C": "Article 21",
+      "D": "Article 22"
     },
-    "answer": ["B", "C"],
-    "explanation": "Purananuru contains Puram poems on war, heroism, and generosity of kings."
+    "answer": "B"
   },
   {
     "id": 16,
-    "question": "संगम काल के प्रमुख बंदरगाहों का विदेशी व्यापार में उल्लेख किस प्रकार मिलता है? / How are Sangam ports mentioned in context of foreign trade?",
+    "question": "Which Fundamental Right is violated when a person is not presented before a magistrate within 24 hours of arrest? / जब किसी व्यक्ति को गिरफ्तारी के 24 घंटे के भीतर मजिस्ट्रेट के सामने पेश नहीं किया जाता है, तब कौन-सा मौलिक अधिकार उल्लंघन होता है?",
     "options": {
-      "A": "Muziris linked to Roman trade",
-      "B": "Korkai famous for pearl fishing",
-      "C": "Puhar as a Chola port",
-      "D": "Kaveripattinam for Buddhist pilgrimages only"
+      "A": "Article 20",
+      "B": "Article 21",
+      "C": "Article 22",
+      "D": "Article 14"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "Muziris had Indo–Roman trade, Korkai was famous for pearls, and Puhar was a major Chola port."
+    "answer": "C"
   },
   {
     "id": 17,
-    "question": "टोलकाप्पियम में कौन-कौन से विषय शामिल हैं? / Which subjects are included in the Tolkappiyam?",
+    "question": "Which Fundamental Right is related to environmental protection? / पर्यावरण संरक्षण से संबंधित मौलिक अधिकार कौन-सा है?",
     "options": {
-      "A": "Grammar",
-      "B": "Poetics",
-      "C": "Sociology",
-      "D": "Military science"
+      "A": "Article 14",
+      "B": "Article 19",
+      "C": "Article 21",
+      "D": "Article 23"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "Tolkappiyam covers Tamil grammar, poetic conventions, and aspects of social life."
+    "answer": "C"
   },
   {
     "id": 18,
-    "question": "संगम साहित्य में ‘कुरिंजी’ थिनै किससे संबंधित है? / In Sangam literature, 'Kurinji' Tinai is associated with what?",
+    "question": "Which Article deals with the protection of interest of minorities? / अल्पसंख्यकों के हितों की सुरक्षा से संबंधित अनुच्छेद कौन-सा है?",
     "options": {
-      "A": "Mountains and union of lovers",
-      "B": "Deserts and separation",
-      "C": "Seashore and waiting",
-      "D": "Forest warfare"
+      "A": "Article 14",
+      "B": "Article 29",
+      "C": "Article 30",
+      "D": "Article 32"
     },
-    "answer": ["A"],
-    "explanation": "Kurinji landscape depicts mountains and the lovers’ union theme in Akam poetry."
+    "answer": "B"
   },
   {
     "id": 19,
-    "question": "एट्टुत्तोकै में किस प्रकार की कविताएँ अधिक हैं? / What type of poems are more prevalent in Ettuthogai?",
+    "question": "Which Article provides free legal aid to the poor? / गरीबों को निःशुल्क कानूनी सहायता देने वाला अनुच्छेद कौन-सा है?",
     "options": {
-      "A": "Shorter anthologies of various poets",
-      "B": "Single poet compositions",
-      "C": "Religious hymns only",
-      "D": "Only agricultural themes"
+      "A": "Article 21",
+      "B": "Article 39A",
+      "C": "Article 32",
+      "D": "Article 19"
     },
-    "answer": ["A"],
-    "explanation": "Ettuthogai is a compilation of shorter works by multiple poets across varied themes."
+    "answer": "B"
   },
   {
     "id": 20,
-    "question": "पट्टुप्पाट्टू का मुख्य सांस्कृतिक योगदान क्या है? / What is the main cultural contribution of Pattuppaṭṭu?",
+    "question": "Under which Article are citizens protected from conviction for ex-post-facto laws? / किस अनुच्छेद के तहत नागरिकों को पूर्वव्यापी दंडात्मक कानूनों से सुरक्षा प्राप्त है?",
     "options": {
-      "A": "Long narrative poems praising kings and landscapes",
-      "B": "Earliest Tamil grammatical rules",
-      "C": "Compilation of Buddhist chants",
-      "D": "Maritime navigation manuals"
+      "A": "Article 19",
+      "B": "Article 20",
+      "C": "Article 22",
+      "D": "Article 23"
     },
-    "answer": ["A"],
-    "explanation": "Pattuppaṭṭu consists of 10 long narrative poems often glorifying kings and describing natural landscapes."
-  },
-  {
-    "id": 21,
-    "question": "ऐहोल स्तंभलेख (Aihole inscription) किसके समय लिखा गया था और इसका उद्देश्य क्या था? / During whose reign was the Aihole inscription composed and what was its purpose?",
-    "options": {
-      "A": "पल्लव राजाओं के समय / During Pallava rule",
-      "B": "कृष्ण प्रथम चालुक्य के समय / During Krishna I of Chalukyas",
-      "C": "राज्य विस्तार और विजय का उल्लेख / Records of territorial expansion and victories",
-      "D": "धार्मिक अनुष्ठान का विवरण / Details of religious ceremonies"
-    },
-    "answer": ["B", "C"],
-    "explanation": "ऐहोल स्तंभलेख कृष्ण प्रथम चालुक्य के शासनकाल में लिखा गया और इसमें उनके सैन्य विजय और राज्य विस्तार का वर्णन है।"
-  },
-  {
-    "id": 22,
-    "question": "हर्ष और चालुक्य शासक के बीच नर्मदा नदी सीमा संधि का महत्व क्या था? / What was the significance of the Narmada boundary treaty between Harsha and the Chalukya king?",
-    "options": {
-      "A": "राजनीतिक सीमा निर्धारण / Determination of political boundary",
-      "B": "सांस्कृतिक सहयोग को बढ़ावा / Promotion of cultural collaboration",
-      "C": "व्यापार और कर प्रणाली तय करना / Regulation of trade and taxation",
-      "D": "सैन्य गठबंधन का निर्माण / Formation of military alliance"
-    },
-    "answer": ["A"],
-    "explanation": "नर्मदा संधि ने उत्तरी और दक्षिणी साम्राज्यों के बीच स्पष्ट राजनीतिक सीमा तय की, जिससे संघर्ष टला।"
-  },
-  {
-    "id": 23,
-    "question": "चालुक्य शासन के तहत कौन-से वर्तमान यूनेस्को स्थल आते हैं? / Which present-day UNESCO sites were under Chalukya rule?",
-    "options": {
-      "A": "अजंता गुफाएं / Ajanta Caves",
-      "B": "एलोरा गुफाएं / Ellora Caves",
-      "C": "ऐहोल मंदिर समूह / Aihole temple complex",
-      "D": "बादामी गुफा मंदिर / Badami cave temples"
-    },
-    "answer": ["C", "D"],
-    "explanation": "ऐहोल और बादामी के मंदिर समूह चालुक्य शासन के दौरान बनाए गए और आज UNESCO के दृष्टिकोण से महत्वपूर्ण स्थल हैं।"
-  },
-  {
-    "id": 24,
-    "question": "वेसरा शैली (Vesara style) की विशेषताएँ और उदाहरण चुनें। / Select features and examples of Vesara style.",
-    "options": {
-      "A": "संगम शैली और नागर शैली का मिश्रण / Combination of Dravida and Nagara styles",
-      "B": "ऊँचे शिखर और जटिल मूर्तिकला / Tall shikhara and intricate sculpture",
-      "C": "ऐहोल और एलोरा मंदिर / Temples of Aihole and Ellora",
-      "D": "मुख्यतः दक्षिण भारत का ग्रामीण मंदिर / Predominantly rural South Indian temples"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "वेसरा शैली में द्रविड़ और नागर शैली का मिश्रण है, जटिल मूर्तिकला के साथ, ऐहोल और एलोरा इसके प्रमुख उदाहरण हैं।"
-  },
-  {
-    "id": 25,
-    "question": "बादामी और कल्याणी चालुक्य कला में मुख्य अंतर क्या है? / What is the main difference between Badami and Kalyani Chalukya art?",
-    "options": {
-      "A": "बादामी – प्राचीन प्रारंभिक शैली / Badami – Early Chalukya style",
-      "B": "कल्याणी – विकसित शैली, विस्तृत सजावट / Kalyani – Later, elaborate style",
-      "C": "बादामी – केवल शिला मूर्तिकला / Badami – Only stone sculpture",
-      "D": "कल्याणी – केवल मंदिर निर्माण / Kalyani – Only temple construction"
-    },
-    "answer": ["A", "B"],
-    "explanation": "बादामी चालुक्य कला प्रारंभिक शैली दिखाती है, जबकि कल्याणी चालुक्य कला विकसित, विस्तृत सजावट और वास्तु में अधिक जटिलता लिए है।"
-  },
-  {
-    "id": 26,
-    "question": "पूर्वी चालुक्य और चोल साम्राज्य के बीच संबंध किस प्रकार के थे? / What was the nature of relations between Eastern Chalukyas and Cholas?",
-    "options": {
-      "A": "सामरिक गठबंधन / Military alliances",
-      "B": "विवाह संबंध / Marital alliances",
-      "C": "पूरे दक्षिण भारत पर संघर्ष / Conflict over whole South India",
-      "D": "सांस्कृतिक और व्यापारिक आदान-प्रदान / Cultural and trade exchanges"
-    },
-    "answer": ["B", "D"],
-    "explanation": "पूर्वी चालुक्य और चोल साम्राज्य ने विवाह और सांस्कृतिक आदान-प्रदान के माध्यम से मजबूत संबंध बनाए।"
-  },
-  {
-    "id": 27,
-    "question": "रवीकिर्ति (Ravikirti) की प्रमुख कृति कौन-सी है और इसका विषय क्या है? / What is the main work of Ravikirti and its subject?",
-    "options": {
-      "A": "अजयश्री / Ajayashri",
-      "B": "राजा दशरत की प्रशंसा / Praise of king Dasharatha",
-      "C": "काव्यशास्त्र / Poetics",
-      "D": "धार्मिक शास्त्र / Religious texts"
-    },
-    "answer": ["A", "B"],
-    "explanation": "रवीकिर्ति की प्रमुख कृति अजयश्री है, जिसमें उसके शासक की विजय और गुणों का विवरण है।"
-  },
-  {
-    "id": 28,
-    "question": "बिल्हाणा (Bilhana) का साहित्यिक योगदान क्या था? / What was Bilhana’s literary contribution?",
-    "options": {
-      "A": "विक्रमांकदेवचरित / Vikramankadeva Charita",
-      "B": "काव्यशास्त्र / Poetics",
-      "C": "राजा विक्रमादित्य की प्रशंसा / Praise of king Vikramaditya",
-      "D": "धार्मिक अनुष्ठान विवरण / Religious ceremonies description"
-    },
-    "answer": ["A", "C"],
-    "explanation": "बिल्हाणा ने विक्रमांकदेवचरित लिखा, जिसमें राजा विक्रमादित्य की वीरता और गुणों का वर्णन है।"
-  },
-  {
-    "id": 29,
-    "question": "ऐहोल स्तंभलेख के माध्यम से हमें कौन-सी जानकारी मिलती है? / What information is obtained from the Aihole inscription?",
-    "options": {
-      "A": "कृष्ण प्रथम की विजय / Krishna I’s victories",
-      "B": "मंदिर निर्माण का विवरण / Temple construction details",
-      "C": "हर्ष के साथ युद्ध विवरण / War details with Harsha",
-      "D": "आर्थिक और कर विवरण / Economic and taxation details"
-    },
-    "answer": ["A", "B"],
-    "explanation": "ऐहोल स्तंभलेख में कृष्ण प्रथम की सैन्य विजय और मंदिर निर्माण के विवरण मिलते हैं।"
-  },
-  {
-    "id": 30,
-    "question": "वेसरा शैली में प्रमुख स्थापत्य तत्व कौन-से हैं? / What are the key architectural elements of Vesara style?",
-    "options": {
-      "A": "गणेश और विष्णु की मूर्तियां / Sculptures of Ganesha and Vishnu",
-      "B": "गुम्बद जैसी शिखर संरचना / Dome-like shikhara",
-      "C": "शिला और काष्ठ नक्काशी का मिश्रण / Mix of stone and wood carving",
-      "D": "नागर और द्रविड़ शैली का मिश्रण / Combination of Nagara and Dravida styles"
-    },
-    "answer": ["B", "D"],
-    "explanation": "वेसरा शैली में गुम्बद जैसी शिखर संरचना और नागर तथा द्रविड़ शैली का मिश्रण प्रमुख है।"
-  },
-  {
-    "id": 31,
-    "question": "नर्मदा संधि के परिणाम क्या हुए? / What were the results of the Narmada treaty?",
-    "options": {
-      "A": "उत्तर और दक्षिण साम्राज्यों में स्थिर सीमा / Stable boundary between North and South empires",
-      "B": "सामरिक गठबंधन का निर्माण / Formation of military alliance",
-      "C": "हर्ष का दक्षिण में प्रभाव / Influence of Harsha in South",
-      "D": "व्यापारिक अनुबंध / Trade agreements"
-    },
-    "answer": ["A"],
-    "explanation": "नर्मदा संधि ने उत्तरी और दक्षिणी साम्राज्यों के बीच स्थिर राजनीतिक सीमा निर्धारित की।"
-  },
-  {
-    "id": 32,
-    "question": "बादामी और कल्याणी चालुक्य कला में क्या समानताएँ हैं? / What are the similarities between Badami and Kalyani Chalukya art?",
-    "options": {
-      "A": "मूल वेसरा शैली / Core Vesara style",
-      "B": "सजावटी मूर्तिकला / Decorative sculpture",
-      "C": "सिर्फ काष्ठ निर्माण / Only wood construction",
-      "D": "सिर्फ धार्मिक ग्रंथों का चित्रण / Only religious texts depiction"
-    },
-    "answer": ["A", "B"],
-    "explanation": "दोनों शैली वेसरा के तत्वों का पालन करती हैं और सजावटी मूर्तिकला प्रमुख है।"
-  },
-  {
-    "id": 33,
-    "question": "पूर्वी चालुक्य–चोल संबंधों का राजनीतिक महत्व क्या था? / What was the political significance of Eastern Chalukya–Chola relations?",
-    "options": {
-      "A": "दक्षिण भारत में शक्ति संतुलन / Balance of power in South India",
-      "B": "एकीकरण और विस्तार / Integration and expansion",
-      "C": "पूरी भारत की विजय / Conquest of entire India",
-      "D": "सांस्कृतिक विनिमय / Cultural exchange"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "पूर्वी चालुक्य–चोल संबंधों ने दक्षिण भारत में शक्ति संतुलन बनाए रखा, क्षेत्रीय विस्तार संभव किया और सांस्कृतिक आदान-प्रदान को बढ़ावा दिया।"
-  },
-  {
-    "id": 34,
-    "question": "ऐहोल स्तंभलेख में किस देवता का उल्लेख अधिक है? / Which deity is prominently mentioned in Aihole inscription?",
-    "options": {
-      "A": "शिव / Shiva",
-      "B": "विष्णु / Vishnu",
-      "C": "देवी / Goddess",
-      "D": "गणेश / Ganesha"
-    },
-    "answer": ["A", "B"],
-    "explanation": "ऐहोल स्तंभलेख में शिव और विष्णु दोनों देवताओं का उल्लेख है, जो तत्कालीन धार्मिक सहिष्णुता को दर्शाता है।"
-  },
-  {
-    "id": 35,
-    "question": "बिल्हाणा का काव्य किस प्रकार का था? / What type of poetry did Bilhana compose?",
-    "options": {
-      "A": "महाकाव्य / Epic poetry",
-      "B": "अल्पकाव्य / Short poems",
-      "C": "धार्मिक गाथा / Religious narrative",
-      "D": "राजनीतिक गाथा / Political narrative"
-    },
-    "answer": ["A", "D"],
-    "explanation": "बिल्हाणा ने महाकाव्यात्मक शैली में राजा और राजनीतिक विषयों का वर्णन किया।"
-  },
-  {
-    "id": 36,
-    "question": "वेसरा शैली में मूर्तिकला किसके प्रभाव से विकसित हुई? / Vesara style sculpture developed under influence of which styles?",
-    "options": {
-      "A": "नागर शैली / Nagara style",
-      "B": "द्रविड़ शैली / Dravida style",
-      "C": "पल्लव शैली / Pallava style",
-      "D": "चोल शैली / Chola style"
-    },
-    "answer": ["A", "B"],
-    "explanation": "वेसरा शैली नागर और द्रविड़ शैली के मिश्रण से विकसित हुई।"
-  },
-  {
-    "id": 37,
-    "question": "नर्मदा संधि का ऐतिहासिक महत्व क्यों है? / Why is the Narmada treaty historically significant?",
-    "options": {
-      "A": "हर्ष और चालुक्य के बीच शक्ति संतुलन स्थापित हुआ / Balance of power established between Harsha and Chalukyas",
-      "B": "धार्मिक सुधार लागू हुए / Religious reforms implemented",
-      "C": "व्यापारिक मार्गों की सुरक्षा / Security of trade routes",
-      "D": "सैन्य गठबंधन बना / Military alliance formed"
-    },
-    "answer": ["A"],
-    "explanation": "यह संधि राजनीतिक सीमा और शक्ति संतुलन की दृष्टि से महत्वपूर्ण थी।"
-  },
-  {
-    "id": 38,
-    "question": "बादामी चालुक्य मंदिर कला का प्रमुख उदाहरण कौन-सा है? / Which is a prominent example of Badami Chalukya temple art?",
-    "options": {
-      "A": "द्रविड़ शैली का मंदिर / Dravida style temple",
-      "B": "गुफा मंदिर / Cave temples",
-      "C": "मौलिक वेसरा शैली का मंदिर / Original Vesara style temple",
-      "D": "चोल शैली का मंदिर / Chola style temple"
-    },
-    "answer": ["B", "C"],
-    "explanation": "बादामी चालुक्य कला में गुफा मंदिर और मूल वेसरा शैली प्रमुख उदाहरण हैं।"
-  },
-  {
-    "id": 39,
-    "question": "पूर्वी चालुक्य–चोल संबंधों का सांस्कृतिक प्रभाव क्या था? / What was the cultural impact of Eastern Chalukya–Chola relations?",
-    "options": {
-      "A": "संगीत और कला का विकास / Development of music and arts",
-      "B": "नृत्य शास्त्र का प्रचार / Promotion of dance",
-      "C": "साहित्यिक आदान-प्रदान / Literary exchanges",
-      "D": "धार्मिक विद्वत्ता का पतन / Decline of religious scholarship"
-    },
-    "answer": ["A", "C"],
-    "explanation": "पूर्वी चालुक्य–चोल संबंधों ने संगीत, कला और साहित्यिक आदान-प्रदान को प्रोत्साहित किया।"
+    "answer": "B"
   }
-]  
-
-
+]
