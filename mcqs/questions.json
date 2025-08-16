@@ -1,482 +1,667 @@
 [
   {
     "id": 1,
-    "question": "राष्ट्रकूटों की राजधानी कहाँ स्थित थी? / Where was the capital of the Rashtrakutas located?",
+    "question": "चोल वंश के प्रारंभिक शासक कौन थे और उनका महत्व क्या था? / Who were the early rulers of the Chola dynasty and what was their significance?",
     "options": {
-      "A": "मालखेड (Manyakheta)",
-      "B": "अन्नेकल (Annekal)",
-      "C": "देवगिरि (Devagiri)",
-      "D": "पाटन (Patan)"
+      "A": "विजयालय चोल (Vijayalaya Chola)",
+      "B": "कुलोत्तुंग चोल (Kulottunga Chola)",
+      "C": "अदित्य I (Aditya I)",
+      "D": "राजराजा I (Rajaraja I)"
     },
-    "answer": ["A"],
-    "explanation": "राष्ट्रकूटों की राजधानी प्रारंभ में मलकानगर थी, परंतु बाद में इसे मण्यक्षेटा (मालखेड, कर्नाटक) स्थानांतरित कर दिया गया।"
+    "answer": ["A", "C"],
+    "explanation": "विजयालय चोल ने 9वीं सदी में चोल वंश की पुनर्स्थापना की और कोंडोलपुरम को राजधानी बनाया। अदित्य I ने चोलों का विस्तार किया और पांड्य वंश तथा शैल्लीय वंश को पराजित किया। कुलोत्तुंग और राजराजा I बाद के शासक थे।"
   },
   {
     "id": 2,
-    "question": "निम्नलिखित में से कौन-सा साहित्यिक कृति राष्ट्रकूट काल से संबंधित है? / Which of the following literary works belong to the Rashtrakuta period?",
+    "question": "मध्यकालीन चोल (Medieval Cholas) के प्रमुख शासक कौन थे? / Who were the major rulers of the Medieval Cholas?",
     "options": {
-      "A": "कविराजमार्ग (Kavirajamarga)",
-      "B": "गाथा सप्तशती (Gatha Saptashati)",
-      "C": "कामसूत्र (Kamasutra)",
-      "D": "निघण्टु (Nighantu)"
+      "A": "राजराजा I (Rajaraja I)",
+      "B": "राजेंद्र चोल I (Rajendra Chola I)",
+      "C": "विजयालय चोल (Vijayalaya Chola)",
+      "D": "कुलोत्तुंग चोल I (Kulottunga Chola I)"
     },
     "answer": ["A", "B"],
-    "explanation": "‘कविराजमार्ग’ (कन्नड़ साहित्य की प्राचीनतम कृति) और ‘गाथा सप्तशती’ (प्राकृत साहित्य) राष्ट्रकूट काल में रचित हुईं।"
+    "explanation": "राजराजा I ने 10वीं सदी में चोल साम्राज्य को अपनी शक्ति के शिखर तक पहुँचाया। उनके पुत्र राजेंद्र चोल I ने दक्षिण भारत और दक्षिण-पूर्व एशिया में चोल साम्राज्य का विस्तार किया। विजयालय चोल प्रारंभिक और कुलोत्तुंग बाद के काल के शासक थे।"
   },
   {
     "id": 3,
-    "question": "राष्ट्रकूटों ने किस प्रसिद्ध चालुक्य शासक को पराजित कर सत्ता प्राप्त की? / The Rashtrakutas overthrew which famous Chalukya ruler to gain power?",
+    "question": "राजेंद्र चोल I की विदेश नीति और सामरिक अभियानों का मुख्य उद्देश्य क्या था? / What was the main purpose of Rajendra Chola I's foreign policy and military campaigns?",
     "options": {
-      "A": "किरति वर्मन द्वितीय (Kirtivarman II)",
-      "B": "विक्रमादित्य प्रथम (Vikramaditya I)",
-      "C": "पुलकेशिन द्वितीय (Pulakesin II)",
-      "D": "विक्रमादित्य द्वितीय (Vikramaditya II)"
+      "A": "दक्षिण-पूर्व एशिया में व्यापार और राजनीतिक प्रभुत्व स्थापित करना / Establish trade and political dominance in Southeast Asia",
+      "B": "हिमालय क्षेत्र में विस्तारीकरण / Expansion into the Himalayan region",
+      "C": "पांड्य और शैल्लीय राज्यों का अंत करना / Conquer Pandya and Chera kingdoms",
+      "D": "अरब सागर में नौसैनिक ताकत दिखाना / Demonstrate naval power in Arabian Sea"
     },
-    "answer": ["A"],
-    "explanation": "दन्तिदुर्ग (राष्ट्रकूट शासक) ने चालुक्य शासक ‘किरति वर्मन द्वितीय’ को पराजित कर राष्ट्रकूट सत्ता स्थापित की।"
+    "answer": ["A", "C"],
+    "explanation": "राजेंद्र चोल I ने दक्षिण-पूर्व एशिया (Srivijaya) में व्यापार और राजनीतिक प्रभुत्व स्थापित किया। उन्होंने पांड्य और शैल्लीय राज्यों को पराजित किया। हिमालय क्षेत्र में विस्तार और अरब सागर में नौसैनिक प्रदर्शन मुख्य उद्देश्य नहीं थे।"
   },
   {
     "id": 4,
-    "question": "एलीफैंटा गुफाओं का निर्माण किसने करवाया? / Who is credited with the construction of the Elephanta Caves?",
+    "question": "चोल साम्राज्य की समय-रेखा (Timeline) को सही क्रम में लगाएँ / Arrange the Chola dynasty rulers in correct chronological order.",
     "options": {
-      "A": "गुप्त शासक",
-      "B": "राष्ट्रकूट शासक",
-      "C": "पल्लव शासक",
-      "D": "सातवाहन शासक"
+      "A": "विजयालय चोल → अदित्य I → राजराजा I → राजेंद्र चोल I / Vijayalaya Chola → Aditya I → Rajaraja I → Rajendra Chola I",
+      "B": "राजराजा I → राजेंद्र चोल I → विजयालय चोल → अदित्य I / Rajaraja I → Rajendra Chola I → Vijayalaya Chola → Aditya I",
+      "C": "अदित्य I → विजयालय चोल → राजेंद्र चोल I → राजराजा I / Aditya I → Vijayalaya Chola → Rajendra Chola I → Rajaraja I",
+      "D": "कुलोत्तुंग चोल → राजेंद्र चोल I → राजराजा I → विजयालय चोल / Kulottunga Chola → Rajendra Chola I → Rajaraja I → Vijayalaya Chola"
     },
-    "answer": ["B"],
-    "explanation": "एलीफैंटा (घारापुरी) गुफाओं का निर्माण मुख्यतः राष्ट्रकूटों द्वारा करवाया गया माना जाता है।"
+    "answer": ["A"],
+    "explanation": "चोल वंश की शुरुआत विजयालय चोल से हुई, फिर अदित्य I, फिर राजराजा I और अंत में राजेंद्र चोल I का शासन। अन्य विकल्प कालक्रम के अनुसार गलत हैं।"
   },
   {
     "id": 5,
-    "question": "कौन-सा राष्ट्रकूट शासक अपने समय में 'दक्षिण का सम्राट' कहा जाता था? / Which Rashtrakuta ruler was called 'Emperor of the South' in his time?",
+    "question": "प्रारंभिक, मध्यकालीन और उत्तरकालीन चोल वंश के विभाजन का आधार क्या है? / What is the basis for dividing Chola dynasty into Early, Medieval and Later Cholas?",
     "options": {
-      "A": "अमोघवर्ष प्रथम",
-      "B": "गोविंद तृतीय",
-      "C": "दन्तिदुर्ग",
-      "D": "कृष्ण प्रथम"
+      "A": "राजाओं की वंशावली और शासनकाल / Lineage of kings and period of rule",
+      "B": "सैन्य अभियानों की संख्या / Number of military campaigns",
+      "C": "भौगोलिक विस्तार / Geographical expansion",
+      "D": "धार्मिक नीतियाँ / Religious policies"
     },
-    "answer": ["B"],
-    "explanation": "गोविंद तृतीय ने उत्तर भारत तक अपना साम्राज्य फैलाया और उन्हें 'दक्षिण का सम्राट' कहा गया।"
+    "answer": ["A", "C"],
+    "explanation": "चोल वंश को प्रारंभिक, मध्यकालीन और उत्तरकालीन इस आधार पर विभाजित किया जाता है कि किन राजाओं ने शासन किया और साम्राज्य का भौगोलिक विस्तार कितना हुआ। सैन्य अभियानों की संख्या या धार्मिक नीतियाँ विभाजन का मुख्य आधार नहीं हैं।"
   },
   {
     "id": 6,
-    "question": "एलोरा का कैलाशनाथ मंदिर किसने बनवाया? / Who built the Kailasanatha Temple at Ellora?",
+    "question": "चोल प्रशासन में स्थानीय स्वशासन की प्रमुख इकाइयाँ कौन थीं? / What were the main units of local self-government in Chola administration?",
     "options": {
-      "A": "गोविंद तृतीय",
-      "B": "दन्तिदुर्ग",
-      "C": "कृष्ण प्रथम",
-      "D": "अमोघवर्ष प्रथम"
+      "A": "उर (Ur)",
+      "B": "सभा (Sabha)",
+      "C": "नगरम (Nagaram)",
+      "D": "ग्राम पंचायत (Gram Panchayat)"
     },
-    "answer": ["C"],
-    "explanation": "एलोरा का प्रसिद्ध कैलाशनाथ मंदिर राष्ट्रकूट शासक कृष्ण प्रथम ने बनवाया था।"
+    "answer": ["A", "B", "C"],
+    "explanation": "चोल प्रशासन में स्थानीय स्वशासन की मुख्य इकाइयाँ Ur (गाँव), Sabha (ब्राह्मण सभा/पंचायत) और Nagaram (शहरी निकाय) थीं। ग्राम पंचायत जैसी आधुनिक संस्था उस समय मौजूद नहीं थी।"
   },
   {
     "id": 7,
-    "question": "‘त्रैलोक्यमल्ल’ की उपाधि किसे प्राप्त थी? / Who held the title ‘Trailokyamalla’?",
+    "question": "चोल प्रशासन में राजस्व संग्रह की प्रणाली किस पर आधारित थी? / On what basis was revenue collection system in Chola administration?",
     "options": {
-      "A": "अमोघवर्ष प्रथम",
-      "B": "इंद्र तृतीय",
-      "C": "दन्तिदुर्ग",
-      "D": "कृष्ण द्वितीय"
+      "A": "भूमि की उपज और प्रकार / Land productivity and type",
+      "B": "जनसंख्या संख्या / Population count",
+      "C": "मोटा अनुमान (Lump sum assessment) / Lump sum estimation",
+      "D": "सामाजिक वर्ग / Social hierarchy"
     },
-    "answer": ["B"],
-    "explanation": "इंद्र तृतीय ने परमार शासक महिपाल को हराकर ‘त्रैलोक्यमल्ल’ की उपाधि धारण की।"
+    "answer": ["A", "C"],
+    "explanation": "चोल प्रशासन में राजस्व का मूल्यांकन भूमि की उपज और प्रकार के आधार पर किया जाता था। कुछ मामलों में मोटा अनुमान भी लिया जाता था। केवल जनसंख्या या सामाजिक वर्ग राजस्व निर्धारण का आधार नहीं थे।"
   },
   {
     "id": 8,
-    "question": "राष्ट्रकूटों की धार्मिक नीति के संबंध में कौन-सा कथन सही है? / Which statement about Rashtrakuta religious policy is correct?",
+    "question": "सभा और उर में किस प्रकार के अधिकारी कार्य करते थे? / What kind of officials functioned in Sabha and Ur?",
     "options": {
-      "A": "उन्होंने केवल शैव मत को संरक्षण दिया",
-      "B": "उन्होंने बौद्ध और जैन धर्म को भी संरक्षण दिया",
-      "C": "उनकी नीति असहिष्णु थी",
-      "D": "उनका झुकाव केवल वैष्णव मत की ओर था"
+      "A": "स्थानीय ब्राह्मण अधिकारी / Local Brahmin officials",
+      "B": "राज्य नियुक्त कर्मचारी / State-appointed officers",
+      "C": "सैनिक अधिकारी / Military officers",
+      "D": "धार्मिक पुरोहित / Religious priests"
     },
-    "answer": ["B"],
-    "explanation": "राष्ट्रकूट शासक धार्मिक सहिष्णु थे और शैव, वैष्णव, जैन तथा बौद्ध सभी को संरक्षण दिया।"
+    "answer": ["A", "B"],
+    "explanation": "सभा और उर में स्थानीय ब्राह्मण अधिकारी और राज्य द्वारा नियुक्त कर्मचारी प्रशासनिक कार्य करते थे। सैनिक अधिकारी और पुरोहित केवल सीमित धार्मिक या सैन्य कार्यों में शामिल होते थे।"
   },
   {
     "id": 9,
-    "question": "राष्ट्रकूटों के प्रमुख विरोधी कौन-से राजवंश थे? / Which dynasties were the main rivals of the Rashtrakutas?",
+    "question": "चोल प्रशासन में मंत्रियों और नौकरशाही की भूमिका क्या थी? / What was the role of ministers and bureaucracy in Chola administration?",
     "options": {
-      "A": "गुर्जर-प्रतिहार",
-      "B": "पाल वंश",
-      "C": "चालुक्य",
-      "D": "पल्लव"
+      "A": "राज्य नीति और शासन संचालन / Formulation of policy and governance",
+      "B": "सैनिक अभियान का नेतृत्व / Leading military campaigns",
+      "C": "राजस्व संग्रह और लेखा प्रबंधन / Revenue collection and accounts management",
+      "D": "धार्मिक अनुष्ठान का आयोजन / Conducting religious rituals"
     },
-    "answer": ["A", "B"],
-    "explanation": "राष्ट्रकूटों का त्रिपक्षीय संघर्ष गुर्जर-प्रतिहारों और पालों के साथ उत्तरी भारत में प्रसिद्ध है।"
+    "answer": ["A", "C"],
+    "explanation": "मंत्रियों और नौकरशाही का मुख्य कार्य नीति निर्धारण, शासन संचालन, राजस्व संग्रह और लेखा प्रबंधन था। धार्मिक अनुष्ठान और सैन्य अभियान केवल कुछ विशेष अधिकारियों द्वारा किया जाता था।"
   },
   {
     "id": 10,
-    "question": "कवि पम्प राष्ट्रकूट दरबार से किस भाषा में जुड़े थे? / In which language did poet Pampa, associated with the Rashtrakuta court, write?",
+    "question": "चोल साम्राज्य में नागरम (Nagaram) की विशेष भूमिका क्या थी? / What was the special role of Nagaram in Chola empire?",
     "options": {
-      "A": "संस्कृत",
-      "B": "कन्नड़",
-      "C": "प्राकृत",
-      "D": "तेलुगु"
+      "A": "शहरी व्यापार और कारीगरी / Urban trade and craftsmanship",
+      "B": "कृषि उत्पादन केंद्र / Agricultural production center",
+      "C": "राजनीतिक और न्यायिक केंद्र / Political and judicial center",
+      "D": "धार्मिक तीर्थ स्थल / Religious pilgrimage site"
     },
-    "answer": ["B"],
-    "explanation": "पम्प कन्नड़ साहित्य के प्रसिद्ध कवि थे और राष्ट्रकूट दरबार से जुड़े थे।"
+    "answer": ["A", "C"],
+    "explanation": "Nagaram मुख्य रूप से शहरी व्यापार, कारीगरी और प्रशासनिक/न्यायिक कार्यों का केंद्र था। कृषि उत्पादन मुख्य रूप से ग्राम (Ur) में होता था। तीर्थ स्थल की भूमिका सीमित थी।"
   },
   {
     "id": 11,
-    "question": "‘त्रिपक्षीय संघर्ष’ (Tripartite Struggle) में राष्ट्रकूटों ने किन-किन शक्तियों से मुकाबला किया? / In the ‘Tripartite Struggle’, which powers did the Rashtrakutas fight against?",
+    "question": "चोल प्रशासन में भूमि कर (Land tax) के प्रकार क्या थे? / What were the types of land taxes in Chola administration?",
     "options": {
-      "A": "गुर्जर-प्रतिहार (Gurjara-Pratiharas)",
-      "B": "पाल वंश (Palas)",
-      "C": "पल्लव (Pallavas)",
-      "D": "चोल (Cholas)"
+      "A": "कुली कर (Kuli tax)",
+      "B": "वेल्लालार कर (Vellalar tax)",
+      "C": "उपज आधारित कर (Produce tax)",
+      "D": "न्यूनतम कर (Minimal flat tax)"
     },
-    "answer": ["A", "B"],
-    "explanation": "त्रिपक्षीय संघर्ष राष्ट्रकूट, गुर्जर-प्रतिहार और पाल वंश के बीच कन्नौज पर आधिपत्य को लेकर हुआ।"
+    "answer": ["B", "C"],
+    "explanation": "चोल प्रशासन में भूमि कर मुख्य रूप से Vellalar (भूमि-स्वामी) और उत्पादन आधारित कर थे। Kuli या flat tax जैसा कोई आम प्रावधान नहीं था।"
   },
   {
     "id": 12,
-    "question": "कौन-सा राष्ट्रकूट शासक 'अतिशय धर्मनिष्ठ' के रूप में प्रसिद्ध है? / Which Rashtrakuta ruler is famous as being 'extremely religious'?",
+    "question": "उर और सभा में क्या प्रकार के निर्णय लिए जाते थे? / What type of decisions were made in Ur and Sabha?",
     "options": {
-      "A": "गोविंद III",
-      "B": "अमोघवर्ष I",
-      "C": "दन्तिदुर्ग",
-      "D": "कृष्ण I"
+      "A": "स्थानीय भूमि विवाद / Local land disputes",
+      "B": "राज्य नीति निर्धारण / State policy making",
+      "C": "धार्मिक अनुष्ठान / Religious rituals",
+      "D": "कर संग्रह और वितरण / Tax collection and distribution"
     },
-    "answer": ["B"],
-    "explanation": "अमोघवर्ष I ने युद्ध से अधिक धर्म और साहित्य को महत्व दिया और उन्हें 'अतिशय धर्मनिष्ठ' कहा गया।"
+    "answer": ["A", "D"],
+    "explanation": "Ur और Sabha स्थानीय स्तर पर भूमि विवादों का समाधान और कर संग्रह/वितरण का काम करती थीं। राज्य नीति निर्धारण केवल मंत्रियों और राजा द्वारा किया जाता था।"
   },
   {
     "id": 13,
-    "question": "राष्ट्रकूट शासक अमोघवर्ष I ने किस धर्म का विशेष संरक्षण किया? / Which religion was particularly patronized by Amoghavarsha I?",
+    "question": "चोल प्रशासन में कौन से अधिकारी सीधे राजा को रिपोर्ट करते थे? / Which officials reported directly to the king in Chola administration?",
     "options": {
-      "A": "जैन धर्म (Jainism)",
-      "B": "बौद्ध धर्म (Buddhism)",
-      "C": "शैव धर्म (Shaivism)",
-      "D": "वैष्णव धर्म (Vaishnavism)"
+      "A": "मंत्री और उच्च पदस्थ नौकरशाही / Ministers and high-ranking bureaucrats",
+      "B": "स्थानीय ब्राह्मण अधिकारी / Local Brahmin officials",
+      "C": "नगरम के व्यापारी / Merchants of Nagaram",
+      "D": "सैनिक कमांडर / Military commanders"
     },
-    "answer": ["A"],
-    "explanation": "अमोघवर्ष I जैन धर्म से गहराई से प्रभावित थे और उन्होंने जैन धर्माचार्यों का संरक्षण किया।"
+    "answer": ["A", "D"],
+    "explanation": "राजा को सीधे मंत्रियों, उच्च पदस्थ नौकरशाही और सैन्य कमांडरों से रिपोर्ट मिलती थी। स्थानीय अधिकारी और व्यापारी केवल अपने क्षेत्र की रिपोर्टिंग करते थे।"
   },
   {
     "id": 14,
-    "question": "एलोरा स्थित कैलाशनाथ मंदिर किस वास्तुशैली का उदाहरण है? / The Kailasanatha temple at Ellora is an example of which architectural style?",
+    "question": "सभा और उर में आर्थिक लेन-देन और व्यापार नियंत्रण का कार्य किसका था? / Who handled economic transactions and trade regulation in Sabha and Ur?",
     "options": {
-      "A": "द्रविड़ शैली (Dravidian Style)",
-      "B": "नागर शैली (Nagara Style)",
-      "C": "वेसर शैली (Vesara Style)",
-      "D": "गंधार शैली (Gandhara Style)"
+      "A": "स्थानीय प्रमुख और ब्राह्मण अधिकारी / Local chiefs and Brahmin officials",
+      "B": "राज्य के मंत्रियों / State ministers",
+      "C": "सैनिक अधिकारी / Military officers",
+      "D": "व्यापारी संघ / Merchant guilds"
     },
-    "answer": ["A", "C"],
-    "explanation": "कैलाशनाथ मंदिर में द्रविड़ एवं वेसर शैली का मिश्रण मिलता है।"
+    "answer": ["A", "D"],
+    "explanation": "स्थानीय प्रमुख और ब्राह्मण अधिकारी आर्थिक गतिविधियों की निगरानी करते थे, जबकि व्यापारी संघ व्यापार नियंत्रण और कर भुगतान में मदद करते थे। मंत्रियों और सैनिकों का इसमें प्रत्यक्ष कार्य नहीं था।"
   },
   {
     "id": 15,
-    "question": "कौन-सा राष्ट्रकूट शासक ‘कविराजमार्ग’ से जुड़ा है? / Which Rashtrakuta ruler is associated with ‘Kavirajamarga’?",
+    "question": "चोल साम्राज्य में राजस्व प्रशासन की विशेषता क्या थी? / What was the distinctive feature of revenue administration in Chola empire?",
     "options": {
-      "A": "गोविंद III",
-      "B": "अमोघवर्ष I",
-      "C": "कृष्ण I",
-      "D": "दन्तिदुर्ग"
+      "A": "भूमि और उपज आधारित कर प्रणाली / Land and produce-based tax system",
+      "B": "सभी करों का प्रत्यक्ष संग्रह केवल राजा द्वारा / Direct collection of all taxes by the king",
+      "C": "स्थानीय स्वशासन की भागीदारी / Participation of local self-governing bodies",
+      "D": "केवल धार्मिक संस्थानों से कर संग्रह / Tax collection only from religious institutions"
     },
-    "answer": ["B"],
-    "explanation": "‘कविराजमार्ग’ अमोघवर्ष I से संबंधित है और यह कन्नड़ साहित्य की प्राचीनतम कृति है।"
+    "answer": ["A", "C"],
+    "explanation": "चोल प्रशासन में राजस्व प्रणाली भूमि और उपज पर आधारित थी और इसमें Ur, Sabha और Nagaram जैसे स्थानीय निकाय सक्रिय रूप से भाग लेते थे। राजा या धार्मिक संस्थान अकेले कर संग्रह नहीं करते थे।"
   },
   {
     "id": 16,
-    "question": "किस राष्ट्रकूट शासक ने ‘त्रैलोक्यमल्ल’ उपाधि धारण की? / Which Rashtrakuta ruler assumed the title ‘Trailokyamalla’?",
+    "question": "चोल प्रशासन में मंत्रियों और नौकरशाही के पद किस आधार पर निर्धारित किए जाते थे? / On what basis were the posts of ministers and bureaucracy determined in Chola administration?",
     "options": {
-      "A": "अमोघवर्ष I",
-      "B": "इंद्र III",
-      "C": "कृष्ण II",
-      "D": "गोविंद IV"
+      "A": "वंशानुक्रम और प्रतिष्ठा / Lineage and social prestige",
+      "B": "सैन्य क्षमता / Military capability",
+      "C": "योग्यता और प्रशासनिक दक्षता / Merit and administrative skill",
+      "D": "धार्मिक सेवा / Religious service"
     },
-    "answer": ["B"],
-    "explanation": "इंद्र III ने परमार शासक को हराकर ‘त्रैलोक्यमल्ल’ की उपाधि धारण की।"
+    "answer": ["A", "C"],
+    "explanation": "मंत्रियों और उच्च पदस्थ नौकरशाही को वंशानुक्रम, सामाजिक प्रतिष्ठा और प्रशासनिक योग्यता के आधार पर नियुक्त किया जाता था। केवल सैन्य या धार्मिक क्षमता पर्याप्त नहीं थी।"
   },
   {
     "id": 17,
-    "question": "राष्ट्रकूटों ने उत्तरी भारत में किस स्थान पर अपनी शक्ति केंद्रित की थी? / Where did the Rashtrakutas focus their power in Northern India?",
+    "question": "Ur और Sabha में कौन-सी संपत्ति का प्रबंधन किया जाता था? / Which types of property were managed in Ur and Sabha?",
     "options": {
-      "A": "कन्नौज (Kannauj)",
-      "B": "काशी (Kashi)",
-      "C": "अयोध्या (Ayodhya)",
-      "D": "गया (Gaya)"
+      "A": "मंदिर और धार्मिक भूमि / Temple and religious lands",
+      "B": "राज्य की भूमि / State-owned lands",
+      "C": "व्यक्तिगत निजी संपत्ति / Private property of individuals",
+      "D": "सैनिक कैम्प भूमि / Military camp lands"
     },
-    "answer": ["A"],
-    "explanation": "त्रिपक्षीय संघर्ष का मुख्य केंद्र कन्नौज था, जिस पर राष्ट्रकूटों ने अपनी शक्ति केंद्रित की।"
+    "answer": ["A", "B"],
+    "explanation": "Ur और Sabha मंदिरों और राज्य की भूमि का प्रबंधन करते थे। निजी संपत्ति और सैनिक कैम्प भूमि इन निकायों के प्रबंधन में शामिल नहीं थी।"
   },
   {
     "id": 18,
-    "question": "अमोघवर्ष I के समय कौन-सा जैन विद्वान प्रमुख था? / Which Jain scholar was prominent during the reign of Amoghavarsha I?",
+    "question": "चोल प्रशासन में नगरम (Nagaram) का न्यायिक कार्य क्या था? / What was the judicial function of Nagaram in Chola administration?",
     "options": {
-      "A": "जिनसेन (Jinasena)",
-      "B": "भद्रबाहु (Bhadrabahu)",
-      "C": "समन्तभद्र (Samantabhadra)",
-      "D": "उमास्वाति (Umaswati)"
+      "A": "शहरी विवादों का निपटान / Settlement of urban disputes",
+      "B": "ग्राम्य भूमि विवाद / Resolution of village land disputes",
+      "C": "राज्य नीति निर्णय / State policy decisions",
+      "D": "धार्मिक अनुष्ठान की निगरानी / Supervision of religious rituals"
     },
     "answer": ["A"],
-    "explanation": "अमोघवर्ष I के दरबार में जैन विद्वान जिनसेन प्रमुख थे।"
+    "explanation": "Nagaram शहरी न्यायिक निकाय था और इसका मुख्य कार्य शहर के व्यापारिक और नागरिक विवादों का समाधान करना था। ग्राम्य भूमि विवाद Ur और Sabha में निपटाए जाते थे।"
   },
   {
     "id": 19,
-    "question": "कृष्ण I की सर्वाधिक प्रसिद्ध उपलब्धि कौन-सी है? / What is the most famous achievement of Krishna I?",
+    "question": "चोल प्रशासन में राजस्व लेखा का रिकॉर्ड कौन रखता था? / Who maintained the revenue accounts in Chola administration?",
     "options": {
-      "A": "गोदावरी पर नियंत्रण",
-      "B": "कैलाशनाथ मंदिर निर्माण",
-      "C": "त्रिपक्षीय संघर्ष में विजय",
-      "D": "गुर्जर-प्रतिहारों की पराजय"
+      "A": "स्थानीय ब्राह्मण अधिकारी / Local Brahmin officials",
+      "B": "राजा स्वयं / King himself",
+      "C": "मंत्री और उच्च पदस्थ नौकरशाही / Ministers and high-ranking bureaucrats",
+      "D": "व्यापारी संघ / Merchant guilds"
     },
-    "answer": ["B"],
-    "explanation": "कृष्ण I की सर्वाधिक प्रसिद्ध उपलब्धि एलोरा स्थित कैलाशनाथ मंदिर का निर्माण है।"
+    "answer": ["A", "C"],
+    "explanation": "राजस्व लेखा का रिकॉर्ड स्थानीय ब्राह्मण अधिकारी और मंत्री/उच्च पदस्थ नौकरशाही रखते थे। राजा प्रत्यक्ष रूप से लेखा नहीं रखता था, और व्यापारी संघ इसमें शामिल नहीं थे।"
   },
   {
     "id": 20,
-    "question": "राष्ट्रकूट काल में प्रमुख मुद्रा क्या थी? / What was the chief coin during Rashtrakuta period?",
+    "question": "चोल प्रशासन में स्थानीय निकायों और राज्य के बीच सत्ता वितरण का मुख्य आधार क्या था? / What was the main basis for power distribution between local bodies and the state in Chola administration?",
     "options": {
-      "A": "द्रम्म (Dramma)",
-      "B": "दिनार (Dinar)",
-      "C": "कर्षापण (Karshapana)",
-      "D": "तम्रपत्र (Tamrapatra)"
+      "A": "स्थानीय संसाधनों का नियंत्रण / Control over local resources",
+      "B": "सैन्य बल का नेतृत्व / Command of military forces",
+      "C": "कर संग्रह और वितरण / Tax collection and distribution",
+      "D": "धार्मिक प्रतिष्ठान / Religious institutions"
     },
-    "answer": ["A"],
-    "explanation": "राष्ट्रकूट काल की प्रमुख मुद्रा 'द्रम्म' कहलाती थी।"
+    "answer": ["A", "C"],
+    "explanation": "स्थानीय निकायों को स्थानीय संसाधनों और कर संग्रह/वितरण में अधिकार दिया गया था। सैन्य या धार्मिक मामलों का नियंत्रण मुख्य रूप से राज्य और राजा के अधीन था।"
   },
   {
     "id": 21,
-    "question": "किस राष्ट्रकूट शासक ने पाल शासक देवपाल को पराजित किया था? / Which Rashtrakuta ruler defeated Pala ruler Devapala?",
+    "question": "चोल साम्राज्य ने तमिलनाडु, केरल और कर्नाटक में किस प्रकार का विस्तार किया? / What type of expansion did the Chola empire have in Tamil Nadu, Kerala, and Karnataka?",
     "options": {
-      "A": "गोविंद III",
-      "B": "इंद्र III",
-      "C": "दन्तिदुर्ग",
-      "D": "कृष्ण II"
+      "A": "सैन्य विजय और राजनीतिक अधिपत्य / Military conquest and political dominance",
+      "B": "सांस्कृतिक और धार्मिक प्रभाव / Cultural and religious influence",
+      "C": "आर्थिक और व्यापारिक नियंत्रण / Economic and trade control",
+      "D": "विशेष रूप से व्यापारिक सीमाएँ स्थापित करना / Only establishing trade boundaries"
     },
-    "answer": ["A"],
-    "explanation": "गोविंद III ने पाल शासक देवपाल को पराजित किया और उत्तर भारत तक अपना प्रभाव बढ़ाया।"
+    "answer": ["A", "B", "C"],
+    "explanation": "चोल साम्राज्य ने दक्षिण भारत में सैन्य विजय के माध्यम से राजनीतिक अधिपत्य स्थापित किया, साथ ही सांस्कृतिक, धार्मिक प्रभाव और आर्थिक नियंत्रण भी बढ़ाया। केवल व्यापारिक सीमाएँ स्थापित करना मुख्य उद्देश्य नहीं था।"
   },
   {
     "id": 22,
-    "question": "अमोघवर्ष I को किस उपाधि से सम्मानित किया जाता है? / By which title was Amoghavarsha I honored?",
+    "question": "राजेंद्र चोल I के नौसैनिक अभियान कहाँ-कहाँ हुए? / Where did Rajendra Chola I carry out naval expeditions?",
     "options": {
-      "A": "अतिशय धर्मनिष्ठ",
-      "B": "कविराज",
-      "C": "त्रैलोक्यमल्ल",
-      "D": "गुरु"
+      "A": "श्रीलंका / Sri Lanka",
+      "B": "मालदीव / Maldives",
+      "C": "दक्षिण-पूर्व एशिया (Srivijaya) / Southeast Asia (Srivijaya)",
+      "D": "मध्य एशिया / Central Asia"
     },
-    "answer": ["A", "B"],
-    "explanation": "अमोघवर्ष I को ‘अतिशय धर्मनिष्ठ’ और ‘कविराज’ दोनों कहा गया।"
+    "answer": ["A", "B", "C"],
+    "explanation": "राजेंद्र चोल I ने श्रीलंका, मालदीव और दक्षिण-पूर्व एशिया (Srivijaya) में नौसैनिक अभियान चलाए। मध्य एशिया में चोलों का कोई अभियान नहीं हुआ।"
   },
   {
     "id": 23,
-    "question": "राष्ट्रकूट शासकों ने मुख्यतः किस भाषा के साहित्य को संरक्षण दिया? / Which language’s literature was mainly patronized by Rashtrakuta rulers?",
+    "question": "चोल साम्राज्य की प्रसिद्ध लड़ाइयाँ और युद्ध कौन-से थे? / Which were the famous battles and wars of the Chola empire?",
     "options": {
-      "A": "संस्कृत",
-      "B": "कन्नड़",
-      "C": "प्राकृत",
-      "D": "पंजाबी"
+      "A": "पांड्य और शैल्लीय राज्यों के खिलाफ युद्ध / Wars against Pandya and Chera kingdoms",
+      "B": "राजस्थान में मारवाड़ युद्ध / Marwar war in Rajasthan",
+      "C": "श्रीलंका विजय अभियान / Sri Lanka conquest campaigns",
+      "D": "सिंगापुर में समुद्री लड़ाइयाँ / Naval battles in Singapore"
     },
-    "answer": ["A", "B"],
-    "explanation": "राष्ट्रकूटों ने संस्कृत और कन्नड़ दोनों साहित्य का संरक्षण किया।"
+    "answer": ["A", "C"],
+    "explanation": "चोल साम्राज्य की प्रमुख लड़ाइयाँ पांड्य और शैल्लीय राज्यों के खिलाफ तथा श्रीलंका विजय अभियानों में हुई। राजस्थान या सिंगापुर में उनके युद्ध नहीं हुए।"
   },
   {
     "id": 24,
-    "question": "राष्ट्रकूटों के पतन का प्रमुख कारण क्या था? / What was the main reason for the decline of Rashtrakutas?",
+    "question": "चोल साम्राज्य के दक्षिण-पूर्व एशियाई अभियान का मुख्य उद्देश्य क्या था? / What was the main purpose of Chola campaigns in Southeast Asia?",
     "options": {
-      "A": "चोलों का उदय",
-      "B": "गुर्जर-प्रतिहारों का पुनरुत्थान",
-      "C": "अत्यधिक विस्तार और आंतरिक विद्रोह",
-      "D": "विदेशी आक्रमण"
+      "A": "व्यापारिक मार्ग और बंदरगाह नियंत्रण / Control over trade routes and ports",
+      "B": "सांस्कृतिक प्रसार / Spread of culture",
+      "C": "स्थानीय राजाओं को उपनिवेश बनाना / Colonization of local kings",
+      "D": "भूभाग पर स्थायी कब्ज़ा / Permanent territorial occupation"
     },
-    "answer": ["A", "C"],
-    "explanation": "राष्ट्रकूटों का पतन चोलों के उदय और आंतरिक विद्रोह के कारण हुआ।"
+    "answer": ["A", "B"],
+    "explanation": "चोल साम्राज्य का दक्षिण-पूर्व एशियाई अभियान मुख्य रूप से व्यापारिक मार्गों और बंदरगाहों पर नियंत्रण और सांस्कृतिक प्रभाव फैलाने के लिए था। स्थायी उपनिवेश या भूभाग पर कब्ज़ा उनका मुख्य उद्देश्य नहीं था।"
   },
   {
     "id": 25,
-    "question": "राष्ट्रकूट शासक दन्तिदुर्ग ने किसे पराजित कर अपनी सत्ता स्थापित की? / Whom did Dantidurga defeat to establish Rashtrakuta power?",
+    "question": "चोल साम्राज्य की नौसैनिक ताकत की विशेषताएँ क्या थीं? / What were the characteristics of Chola naval power?",
     "options": {
-      "A": "पल्लव",
-      "B": "चालुक्य",
-      "C": "गुर्जर-प्रतिहार",
-      "D": "चोल"
+      "A": "सशक्त युद्धपोत और नौसैनिक नेतृत्व / Strong warships and naval leadership",
+      "B": "व्यापारिक जहाजों का संरक्षण / Protection of trade ships",
+      "C": "सिर्फ तटीय क्षेत्र में संचालन / Operations only in coastal areas",
+      "D": "राजनीतिक और सांस्कृतिक प्रभाव का विस्तार / Expansion of political and cultural influence"
     },
-    "answer": ["B"],
-    "explanation": "दन्तिदुर्ग ने चालुक्य शासक को हराकर राष्ट्रकूट सत्ता स्थापित की।"
+    "answer": ["A", "B", "D"],
+    "explanation": "चोल साम्राज्य की नौसेना में सशक्त युद्धपोत और कुशल नेतृत्व था, जो व्यापारिक जहाजों की सुरक्षा और राजनीतिक-सांस्कृतिक प्रभाव के विस्तार में सक्षम थी। केवल तटीय संचालन मुख्य उद्देश्य नहीं था।"
   },
   {
     "id": 26,
-    "question": "कविराजमार्ग किस भाषा में रचित है? / In which language was Kavirajamarga composed?",
+    "question": "चोल साम्राज्य की अर्थव्यवस्था में मुख्य आधार क्या था? / What was the main basis of Chola empire's economy?",
     "options": {
-      "A": "संस्कृत",
-      "B": "कन्नड़",
-      "C": "प्राकृत",
-      "D": "पाली"
+      "A": "कृषि और सिंचाई / Agriculture and irrigation",
+      "B": "अंतर्राज्यीय व्यापार / Interregional trade",
+      "C": "खनिज और खनन / Minerals and mining",
+      "D": "मछली पकड़ने और समुद्री शिकार / Fishing and maritime hunting"
     },
-    "answer": ["B"],
-    "explanation": "‘कविराजमार्ग’ कन्नड़ भाषा में रचित साहित्य है।"
+    "answer": ["A", "B"],
+    "explanation": "चोल साम्राज्य की अर्थव्यवस्था मुख्य रूप से कृषि और सिंचाई पर आधारित थी, साथ ही समुद्री और अंतर्राज्यीय व्यापार भी महत्वपूर्ण था। खनिज और मछली पकड़ना प्राथमिक आधार नहीं थे।"
   },
   {
     "id": 27,
-    "question": "राष्ट्रकूट शासकों ने किस बंदरगाह पर नियंत्रण रखा था? / Which port was controlled by the Rashtrakutas?",
+    "question": "चोल साम्राज्य में कौन से उद्योग और कारीगरी प्रमुख थे? / Which industries and crafts were prominent in Chola empire?",
     "options": {
-      "A": "सोपर (Sopara)",
-      "B": "कैलीन (Kalyan)",
-      "C": "भृगुकच्छ (Bharuch)",
-      "D": "ताम्रलिप्ति (Tamralipti)"
+      "A": "धातु और कांस्य मूर्तियाँ / Metal and bronze sculptures",
+      "B": "कपड़ा बुनाई और रेशमी वस्त्र / Textile weaving and silk products",
+      "C": "लोहे और हथियार निर्माण / Iron and weapon production",
+      "D": "गहनों का निर्माण / Jewelry making"
     },
-    "answer": ["A", "B"],
-    "explanation": "राष्ट्रकूटों ने सोपर और कैलीन बंदरगाहों पर नियंत्रण रखा।"
+    "answer": ["A", "B", "D"],
+    "explanation": "चोल साम्राज्य में कांस्य मूर्तियाँ, कपड़ा और रेशमी वस्त्र, और गहनों का निर्माण प्रमुख उद्योग थे। लोहे और हथियार निर्माण सीमित रूप से होता था।"
   },
   {
     "id": 28,
-    "question": "राष्ट्रकूट काल में व्यापार का प्रमुख साधन क्या था? / What was the main mode of trade during Rashtrakuta period?",
+    "question": "चोल साम्राज्य का विदेश व्यापार मुख्य रूप से कहाँ-कहाँ था? / Where was the foreign trade of Chola empire mainly conducted?",
     "options": {
-      "A": "जमीन मार्ग (Land route)",
-      "B": "समुद्री मार्ग (Sea route)",
-      "C": "हवा मार्ग (Air route)",
-      "D": "नदी मार्ग (River route)"
+      "A": "दक्षिण-पूर्व एशिया / Southeast Asia",
+      "B": "अरब देश / Arab lands",
+      "C": "मलय द्वीप समूह / Malay Archipelago",
+      "D": "यूरोप / Europe"
     },
-    "answer": ["A", "B"],
-    "explanation": "राष्ट्रकूट काल में भूमि और समुद्री मार्ग से व्यापार होता था।"
+    "answer": ["A", "B", "C"],
+    "explanation": "चोल साम्राज्य का विदेश व्यापार मुख्य रूप से दक्षिण-पूर्व एशिया, अरब देश और मलय द्वीप समूह के साथ था। यूरोप के साथ व्यापारिक संपर्क नहीं था।"
   },
   {
     "id": 29,
-    "question": "राष्ट्रकूटों के अधीन कौन-से विद्वान प्रसिद्ध थे? / Which scholars were famous under the Rashtrakutas?",
+    "question": "चोल साम्राज्य में मुद्रा और सिक्कों का प्रयोग किस प्रकार होता था? / How was currency and coinage used in Chola empire?",
     "options": {
-      "A": "पम्प",
-      "B": "पोन्न",
-      "C": "रन्न",
-      "D": "भास"
+      "A": "वाणिज्यिक लेन-देन में / For commercial transactions",
+      "B": "राजस्व संग्रह में / For revenue collection",
+      "C": "सिर्फ धार्मिक अनुष्ठानों में / Only in religious rituals",
+      "D": "विदेशी व्यापार में / For foreign trade"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पम्प, पोन्न और रन्न कन्नड़ के तीन प्रसिद्ध कवि थे जिन्हें राष्ट्रकूटों का संरक्षण प्राप्त था।"
+    "answer": ["A", "B", "D"],
+    "explanation": "चोल साम्राज्य में सिक्कों का प्रयोग वाणिज्य, राजस्व संग्रह और विदेशी व्यापार में होता था। केवल धार्मिक अनुष्ठानों में उपयोग सीमित था।"
   },
   {
     "id": 30,
-    "question": "राष्ट्रकूट काल में धार्मिक सहिष्णुता का प्रमाण कौन-सा है? / Which is evidence of religious tolerance during Rashtrakuta period?",
+    "question": "चोल साम्राज्य की आर्थिक शक्ति बढ़ाने में किसका योगदान सबसे अधिक था? / Who contributed most to the economic strength of Chola empire?",
     "options": {
-      "A": "एलीफैंटा गुफाएँ",
-      "B": "एलोरा गुफाएँ",
-      "C": "कैलाशनाथ मंदिर",
-      "D": "सांची स्तूप"
+      "A": "कृषक और भूमि मालिक / Farmers and landowners",
+      "B": "व्यापारी और समुद्री व्यापारी / Merchants and maritime traders",
+      "C": "राजा और राज्य प्रशासन / King and state administration",
+      "D": "सैनिक और नौसेना / Soldiers and navy"
     },
     "answer": ["A", "B", "C"],
-    "explanation": "राष्ट्रकूट काल में एलोरा और एलीफैंटा गुफाएँ तथा कैलाशनाथ मंदिर धार्मिक सहिष्णुता के उदाहरण हैं।"
+    "explanation": "चोल साम्राज्य की आर्थिक शक्ति मुख्य रूप से कृषक, व्यापारी और राज्य प्रशासन की प्रणाली पर निर्भर थी। सैनिक और नौसेना का योगदान आर्थिक दृष्टि से सीमित था।"
   },
   {
-    "id": 31,
-    "question": "गोविंद III की विजय यात्राएँ किन-किन क्षेत्रों में हुईं? / Govinda III carried out his military campaigns in which regions?",
+    "id": 41,
+    "question": "चोल समाज में जातिगत संरचना कैसी थी? / What was the caste structure in Chola society?",
     "options": {
-      "A": "उत्तर भारत",
-      "B": "दक्षिण भारत",
-      "C": "गुर्जर-प्रतिहार क्षेत्र",
-      "D": "कश्मीर"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "गोविंद III ने उत्तर भारत, दक्षिण भारत और गुर्जर-प्रतिहार क्षेत्र तक विजय यात्राएँ कीं।"
-  },
-  {
-    "id": 32,
-    "question": "कौन-सा राष्ट्रकूट शासक शांति नीति अपनाने के लिए जाना जाता है? / Which Rashtrakuta ruler is known for adopting peace policy?",
-    "options": {
-      "A": "गोविंद III",
-      "B": "अमोघवर्ष I",
-      "C": "कृष्ण I",
-      "D": "दन्तिदुर्ग"
-    },
-    "answer": ["B"],
-    "explanation": "अमोघवर्ष I युद्ध से बचकर शांति नीति अपनाने के लिए प्रसिद्ध थे।"
-  },
-  {
-    "id": 33,
-    "question": "राष्ट्रकूट शासकों की राजभाषा कौन-सी थी? / What was the official language of Rashtrakuta rulers?",
-    "options": {
-      "A": "कन्नड़",
-      "B": "संस्कृत",
-      "C": "प्राकृत",
-      "D": "पाली"
+      "A": "ब्राह्मणों और क्षत्रियों का प्रभुत्व / Dominance of Brahmins and Kshatriyas",
+      "B": "शूद्र और किसानों की महत्वपूर्ण भूमिका / Significant role of Shudras and peasants",
+      "C": "समान समाजवादी संरचना / Egalitarian society",
+      "D": "नौकर और गुलामों की अनुपस्थिति / Absence of servants and slaves"
     },
     "answer": ["A", "B"],
-    "explanation": "राष्ट्रकूटों की राजभाषा कन्नड़ और संस्कृत दोनों थीं।"
+    "explanation": "चोल समाज में ब्राह्मण और क्षत्रियों का प्रभुत्व था, लेकिन शूद्र और कृषक भी समाज और अर्थव्यवस्था में महत्वपूर्ण भूमिका निभाते थे। समान समाजवादी संरचना या नौकर-गुलाम की अनुपस्थिति नहीं थी।"
   },
   {
-    "id": 34,
-    "question": "राष्ट्रकूट काल के समय प्रमुख विदेशी व्यापार किस वस्तु का होता था? / During Rashtrakuta period, which commodity was the main item of foreign trade?",
+    "id": 42,
+    "question": "चोल काल में महिलाओं की सामाजिक स्थिति कैसी थी? / What was the social status of women during Chola period?",
     "options": {
-      "A": "घोड़े (Horses)",
-      "B": "काली मिर्च (Black Pepper)",
-      "C": "कपास (Cotton)",
-      "D": "सोना (Gold)"
+      "A": "शिक्षित और स्वतंत्र / Educated and independent",
+      "B": "घर के कामों तक सीमित / Restricted to household duties",
+      "C": "धार्मिक गतिविधियों में सक्रिय / Active in religious activities",
+      "D": "राजनीति में समान अधिकार / Equal rights in politics"
     },
     "answer": ["A", "B", "C"],
-    "explanation": "राष्ट्रकूट काल में घोड़े, काली मिर्च और कपास का विदेशी व्यापार होता था।"
+    "explanation": "चोल काल में महिलाओं को घर के कामों में लगे रहने के साथ-साथ शिक्षा और धार्मिक गतिविधियों में भाग लेने का अवसर मिला। राजनीति में समान अधिकार नहीं था।"
   },
   {
-    "id": 35,
-    "question": "एलोरा के शिलालेखों में किस राष्ट्रकूट शासक का उल्लेख मिलता है? / Which Rashtrakuta ruler is mentioned in Ellora inscriptions?",
+    "id": 43,
+    "question": "ग्रामीण समाज की संगठन संरचना किस प्रकार थी? / How was rural society organized in Chola period?",
     "options": {
-      "A": "कृष्ण I",
-      "B": "गोविंद III",
-      "C": "अमोघवर्ष I",
-      "D": "इंद्र III"
+      "A": "ग्राम पंचायत और सभा / Village panchayat and sabha",
+      "B": "स्वशासी नगर / Self-governing towns",
+      "C": "सैनिक शासन द्वारा प्रत्यक्ष नियंत्रण / Direct control by military governors",
+      "D": "सामूहिक कृषि और सहकारी व्यवस्था / Collective farming and cooperative system"
     },
-    "answer": ["A"],
-    "explanation": "एलोरा के शिलालेखों में कृष्ण I का उल्लेख मिलता है जिन्होंने कैलाशनाथ मंदिर बनवाया।"
+    "answer": ["A", "B", "D"],
+    "explanation": "ग्रामीण समाज में ग्राम पंचायत और सभा प्रमुख संगठन थे। नगरों में स्वशासन था और सामूहिक कृषि व सहकारी व्यवस्थाएँ प्रचलित थीं। सैनिक शासन का प्रत्यक्ष नियंत्रण सामान्य नहीं था।"
   },
   {
-    "id": 36,
-    "question": "‘गाथा सप्तशती’ किस भाषा में रचित है और इसका संबंध किससे है? / In which language was 'Gatha Saptashati' composed and with whom is it associated?",
+    "id": 44,
+    "question": "चोल समाज में श्रम और पेशे वर्गीकरण किस प्रकार था? / How was labor and profession classified in Chola society?",
     "options": {
-      "A": "संस्कृत – अमोघवर्ष I",
-      "B": "प्राकृत – अमोघवर्ष I",
-      "C": "प्राकृत – दन्तिदुर्ग",
-      "D": "कन्नड़ – कृष्ण I"
+      "A": "कृषक और कृषि श्रमिक / Farmers and agricultural laborers",
+      "B": "कारिगर और कारीगरी / Artisans and craftsmen",
+      "C": "व्यापारी और समुद्री व्यापारी / Merchants and maritime traders",
+      "D": "सिर्फ ब्राह्मण और क्षत्रिय / Only Brahmins and Kshatriyas"
     },
-    "answer": ["B"],
-    "explanation": "‘गाथा सप्तशती’ प्राकृत भाषा में अमोघवर्ष I से संबंधित है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "चोल समाज में श्रमिकों और पेशों का विभाजन स्पष्ट था – कृषक, कारिगर और व्यापारी। केवल ब्राह्मण और क्षत्रियों तक श्रम नहीं सीमित था।"
   },
   {
-    "id": 37,
-    "question": "राष्ट्रकूटों की सैन्य शक्ति का आधार क्या था? / What was the basis of Rashtrakuta military strength?",
+    "id": 45,
+    "question": "चोल समाज में दलित और निम्न जातियों की स्थिति कैसी थी? / What was the status of Dalits and lower castes in Chola society?",
     "options": {
-      "A": "अश्वारोही सेना (Cavalry)",
-      "B": "नौसेना (Navy)",
-      "C": "पदाति सेना (Infantry)",
-      "D": "हाथी सेना (Elephant army)"
-    },
-    "answer": ["A", "C", "D"],
-    "explanation": "राष्ट्रकूट सेना में मुख्यतः अश्वारोही, पदाति और हाथी सेना शामिल थी।"
-  },
-  {
-    "id": 38,
-    "question": "राष्ट्रकूटों ने किन क्षेत्रों पर अपना प्रभाव जमाया था? / Which regions did Rashtrakutas dominate?",
-    "options": {
-      "A": "कर्नाटक",
-      "B": "महाराष्ट्र",
-      "C": "आंध्र",
-      "D": "गुजरात"
-    },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "राष्ट्रकूटों का प्रभाव कर्नाटक, महाराष्ट्र, आंध्र और गुजरात तक था।"
-  },
-  {
-    "id": 39,
-    "question": "राष्ट्रकूट शासक अमोघवर्ष I ने राजधानी कहाँ स्थापित की थी? / Where did Amoghavarsha I establish the capital?",
-    "options": {
-      "A": "मण्यक्षेटा (Manyakheta)",
-      "B": "कैलासनगर",
-      "C": "देवगिरि",
-      "D": "कांची"
-    },
-    "answer": ["A"],
-    "explanation": "अमोघवर्ष I ने मण्यक्षेटा (मालखेड) को राजधानी बनाया।"
-  },
-  {
-    "id": 40,
-    "question": "राष्ट्रकूटों के समय जैन साहित्य में कौन-सी महत्वपूर्ण कृति लिखी गई? / Which important Jain work was written during Rashtrakuta period?",
-    "options": {
-      "A": "आदिपुराण",
-      "B": "परमपुराण",
-      "C": "महापुराण",
-      "D": "उत्तरपुराण"
+      "A": "सामाजिक भेदभाव का सामना / Faced social discrimination",
+      "B": "संपत्ति और भूमि में अधिकार / Rights in property and land",
+      "C": "धार्मिक और सामाजिक गतिविधियों में सीमित भागीदारी / Limited participation in religious and social activities",
+      "D": "पूर्ण राजनीतिक अधिकार / Full political rights"
     },
     "answer": ["A", "C"],
-    "explanation": "राष्ट्रकूट काल में जिनसेन और गुणभद्र द्वारा 'आदिपुराण' और 'महापुराण' लिखी गई।"
+    "explanation": "चोल समाज में दलित और निम्न जातियों को सामाजिक भेदभाव का सामना करना पड़ता था। उनका धार्मिक और सामाजिक जीवन सीमित था। संपत्ति और राजनीतिक अधिकार सामान्यतः उन्हें नहीं मिलते थे।"
+  },
+  {
+    "id": 46,
+    "question": "चोल काल में शिक्षा की स्थिति कैसी थी? / What was the state of education during Chola period?",
+    "options": {
+      "A": "मंदिरों और पाठशालाओं में शिक्षा / Education in temples and schools",
+      "B": "केवल उच्च जातियों तक सीमित / Restricted to upper castes",
+      "C": "लिखित और मौखिक शिक्षा दोनों / Both written and oral education",
+      "D": "सामाजिक शिक्षा का पूर्ण अभाव / Complete absence of social education"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "चोल काल में शिक्षा मुख्य रूप से मंदिरों और पाठशालाओं में दी जाती थी। यह उच्च जातियों तक सीमित थी। शिक्षा में लिखित और मौखिक दोनों विधाएँ मौजूद थीं। सामाजिक शिक्षा का पूर्ण अभाव नहीं था।"
+  },
+  {
+    "id": 47,
+    "question": "चोल साम्राज्य में साहित्यिक योगदान किस क्षेत्र में प्रमुख था? / In which field was literary contribution prominent during Chola Empire?",
+    "options": {
+      "A": "संस्कृत साहित्य / Sanskrit literature",
+      "B": "तमिल साहित्य / Tamil literature",
+      "C": "पांडुलिपियों का संग्रह / Compilation of manuscripts",
+      "D": "यूरोपीय साहित्य का अनुवाद / Translation of European literature"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "चोल काल में संस्कृत और तमिल साहित्य दोनों में योगदान रहा। पांडुलिपियों का संग्रह और संरक्षण भी प्रमुख था। यूरोपीय साहित्य का अनुवाद उस समय नहीं हुआ।"
+  },
+  {
+    "id": 48,
+    "question": "चोल शासकों ने शिक्षा और साहित्य को प्रोत्साहित करने के लिए क्या कदम उठाए? / What steps did Chola rulers take to promote education and literature?",
+    "options": {
+      "A": "मंदिरों में पुस्तकालयों की स्थापना / Establishment of libraries in temples",
+      "B": "विद्वानों को संरक्षण और पुरस्कार / Patronage and rewards to scholars",
+      "C": "सामाजिक शिक्षा को अनिवार्य बनाया / Made social education compulsory",
+      "D": "विदेशी शिक्षा प्रणाली अपनाई / Adopted foreign education system"
+    },
+    "answer": ["A", "B"],
+    "explanation": "चोल शासकों ने मंदिरों में पुस्तकालयों की स्थापना और विद्वानों को संरक्षण तथा पुरस्कार प्रदान किया। सामाजिक शिक्षा अनिवार्य नहीं थी और विदेशी शिक्षा प्रणाली नहीं अपनाई गई थी।"
+  },
+  {
+    "id": 49,
+    "question": "चोल काल में प्रमुख शिक्षा केंद्र कौन-कौन थे? / Who were the main centers of education during Chola period?",
+    "options": {
+      "A": "मंदिर और मठ / Temples and monasteries",
+      "B": "नगर और महलों में पाठशालाएँ / Schools in towns and palaces",
+      "C": "ग्राम पंचायत केंद्र / Village panchayat centers",
+      "D": "विदेशी विश्वविद्यालय / Foreign universities"
+    },
+    "answer": ["A", "B"],
+    "explanation": "चोल काल में शिक्षा मंदिरों, मठों और नगरों में पाठशालाओं के माध्यम से प्रदान की जाती थी। ग्राम पंचायत केंद्र और विदेशी विश्वविद्यालय शिक्षा का मुख्य केंद्र नहीं थे।"
+  },
+  {
+    "id": 50,
+    "question": "चोल साहित्य और कला में किस प्रकार की रचनाएँ प्रमुख थीं? / What types of works were prominent in Chola literature and art?",
+    "options": {
+      "A": "धार्मिक ग्रंथ और स्तोत्र / Religious texts and hymns",
+      "B": "काव्य और महाकाव्य / Poetry and epics",
+      "C": "इतिहास और शिलालेख / Historical inscriptions and chronicles",
+      "D": "वैज्ञानिक ग्रंथ और आधुनिक साहित्य / Scientific texts and modern literature"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "चोल काल में धार्मिक ग्रंथ, स्तोत्र, काव्य, महाकाव्य और ऐतिहासिक शिलालेख प्रमुख थे। वैज्ञानिक ग्रंथ और आधुनिक साहित्य उस समय नहीं थे।"
+  },
+  {
+    "id": 71,
+    "question": "बृहदीश्वर मंदिर, तंजावुर का निर्माण किसने कराया था और किस काल में? / Who built the Brihadisvara Temple, Thanjavur and in which period?",
+    "options": {
+      "A": "राजराजा चोल प्रथम / Rajaraja Chola I",
+      "B": "राजेंद्र चोल / Rajendra Chola I",
+      "C": "विजयालय चोल / Vijayalaya Chola",
+      "D": "कुलोत्तुंग चोल / Kulottunga Chola"
+    },
+    "answer": ["A"],
+    "explanation": "बृहदीश्वर मंदिर तंजावुर में 1003–1010 ई. के बीच राजराजा चोल प्रथम द्वारा निर्मित किया गया था।"
+  },
+  {
+    "id": 72,
+    "question": "बृहदीश्वर मंदिर की वास्तुकला किस शैली में है और इसका प्रमुख संरचनात्मक तत्व क्या है? / The architectural style of Brihadisvara Temple and its main structural feature?",
+    "options": {
+      "A": "द्रविड़ शैली / Dravidian style",
+      "B": "शिखर (Vimana) / Vimana (tower)",
+      "C": "नगरा शैली / Nagara style",
+      "D": "गुर्जर शैली / Gurjara style"
+    },
+    "answer": ["A", "B"],
+    "explanation": "मंदिर द्रविड़ शैली में बनाया गया है, जिसमें विशाल शिखर (Vimana) प्रमुख संरचनात्मक तत्व है।"
+  },
+  {
+    "id": 73,
+    "question": "बृहदीश्वर मंदिर का मुख्य देवता कौन है और किस रूप में प्रतिष्ठित है? / Who is the main deity of Brihadisvara Temple and in which form?",
+    "options": {
+      "A": "भगवान शिव / Lord Shiva",
+      "B": "नटराज रूप में / Nataraja form",
+      "C": "भगवान विष्णु / Lord Vishnu",
+      "D": "भगवान ब्रह्मा / Lord Brahma"
+    },
+    "answer": ["A", "B"],
+    "explanation": "मंदिर भगवान शिव को नटराज के रूप में समर्पित है।"
+  },
+  {
+    "id": 74,
+    "question": "बृहदीश्वर मंदिर के निर्माण में कौन-कौन सी सामग्रियों का प्रमुख उपयोग हुआ? / Major materials used in Brihadisvara Temple construction?",
+    "options": {
+      "A": "ग्रेनाइट / Granite",
+      "B": "संगमरमर / Marble",
+      "C": "बालू-पत्थर / Sandstone",
+      "D": "कंक्रीट / Concrete"
+    },
+    "answer": ["A"],
+    "explanation": "बृहदीश्वर मंदिर का निर्माण मुख्यतः ग्रेनाइट से किया गया, जो भारी और टिकाऊ पत्थर है।"
+  },
+  {
+    "id": 75,
+    "question": "बृहदीश्वर मंदिर की ऊँचाई लगभग कितनी है और यह किस तरह का विश्व प्रसिद्ध रिकॉर्ड रखता है? / Approximate height of Brihadisvara Temple and its world-famous record?",
+    "options": {
+      "A": "66 मीटर / 66 meters",
+      "B": "50 मीटर / 50 meters",
+      "C": "Vimana सबसे ऊँचा / Tallest Vimana",
+      "D": "सबसे बड़ा मंदिर / Largest temple"
+    },
+    "answer": ["A", "C"],
+    "explanation": "मंदिर की ऊँचाई लगभग 66 मीटर है और इसका Vimana दक्षिण भारत का सबसे ऊँचा है।"
+  },
+  {
+    "id": 76,
+    "question": "बृहदीश्वर मंदिर में ‘कोरल पिलर’ और मूर्तिकला किस प्रकार की तकनीक का उदाहरण है? / 'Coral pillars' and sculptures in the temple are examples of which technique?",
+    "options": {
+      "A": "एक खंडित शिल्प / Monolithic sculpting",
+      "B": "कला का संयोजन / Composite art",
+      "C": "लघु मूर्तिकला / Miniature carving",
+      "D": "फ्रेस्क चित्र / Fresco painting"
+    },
+    "answer": ["A"],
+    "explanation": "मंदिर में एक खंडित ग्रेनाइट से बनी मूर्तियां और स्तंभ हैं, जो monolithic sculpting तकनीक का उदाहरण हैं।"
+  },
+  {
+    "id": 77,
+    "question": "बृहदीश्वर मंदिर के शिखर (Vimana) की विशेषता क्या है? / What is special about the Vimana of Brihadisvara Temple?",
+    "options": {
+      "A": "एक पत्थर से बनी विशाल संरचना / Single-stone massive structure",
+      "B": "सोने से बनी / Made of gold",
+      "C": "संगमरमर से / Made of marble",
+      "D": "ड्रैगन आकृति / Dragon-shaped"
+    },
+    "answer": ["A"],
+    "explanation": "Vimana एक ही ग्रेनाइट पत्थर से निर्मित विशाल संरचना है, जो अद्वितीय तकनीक और इंजीनियरिंग का उदाहरण है।"
+  },
+  {
+    "id": 78,
+    "question": "बृहदीश्वर मंदिर के भित्तिचित्र और शिल्प किस काल के हैं? / The murals and sculptures of Brihadisvara Temple belong to which period?",
+    "options": {
+      "A": "राजराजा चोल प्रथम काल / Rajaraja Chola I period",
+      "B": "राजेंद्र चोल काल / Rajendra Chola period",
+      "C": "पल्लव काल / Pallava period",
+      "D": "विजयनगर काल / Vijayanagara period"
+    },
+    "answer": ["A"],
+    "explanation": "भित्तिचित्र और शिल्प मुख्य रूप से राजराजा चोल प्रथम के शासनकाल में बने थे।"
+  },
+  {
+    "id": 79,
+    "question": "बृहदीश्वर मंदिर की योजना किस प्रकार की है और यह किस वास्तुकला की विशेषता है? / The layout of Brihadisvara Temple and its architectural characteristic?",
+    "options": {
+      "A": "प्रांगण के चारों ओर / Courtyard-centered",
+      "B": "गोपुरम और मँडप / Gopuram and Mandapa",
+      "C": "सर्कुलर योजना / Circular plan",
+      "D": "गुप्त शैली / Gupta style"
+    },
+    "answer": ["A", "B"],
+    "explanation": "मंदिर का केंद्र प्रांगण और मंडप है, साथ ही विशाल गोपुरम इसके Dravidian वास्तुकला की विशेषता है।"
+  },
+  {
+    "id": 80,
+    "question": "बृहदीश्वर मंदिर की ‘नटराज’ मूर्ति किस प्रकार की है और इसका महत्व क्या है? / The 'Nataraja' sculpture and its significance?",
+    "options": {
+      "A": "शिव का नृत्य रूप / Shiva as Cosmic Dancer",
+      "B": "सृजन और विनाश का प्रतीक / Symbol of creation & destruction",
+      "C": "विष्णु का रूप / Form of Vishnu",
+      "D": "साधारण मूर्ति / Ordinary idol"
+    },
+    "answer": ["A", "B"],
+    "explanation": "नटराज मूर्ति शिव के नृत्य रूप को दर्शाती है और सृजन, संरक्षण और विनाश का प्रतीक है।"
+  },
+  {
+    "id": 81,
+    "question": "बृहदीश्वर मंदिर की भित्तियों पर उकेरी गई शिल्पकला किस विषय पर आधारित है? / The carvings on temple walls are based on which theme?",
+    "options": {
+      "A": "हिंदू देवता / Hindu deities",
+      "B": "भगवती कथाएँ / Divine legends",
+      "C": "मुगल युद्ध / Mughal battles",
+      "D": "जैन धर्म / Jain religion"
+    },
+    "answer": ["A", "B"],
+    "explanation": "शिल्पकला मुख्यतः हिंदू देवताओं और भगवती कथाओं पर आधारित है।"
+  },
+  {
+    "id": 82,
+    "question": "बृहदीश्वर मंदिर का निर्माण तकनीकी दृष्टि से क्यों महत्वपूर्ण माना जाता है? / Why is Brihadisvara Temple considered technically important?",
+    "options": {
+      "A": "एक खंडित पत्थर की विशाल संरचना / Massive single-stone structure",
+      "B": "प्राचीन इंजीनियरिंग का उदाहरण / Example of ancient engineering",
+      "C": "निर्माण में लोहे का प्रयोग / Use of iron in construction",
+      "D": "सोलर पैनल लगे / Solar panels installed"
+    },
+    "answer": ["A", "B"],
+    "explanation": "मंदिर तकनीकी दृष्टि से महत्वपूर्ण है क्योंकि यह विशाल ग्रेनाइट पत्थर से बना है और प्राचीन इंजीनियरिंग का उत्कृष्ट उदाहरण है।"
+  },
+  {
+    "id": 83,
+    "question": "बृहदीश्वर मंदिर की स्थापत्य योजना में कौन-कौन से घटक शामिल हैं? / Components included in Brihadisvara Temple plan?",
+    "options": {
+      "A": "शिखर (Vimana) / Vimana",
+      "B": "मँडप / Mandapa",
+      "C": "गोपुरम / Gopuram",
+      "D": "कुंड / Tank"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "मंदिर की योजना में Vimana, Mandapa और Gopuram शामिल हैं, जिनसे Dravidian शैली की विशेषता दिखती है।"
+  },
+  {
+    "id": 84,
+    "question": "बृहदीश्वर मंदिर का निर्माण किस धार्मिक उद्देश्य से किया गया था? / Religious purpose of Brihadisvara Temple?",
+    "options": {
+      "A": "भगवान शिव की पूजा / Worship of Lord Shiva",
+      "B": "राज्य शक्ति का प्रदर्शन / Display of royal power",
+      "C": "तंत्र साधना / Tantric rituals",
+      "D": "सैनिक प्रशिक्षण / Military training"
+    },
+    "answer": ["A", "B"],
+    "explanation": "मंदिर भगवान शिव को समर्पित है और साथ ही यह राजराजा चोल की शक्ति और वैभव का प्रदर्शन भी करता है।"
+  },
+  {
+    "id": 85,
+    "question": "बृहदीश्वर मंदिर को UNESCO विश्व धरोहर सूची में शामिल क्यों माना गया है? / Why is Brihadisvara Temple included in UNESCO World Heritage List?",
+    "options": {
+      "A": "सांस्कृतिक महत्व / Cultural significance",
+      "B": "स्थापत्य उत्कृष्टता / Architectural excellence",
+      "C": "आधुनिक तकनीक / Modern technology",
+      "D": "प्राकृतिक सुंदरता / Natural beauty"
+    },
+    "answer": ["A", "B"],
+    "explanation": "मंदिर अपनी सांस्कृतिक महत्ता और स्थापत्य उत्कृष्टता के कारण UNESCO की विश्व धरोहर सूची में शामिल किया गया।"
   }
 ]
+
+
+
+
+
