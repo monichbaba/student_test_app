@@ -1,927 +1,482 @@
 [
-    {
-        "id": 1,
-        "question": "सिख मिसलों के उदय का मुख्य कारण क्या था? / What was the main cause behind the rise of Sikh Misls?",
-        "options": {
-            "A": "मुगलों की कमजोर होती सत्ता (Decline of Mughal authority)",
-            "B": "स्थानीय सरदारों की शक्ति (Power of local chiefs)",
-            "C": "ब्रिटिश सैन्य हस्तक्षेप (British military intervention)",
-            "D": "धार्मिक और सैन्य संगठन (Religious and military organization)"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "18वीं सदी में मुगल शक्ति कमजोर होने लगी और पंजाब में स्थानीय सरदारों ने अपने-अपने मिसल (confederacies) बनाए। यह धार्मिक–सैन्य संगठन (खालसा पंथ की परंपरा) पर आधारित थे। ब्रिटिश की भूमिका उस समय नगण्य थी।"
+  {
+    "id": 1,
+    "question": "डिजिटल पर्सनल डेटा प्रोटेक्शन एक्ट, 2023 के बारे में कौन-सी बातें सही हैं? / Which of the following statements about the Digital Personal Data Protection Act, 2023 are correct?",
+    "options": {
+      "A": "यह केवल निजी कंपनियों पर लागू होता है / It applies only to private entities",
+      "B": "यह 'डेटा प्रिंसिपल' और 'डेटा फिड्यूशियरी' जैसी संकल्पनाएँ परिभाषित करता है / It defines concepts like 'data principal' and 'data fiduciary'",
+      "C": "अधिनियम में राष्ट्रीय सुरक्षा और सरकारी संवेदनशील उद्देश्यों के लिए अपवाद/छूट के प्रावधान हैं / The Act provides exemptions for national security and certain government purposes",
+      "D": "यह स्वतः विदेशी-डेटा ट्रांसफर पर पूर्ण प्रतिबंध लगाता है / It imposes an absolute ban on cross-border data transfers"
     },
-    {
-        "id": 2,
-        "question": "‘मिसल’ शब्द का प्रयोग किस अर्थ में होता है? / What does the term ‘Misl’ signify in Sikh history?",
-        "options": {
-            "A": "स्वायत्त सिख सैन्य संघ (Autonomous Sikh military confederacy)",
-            "B": "ब्रिटिश संधि प्रणाली (British treaty system)",
-            "C": "मुगल सूबेदारी (Mughal Subah unit)",
-            "D": "गुरुद्वारा प्रशासन (Gurdwara administration)"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "‘मिसल’ सिखों के स्वतंत्र सैन्य–राजनीतिक संघ थे, जिनका उदय 18वीं सदी में मुगल सत्ता के पतन के साथ हुआ। यह न तो ब्रिटिश संधि थे और न ही मुगल प्रशासनिक इकाइयाँ।"
+    "answer": ["B", "C"],
+    "explanation": "DPDP Act, 2023 में 'data principal' और 'data fiduciary' जैसी परिभाषाएँ और डेटा प्रॉसेसिंग के सिद्धान्त दिए गए हैं; साथ ही कानून में राष्ट्रीय सुरक्षा/सार्वजनिक हित के कारण कुछ अपवादों का प्रावधान मौजूद है। यह अधिनियम सभी डिजिटल व्यक्तिगत डेटा के प्रसंस्करण पर लक्षित है और ओवरसीज़ ट्रांसफर पर पूर्ण प्रतिबंध नहीं लगाता—इसके लिए नियमन/शर्तें दी गयी हैं।"
+  },
+  {
+    "id": 2,
+    "question": "COP28 पर स्थापित 'Loss and Damage' फंड के बारे में कौन-से बिंदु सही हैं? / Which of the following about the COP28 'Loss and Damage' fund are correct?",
+    "options": {
+      "A": "COP28 ने 'Loss and Damage' के लिए एक समर्पित फंड स्थापित करने का निर्णय लिया / COP28 agreed to establish a dedicated Loss & Damage fund",
+      "B": "फंड के अस्थायी गृहस्थ (interim host) के रूप में वर्ल्ड बैंक का प्रयोग प्रस्तावित था / The World Bank was proposed as interim host of the fund",
+      "C": "यह फंड प्रत्यक्ष तौर पर बड़े उत्सर्जकों से वैधानिक क्षतिपूर्ति (liability-based compensation) वसूल करने का है / The fund is meant to collect liability-based compensation directly from major emitters",
+      "D": "फंड केवल जलवायु अनुकूलन (adaptation) पर खर्च होगा, नुकसान-क्षति के निर्णय के लिए नहीं / The fund is only for adaptation spending"
     },
-    {
-        "id": 3,
-        "question": "महाराजा रणजीत सिंह ने किस वर्ष लाहौर को अपनी राजधानी बनाया? / In which year did Maharaja Ranjit Singh make Lahore his capital?",
-        "options": {
-            "A": "1799",
-            "B": "1801",
-            "C": "1809",
-            "D": "1819"
-        },
-        "answer": [
-            "1799"
-        ],
-        "explanation": "रणजीत सिंह ने 1799 में लाहौर पर कब्ज़ा कर इसे अपनी राजधानी बनाया। 1801 में उन्हें महाराजा के रूप में मान्यता मिली।"
+    "answer": ["A", "B"],
+    "explanation": "COP28 के निर्णय के अंतर्गत Loss & Damage के लिए एक समर्पित फंड बनाने का ऐतिहासिक निर्णय लिया गया और प्रारम्भिक/अस्थायी प्रबंधों में फंड को वर्ल्ड बैंक के माध्यम से आयोजित करने पर सहमति हुई। यह फंड सीधा ‘liability-based compensation’ आधारित नहीं है और न ही केवल adaptation पर सीमित है; इसका उद्देश्य विशेष रूप से नुकसान और क्षति से प्रभावित समुदायों का समर्थन करना है।"
+  },
+  {
+    "id": 3,
+    "question": "Noida (Jewar) International Airport के बारे में निम्न में से कौन-से कथन सही हैं? / Which of the following statements about Noida (Jewar) International Airport are true?",
+    "options": {
+      "A": "यह ग़ौतम बुद्ध नगर, उत्तर प्रदेश में स्थित है और NCR को सेवा देगा / It is located in Gautam Buddh Nagar (UP) and will serve the NCR",
+      "B": "पहले चरण (Phase-I) में यह 2020 में परिचालन में आ गया था / It became operational in Phase-I in 2020",
+      "C": "हाल के समाचारों के अनुसार परियोजना की पहली चरण परिचालन तिथि अब 2025 के अंत के लिए अनुमानित है / Recent reports project Phase-I operational around late 2025",
+      "D": "यह केवल एक घरेलू हवाई अड्डा है और अंतरराष्ट्रीय उड़ानों के लिए विकसित नहीं होगा / It is intended only as a domestic airport and not for international flights"
     },
-    {
-        "id": 4,
-        "question": "रणजीत सिंह की सेना में सुधारों की विशेषताएँ क्या थीं? / What were the features of Ranjit Singh’s army modernization?",
-        "options": {
-            "A": "यूरोपीय अधिकारियों की नियुक्ति (Appointment of European officers)",
-            "B": "फौज-ए-खास का गठन (Creation of Fauj-i-Khas)",
-            "C": "मुगल सैन्य प्रणाली को पुनर्जीवित करना (Revival of Mughal military system)",
-            "D": "तोपखाने और आधुनिक हथियारों का प्रयोग (Use of artillery and modern weapons)"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "रणजीत सिंह ने अपनी सेना को आधुनिक बनाने हेतु फ्रांसीसी और इटालियन अधिकारियों को नियुक्त किया, फौज-ए-खास बनाई और यूरोपीय शैली का तोपखाना विकसित किया।"
+    "answer": ["A", "C"],
+    "explanation": "Jewar एयरपोर्ट Gautam Buddh Nagar (UP) में है और NCR के लिए एक बड़ा हब बनने का लक्ष्य है। परियोजना कई बार देरी का सामना कर चुकी है; हालिया रिपोर्ट्स के अनुसार पहले चरण का परिचालन (Phase-I) अब 2025 के अंत के आसपास अपेक्षित बताया जा रहा है। यह एयरपोर्ट अंतरराष्ट्रीय उड़ानों के लिए विकसित किया जा रहा है, न कि केवल घरेलू।"
+  },
+  {
+    "id": 4,
+    "question": "One Nation One Ration Card (ONORC) के संबंध में सही वक्तव्यों का चयन कीजिये। / Select correct statements about One Nation One Ration Card (ONORC).",
+    "options": {
+      "A": "ONORC का लक्ष्य लाभार्थियों के लिए राशन की पोर्टेबिलिटी सुनिश्चित करना है / ONORC aims to ensure portability of ration for beneficiaries",
+      "B": "ONORC पूरे देश में लागू नहीं है और केवल कुछ राज्यों में पायलट रूप से लागू है / ONORC is still a pilot in a few states only",
+      "C": "सरकारी अभिलेखों के अनुसार सभी राज्यों/केंद्र शासित प्रदेशों में ONORC लागू हो चुका है / Government records state ONORC has been implemented across all states/UTs",
+      "D": "ONORC से लाभार्थी किसी भी FAIR PRICE SHOP से अपना राशन ले सकता है, बशर्ते उनकी पहचान/आधार जुड़ी हो / Beneficiaries can lift ration from any FPS provided biometric/ID linkage"
     },
-    {
-        "id": 5,
-        "question": "1809 की अमृतसर संधि का परिणाम क्या था? / What was the outcome of the Treaty of Amritsar (1809)?",
-        "options": {
-            "A": "ब्रिटिश ने रणजीत सिंह को सतलज के पश्चिम का शासक माना (British recognized Ranjit Singh west of Sutlej)",
-            "B": "रणजीत सिंह ने सतलज पार विस्तार से परहेज किया (Ranjit Singh refrained from expansion beyond Sutlej)",
-            "C": "लाहौर को ब्रिटिश के अधीन कर दिया गया (Lahore was surrendered to British)",
-            "D": "रणजीत सिंह ने ब्रिटिश को सहयोगी मान लिया (Ranjit Singh accepted British as allies)"
-        },
-        "answer": [
-            "A",
-            "B"
-        ],
-        "explanation": "अमृतसर संधि (1809) के अनुसार ब्रिटिश ने रणजीत सिंह की सत्ता सतलज के पश्चिम में स्वीकार की और रणजीत सिंह ने सतलज नदी के पार विस्तार न करने का वचन दिया।"
+    "answer": ["A", "C", "D"],
+    "explanation": "ONORC का मूल उद्देश्य राष्ट्रीय स्तर पर राशन पोर्टेबिलिटी देना है—यानी पात्र व्यक्तियाँ अपने पते से हट कर भी किसी भी FPS से राशन उठा सकें। सरकारी सूचनाओं के अनुसार ONORC अब सभी राज्यों/UTs में लागू हो चुका है और कार्य-तंत्र (ID/Aadhaar/biometric) से लॉजिस्टिक पोर्टेबिलिटी सुनिश्चित की जाती है।"
+  },
+  {
+    "id": 5,
+    "question": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) के बारे में सही कथन कौन-से हैं? / Which statements about PMGKAY are correct?",
+    "options": {
+      "A": "PMGKAY के माध्यम से कुछ अवधि के लिए निशुल्क अन्न वितरण का विस्तार सरकार ने जारी रखा है / Government continued free grain distribution under PMGKAY for a specified period",
+      "B": "PMGKAY केवल शहरी लाभार्थियों के लिए है / PMGKAY is only for urban beneficiaries",
+      "C": "सरकारी घोषणाओं में PMGKAY को कुछ वर्षों के लिए आगे जारी रखने का निर्णय हुआ है (Jan 2024 onward के संदर्भ सहित) / Announcements extended PMGKAY for some years from Jan 2024",
+      "D": "PMGKAY और ONORC में कोई तालमेल नहीं है और दोनों योजनाएँ आपस में स्वतंत्र हैं / PMGKAY and ONORC have no coordination between them"
     },
-    {
-        "id": 6,
-        "question": "रणजीत सिंह के शासन का विस्तार किन क्षेत्रों तक हुआ? / Which regions came under Ranjit Singh’s expansion?",
-        "options": {
-            "A": "पेशावर (Peshawar)",
-            "B": "मुल्तान (Multan)",
-            "C": "कश्मीर (Kashmir)",
-            "D": "दिल्ली (Delhi)"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "रणजीत सिंह ने पंजाब साम्राज्य का विस्तार पेशावर, मुल्तान और कश्मीर तक किया, परन्तु दिल्ली उनकी सत्ता के अधीन नहीं आया।"
+    "answer": ["A", "C"],
+    "explanation": "सरकार ने PMGKAY के तहत निशुल्क खाद्य अनाज वितरण को विस्तारित करने की घोषणाएँ की हैं; हालिया घोषणाओं में इसे अगले कुछ वर्षों के लिए लागू रखने का जिक्र रहा (उदा. जनवरी 2024 से आगे). PMGKAY का लक्ष्य गरीब/लक्षित लाभार्थियों को राहत देना है और यह ONORC की पोर्टेबिलिटी तंत्र के साथ तालमेल में भी काम कर सकता है—इसलिए D सार्वत्रिक रूप से गलत है।"
+  },
+  {
+    "id": 6,
+    "question": "PM Gati Shakti (National Master Plan for Multi-modal Connectivity) के संदर्भ में निम्न में से कौन-से तथ्य सत्य हैं? / Which of the following about PM Gati Shakti are true?",
+    "options": {
+      "A": "यह अलग-अलग मंत्रालयों के इन्फ्रास्ट्रक्चर डेटासेट/परियोजनाओं को एकीकृत करने का प्रयास है / It seeks to integrate infrastructure datasets/projects across ministries",
+      "B": "यह केवल रेलवे परियोजनाओं तक ही सीमित है / It is limited only to railway projects",
+      "C": "Gati Shakti का उद्देश्य ट्रांज़िट टाइम और लॉजिस्टिक्स लागत घटाना भी है / It aims to reduce transit time and logistics costs",
+      "D": "यह निजी और सार्वजनिक निवेश की सह-रूपरेखा (coordination) पर ज़ोर देता है / It emphasizes coordination of public and private investments"
     },
-    {
-        "id": 7,
-        "question": "पहले आंग्ल-सिख युद्ध (1845–46) का प्रमुख कारण क्या था? / What was the main cause of the First Anglo-Sikh War (1845–46)?",
-        "options": {
-            "A": "संधि उल्लंघन (Treaty violations)",
-            "B": "सिख सेना और दरबार में असंतोष (Discontent in Sikh army and court)",
-            "C": "ब्रिटिश की सतलज नीति (British policy towards Sutlej)",
-            "D": "अवध संधि (Treaty of Awadh)"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "पहले आंग्ल-सिख युद्ध के कारणों में ब्रिटिश की सतलज सीमा नीति, सिख दरबार में भ्रष्टाचार और सेना की असंतुष्टि शामिल थीं। अवध संधि अप्रासंगिक थी।"
+    "answer": ["A", "C", "D"],
+    "explanation": "PM Gati Shakti का उद्देश्य विभिन्न इंफ्रास्ट्रक्चर पहल, मंत्रालयों और डेटा-सोर्सेज़ को जोड़कर समेकित योजना बनाना है, ताकि पारगमन समय और लॉजिस्टिक्स लागत में कमी आये और सार्वजनिक-निजी निवेश का बेहतर समन्वय हो। यह केवल रेलवे तक सीमित योजना नहीं है।"
+  },
+  {
+    "id": 7,
+    "question": "Agnipath/Agniveer (सैन्य भर्ती) योजना के कौन-से तत्व सत्य हैं? / Which elements of Agnipath scheme are correct?",
+    "options": {
+      "A": "Agnipath में चयनित जवानों की अवधि 4 वर्ष की है और उनकी सेवा अवधि पर पुनरावेदन/ठहराव का विकल्प सीमित है / Selected recruits serve for a short tenure (around 4 years)",
+      "B": "Agnipath अंतर्गत भर्ती हुए सभी जवानों को पूर्ण पेंशन लाभ स्वतः मिलता है / All Agniveers automatically get full pension benefits",
+      "C": "परियोजना एक छोटे अवधि के सैन्य अनुभव के साथ युवाओं को लौटने पर 'Seva Nidhi' जैसी राशि देने का प्रावधान करती है / Scheme provides for a Seva Nidhi-style corpus on completion",
+      "D": "Agnipath के तहत बहु-रुचि प्रशिक्षण और नागरिक कौशल विकास की दिशा पर भी जोर है ताकि बाहर निकलने पर रोजगार मदद मिले / There is emphasis on skills training for civilian employment post-service"
     },
-    {
-        "id": 8,
-        "question": "पहले आंग्ल-सिख युद्ध का परिणाम क्या था? / What was the outcome of the First Anglo-Sikh War?",
-        "options": {
-            "A": "लाहौर संधि (Treaty of Lahore)",
-            "B": "सिख साम्राज्य का पूर्ण अंत (Complete end of Sikh Empire)",
-            "C": "कश्मीर का हस्तांतरण (Transfer of Kashmir)",
-            "D": "ब्रिटिश रेजिडेंट की नियुक्ति (Appointment of British Resident)"
-        },
-        "answer": [
-            "A",
-            "C",
-            "D"
-        ],
-        "explanation": "लाहौर संधि (1846) के तहत कश्मीर को गुलाब सिंह को सौंपा गया और लाहौर में ब्रिटिश रेजिडेंट नियुक्त हुआ। साम्राज्य पूरी तरह समाप्त नहीं हुआ।"
+    "answer": ["A", "C", "D"],
+    "explanation": "Agnipath योजना में जवानों का कार्यकाल लगभग चार वर्ष का रखा गया है; योजना के समापन पर Seva Nidhi जैसी राशि/पैकेज मिलता है, पर यह पारंपरिक पेंशन व्यवस्था जैसा नहीं है—अतः B गलत है। स्किलिंग और पुन:स्थापन (resettlement) पर भी ध्यान दिया गया है।"
+  },
+  {
+    "id": 8,
+    "question": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) के उद्देश्य/लक्षणों में से क्या-क्या सत्य है? / Which of the following about PM-KISAN are correct?",
+    "options": {
+      "A": "PM-KISAN का उद्देश्य छोटे और सीमांत किसानों को सीधे आय सहायता पहुँचाना है / It aims to provide direct income support to small and marginal farmers",
+      "B": "PM-KISAN केवल क्रॉप-उत्पादन पर आधारित बीमा स्कीम है / PM-KISAN is an insurance scheme for crops",
+      "C": "PM-KISAN के तहत भुगतान डायरेक्ट ट्रांसफर (DBT) के माध्यम से होता है / Payments are made via DBT",
+      "D": "PM-KISAN का लाभ सिर्फ किराएदार किसानों को दिया जाता है / PM-KISAN benefits are only for tenant farmers"
     },
-    {
-        "id": 9,
-        "question": "दूसरे आंग्ल-सिख युद्ध (1848–49) के परिणामस्वरूप क्या हुआ? / What was the outcome of the Second Anglo-Sikh War?",
-        "options": {
-            "A": "ब्रिटिश ने पंजाब को विलय किया (Punjab annexed by British)",
-            "B": "दलहौजी की नीति लागू हुई (Dalhousie’s policy applied)",
-            "C": "रणजीत सिंह को निर्वासित किया गया (Ranjit Singh exiled)",
-            "D": "लाहौर दरबार भंग हुआ (Dissolution of Lahore court)"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "दूसरे आंग्ल-सिख युद्ध के बाद 1849 में पंजाब का विलय ब्रिटिश भारत में कर लिया गया। दलहौजी ने इस नीति को औचित्य दिया और लाहौर दरबार को समाप्त कर दिया गया। रणजीत सिंह पहले ही 1839 में निधन हो चुके थे।"
+    "answer": ["A", "C"],
+    "explanation": "PM-KISAN एक आय-समर्थन योजना है जिसका मूल उद्देश्य छोटे/सीमांत किसान परिवारों को प्रत्यक्ष नकद हस्तांतरण देना है और भुगतान DBT के माध्यम से किया जाता है। यह कोई फसल बीमा स्कीम नहीं है और न ही लाभ सिर्फ किरायेदार किसानों तक सीमित है।"
+  },
+  {
+    "id": 9,
+    "question": "PMFBY (Pradhan Mantri Fasal Bima Yojana) के बारे में कौन-सी बातें सही हैं? / Which of the following are true about PMFBY?",
+    "options": {
+      "A": "PMFBY बीमा प्रीमियम का पूरा बोझ केवल केंद्र सरकार उठाती है / Centre alone bears the entire premium burden",
+      "B": "PMFBY का उद्देश्य फसलों के उत्पादन संबंधी जोखिमों से किसानों को आर्थिक सुरक्षा देना है / It aims to provide economic protection against crop production risks",
+      "C": "इस योजना में प्रीमियम-शेयरिंग मॉडल और कम्पेनसेशन मैकेनिज्म मौजूद है / There is a premium-sharing model and compensation mechanism",
+      "D": "PMFBY एक स्वयं-घोषित वैकल्पिक (opt-in) योजना है जहाँ किसान पंजीकरण कराते हैं / PMFBY is opt-in and farmers register voluntarily"
     },
-    {
-        "id": 10,
-        "question": "1849 में पंजाब के ब्रिटिश विलय को किस नीति से उचित ठहराया गया? / By which policy was the annexation of Punjab in 1849 justified?",
-        "options": {
-            "A": "Doctrine of Lapse",
-            "B": "Policy of Paramountcy",
-            "C": "Dalhousie’s Annexation Policy",
-            "D": "Subsidiary Alliance"
-        },
-        "answer": [
-            "B",
-            "C"
-        ],
-        "explanation": "1849 में पंजाब के विलय को दलहौजी ने paramountcy और annexation नीति से उचित ठहराया। यह Doctrine of Lapse के अंतर्गत नहीं था।"
+    "answer": ["B", "C", "D"],
+    "explanation": "PMFBY का उद्देश्य किसानों को फसल सम्बन्धी जोखिमों से आर्थिक सुरक्षा देना है; यह एक opt-in योजना है जिसमें किसानों का पंजीकरण आवश्यक है और प्रीमियम व कंपेनसेशन के लिए केंद्र/राज्य व बीमाकर्ता के बीच मॉडल बनता है। प्रीमियम का पूरा बोझ केवल केंद्र नहीं उठाता—विभिन्न हिस्से होते हैं।"
+  },
+  {
+    "id": 10,
+    "question": "National Monetisation Pipeline (NMP) / Asset Monetisation के सम्बन्ध में कौन-से कथन सही हैं? / Which statements about asset monetisation (NMP) are correct?",
+    "options": {
+      "A": "NMP का उद्देश्य सरकार के मौजूदा अवसंरचना-assets को निजी निवेश के द्वारा अधिकतम करना है / NMP aims to monetise existing public infrastructure assets via private investment",
+      "B": "NMP का तात्पर्य सरकारी स्वामित्व का परमानेंट विक्रय (permanent sale) है, और सरकार के पास कोई नियंत्रण नहीं रहेगा / NMP implies permanent sale with no government control retained",
+      "C": "NMP में आमतौर पर लाइसेंस/लीज/PPP मॉडल के जरिये राजस्व सृजन पर ज़ोर होता है / NMP emphasises revenue generation via leases/licences/PPP",
+      "D": "NMP केवल ग्रामीण भूमि पर ही लागू होता है / NMP applies only to rural land"
     },
-    {
-        "id": 11,
-        "question": "‘मिसल प्रणाली’ (Misls System) के बारे में कौन-से कथन सही हैं? / Which of the following statements about the Misls system are correct?",
-        "options": {
-            "A": "It was a confederacy of Sikh warrior bands controlling different territories.",
-            "B": "Misls were always under direct Mughal authority.",
-            "C": "Each Misl had its own elected leader (Misldar).",
-            "D": "Misls were united under the Dal Khalsa during collective campaigns."
-        },
-        "answer": [
-            "A",
-            "C",
-            "D"
-        ],
-        "explanation": "The Misls were autonomous warrior confederacies that emerged after Mughal decline in Punjab. Each Misl had a leader known as the Misldar, often elected or chosen by consensus. While usually independent, they came together under the Dal Khalsa for joint military campaigns. They were not under Mughal control; rather, they rose as a challenge to Mughal authority."
+    "answer": ["A", "C"],
+    "explanation": "National Monetisation Pipeline का उद्देश्य सरकारी इन्फ्रास्ट्रक्चर से प्राइवेट पार्टनर्स के जरिये वैल्यू रियलाइज़ करना है—आम तौर पर लीज, लाइसेंस, O&M या PPP मॉडल के माध्यम से। यह हर बार परमानेंट बिक्री का अर्थ नहीं होता; कई मॉडलों में सरकार नियंत्रण-हक बरकरार रखती है।"
+  },
+  {
+    "id": 11,
+    "question": "National Education Policy (NEP) 2020 में निम्नलिखित में से क्या-सा परिवर्तन शामिल है? / Which of the following is/are included in NEP 2020?",
+    "options": {
+      "A": "5+3+3+4 पाठ्यक्रम संरचना की सिफारिश / Recommendation of a 5+3+3+4 curricular structure",
+      "B": "उच्च शिक्षा वर्कफ्लो में स्कॉलरशिप समाप्त कर दी गई है / Scholarships in higher education were entirely abolished",
+      "C": "मध्यमिक शिक्षा में बहुभाषिकता और मातृभाषा/स्थानीय भाषा को प्राथमिकता दी गयी / Emphasis on multilingualism and mother tongue/local language as medium",
+      "D": "NEP केवल पहलुओं पर सिफारिशें देती है और केंद्र व राज्य पर लागू होने के लिए स्थानीय नीतियों की जरूरत बताती है / NEP gives recommendations and requires local policies for implementation"
     },
-    {
-        "id": 12,
-        "question": "‘Treaty of Amritsar (1809)’ के बारे में कौन-से कथन सही हैं? / Which statements about the Treaty of Amritsar (1809) are correct?",
-        "options": {
-            "A": "It was signed between Maharaja Ranjit Singh and the East India Company.",
-            "B": "It restricted Ranjit Singh from expanding south of the Sutlej river.",
-            "C": "It allowed the British to station troops in Lahore.",
-            "D": "It recognized Ranjit Singh as ruler of territories north of Sutlej."
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "The Treaty of Amritsar was signed in 1809 between Ranjit Singh and the East India Company. Ranjit Singh was recognized as the ruler of Punjab but was prevented from extending his authority south of the Sutlej. However, the British did not station troops in Lahore under this treaty."
+    "answer": ["A", "C", "D"],
+    "explanation": "NEP 2020 ने 5+3+3+4 संरचना, बहुभाषिकता और स्थानीय/मातृभाषा में शिक्षण पर जोर और नीतिगत सिफारिशें देने की बात कही है; यह स्वयं से स्वचालित रूप से सभी स्तरों पर लागू नहीं होता—इसे लागू करने के लिए केंद्र/राज्य/शैक्षिक संस्थाओं द्वारा स्थानीय नीतियों और क्रियान्वयन की ज़रूरत होती है।"
+  },
+  {
+    "id": 12,
+    "question": "इलेक्ट्रिक वाहन (EV) प्रोत्साहन और FAME स्कीम के संबंध में कौन-से बिंदु सही हैं? / Which of the following about EV incentives and FAME are correct?",
+    "options": {
+      "A": "FAME का उद्देश्य इलेक्ट्रिक मोबिलिटी को सब्सिडी और प्रोत्साहन के माध्यम से बढ़ावा देना है / FAME aims to promote e-mobility via subsidies/incentives",
+      "B": "FAME केवल चार-पहिया (4-wheeler) वाहनों पर ही लागू है / FAME applies only to 4-wheelers",
+      "C": "स्कीम में बुनियादी ढांचा (charging stations) के विकास को भी समर्थन दिया गया है / Scheme supports development of charging infrastructure",
+      "D": "FAME का लाभ सिर्फ राज्य सरकारों को प्राप्त होता है, अंतिम उपयोगकर्ता को नहीं / Only state governments benefit, not end-users"
     },
-    {
-        "id": 13,
-        "question": "Maharaja Ranjit Singh की सेना (Fauj-i-Khas) के बारे में कौन-से कथन सही हैं? / Which of the following statements about Ranjit Singh’s Fauj-i-Khas are correct?",
-        "options": {
-            "A": "It was trained on European lines with help of foreign officers.",
-            "B": "It was composed entirely of Europeans.",
-            "C": "It included infantry, artillery, and cavalry divisions.",
-            "D": "It became one of the most disciplined armies in Asia."
-        },
-        "answer": [
-            "A",
-            "C",
-            "D"
-        ],
-        "explanation": "Ranjit Singh modernized his army with the help of European officers like Jean-Baptiste Ventura and Allard. The Fauj-i-Khas included infantry, cavalry, and artillery and became highly disciplined. It was not entirely European; Europeans were mainly trainers and officers."
+    "answer": ["A", "C"],
+    "explanation": "FAME (Faster Adoption and Manufacturing of Hybrid and Electric Vehicles) का उद्देश्य इलेक्ट्रिक मोबिलिटी को सब्सिडी एवं अन्य प्रोत्साहनों के जरिये बढ़ावा देना तथा चार्जिंग इन्फ्रास्ट्रक्चर समेत इको-सिस्टम का विकास करना है; यह केवल 4-व्हीलर तक सीमित नहीं है।"
+  },
+  {
+    "id": 13,
+    "question": "e-Shram पोर्टल/उन्नतायन (unorganized workers registry) के लिए कौन-से कथन सत्य हैं? / Which statements about e-Shram portal are true?",
+    "options": {
+      "A": "e-Shram का उद्देश्य असंगठित क्षेत्र के कामगारों का राष्ट्रीय पंजीकरण करना है / It aims to register unorganised sector workers nationally",
+      "B": "e-Shram पंजीकरण से स्वचालित रूप से सभी सामाजिक सुरक्षा लाभ मिलते हैं / Registration automatically provides all social security benefits",
+      "C": "यह पोर्टल माईग्रेशन-आधारित लाभों और योजनाओं के लक्षित वितरण में उपयोगी है / It helps in targeted delivery and migration-linked benefits",
+      "D": "e-Shram केवल राज्य-स्तर पर संचालित है, राष्ट्रीय नहीं / e-Shram is state-level only"
     },
-    {
-        "id": 14,
-        "question": "Ranjit Singh द्वारा की गई प्रशासनिक सुधारों में कौन-से शामिल थे? / Which of the following were part of administrative reforms under Ranjit Singh?",
-        "options": {
-            "A": "Introduction of Persian as the official language.",
-            "B": "Appointment of non-Sikhs in high offices.",
-            "C": "Centralization of revenue collection under Kardars.",
-            "D": "Division of empire into provinces called Subas."
-        },
-        "answer": [
-            "B",
-            "C",
-            "D"
-        ],
-        "explanation": "Ranjit Singh adopted a pragmatic administrative system. He appointed Hindus and Muslims in key positions, used Kardars for revenue collection, and divided his empire into Subas. Persian had already been in use but was not his major reform step."
+    "answer": ["A", "C"],
+    "explanation": "e-Shram पोर्टल का उद्देश्य असंगठित क्षेत्र के श्रमिकों का राष्ट्रीय स्तर पर पंजीकरण कर उन्हें नीतिगत हस्तक्षेप और लक्षित लाभ देने में मदद करना है। पंजीकरण स्वचालित रूप से सभी सामाजिक सुरक्षा लाभ नहीं देता; यह एक पहचान/डेटासेट तैयार करता है ताकि बाद में योजनाओं के वितरण में उपयोग किया जा सके।"
+  },
+  {
+    "id": 14,
+    "question": "राष्ट्रीय खाद्य सुरक्षा अधिनियम (NFSA) के संदर्भ में कौन-से बिंदु सही हैं? / Which of the following about NFSA are correct?",
+    "options": {
+      "A": "NFSA के तहत पात्र परिवारों को सब्सिडी पर अनाज वितरण का अधिकार मिलता है / NFSA entitles eligible families to subsidised foodgrains",
+      "B": "NFSA के तहत राशन की मात्रा और पात्रता में राज्य सरकारें भाग नहीं ले सकतीं / State governments have no role in NFSA entitlements",
+      "C": "NFSA के साथ-साथ ONORC जैसी तकनीकी पहल पोर्टेबिलिटी को सक्षम बनाती है / Technical measures like ONORC enable portability within NFSA",
+      "D": "NFSA केवल राज्य के भीतर ही लागू होता है और केंद्र/राज्य मिलकर इसका क्रियान्वयन करते हैं / NFSA is implemented by Centre and States together"
     },
-    {
-        "id": 15,
-        "question": "First Anglo–Sikh War (1845–46) के कारणों में कौन-से प्रमुख थे? / Which of the following were major causes of the First Anglo–Sikh War (1845–46)?",
-        "options": {
-            "A": "Political instability after Ranjit Singh’s death.",
-            "B": "Expansionist policy of the East India Company.",
-            "C": "Mutual suspicion between Sikh army and British.",
-            "D": "British refusal to recognize Ranjit Singh as ruler."
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "After Ranjit Singh’s death in 1839, factionalism weakened the Sikh empire. The East India Company sought expansion, and distrust between the Sikh Khalsa army and British increased tensions. The refusal to recognize Ranjit Singh was not an issue, since he was already recognized earlier."
+    "answer": ["A", "C", "D"],
+    "explanation": "NFSA पात्र परिवारों को सब्सिडी पर खाद्य अनाज का अधिकार देता है; इसका कार्यान्वयन केंद्र और राज्य दोनों की सहभागिता से होता है और तकनीकी पहल (जैसे ONORC) राष्ट्रीय स्तर पर पोर्टेबिलिटी सुनिश्चित करने में मदद करती हैं। राज्य सरकारों का इस व्यवस्था में अहम रोल होता है।"
+  },
+  {
+    "id": 15,
+    "question": "जलवायु परिवर्तन और भारत: कौन-से कथन सामंजस्यपूर्ण/सही हैं? / Which of the following statements about climate change & India are correct?",
+    "options": {
+      "A": "COP28 के बाद वैश्विक स्तर पर 'Loss and Damage' फंड की स्थापना हुई, जो कमजोर देशों के नुकसान घटाने में मदद करेगा / Post COP28, a Loss & Damage fund was established to help vulnerable countries",
+      "B": "भारत ने COP28 में किसी भी तरह की वित्तीय सहायता देने से स्पष्टतः इनकार कर दिया / India explicitly refused to provide any financial support at COP28",
+      "C": "Loss & Damage Fund के संचालन और उसके board मीटिंग्स की कार्यवाही UNFCCC के माध्यम से प्रगति कर रही है / Operationalisation of the fund and board meetings are proceeding under UNFCCC arrangements",
+      "D": "Loss & Damage फंड केवल निजी दान-आधारित होगा और देशों की हिस्सेदारी पर निर्भर नहीं करेगा / The fund will be purely private-donor based"
     },
-    {
-        "id": 16,
-        "question": "Battle of Ferozeshah (1845) और Battle of Sobraon (1846) के बारे में कौन-से कथन सही हैं? / Which of the following statements about the Battle of Ferozeshah (1845) and Sobraon (1846) are correct?",
-        "options": {
-            "A": "Both battles were part of the First Anglo–Sikh War.",
-            "B": "Sikh forces fought fiercely but suffered due to leadership crisis.",
-            "C": "Battle of Sobraon (1846) was the decisive battle leading to treaty.",
-            "D": "British were decisively defeated in both battles."
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "Both Ferozeshah and Sobraon were key battles of the First Anglo–Sikh War. The Sikhs fought with great courage but lacked effective leadership. Sobraon proved decisive, leading to the Treaty of Lahore. The British were not decisively defeated."
+    "answer": ["A", "C"],
+    "explanation": "COP28 में Loss & Damage फंड के गठन पर सहमति बनी; उसके बाद UNFCCC के अंतर्गत कार्यसमिति व बोर्ड की बैठकों के जरिये फंड को कारगर बनाने की प्रक्रियाएँ चल रही हैं। फंड केवल निजी दान-आधारित नहीं है बल्कि विभिन्न स्रोतों/प्रबंधों से संसाधन जुटाने के मार्ग तलाशे गये हैं।"
+  },
+  {
+    "id": 16,
+    "question": "देश-स्तरीय (national) डेटा सुरक्षा: निम्न में से कौन-से कथन सावधान करने वाले/सत्यापित हैं? / Which of the following about national data protection are correct?",
+    "options": {
+      "A": "डेटा संरक्षण कानून सिर्फ कागजी है और कोई नियामक निकाय बनाया गया ही नहीं / Data protection law is merely on paper and no regulatory body is envisaged",
+      "B": "DPDP Act में कुछ नियामक/बोर्ड की व्यवस्थाएँ हैं लेकिन नियम और enforcement लगभग चरणबद्ध रूप से आएँगे / DPDP Act envisages regulatory/board arrangements and rules will be notified in phases",
+      "C": "गोपनीयता-हक़ (right to privacy) पर सुप्रीम कोर्ट का निर्णय डेटा संरक्षणपर असर डालता है / SC's right to privacy judgment influences data protection discourse",
+      "D": "DPDP Act ने सभी प्रकार के प्रोसेसर्स पर समान कड़े नियंत्रण एकदम लगा दिए हैं, बिना किसी वर्गीकरण के / DPDP Act imposes identical strict controls on all processors without classification"
     },
-    {
-        "id": 17,
-        "question": "Treaty of Lahore (1846) के प्रावधानों में कौन-से सही हैं? / Which of the following were provisions of the Treaty of Lahore (1846)?",
-        "options": {
-            "A": "Sikh territory between Beas and Sutlej was ceded to British.",
-            "B": "Indemnity payment of 1.5 crore rupees to the British.",
-            "C": "Jammu and Kashmir ceded to Gulab Singh.",
-            "D": "Reduction of Sikh army strength."
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "The Treaty of Lahore ended the First Anglo-Sikh War. Sikhs ceded territory between Beas and Sutlej, paid heavy indemnity, and reduced their army. Jammu and Kashmir were later sold separately to Gulab Singh under the Treaty of Amritsar (1846)."
+    "answer": ["B", "C"],
+    "explanation": "DPDP Act में रेगुलेटरी प्रावधान/बोर्ड की व्यवस्था देखी जाती है और कई लागू नियम/प्रक्रियाएँ चरणबद्ध होकर लागू की जाएँगी। सुप्रीम कोर्ट का 'right to privacy' का जजमेंट डेटा संरक्षण और निजता पर नीतिगत बहसों को प्रभावित करता है। सभी प्रोसेसर्स पर एक समान कठोर नियंत्रण—बिना वर्गीकरण के—ऐसा कहना सटीक नहीं है क्योंकि अधिनियम/नियम वर्गीकरण व शर्तों पर निर्भर करता है।"
+  },
+  {
+    "id": 17,
+    "question": "UP-विशेष: 'One District One Product' (ODOP) पहल के बारे में कौन-से कथन सही हैं? / For Uttar Pradesh: Which are correct about ODOP?",
+    "options": {
+      "A": "ODOP का उद्देश्य हर जिले की विशिष्ट पारंपरिक वस्तु/उत्पाद को बढ़ावा देना है / ODOP aims to promote a district's unique traditional product",
+      "B": "ODOP केवल ग्राम स्तर पर हस्तशिल्प तक सीमित है और कृषि-उत्पाद शामिल नहीं है / ODOP is limited to rural handicrafts and excludes agricultural products",
+      "C": "ODOP से स्थानीय MSMEs और रोजगार सृजन पर फोकस रहता है / ODOP focuses on local MSMEs and job creation",
+      "D": "ODOP में मार्केटिंग, ब्रांडिंग और क्लस्टर-आधारित सपोर्ट शामिल हो सकता है / ODOP can include marketing, branding and cluster support"
     },
-    {
-        "id": 18,
-        "question": "Second Anglo–Sikh War (1848–49) के संदर्भ में कौन-से कथन सही हैं? / Which of the following statements about the Second Anglo–Sikh War are correct?",
-        "options": {
-            "A": "It started with the revolt of Mulraj in Multan.",
-            "B": "It ended with the annexation of Punjab in 1849.",
-            "C": "Battle of Chillianwala (1849) was indecisive.",
-            "D": "Battle of Gujrat (1849) led to final British victory."
-        },
-        "answer": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ],
-        "explanation": "The Second Anglo-Sikh War began with Mulraj’s revolt at Multan. The Battle of Chillianwala was hard-fought and indecisive. The decisive Battle of Gujrat followed, after which the Sikh empire was annexed by the British in 1849."
+    "answer": ["A", "C", "D"],
+    "explanation": "UP का ODOP कार्यक्रम जिलेवार विशिष्ट उत्पादों—हस्तशिल्प, खान-पान, कृषि-उत्पाद आदि—को प्रोत्साहित करके MSMEs एवं स्थानीय रोजगार को बढ़ाने पर केन्द्रित है; इसमें क्लस्टर विकास, ब्रांडिंग और बाज़ार तक पहुँच पर भी जोर दिया जाता है।"
+  },
+  {
+    "id": 18,
+    "question": "सार्वजनिक-निजी साझेदारी (PPP) मॉडल के संबंध में कौन-से बिंदु सामान्यतः सत्य हैं? / Which of the following are generally true about PPP models?",
+    "options": {
+      "A": "PPP में निजी क्षेत्र जोखिम, फाइनेंस और संचालन का हिस्सा लेता है / Private sector shares risks, finance and operations",
+      "B": "PPP का अर्थ है कि सरकार पूरी तरह से अपने सभी अधिकार और ज़िम्मेदारी निजी क्षेत्र को दे देती है / PPP always means complete ceding of govt rights/responsibilities",
+      "C": "विभिन्न PPP मॉडल—BOT, O&M, DBFOT—परिणाम व जोखिम-साझेदारी के तरीके बदलते हैं / Different PPP models (BOT, O&M, DBFOT) alter risk-sharing",
+      "D": "PPP से केवल राजस्व सृजन होता है; सामाजिक उद्देश्यों की पूर्ति पर इसका कोई प्रभाव नहीं होता / PPP only generates revenue and has no impact on social objectives"
     },
-    {
-        "id": 19,
-        "question": "Punjab के British annexation (1849) के बाद कौन-से प्रशासनिक उपाय अपनाए गए? / Which administrative measures were adopted after the annexation of Punjab in 1849?",
-        "options": {
-            "A": "Board of Administration under Henry Lawrence was created.",
-            "B": "Introduction of canal colonies and irrigation development.",
-            "C": "Introduction of Persian as the court language again.",
-            "D": "Reorganization of police and revenue system."
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "After annexation, the British established a Board of Administration under Henry Lawrence, promoted irrigation through canal colonies, and restructured police and revenue systems. English and vernacular languages replaced Persian in official usage."
+    "answer": ["A", "C"],
+    "explanation": "PPP फ्रेमवर्क में निजी भागीदार आमतौर पर वित्त, संचालन और कुछ जोखिम साझा करते हैं; विभिन्न मॉडल्स (BOT, DBFOT, O&M) में जिम्मेदारियों और जोखिम-हिस्सेदारी के तरीके अलग होते हैं। यह सत्य नहीं कि सरकार हमेशा सभी अधिकार छोड़ देती है या कि PPP का सामाजिक लक्ष्य पर कोई प्रभाव नहीं होता—ये केस-विशिष्ट होते हैं।"
+  },
+  {
+    "id": 19,
+    "question": "राष्ट्रीय स्वास्थ्य नीतियों के संदर्भ में कौन-से तत्व सामान्यतः शामिल होते हैं? / Which elements are typically included in national health policies?",
+    "options": {
+      "A": "रोकथाम (prevention), प्राथमिक देखभाल (primary care) और सार्वभौमिक स्वास्थ्य कवरेज पर जोर / Emphasis on prevention, primary care & UHC",
+      "B": "केवल बड़े अस्पतालों और तंत्र को वित्तपोषित करना और प्राथमिक स्वास्थ्य पर ध्यान नहीं देना / Only funding tertiary hospitals and ignoring primary care",
+      "C": "डिजिटल हेल्थ रिकॉर्ड और टेलीमेडिसिन जैसी तकनीकी पहलों का समावेश / Inclusion of digital health records & telemedicine",
+      "D": "सार्वजनिक स्वास्थ्य में निजी क्षेत्र के क्लीनिकल रोल की पूर्ण अस्वीकृति / Complete rejection of private sector clinical role in public health"
     },
-    {
-        "id": 20,
-        "question": "Maharaja Ranjit Singh के शासनकाल को ‘Secular State’ क्यों कहा जाता है? / Why is the reign of Maharaja Ranjit Singh often called a ‘Secular State’?",
-        "options": {
-            "A": "He abolished the Jizya tax.",
-            "B": "He appointed Hindus and Muslims in high offices.",
-            "C": "He built gurdwaras, temples, and mosques.",
-            "D": "He never allied with non-Sikhs."
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "Ranjit Singh abolished discriminatory taxes like Jizya, appointed officials from diverse communities, and patronized religious institutions of all faiths. However, he did form alliances with non-Sikhs, making option D incorrect."
+    "answer": ["A", "C"],
+    "explanation": "आधुनिक राष्ट्रीय स्वास्थ्य नीतियाँ सामान्यतः रोकथाम, प्राथमिक स्वास्थ्य सेवाओं और सार्वभौमिक स्वास्थ्य कवरेज पर जोर देती हैं; डिजिटलीकरण (इलेक्टॉनिक हेल्थ रिकॉर्ड, टेलीमेडिसिन) का समावेश भी बढ़ा है। प्राथमिक स्वास्थ्य को नज़रअंदाज़ करके केवल बड़े अस्पतालों पर फोकस करना या निजी क्षेत्र के रोल को पूर्णतः अस्वीकार करना आम नीति-रुख नहीं होता।"
+  },
+  {
+    "id": 20,
+    "question": "कृषि-सम्बन्धी वर्तमान मुद्दों पर—किसानों के लिए जोखिम प्रबंधन के कौन-से साधन सामान्यतः उपलब्ध हैं? / On current agriculture issues – which risk-management tools are commonly available to farmers?",
+    "options": {
+      "A": "फसल बीमा (crop insurance) और मौसम-इन्श्योरेंस / Crop insurance & weather insurance",
+      "B": "एनुअल इनकम-गारंटी (annual income guarantee) जो सरकार हर हाल में देती है / Government-guaranteed annual income in all circumstances",
+      "C": "मंडी व्यवस्था (APMC) व थोक बाजारों की सुधार योजनाएँ / APMC/wholesale market reforms",
+      "D": "मौसमी-बाज़ार/डेरिवेटिव बाजार का प्रयोग (commodities derivatives) जोखिम प्रबंधन में / Use of commodity derivatives for risk management"
     },
-    {
-        "id": 21,
-        "question": "सिख मिसलों (Misls) के उदय का मुख्य कारण क्या था? / What was the primary cause of the rise of Sikh Misls?",
-        "options": {
-            "A": "मुगल सत्ता का पतन / Decline of Mughal authority",
-            "B": "मराठा आक्रमण / Maratha invasions",
-            "C": "स्थानीय कृषकों का विद्रोह / Local peasant uprisings",
-            "D": "अफ़ग़ान आक्रमणों का दबाव / Pressure of Afghan invasions"
-        },
-        "answer": [
-            "A",
-            "D"
-        ],
-        "explanation": "सिख मिसलें 18वीं शताब्दी में तब उभरीं जब मुगल शक्ति कमजोर हो चुकी थी और अफग़ान आक्रमणों से पंजाब क्षेत्र में असुरक्षा बढ़ गई थी। इस स्थिति में स्थानीय सिख सरदारों ने अपने-अपने क्षेत्रों में स्वतंत्र सत्ता स्थापित की।"
+    "answer": ["A", "C", "D"],
+    "explanation": "किसान जोखिम प्रबंधन हेतु फसल बीमा (जैसे PMFBY), बाजार सुधार (APMC बदलने/नयी मार्केट पॉलिसीज़) और कभी-कभी कमोडिटी डेरिवेटिव्स का उपयोग कर सकते हैं। सरकार की ओर से हर हाल में वार्षिक आय की गारंटी सार्व्वजनिक रूप से मौज़ूद नहीं है—इस प्रकार B सही नहीं है।"
+  },
+  {
+    "id": 21,
+    "question": "राज्य-स्तरीय (UP) विकास-परियोजनाओं में पर्यावरणीय आकलन (EIA) का मुख्य उद्देश्य क्या है? / What is the main purpose of Environmental Impact Assessment (EIA) in state-level projects (e.g., UP)?",
+    "options": {
+      "A": "परियोजना के पर्यावरणीय प्रभावों की पहचान और उन्हें कम करने के उपाय सुझाना / Identify environmental impacts and suggest mitigation",
+      "B": "परियोजना को बिना किसी परिश्रम के स्वीकृति दिलवाना / To get project clearance without due diligence",
+      "C": "सार्वजनिक परामर्श और पारदर्शिता सुनिश्चित करना / Ensure public consultation and transparency",
+      "D": "पर्यावरण नियामक मानकों के आधार पर नियमों का अनुपालन सुनिश्चित करना / Ensure compliance with environmental regulatory standards"
     },
-    {
-        "id": 22,
-        "question": "महाराजा रणजीत सिंह ने लाहौर को राजधानी क्यों बनाया? / Why did Maharaja Ranjit Singh make Lahore his capital?",
-        "options": {
-            "A": "यह भौगोलिक दृष्टि से सुरक्षित था / It was geographically secure",
-            "B": "यह व्यापार और संस्कृति का केंद्र था / It was a center of trade and culture",
-            "C": "यह पहले मुगल उपराजधानी रहा था / It was earlier a Mughal sub-capital",
-            "D": "यह ब्रिटिशों के प्रभाव से दूर था / It was away from British influence"
-        },
-        "answer": [
-            "A",
-            "B"
-        ],
-        "explanation": "लाहौर को राजधानी चुनने का कारण उसकी सामरिक सुरक्षा और पंजाब में व्यापार-सांस्कृतिक गतिविधियों का प्रमुख केंद्र होना था। रणजीत सिंह ने इसे अपने साम्राज्य की प्रशासनिक और सैन्य शक्ति का केंद्र बनाया।"
+    "answer": ["A", "C", "D"],
+    "explanation": "EIA का उद्देश्य परियोजनाओं के संभावित पर्यावरण-प्रभावों की पहचान, उन्हें कम करने के उपाय सुझाना, सार्वजनिक परामर्श की प्रक्रिया को शामिल करना और पर्यावरणीय नियमों का अनुपालन सुनिश्चित करना है—यह किसी परियोजना को स्वतः स्वीकृति दिलाने का साधन नहीं है।"
+  },
+  {
+    "id": 22,
+    "question": "भोजन सुरक्षा और पोर्टेबिलिटी के परिप्रेक्ष्य में 'ration portability' के लाभों में से कौन-से हैं? / Which are benefits of ration portability in food security?",
+    "options": {
+      "A": "माईग्रेशन के दौरान लाभार्थियों को लगातार राशन प्राप्त करने की सुविधा / Ensures beneficiaries get ration during migration",
+      "B": "यह लाभार्थियों की पहचान पूरी तरह से हटाकर दिया जाता है और डेटा की आवश्यकता समाप्त करता है / Removes identity requirement and eliminates need for data",
+      "C": "फर्जीवाड़े और डुप्लीकेसी पकड़ने में बेहतर तकनीकी मदद मिलती है / Improves technical detection of fraud/duplication",
+      "D": "यह राष्ट्रीय खरीद-दर और वितरण व्यवस्था पर पारदर्शिता ला सकता है / Increases transparency in procurement/distribution"
     },
-    {
-        "id": 23,
-        "question": "रणजीत सिंह की सेना 'फ़ौज-ए-ख़ास' की विशेषता क्या थी? / What was the specialty of Ranjit Singh’s 'Fauj-i-Khas'?",
-        "options": {
-            "A": "यह यूरोपीय अधिकारियों द्वारा प्रशिक्षित थी / It was trained by European officers",
-            "B": "यह पैदल सेना, घुड़सवार और तोपखाने से बनी थी / It comprised infantry, cavalry, and artillery",
-            "C": "यह केवल पंजाबी सैनिकों तक सीमित थी / It was restricted only to Punjabi soldiers",
-            "D": "यह नियमित वेतन और आधुनिक हथियारों से सुसज्जित थी / It had regular salaries and modern weapons"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "रणजीत सिंह की 'फ़ौज-ए-ख़ास' यूरोपीय सैन्य अधिकारियों द्वारा प्रशिक्षित एक नियमित सेना थी। इसमें पैदल सेना, घुड़सवार और तोपखाना शामिल था। सैनिकों को नियमित वेतन और आधुनिक हथियार दिए जाते थे।"
+    "answer": ["A", "C", "D"],
+    "explanation": "राशन पोर्टेबिलिटी का बड़ा लाभ यह है कि प्रवास करते हुए भी पात्र व्यक्ति राशन उठा सकते हैं; डिजिटल पहचान व डेटा का सही उपयोग फर्जीवाड़ा पहचानने में मदद करता है और समग्र व्यवस्था में पारदर्शिता लाता है। यह पहचान की आवश्यकता खत्म नहीं करता—बल्कि उसे प्रभावी बनाता है।"
+  },
+  {
+    "id": 23,
+    "question": "डिजिटल/डाटा कानूनों के तहत 'consent' की भूमिका के बारे में कौन-से बिंदु सही हैं? / Regarding 'consent' under digital/data laws, which are correct?",
+    "options": {
+      "A": "सहमति हमेशा 'अनिर्धारित/पहले से स्वीकार' (blanket/implicit) मान ली जानी चाहिए / Consent should always be presumed implicit",
+      "B": "कानून अक्सर स्पष्ट और सूचना-आधारित सहमति (informed, explicit consent) की माँग करता है / Laws require informed and often explicit consent",
+      "C": "कभी-कभी अन्य कानूनी आधार (like contract, statutory obligations) डेटा प्रसंस्करण को वैध ठहराते हैं / Other legal bases like contract/statutory obligations can legitimise processing",
+      "D": "सहमति का रद्द किया जाना (withdrawal) संभव होना चाहिए / Consent should be withdrawable"
     },
-    {
-        "id": 24,
-        "question": "1809 की अमृतसर संधि (Treaty of Amritsar) के तहत ब्रिटिश और रणजीत सिंह में क्या सहमति बनी? / What was agreed upon in the Treaty of Amritsar (1809)?",
-        "options": {
-            "A": "सतलज नदी के पार विस्तार नहीं करेंगे / Ranjit Singh would not expand beyond Sutlej",
-            "B": "ब्रिटिश पंजाब में व्यापार कर सकते थे / British could trade in Punjab",
-            "C": "रणजीत सिंह ने ब्रिटिश सुरक्षा स्वीकार की / Ranjit Singh accepted British protection",
-            "D": "दोनों पक्षों ने एक-दूसरे की संप्रभुता स्वीकार की / Both sides recognized each other’s sovereignty"
-        },
-        "answer": [
-            "A",
-            "D"
-        ],
-        "explanation": "अमृतसर की संधि (1809) में यह तय हुआ कि रणजीत सिंह सतलज नदी के पार विस्तार नहीं करेंगे और ब्रिटिश तथा सिख राज्य एक-दूसरे की संप्रभुता को मान्यता देंगे।"
+    "answer": ["B", "C", "D"],
+    "explanation": "आधुनिक डेटा संरक्षण फ्रेमवर्क्स में सहमति को सूचना-आधारित और अक्सर स्पष्ट होना चाहिए; साथ ही कुछ परिस्थितियों में कानूनी/अनुबंधिक आधारों पर भी डेटा प्रोसेस किया जा सकता है। सहमति का वापस लेना (withdrawal) एक सामान्य मानक है।"
+  },
+  {
+    "id": 24,
+    "question": "भारतीय आर्थिक नीतियों में 'लक्ष्यित सब्सिडी (targeted subsidy)' का उद्देश्य क्या है? / What is the objective of targeted subsidies in Indian economic policy?",
+    "options": {
+      "A": "सब्सिडी को केवल उन्हीं लोगों तक सीमित करना जिनकी वास्तविक जरूरत है / Restrict subsidies only to those genuinely in need",
+      "B": "सब्सिडी का उद्देश्य सार्वभौमिक रूप से हर नागरिक को देना है / Universal subsidy to every citizen",
+      "C": "लक्षित सब्सिडी से सरकारी संसाधनों का बेहतर उपयोग और प्रवाह नियंत्रित करना संभव है / Targeted subsidies improve resource use & control leakage",
+      "D": "लक्षित सब्सिडी किसी भी तरह के पहचान/डेटा-इन्फ्रास्ट्रक्चर पर निर्भर नहीं करती / Targeted subsidies do not rely on ID/data infrastructure"
     },
-    {
-        "id": 25,
-        "question": "महाराजा रणजीत सिंह ने कश्मीर पर अधिकार किसके शासन से लिया? / From whom did Maharaja Ranjit Singh acquire Kashmir?",
-        "options": {
-            "A": "अफ़ग़ान शासक / Afghan rulers",
-            "B": "मुगल शासक / Mughal rulers",
-            "C": "ब्रिटिश ईस्ट इंडिया कंपनी / British East India Company",
-            "D": "सिख मिसलों से / Sikh Misls"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "रणजीत सिंह ने 1819 में अफ़ग़ानों को हराकर कश्मीर को अपने साम्राज्य में शामिल किया। यह विजय उनके साम्राज्य के विस्तार की एक महत्वपूर्ण उपलब्धि थी।"
+    "answer": ["A", "C"],
+    "explanation": "Targeted subsidies का लक्ष्य है कि सार्वजनिक संसाधन उन्हीं तक पहुँचे जो वास्तव में जरूरतमंद हैं, जिससे लीक कम हो और संसाधनों का प्रभावी उपयोग हो सके; यह अक्सर पहचान/डेटा इन्फ्रास्ट्रक्चर (DBT, Aadhar-आधारित) पर निर्भर करता है।"
+  },
+  {
+    "id": 25,
+    "question": "साइबर सुरक्षा और राष्ट्रीय सुरक्षा: किस प्रकार की नीतिगत व्यवस्थाएँ सामान्यतः अपेक्षित की जाती हैं? / Cybersecurity & national security: which policy arrangements are typically expected?",
+    "options": {
+      "A": "अंतरराष्ट्रीय सहयोग और इंटेलिजेंस शेयरिंग की व्यवस्थाएँ / International cooperation & intelligence sharing",
+      "B": "सिर्फ घरेलू एंटीवायरस सॉफ्टवेयर के वितरण से पूरा कार्य सम्पन्न हो जाता है / Distributing antivirus software domestically is sufficient",
+      "C": "इन्फ्रास्ट्रक्चर के लिए सेक्टरल-स्तर की सुरक्षा मानदंड (critical infrastructure protection) / Sectoral security norms for critical infrastructure",
+      "D": "कानूनी ढाँचे, रिपोर्टिंग और INCIDENT RESPONSE मैकेनिज्म की आवश्यकता / Legal frameworks, reporting & incident response mechanisms"
     },
-    {
-        "id": 26,
-        "question": "पहला आंग्ल-सिख युद्ध (1845-46) क्यों हुआ? / Why did the First Anglo-Sikh War (1845–46) occur?",
-        "options": {
-            "A": "लाहौर दरबार की आंतरिक अशांति / Internal instability of Lahore Darbar",
-            "B": "ब्रिटिशों का पंजाब की राजनीति में हस्तक्षेप / British interference in Punjab politics",
-            "C": "रणजीत सिंह की मृत्यु के बाद सत्ता संघर्ष / Power struggle after Ranjit Singh’s death",
-            "D": "अमृतसर संधि का उल्लंघन / Violation of Treaty of Amritsar"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "पहले आंग्ल-सिख युद्ध के कारणों में रणजीत सिंह की मृत्यु के बाद उत्तराधिकार संघर्ष, लाहौर दरबार की आंतरिक अशांति और ब्रिटिश हस्तक्षेप प्रमुख थे।"
+    "answer": ["A", "C", "D"],
+    "explanation": "समकालीन साइबर सुरक्षा नीतियाँ अंतरराष्ट्रीय सहयोग, सेक्टर-विशिष्ट सुरक्षा मानदंड और मजबूत कानूनी तथा INCIDENT RESPONSE तंत्रों पर निर्भर करती हैं; केवल एंटीवायरस वितरण से यह क्षेत्रीकृत समस्या नहीं सुलझती।"
+  },
+  {
+    "id": 26,
+    "question": "ग्रामोद्योग/लघु उद्योगों के लिए 'cluster-based' नीति लाभ में कौन-से तत्व होते हैं? / For rural/SME clusters, which policy elements are beneficial?",
+    "options": {
+      "A": "साझा उत्पादन-इन्फ्रास्ट्रक्चर और मशीनरी / Shared production infrastructure & machinery",
+      "B": "एक-एक उद्यम को अलग-अलग सब्सिडी देकर केंद्रित करना / Focusing by giving subsidies separately to each unit only",
+      "C": "कौशल प्रशिक्षण और डिजिटलीकरण समर्थन / Skill training & digitisation support",
+      "D": "ब्रांडिंग, मार्केट एक्सेस और सप्लाई-चैन सहयोग / Branding, market access & supply-chain support"
     },
-    {
-        "id": 27,
-        "question": "पहले आंग्ल-सिख युद्ध का परिणाम क्या हुआ? / What was the result of the First Anglo-Sikh War?",
-        "options": {
-            "A": "लाहौर संधि (1846) / Treaty of Lahore (1846)",
-            "B": "सिख साम्राज्य का पूर्ण अंत / Complete end of Sikh Empire",
-            "C": "ब्रिटिशों ने सतलज के पार क्षेत्रों पर अधिकार किया / British annexed territories beyond Sutlej",
-            "D": "दूसरे आंग्ल-सिख युद्ध की पृष्ठभूमि बनी / Background for the Second Anglo-Sikh War"
-        },
-        "answer": [
-            "A",
-            "C",
-            "D"
-        ],
-        "explanation": "लाहौर संधि (1846) के तहत ब्रिटिशों ने सतलज के पार के क्षेत्र ले लिए और सिख साम्राज्य काफी कमजोर हो गया। यही आगे दूसरे आंग्ल-सिख युद्ध का कारण बना।"
+    "answer": ["A", "C", "D"],
+    "explanation": "क्लस्टर-आधारित नीतियाँ साझा इंफ्रास्ट्रक्चर, कौशल विकास, डिजिटलीकरण, ब्रांडिंग व बाज़ार तक पहुँच पर जोर देती हैं; केवल व्यक्तिगत इकाइयों को अलग सब्सिडी देना क्लस्टर लाभ नहीं पैदा करता।"
+  },
+  {
+    "id": 27,
+    "question": "सतत ऊर्जा (renewable energy) और हरित हाइड्रोजन की नीति सम्बन्धी कौन-से बिंदु सही हैं? / Which of the following about renewables and green hydrogen policy are correct?",
+    "options": {
+      "A": "हरित हाइड्रोजन का लक्ष्य फॉसिल-ईंधन की जगह पूरी तरह लेने का है तुरंत / Aim is to immediately replace all fossil fuels",
+      "B": "हरित हाइड्रोजन प्रौद्योगिकी में अक्षय ऊर्जा से बिजली के माध्यम से इलेक्ट्रोलिसिस मुख्य मार्ग है / Electrolysis using renewable electricity is the main route for green hydrogen",
+      "C": "नीतियाँ अक्सर निवेश, R&D और उत्पादन लागत घटाने पर फोकस करती हैं / Policies focus on investment, R&D & cost reduction",
+      "D": "हरित हाइड्रोजन केवल घरेलू उपयोग के लिए है और निर्यात रणनीति का हिस्सा नहीं हो सकती / Green hydrogen is only for domestic use and cannot be part of export strategy"
     },
-    {
-        "id": 28,
-        "question": "दूसरे आंग्ल-सिख युद्ध (1848–49) के पीछे क्या कारण थे? / What were the causes behind the Second Anglo-Sikh War?",
-        "options": {
-            "A": "लाहौर दरबार के खिलाफ विद्रोह / Rebellion against Lahore Darbar",
-            "B": "ब्रिटिशों की कठोर शर्तें / Harsh terms imposed by British",
-            "C": "सिख नेताओं की महत्वाकांक्षा / Ambition of Sikh leaders",
-            "D": "ब्रिटिश और सिखों के बीच अविश्वास / Mutual distrust between British and Sikhs"
-        },
-        "answer": [
-            "B",
-            "C",
-            "D"
-        ],
-        "explanation": "दूसरे आंग्ल-सिख युद्ध का मुख्य कारण ब्रिटिशों द्वारा लाहौर संधि में लगाई गई कठोर शर्तें, सिख नेताओं की महत्वाकांक्षा और दोनों पक्षों के बीच गहरा अविश्वास था।"
+    "answer": ["B", "C"],
+    "explanation": "Green hydrogen आमतौर पर अक्षय स्रोतों से बिजली द्वारा इलेक्ट्रोलिसिस के माध्यम से बनाया जाता है; नीति-ढाँचे में निवेश, R&D और उत्पादन लागत घटाने पर जोर होता है। इसका उद्देश्य तुरंत फॉसिल-ईंधन की पूर्ण जगह लेना नहीं बल्कि दीर्घकालिक संक्रमण को सक्षम करना है और यह निर्यात-रणनीति का भी हिस्सा बन सकता है।"
+  },
+  {
+    "id": 28,
+    "question": "Uttar Pradesh में बड़े बुनियादी ढांचा प्रोजेक्ट—किस तरह के आर्थिक प्रभाव अपेक्षित रहते हैं? / For major infra projects in UP, which economic impacts are typically expected?",
+    "options": {
+      "A": "स्थानीय रोजगार सृजन और स्थानीय अर्थव्यवस्था में रेलिवेंट मल्टीप्लायर प्रभाव / Local job creation & multiplier effects in local economy",
+      "B": "तुरंत और बिना किसी योजना के इंडस्ट्रियल डिक्लाइन / Immediate industrial decline without planning",
+      "C": "लॉजिस्टिक्स लागत में कमी और बाज़ार तक पहुंच में सुधार / Reduction in logistics costs & improved market access",
+      "D": "पर्यावरण और सामाजिक प्रभावों की संभावित चुनौतियाँ, जिन्हें प्रबंधित करना जरुरी है / Potential environmental/social challenges that need management"
     },
-    {
-        "id": 29,
-        "question": "दूसरे आंग्ल-सिख युद्ध के बाद पंजाब का क्या हुआ? / What happened to Punjab after the Second Anglo-Sikh War?",
-        "options": {
-            "A": "यह ब्रिटिश साम्राज्य में मिला लिया गया / It was annexed into the British Empire",
-            "B": "यह स्वतंत्र राज्य बना रहा / It remained an independent state",
-            "C": "यह मराठों को सौंपा गया / It was given to the Marathas",
-            "D": "यह दो भागों में विभाजित किया गया / It was divided into two parts"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "1849 में दूसरे आंग्ल-सिख युद्ध के बाद लॉर्ड डलहौजी ने पंजाब को ब्रिटिश साम्राज्य में मिला लिया। इससे सिख साम्राज्य का अंत हो गया।"
+    "answer": ["A", "C", "D"],
+    "explanation": "बड़े इन्फ्रास्ट्रक्चर प्रोजेक्ट्स से अक्सर स्थानीय रोजगार और मल्टीप्लायर प्रभाव आते हैं; लॉजिस्टिक्स लागत घट सकती है और बाज़ार एप्रोच बेहतर होता है। साथ ही पर्यावरणीय और सामाजिक चुनौतियाँ—बिना उपयुक्त योजना—उभर सकती हैं जिनका प्रबंधन आवश्यक है।"
+  },
+  {
+    "id": 29,
+    "question": "RBI द्वारा घोषित डिजिटल रुपया (CBDC) के संदर्भ में कौन-से तथ्य सही हैं? / Which statements about India's central bank digital currency (CBDC - Digital Rupee) are true?",
+    "options": {
+      "A": "CBDC को आरबीआई ने पायलट चरण में जारी किया/परखने के लिये कदम उठाए हैं / RBI has taken steps to pilot/test CBDC",
+      "B": "CBDC का अर्थ यह है कि सभी बैंक नोट तुरंत डिजिटल हो कर बंद कर दिये जायेंगे / CBDC means all banknotes will be instantly discontinued",
+      "C": "CBDC पायलट में रिटेल व होलसेल दोनों मॉडलों पर परिक्षण हो सकता है / CBDC pilots may test both retail and wholesale models",
+      "D": "CBDC से भुगतान प्रणाली में पारदर्शिता तथा ट्रेसबिलिटी के आयाम बदल सकते हैं / CBDC can change transparency & traceability in payment systems"
     },
-    {
-        "id": 30,
-        "question": "लॉर्ड डलहौजी द्वारा पंजाब को मिलाने का औचित्य क्या था? / What justification did Lord Dalhousie give for annexing Punjab?",
-        "options": {
-            "A": "सिख राज्य में अराजकता / Disorder in Sikh state",
-            "B": "ब्रिटिश हितों की सुरक्षा / Security of British interests",
-            "C": "सिखों द्वारा संधि का उल्लंघन / Sikh violation of treaty",
-            "D": "व्यापार मार्गों पर नियंत्रण / Control over trade routes"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "डलहौजी ने पंजाब को मिलाने का औचित्य बताया कि सिख राज्य में अराजकता थी, उन्होंने संधियों का उल्लंघन किया और ब्रिटिश हितों की रक्षा जरूरी थी।"
+    "answer": ["A", "C", "D"],
+    "explanation": "RBI ने Digital Rupee (CBDC) के पायलट्स की शुरुआत कर दी है और इसमें रिटेल/होलसेल मॉडल का परीक्षण संभव है; CBDC से भुगतान पारदर्शिता और ट्रेसबिलिटी के आयाम प्रभावित हो सकते हैं। यह ज़रूरी नहीं कि नोट तुरंत बंद कर दिये जायें—फ़ेज़्ड-रोलआउट का रास्ता चुना जा सकता है।"
+  },
+  {
+    "id": 30,
+    "question": "जल-संसाधन नीति और नदी-लिंकिंग परियोजनाओं के संदर्भ में निम्नलिखित में से क्या सच हो सकता है? / Regarding water-resources and river-linking projects, which are plausible?",
+    "options": {
+      "A": "नदी-लिंकिंग परियोजनाओं से पूरे देश में बिना वातावरणीय जाँच के जल प्रबंधन सहज हो जाएगा / River-linking will seamlessly solve water management without environmental checks",
+      "B": "ऐसी परियोजनाएँ बड़ी हाइड्रोजीओलॉजिकल, सामाजिक और पर्यावरणीय जटिलताएँ उत्पन्न कर सकती हैं / Such projects can produce major hydrogeological, social & environmental complexities",
+      "C": "स्थानीय जल प्रभावों का मापन और पारिस्थितिक संतुलन का आकलन आवश्यक है / Measurement of local water impacts & ecological balance assessment is necessary",
+      "D": "तुलनात्मक लागत-लाभ (cost-benefit) और वैकल्पिक समाधान (उदा. जल संरक्षण) को भी तौलना चाहिए / Cost-benefit analysis and alternative solutions (e.g., water conservation) should be considered"
     },
-    {
-        "id": 31,
-        "question": "महाराजा रणजीत सिंह की धार्मिक नीति कैसी थी? / What was the religious policy of Maharaja Ranjit Singh?",
-        "options": {
-            "A": "सिखों को विशेषाधिकार दिए / Gave privileges to Sikhs only",
-            "B": "धर्मनिरपेक्ष दृष्टिकोण अपनाया / Adopted secular approach",
-            "C": "हिंदू मंदिरों और मुस्लिम दरगाहों को संरक्षण दिया / Patronized Hindu temples and Muslim shrines",
-            "D": "ईसाई मिशनरियों को रोका / Restricted Christian missionaries"
-        },
-        "answer": [
-            "B",
-            "C"
-        ],
-        "explanation": "रणजीत सिंह की धार्मिक नीति धर्मनिरपेक्ष थी। उन्होंने अमृतसर के स्वर्ण मंदिर को सोना चढ़वाया और साथ ही कई हिंदू मंदिरों और मुस्लिम दरगाहों को संरक्षण दिया।"
+    "answer": ["B", "C", "D"],
+    "explanation": "नदी-लिंकिंग जैसी बड़ी परियोजनाएँ जटिल हैं—हाइड्रोलॉजी, सामाजिक विस्थापन, पर्यावरणीय प्रभाव इत्यादि के कारण सावधानीपूर्वक मूल्यांकन, पर्यावरणीय जाँच और cost-benefit तुलना की आवश्यकता होती है; यह कहना कि ये बिना किसी पर्यावरणीय जाँच के सहज समाधान होंगी, वास्तविक नहीं है।"
+  },
+  {
+    "id": 31,
+    "question": "भारत की विनिर्माण (manufacturing) नीति — 'Make in India' जैसी पहलों का क्या लक्ष्य रहता है? / What are typical aims of manufacturing policies like 'Make in India'?",
+    "options": {
+      "A": "देश-विदेशी निवेश आकर्षित करना और घरेलू विनिर्माण क्षमता बढ़ाना / Attract domestic & foreign investment and boost manufacturing capacity",
+      "B": "कच्चे माल के आयात को अनिवार्य करना ताकि विदेशी कंपनियाँ लाभान्वित हों / Mandate raw material imports to benefit foreign firms",
+      "C": "रोजगार सृजन और निर्यात वृद्धि पर ध्यान देना / Focus on job creation and export growth",
+      "D": "मुफ्त बाज़ार की जगह पूरी तरह सरकारी उद्योगीकरण करना / Replace free markets with full state industrialisation"
     },
-    {
-        "id": 32,
-        "question": "सिख साम्राज्य में कूटनीति और प्रशासन में यूरोपीय अधिकारियों की भूमिका क्या थी? / What was the role of European officers in Sikh diplomacy and administration?",
-        "options": {
-            "A": "सेना का आधुनिकीकरण / Modernization of army",
-            "B": "कूटनीतिक मिशनों में भागीदारी / Participation in diplomatic missions",
-            "C": "राजस्व सुधार लागू करना / Implementing revenue reforms",
-            "D": "प्रशासनिक ढांचे को यूरोपीय मॉडल पर ढालना / Shaping administration on European model"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "यूरोपीय अधिकारियों ने सिख सेना को आधुनिक बनाने, कूटनीतिक मिशनों में मदद करने और प्रशासनिक ढांचे को यूरोपीय शैली में ढालने में महत्वपूर्ण योगदान दिया।"
+    "answer": ["A", "C"],
+    "explanation": "पोडेस/नीतियाँ जैसे 'Make in India' निवेश आकर्षित करने, विनिर्माण क्षमताएँ बढ़ाने, रोजगार सृजन और निर्यात बढ़ाने पर केन्द्रित होती हैं; वे कच्चा माल आयात अनिवार्यता या पूर्ण सरकारी उद्योगीकरण के उद्देश्य नहीं रखतीं।"
+  },
+  {
+    "id": 32,
+    "question": "सार्वजनिक वित्त और बजट: 'फ़िस्कल डिफ़िसिट' और 'प्राथमिक घाटा (primary deficit)' में अंतर क्या है? / What is the difference between fiscal deficit and primary deficit?",
+    "options": {
+      "A": "Fiscal deficit कुल सरकारी खर्च और राजस्व के अंतर को दर्शाता है (borrowing requirement) / Fiscal deficit shows difference between govt total expenditure and receipts",
+      "B": "Primary deficit में ब्याज़ भुगतान को शामिल किया जाता है जबकि Fiscal deficit में नहीं / Primary deficit includes interest payment but fiscal deficit does not",
+      "C": "Primary deficit = Fiscal deficit − interest payments / Primary deficit equals fiscal deficit minus interest payments",
+      "D": "Fiscal deficit हमेशा Primary deficit से छोटा होता है / Fiscal deficit is always smaller than primary deficit"
     },
-    {
-        "id": 33,
-        "question": "किस युद्ध में अंग्रेजों ने सिखों को सोबरांव (Sobraon) की लड़ाई में हराया? / In which war did the British defeat the Sikhs at the Battle of Sobraon?",
-        "options": {
-            "A": "पहला आंग्ल-सिख युद्ध / First Anglo-Sikh War",
-            "B": "दूसरा आंग्ल-सिख युद्ध / Second Anglo-Sikh War",
-            "C": "तीसरा आंग्ल-मराठा युद्ध / Third Anglo-Maratha War",
-            "D": "पहला आंग्ल-अफ़ग़ान युद्ध / First Anglo-Afghan War"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "1846 में पहले आंग्ल-सिख युद्ध के दौरान सोबरांव की लड़ाई में अंग्रेजों ने निर्णायक जीत हासिल की थी।"
+    "answer": ["A", "C"],
+    "explanation": "Fiscal deficit कुल बजट अंतर (जो उधारी की आवश्यकता दर्शाता है) है; Primary deficit वह Fiscal deficit है जिसमें सरकार के ब्याज़ भुगतान को घटा दिया गया हो—यानी Primary = Fiscal − Interest। इसलिए Fiscal deficit सामान्यतः Primary से बड़ा होता है, न कि छोटा।"
+  },
+  {
+    "id": 33,
+    "question": "स्मार्ट सिटी/अर्बन मिशन के संदर्भ में 'नागरिक सहभागिता' क्यों जरूरी मानी जाती है? / Why is citizen participation considered essential in Smart City/Urban missions?",
+    "options": {
+      "A": "क्योंकि स्थानीय जरूरतों और प्राथमिकताओं का सही आकलन नागरिकों से ही संभव है / Because local needs & priorities are best assessed by citizens",
+      "B": "क्योंकि इससे पारदर्शिता और जवाबदेही बढ़ती है / It enhances transparency & accountability",
+      "C": "क्योंकि स्मार्ट सिटी मॉडल में हमेशा निजी कंपनियाँ ही निर्णय लेती हैं और नागरिक की भागीदारी आवश्यक नहीं / Because private companies always make decisions and citizen role not needed",
+      "D": "क्योंकि क्राउडसोर्सिंग और लोक-डेटा शोधन से सेवाओं की दक्षता बढ़ सकती है / Because crowdsourcing and public data curation can improve service efficiency"
     },
-    {
-        "id": 34,
-        "question": "सिख साम्राज्य की सीमा विस्तार में कौन से क्षेत्र शामिल थे? / Which regions were included in the territorial expansion of the Sikh Empire?",
-        "options": {
-            "A": "पेशावर / Peshawar",
-            "B": "मुल्तान / Multan",
-            "C": "कश्मीर / Kashmir",
-            "D": "अवध / Awadh"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "रणजीत सिंह ने पेशावर, मुल्तान और कश्मीर जैसे क्षेत्रों पर अधिकार कर अपने साम्राज्य का विस्तार किया।"
+    "answer": ["A", "B", "D"],
+    "explanation": "Smart Cities जैसे कार्यक्रमों में नागरिक सहभागिता आवश्यक है ताकि स्थानीय आवश्यकताओं का सही पता चल सके, पारदर्शिता और जवाबदेही सुनिश्चित हो और क्राउडसोर्सिंग/डेटा-सहयोग से सेवाओं की दक्षता बढ़े। निजी कंपनियाँ अकेले निर्णय नहीं लेतीं—जनप्रतिनिधित्व व नियामक तंत्र भी महत्वपूर्ण हैं।"
+  },
+  {
+    "id": 34,
+    "question": "सूक्ष्म ऋण (Microfinance) और Self-Help Groups (SHGs) के फायदे/जोखिम के क्या उदाहरण हैं? / What are examples of benefits/risks of microfinance & SHGs?",
+    "options": {
+      "A": "स्थानीय उद्यमिता और महिला सशक्तिकरण में योगदान / Contribute to local entrepreneurship and women empowerment",
+      "B": "अत्यधिक ऋण-भार (over-indebtedness) और उच्च ब्याज दर का जोखिम / Risk of over-indebtedness & high interest rates",
+      "C": "ब्याज दरों का पूरी तरह सरकार द्वारा तय होना और निजी क्षेत्र का बाहर होना / Interest rates wholly fixed by govt and exclusion of private sector",
+      "D": "सामाजिक पूँजी और क्रेडिट-रिस्क समूह-आधारित तरीके से कम होना / Social capital & group-based risk mitigation"
     },
-    {
-        "id": 35,
-        "question": "पंजाब का ब्रिटिश साम्राज्य में विलय कब हुआ? / When was Punjab annexed into the British Empire?",
-        "options": {
-            "A": "1846",
-            "B": "1848",
-            "C": "1849",
-            "D": "1857"
-        },
-        "answer": [
-            "C"
-        ],
-        "explanation": "1849 में दूसरे आंग्ल-सिख युद्ध के बाद पंजाब को ब्रिटिश साम्राज्य में मिला लिया गया।"
+    "answer": ["A", "B", "D"],
+    "explanation": "Microfinance/SHG मॉडल से स्थानीय उद्यमिता व महिला सशक्तिकरण को बढ़ावा मिलता है और समूह-आधारित सामाजिक पूँजी जोखिम घटाने में मदद करती है; परन्तु अतिरिक्‍त ऋणभार व उच्च ब्याज दरें जोखिम भी पैदा कर सकती हैं। ब्याज दरों का पूरा नियमन मात्र सरकारी हस्तक्षेप से नहीं होता—यह मिश्रित बाजार संरचना पर निर्भर करता है।"
+  },
+  {
+    "id": 35,
+    "question": "टेक्स्टाइल/खाद्य-आधारित GI (Geographical Indication) टैग के क्या लाभ हो सकते हैं? / What benefits can GI tags (textile/food) provide?",
+    "options": {
+      "A": "स्थानीय उत्पादों की ब्रांडिंग और मूल्य संवर्धन / Branding and value addition for local products",
+      "B": "GI टैग से स्वत: निर्यात लाभ और कोई प्रमाणीकरण आवश्यक नहीं रहता / GI tag automatically ensures export benefits without further certification",
+      "C": "रोजगार में वृद्धि और पारंपरिक कौशल के संरक्षण में मदद / Boost employment and preserve traditional skills",
+      "D": "बाज़ार में नकल-प्रतिबंध और कानूनी सुरक्षा के रूप में मदद मिलती है / Helps prevent imitation and offers legal protection"
     },
-    {
-        "id": 36,
-        "question": "सिख साम्राज्य के अंत का मुख्य कारण क्या था? / What was the main reason for the fall of the Sikh Empire?",
-        "options": {
-            "A": "उत्तराधिकार संकट / Succession crisis",
-            "B": "अंग्रेजों की श्रेष्ठ सैन्य रणनीति / Superior British military strategy",
-            "C": "लाहौर दरबार की आंतरिक कलह / Internal strife of Lahore Darbar",
-            "D": "राजस्व प्रणाली की कमजोरी / Weakness of revenue system"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "सिख साम्राज्य के पतन का मुख्य कारण उत्तराधिकार संकट, आंतरिक कलह और अंग्रेजों की श्रेष्ठ सैन्य रणनीति थी।"
+    "answer": ["A", "C", "D"],
+    "explanation": "GI टैग स्थानीय उत्पादों की ब्रांडिंग कर उनका मूल्य बढ़ाते हैं, पारंपरिक कौशल व रोजगार को संरक्षित करने में मदद करते हैं और नकल से सुरक्षा व कानूनी संरक्षण मुहैया कराते हैं; परन्तु इसका स्वतः अर्थ नहीं कि बिना किसी अन्य प्रमाणीकरण के निर्यात में तुरंत लाभ होगा—निर्यात हेतु अन्य मानकों का भी पालन आवश्यक हो सकता है।"
+  },
+  {
+    "id": 36,
+    "question": "शहरी वायु-गुणवत्ता नीतियों में Graded Response Action Plan (GRAP) जैसा तंत्र किसलिए उपयोगी है? / Why is a Graded Response Action Plan (GRAP) useful in urban air quality policies?",
+    "options": {
+      "A": "यह प्रदूषण के स्तर के अनुसार क्रमिक उपाय (graded actions) निर्धारित करता है / It prescribes graded actions per pollution levels",
+      "B": "यह सभी आर्थिक गतिविधियों को स्थायी रूप से बंद करने का तंत्र है / It permanently shuts down all economic activities",
+      "C": "यह वाहनों, निर्माण कार्य और उद्योगों के लिए अल्पकालिक प्रतिबंध/रूल्स लागू कर सकता है / It can impose short-term restrictions on vehicular, construction & industrial activities",
+      "D": "GRAP का उद्देश्य नागरिकों और उद्योगों के लिये एक पारदर्शी तंत्र उपलब्ध कराना है / GRAP aims to provide a transparent mechanism for citizens and industry"
     },
-    {
-        "id": 37,
-        "question": "सिख साम्राज्य और अंग्रेजों के बीच संबंध किस संधि से शुरू हुए? / Which treaty marked the beginning of formal relations between the Sikh Empire and the British?",
-        "options": {
-            "A": "लाहौर संधि / Treaty of Lahore",
-            "B": "अमृतसर संधि / Treaty of Amritsar",
-            "C": "बसईन संधि / Treaty of Bassein",
-            "D": "सुभा संधि / Treaty of Subha"
-        },
-        "answer": [
-            "B"
-        ],
-        "explanation": "1809 की अमृतसर संधि से सिख साम्राज्य और अंग्रेजों के बीच औपचारिक संबंध शुरू हुए।"
+    "answer": ["A", "C", "D"],
+    "explanation": "GRAP एक क्रमिक प्रतिक्रिया योजना है जो वायु गुणवत्ता के स्तर के अनुसार उपाय लागू करती है—जैसे कुछ स्तरों पर वाहनों/निर्माण/उद्योगों पर सीमित-समय प्रतिबंध लगाना—और इससे नागरिकों व उद्योगों के लिए पारदर्शिता व पूर्वानुमान व्यवहार में आती है। यह पूरे आर्थिक जीवन को स्थायी रूप से बन्द करने का साधन नहीं है।"
+  },
+  {
+    "id": 37,
+    "question": "नवीनतम वैश्विक व्यापार मुद्दों में—'सप्लाई चेन रिजिलियन्स' (supply chain resilience) का क्या अर्थ है? / In current global trade issues, what does 'supply chain resilience' mean?",
+    "options": {
+      "A": "आपूर्ति-श्रृंखला को विविध बनाना, निर्भरता घटाना और झटके सहने की क्षमता बढ़ाना / Diversifying supply chains, reducing dependence & improving shock absorption",
+      "B": "किसी भी कीमत पर केवल स्थानीय उत्पादन पर लौट आना / Returning to purely local production at any cost",
+      "C": "ज्यादा स्टॉकपाइलिंग और वैकल्पिक सप्लायर्स रखना ताकि व्यवधानों को कम किया जा सके / Build inventories & maintain alternate suppliers to reduce disruptions",
+      "D": "आपूर्ति-श्रृंखला में पारदर्शिता और जोखिम-मानचित्रण अपनाना / Adopt transparency & risk-mapping in supply chains"
     },
-    {
-        "id": 38,
-        "question": "दूसरे आंग्ल-सिख युद्ध की निर्णायक लड़ाई कौन सी थी? / Which was the decisive battle of the Second Anglo-Sikh War?",
-        "options": {
-            "A": "फिरोज़शाह / Ferozeshah",
-            "B": "सोबरांव / Sobraon",
-            "C": "चिलियनवाला / Chillianwala",
-            "D": "गुजरांवाला / Gujranwala"
-        },
-        "answer": [
-            "C",
-            "D"
-        ],
-        "explanation": "दूसरे आंग्ल-सिख युद्ध में चिलियनवाला और गुजरांवाला की लड़ाइयाँ निर्णायक सिद्ध हुईं, जिसके बाद अंग्रेजों ने पूर्ण विजय प्राप्त की।"
+    "answer": ["A", "C", "D"],
+    "explanation": "Supply chain resilience का तात्पर्य है विविधता, वैकल्पिक स्रोत, कुछ इन्वेन्ट्री रणनीतियाँ और जोखिम-मानचित्रण अपनाकर व्यवधानों का सामना करने की क्षमता बढ़ाना; यह हर हाल में केवल 'स्थानीयकरण' पर लौटने का आग्रह नहीं है।"
+  },
+  {
+    "id": 38,
+    "question": "सूचना/विपणन में 'फेक न्यूज' से निपटने के लिए कौन-से उपाय उपयोगी माने जाते हैं? / Which measures are useful to counter 'fake news' in information/communications?",
+    "options": {
+      "A": "मेडिया-लिटरेसी को बढ़ाना और नागरिकों में सोच-विचार की क्षमता विकसित करना / Promote media literacy & critical thinking",
+      "B": "सिर्फ़ सख्त दंडात्मक कानून बनाना और सभी प्लेटफार्मों को बंद करना / Only impose punitive laws and shut down platforms",
+      "C": "प्लेटफॉर्म्स पर fact-checking और त्वरित स्पष्टीकरण/कोररेक्शन-मेकैनिज्म लागू करना / Implement platform fact-checking & correction mechanisms",
+      "D": "सार्वजनिक संस्थाओं द्वारा पारदर्शी संचार और भरोसेमंद सूचना देना / Transparent communication by public institutions"
     },
-    {
-        "id": 39,
-        "question": "सिख साम्राज्य के अंत के बाद ब्रिटिश प्रशासन ने कौन-सी नीति अपनाई? / Which policy did the British adopt after the fall of the Sikh Empire?",
-        "options": {
-            "A": "Doctrine of Lapse",
-            "B": "Subsidiary Alliance",
-            "C": "Direct Annexation",
-            "D": "Dual Government"
-        },
-        "answer": [
-            "C"
-        ],
-        "explanation": "सिख साम्राज्य के अंत के बाद 1849 में ब्रिटिशों ने सीधा विलय (Direct Annexation) की नीति अपनाई और पंजाब को अपने साम्राज्य में मिला लिया।"
+    "answer": ["A", "C", "D"],
+    "explanation": "फेक न्यूज़ से निपटने के लिए समग्र दृष्टिकोण चाहिए—मीडिया साक्षरता, प्लेटफॉर्म-आधारित fact-checking/करेक्शन्स और सरकार/सार्वजनिक संस्थाओं द्वारा पारदर्शी सूचना देना; केवल दंडात्मक उपाय ही पर्याप्त नहीं होते।"
+  },
+  {
+    "id": 39,
+    "question": "स्थानीय शासन (local governance) में 'पंचायती राज' या नगर निकायों की भूमिका पर कौन-से बिन्दु सही हैं? / Which points about local governance (panchayats/urban bodies) are correct?",
+    "options": {
+      "A": "स्थानीय निकायों के पास स्थानीय-स्तर पर सेवाओं का प्रबंधन और योजना का अधिकार होता है / Local bodies manage and plan local-level services",
+      "B": "स्थानीय निकायों को वित्त नियुक्तियों/निःसंदिग्ध संसाधनों के बिना स्वतंत्र माना जाता है / They are always considered independent without need for fiscal devolution",
+      "C": "स्थानीय भागीदारी और जवाबदेही से सेवाओं की गुणवत्ता में सुधार हो सकता है / Citizen participation and accountability can improve service quality",
+      "D": "स्थानीय निकायों के सशक्तिकरण के लिए केंद्र/राज्य द्वारा वित्तीय व तकनीकी समर्थन आवश्यक है / Fiscal & technical support from centre/state is necessary to empower them"
     },
-    {
-        "id": 40,
-        "question": "पंजाब के ब्रिटिश अधिग्रहण से उन्हें क्या लाभ हुआ? / What benefit did the British gain from the annexation of Punjab?",
-        "options": {
-            "A": "उत्तर-पश्चिमी सीमा की सुरक्षा / Security of North-West frontier",
-            "B": "व्यापार मार्गों पर नियंत्रण / Control over trade routes",
-            "C": "उपजाऊ कृषि भूमि का अधिग्रहण / Acquisition of fertile agricultural land",
-            "D": "सिखों को सैनिक भर्ती करना / Recruitment of Sikhs into army"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ],
-        "explanation": "पंजाब के विलय से अंग्रेजों को उत्तर-पश्चिमी सीमा की सुरक्षा मिली, व्यापार मार्गों पर नियंत्रण हुआ, उपजाऊ कृषि भूमि पर अधिकार मिला और आगे चलकर सिखों को ब्रिटिश सेना में भर्ती किया गया।"
+    "answer": ["A", "C", "D"],
+    "explanation": "स्थानीय निकाय स्थानीय सेवाओं की योजना व प्रबंधन में महत्वपूर्ण होते हैं; उनकी प्रभावशीलता नागरिक सहभागिता और जवाबदेही से बढ़ती है, और उन्हें सक्षम करने के लिए केंद्र/राज्य से वित्तीय और तकनीकी समर्थन आवश्यक होता है—वे बिना संसाधनों के स्वायत्त नहीं बन जाते।"
+  },
+  {
+    "id": 40,
+    "question": "सामाजिक सुरक्षा कवरेज बढ़ाने के संदर्भ में कौन-से कदम अक्सर सुझाए जाते हैं? / To expand social security coverage, which steps are often recommended?",
+    "options": {
+      "A": "डेटाबेस/आधारित पहचान के माध्यम से लक्षित लाभ पहुँचाना / Use database/Aadhaar-based identification for targeted benefits",
+      "B": "सार्वजनिक और निजी भागीदारी के साथ सामाजिक सुरक्षा नेट का विस्तार / Expand safety net via public–private partnerships",
+      "C": "सभी नागरिकों के लिए बिना किसी लक्ष्य के समान बेनेफिट देना (Universal basic income without targeting) हर हालत में सबसे किफायती है / Universal unconditional benefit is always the most cost-effective",
+      "D": "पोर्टेबिलिटी, डिजिटलीकरण और DBT प्रणाली को सुदृढ़ बनाना / Strengthen portability, digitisation & DBT systems"
     },
-    {
-        "id": 41,
-        "question": "सिंध के ऐतिहासिक विकास को किन भौगोलिक तत्वों ने आकार दिया? / Which geographic features chiefly shaped Sindh’s historical trajectory?",
-        "options": {
-            "A": "सिंधु नदी और उसका डेल्टा (Indus river & delta)",
-            "B": "विंध्य पर्वतमाला (Vindhya range)",
-            "C": "किर्थर पर्वत एवं दर्रे (Kirthar range & passes)",
-            "D": "अरब सागर के बंदरगाह (Arabian Sea ports)"
-        },
-        "answer": [
-            "A",
-            "C",
-            "D"
-        ],
-        "explanation": "सिंधु नदी का बहाव और डेल्टा बसावट, सिंचाई, और व्यापार का आधार रहा। किर्थर पर्वत व उससे जुड़े दर्रे आक्रमण/आवागमन के मार्ग बने। अरब सागर किनारे के बंदरगाह (देबल/Thatta/कराची) से समुद्री व्यापार फला-फूला। विंध्य शृंखला सिंध क्षेत्र से दूर है।"
-    },
-    {
-        "id": 42,
-        "question": "नीचे दिये स्थलों में से वर्तमान सिंध (Pakistan) में कौन-कौन से इन्डस वैली (हरप्पा संस्कृति) स्थल हैं? / Which of the following Indus Valley sites lie in present-day Sindh?",
-        "options": {
-            "A": "मोहनजोदड़ो (Mohenjo-daro)",
-            "B": "चन्हूदड़ो (Chanhudaro)",
-            "C": "अम्री (Amri)",
-            "D": "हरप्पा (Harappa)"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "मोहनजोदड़ो, चन्हूदड़ो और अम्री सभी वर्तमान सिंध में स्थित प्रसिद्ध स्थलों में आते हैं। हरप्पा पंजाब (Pakistan) में है, सिंध में नहीं।"
-    },
-    {
-        "id": 43,
-        "question": "सिंध पर प्रारम्भिक इस्लामी विजय (711–712 CE) के सम्बन्ध में सही कथन चुनिए। / Regarding the early Islamic conquest of Sindh (711–712 CE), identify the correct statements.",
-        "options": {
-            "A": "मुहम्मद बिन क़ासिम ने सबसे पहले देबल (Debal) पर अधिकार किया।",
-            "B": "राजा दाहिर 712 CE में अरोर/अलोर (Aror/Alor) के निकट पराजित हुए।",
-            "C": "क़ासिम मक़रान तट (Makran coast) के मार्ग से आया।",
-            "D": "ब्रह्मणाबाद में समझौते के तहत स्थानीय प्रशासन को सीमित मान्यता दी गई।"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ],
-        "explanation": "अभियान देबल से आरम्भ हुआ; 712 में अरोर के निकट निर्णायक युद्ध में दाहिर मारे गये; सेना मक़रान तटवर्ती मार्ग से आई; कई नगरों में आत्मसमर्पण/समझौते के बदले सीमित स्थानीय प्रशासन रहने दिया गया।"
-    },
-    {
-        "id": 45,
-        "question": "सम्मा युग (c. 14th–16th CE) की विशेषताओं के बारे में सही चयन करें। / Choose the correct features of the Samma period.",
-        "options": {
-            "A": "मकली नेक्रोपोलिस का विस्तार",
-            "B": "ठठा का समुद्री व्यापारिक उभार",
-            "C": "शाहजहानी मस्जिद का निर्माण",
-            "D": "जम निज़ामुद्दीन (Jam Nizamuddin II) का दीर्घ शासन"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "सम्मा शासन में मकली का व्यापक विस्तार और ठठा में समुद्री व्यापार बढ़ा; जम निज़ामुद्दीन II (उर्फ़ जाम नं‍दो) लम्बे समय तक शासनरत रहे। शाहजहानी मस्जिद 17वीं सदी में मुगल सम्राट शाहजहाँ के समय बनी, सम्मा काल में नहीं।"
-    },
-    {
-        "id": 46,
-        "question": "मुगल-सिंध सम्बन्धों पर सही कथन पहचानें। / Identify correct statements on Mughal–Sindh relations.",
-        "options": {
-            "A": "अकबर के काल में निचला सिंध मुगल प्रशासन में समाहित हुआ।",
-            "B": "अर्ज़गुन–तरख़ान के पश्चात् ठठा मुग़ल सूबा बना।",
-            "C": "अकबर के सेनानायक ख़ान-ए-ख़ानाँ (अब्दुर्रहीम) ने अभियानों का नेतृत्व किया।",
-            "D": "सिंध का एक भाग ‘सूबा ठठा’ के रूप में संगठित हुआ।"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ],
-        "explanation": "अकबर काल में सिंध के बड़े हिस्से मुगल प्रशासन में आए; अर्ज़गुन–तरख़ान के बाद ठठा सूबा बना; ख़ान-ए-ख़ानाँ अब्दुर्रहीम ने दक्षिणी सिंध में अभियान चलाए।"
-    },
-    {
-        "id": 47,
-        "question": "कलहोरा शासन (c. 1701–1783) के बारे में कौन-से कथन सही हैं? / Which statements about the Kalhora rule are correct?",
-        "options": {
-            "A": "सूफ़ी-पीर परम्परा से उभार, प्रशासनिक वैधता अर्जित की।",
-            "B": "सिंचाई नहरों का विस्तार कर कृषि उत्पादन बढ़ाया।",
-            "C": "राजधानी पहले खुडाबाद, बाद में हैदराबाद रही।",
-            "D": "समुद्री व्यापार पूर्णतः निषिद्ध था।"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "कलहोरा शासक सूफ़ी प्रभाव से उभरे; नहरों/कैनालों का विस्तार कर राजस्व बढ़ाया; राजधानी खुडाबाद से हैदराबाद आई। समुद्री व्यापार को पूर्णतः निषिद्ध करना सत्य नहीं।"
-    },
-    {
-        "id": 48,
-        "question": "तलपुर मीर (c. 1783–1843) के सम्बन्ध में सही विकल्प चुनें। / Choose the correct statements about the Talpur Mirs.",
-        "options": {
-            "A": "संघात्मक रचना—हैदराबाद, खै़रपुर, मीरपुरखास प्रमुख इकाइयाँ।",
-            "B": "बलूची मूल का सैन्य-शासकीय प्रभुत्व।",
-            "C": "राजस्व में वडेऱा/जागीरदारों की बड़ी भूमिका।",
-            "D": "ब्रिटिश अधीनता 1783 से ही स्वीकार।"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "तलपुर बलूची मूल के थे; उनकी सत्ता संघात्मक थी; स्थानीय वडेऱा-इकाइयों की राजस्व-उगाही में बड़ी भूमिका रही। 1783 से ब्रिटिश अधीनता स्वीकार नहीं थी—यह 1840 के दशक तक टलता रहा।"
-    },
-    {
-        "id": 49,
-        "question": "ब्रिटिश–सिंध सम्बन्ध (1830s–1843) के सन्दर्भ में सही कथन हैं— / In context of British–Sindh relations, which are correct?",
-        "options": {
-            "A": "1832 की संधि से सिंधु मार्ग पर ब्रिटिश व्यापार/पारगमन को मान्यता मिली।",
-            "B": "पहले आंग्ल-अफ़ग़ान युद्ध (1839–42) में कराची सामरिक केन्द्र बना।",
-            "C": "1843 में मियानी व डब्बो के युद्ध निर्णायक रहे।",
-            "D": "सिंध का विलय 1857 में हुआ।"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "1832 में इंडस नेविगेशन/ट्रांजिट की स्वीकृति मिली; 1839–42 में कराची रसद-आधार रहा; 1843 के मियानी व डब्बो की विजयों से सिंध पर अधिकार हुआ। विलय 1843 में हुआ, 1857 में नहीं।"
-    },
-    {
-        "id": 50,
-        "question": "मियानी का युद्ध (Battle of Miani) के बारे में सही कथन कौन-से हैं? / Which statements about the Battle of Miani are correct?",
-        "options": {
-            "A": "दिनांक 17 फ़रवरी 1843 को लड़ा गया।",
-            "B": "सिर चार्ल्स नेपियर ने तलपुर सेना को हराया।",
-            "C": "यह हैदराबाद (सिंध) के निकट हुआ।",
-            "D": "इसके तुरन्त बाद सिंध को मराठों को सौंप दिया गया।"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "मियानी 17 फ़रवरी 1843 को हैदराबाद के पास लड़ा गया; सर चार्ल्स नेपियर ने तलपुरों को परास्त किया। इसके बाद सिंध ब्रिटिश के अधीन आया, मराठों को नहीं सौंपा गया।"
-    },
-    {
-        "id": 51,
-        "question": "ब्रिटिश अधिग्रहण (1843) के बाद सिंध का प्रशासनिक एकीकरण कैसे हुआ? / How was Sindh integrated administratively after 1843?",
-        "options": {
-            "A": "कमिश्नरी व्यवस्था के अंतर्गत बॉम्बे प्रेसिडेंसी से जोड़ा गया।",
-            "B": "कराची को प्रमुख जिला और बन्दरगाह केन्द्र बनाया गया।",
-            "C": "1936 में सिंध को बॉम्बे से पृथक कर प्रान्त बनाया गया।",
-            "D": "तुरन्त ही दिल्ली प्रान्त में मिला दिया गया।"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "विलय के बाद सिंध बॉम्बे प्रेसिडेंसी के अधीन कमिश्नरी बना; कराची मुख्य पोर्ट-डिस्ट्रिक्ट रहा; 1 अप्रैल 1936 को सिंध अलग प्रान्त बना। दिल्ली में विलय का प्रश्न नहीं था।"
-    },
-    {
-        "id": 52,
-        "question": "ब्रिटिश कालीन सिंध में सिंचाई-आधारित आर्थिक परिवर्तन से जुड़े सही कथन चुनिए। / Select the correct statements on irrigation-led economic change in British Sindh.",
-        "options": {
-            "A": "सुक्कुर (लॉयड) बैराज 1932 में चालू हुआ।",
-            "B": "नहर उपनिवेशों/कमांड क्षेत्रों में कपास–गेहूँ उत्पादन बढ़ा।",
-            "C": "राजस्व आकलन में सिंचाई-क्लास पर आधारित मूल्यांकन बढ़ा।",
-            "D": "इंडस से नहरें बंद कर दी गईं।"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "1932 में सुक्कुर बैराज के साथ विशाल नहर-प्रणाली विकसित हुई; कमांड क्षेत्रों में फसली विविधीकरण/उत्पादन बढ़ा; आकलन में सिंचाई-आधारित श्रेणियाँ अहम हुईं। नहरें बन्द नहीं की गईं।"
-    },
-    {
-        "id": 53,
-        "question": "कराची के उभार (19वीं–20वीं सदी) पर सही कथन। / Correct statements on the rise of Karachi.",
-        "options": {
-            "A": "सिन्‍दे रेलवे (Karachi–Kotri) 1861 से जुड़ाव।",
-            "B": "स्वेज नहर (1869) के बाद यातायात/व्यापार में उछाल।",
-            "C": "बंदरगाह आधुनिकीकरण से कपास/गेहूँ निर्यात बढ़ा।",
-            "D": "कराची का महत्व केवल 1857 के बाद घटी।"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "1861 में कराची–कोटड़ी रेल से अंतर्देशीय कनेक्टिविटी मिली; 1869 के बाद स्वेज से दूरी और समय घटा; पोर्ट इन्फ्रास्ट्रक्चर से अनाज/कपास निर्यात बढ़ा। महत्व घटा नहीं, बढ़ा।"
-    },
-    {
-        "id": 54,
-        "question": "शाह अब्दुल लतीफ़ भित्ताई (1689–1752) के सम्बन्ध में सही कथन हैं— / Which statements about Shah Abdul Latif Bhittai are correct?",
-        "options": {
-            "A": "‘शाह-जो-रिसालो’ (Sindhi सूफ़ी काव्य) के रचयिता।",
-            "B": "भिट शाह में दरगाह/धाम।",
-            "C": "कविता अरबी में रची गयी थी।",
-            "D": "थीम: प्रेम, लोककथाएँ, आध्यात्मिक साधना।"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "भित्ताई ने सिंधी में ‘शाह-जो-रिसालो’ की रचना की; भिट शाह में उनकी दरगाह है; उनकी कविता प्रेम, लोक-नायिकाओं और आध्यात्मिक साधना पर केन्द्रित है। अरबी में नहीं।"
-    },
-    {
-        "id": 55,
-        "question": "सिंधी भाषा के औपनिवेशिक-युग मानकीकरण पर सही विकल्प चुनें। / Choose correct statements on colonial-era standardization of Sindhi.",
-        "options": {
-            "A": "बॉम्बे प्रशासन ने 19वीं सदी के मध्य में अरबी-आधारित लिपि को आधिकारिक मानक बनाया।",
-            "B": "अदालती और राजस्व कार्यवाही में सिंधी के प्रयोग को बढ़ावा मिला।",
-            "C": "देवनागरी को तत्काल अनिवार्य बना दिया गया।",
-            "D": "शिक्षा के लिए पाठ्यपुस्तक-निर्माण व शब्दकोश-प्रयास हुए।"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "बॉम्बे सरकार ने मध्य-19वीं सदी में अरबी (नस्तालीक़) आधारित सिंधी लिपि को मान्यता दी; प्रशासन/शिक्षा में इसके उपयोग के लिए पाठ्यसामग्री विकसित हुई। देवनागरी अनिवार्य नहीं की गई।"
-    },
-    {
-        "id": 56,
-        "question": "तलपुर/कलहोरा काल और ब्रिटिश काल की भूमिराजस्व प्रवृत्तियों के बारे में सही कथन हैं— / Regarding land-revenue trends under Talpur/Kalhora and British eras:",
-        "options": {
-            "A": "पूर्व-औपनिवेशिक काल में नहर-आश्रित कृषि पर हिस्सा-बटाई (बटाई) का चलन था।",
-            "B": "वडेऱा/स्थानीय मुखिया उगाही और सिंचाई प्रबन्ध में महत्त्वपूर्ण थे।",
-            "C": "ब्रिटिशों ने सर्वे–सेटलमेंट और सिंचाई-आधारित दरें लागू कीं।",
-            "D": "ब्रिटिशों ने सम्पूर्णतः रैयतवारी ही लागू की।"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "स्थानीय बटाई/जागीर आधारित उगाही में वडेऱा महत्वपूर्ण थे; ब्रिटिशों ने सर्वे–सेटलमेंट कर सिंचाई-स्थिति के अनुसार दरें तय कीं। सिंध में शुद्ध रैयतवारी सर्वत्र नहीं—स्थानीय सत्ता-ढाँचे भी रहे।"
-    },
-    {
-        "id": 57,
-        "question": "इंडस नौसंचालन (Indus Navigation) के सम्बन्ध में सही कथन चुनिए। / Select correct statements on Indus navigation.",
-        "options": {
-            "A": "1830–40 के दशक में स्टीमर सेवाएँ सैन्य-रसद हेतु प्रयुक्त हुईं।",
-            "B": "कोटड़ी–सुक्कुर शृंखला महत्त्वपूर्ण नोड बनी।",
-            "C": "इंडस स्टीम फ़्लोटिला/समकक्ष इकाइयाँ बनीं।",
-            "D": "ब्रिटिश ने नदी-परिवहन को निषिद्ध कर दिया।"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "अफ़ग़ान युद्धों और आन्तरिक यातायात हेतु इंडस पर स्टीमर-परियोजनाएँ चलीं; कोटड़ी–सुक्कुर प्रमुख नोड बने; औपचारिक इकाइयाँ गठित हुईं। इसे निषिद्ध नहीं किया गया।"
-    },
-    {
-        "id": 58,
-        "question": "1857 के विद्रोह के समय सिंध की स्थिति पर सही कथन हैं— / Correct statements on Sindh during the 1857 revolt:",
-        "options": {
-            "A": "क्षेत्र अपेक्षाकृत शांत रहा; बड़े पैमाने का विद्रोह नहीं हुआ।",
-            "B": "कराची/छावनियों में सीमित अशांति जल्दी दमन की गई।",
-            "C": "तलपुर शासक पुनः सत्ता में आ गये।",
-            "D": "ब्रिटिश नियंत्रण मजबूत रहा।"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "सिंध 1857 में अपेक्षाकृत शांत रहा; कुछ छावनीगत असंतोष शीघ्र काबू में लाया गया; ब्रिटिश नियंत्रण सुदृढ़ बना रहा। तलपुरों की पुनर्स्थापना नहीं हुई।"
-    },
-    {
-        "id": 59,
-        "question": "मोहनजोदड़ो की पुरातात्विक खोज के बारे में सही कथन चुनें। / Choose correct statements about the archaeological discovery of Mohenjo-daro.",
-        "options": {
-            "A": "1920 के दशक में व्यवस्थित उत्खनन शुरू हुआ।",
-            "B": "स्थल लरकाना के समीप, सिंधु के पास स्थित है।",
-            "C": "ईंट-निर्मित नगरीय नियोजन और ‘ग्रेट बाथ’ जैसी संरचनाएँ मिलीं।",
-            "D": "यह कुषाण-युगीन राजधानी रही।"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "1920s में मोहनजोदड़ो का वैज्ञानिक उत्खनन हुआ; यह लरकाना के पास है; सुव्यवस्थित नगरीय योजना, पकी ईंटें, स्नानागार जैसी संरचनाएँ प्रसिद्ध हैं। कुषाण-युग से इसका सम्बन्ध नहीं—यह हड़प्पा-युगीन है।"
-    },
-    {
-        "id": 60,
-        "question": "ब्रिटिश राज के लिए सिंध का रणनीतिक-मौलिक महत्त्व क्या था? / What made Sindh strategically fundamental for the Raj?",
-        "options": {
-            "A": "उत्तर–पश्चिमी सीमा तक रसद/अभियान हेतु मार्ग (NW frontier logistics)",
-            "B": "इंडस नदी एक भीतरी परिवहन धुरी (Indus as inland artery)",
-            "C": "कराची—अरब सागर का गेटवे पोर्ट (Karachi gateway port)",
-            "D": "दक्कन पठार का कृषि ‘हृदयस्थल’ (Deccan’s agrarian heartland)"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "सिंध का महत्त्व NW सीमा (अफ़ग़ान मोर्चे) के लिए रसद-मार्ग, इंडस की जल-धुरी, और कराची पोर्ट के कारण था। दक्कन से इसका भौगोलिक–कृषि सम्बन्ध ‘हृदयस्थल’ के रूप में नहीं बैठता।"
-    }
+    "answer": ["A", "B", "D"],
+    "explanation": "सामाजिक सुरक्षा कवरेज बढ़ाने हेतु लक्ष्य-आधारित पहचान व डेटाबेस, सार्वजनिक-निजी साझेदारी (जहाँ सार्थक) और पोर्टेबिलिटी/डिजिटलीकरण/DBT को मजबूत करना सामान्यतः सुझाए जाते हैं। सार्वभौमिक बिना-लक्षित लाभ (UNIVERSAL UBI) हर परिस्थिति में सबसे सस्ता विकल्प है—ऐसा blanket-statement सच नहीं माना जाता; वो नीति-निर्णय और संसाधन-उपलब्धता पर निर्भर है।"
+  }
 ]
