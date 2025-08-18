@@ -1,725 +1,927 @@
 [
-  {
-    "id": 1,
-    "question": "दिल्ली सलतनत के किस सुलतान ने कुतुब मीनार का निर्माण शुरू किया था? / Which Sultan of Delhi Sultanate initiated the construction of Qutb Minar?",
-    "options": {
-      "A": "कुतुबुद्दीन ऐबक (Qutb-ud-din Aibak)",
-      "B": "इल्तुतमिश (Iltutmish)",
-      "C": "अलाउद्दीन खिलजी (Alauddin Khilji)",
-      "D": "फिरोज शाह तुगलक (Firoz Shah Tughlaq)"
+    {
+        "id": 1,
+        "question": "सिख मिसलों के उदय का मुख्य कारण क्या था? / What was the main cause behind the rise of Sikh Misls?",
+        "options": {
+            "A": "मुगलों की कमजोर होती सत्ता (Decline of Mughal authority)",
+            "B": "स्थानीय सरदारों की शक्ति (Power of local chiefs)",
+            "C": "ब्रिटिश सैन्य हस्तक्षेप (British military intervention)",
+            "D": "धार्मिक और सैन्य संगठन (Religious and military organization)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "18वीं सदी में मुगल शक्ति कमजोर होने लगी और पंजाब में स्थानीय सरदारों ने अपने-अपने मिसल (confederacies) बनाए। यह धार्मिक–सैन्य संगठन (खालसा पंथ की परंपरा) पर आधारित थे। ब्रिटिश की भूमिका उस समय नगण्य थी।"
     },
-    "answer": ["A", "B"],
-    "explanation": "कुतुबुद्दीन ऐबक ने कुतुब मीनार का निर्माण शुरू किया था और इल्तुतमिश ने इसे पूरा किया तथा ऊँचाई बढ़ाई।"
-  },
-  {
-    "id": 2,
-    "question": "कुतुब मीनार में मुख्य रूप से कौन-सा स्थापत्य तत्व देखने को मिलता है? / Which architectural element is predominantly seen in Qutb Minar?",
-    "options": {
-      "A": "कैलकटा पत्थर (Red Sandstone)",
-      "B": "मुगल गुंबद (Mughal domes)",
-      "C": "कुतुब शैली का स्तंभ (Qutb style pillars)",
-      "D": "लाल पत्थर और संगमरमर (Red sandstone and marble)"
+    {
+        "id": 2,
+        "question": "‘मिसल’ शब्द का प्रयोग किस अर्थ में होता है? / What does the term ‘Misl’ signify in Sikh history?",
+        "options": {
+            "A": "स्वायत्त सिख सैन्य संघ (Autonomous Sikh military confederacy)",
+            "B": "ब्रिटिश संधि प्रणाली (British treaty system)",
+            "C": "मुगल सूबेदारी (Mughal Subah unit)",
+            "D": "गुरुद्वारा प्रशासन (Gurdwara administration)"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "‘मिसल’ सिखों के स्वतंत्र सैन्य–राजनीतिक संघ थे, जिनका उदय 18वीं सदी में मुगल सत्ता के पतन के साथ हुआ। यह न तो ब्रिटिश संधि थे और न ही मुगल प्रशासनिक इकाइयाँ।"
     },
-    "answer": ["A", "D"],
-    "explanation": "कुतुब मीनार मुख्य रूप से लाल पत्थर और संगमरमर से निर्मित है, जिसमें इस्लामी और स्थानीय स्थापत्य शैलियों का मिश्रण दिखता है।"
-  },
-  {
-    "id": 3,
-    "question": "कुतुब मीनार के निर्माण में निम्नलिखित किसका मिश्रण देखा जाता है? / The construction of Qutb Minar shows a blend of which elements?",
-    "options": {
-      "A": "हिंदू और जैन शिल्पकला (Hindu and Jain motifs)",
-      "B": "इस्लामी शिल्पकला (Islamic motifs)",
-      "C": "राजपूती स्थापत्य (Rajput architecture)",
-      "D": "मुगल शैली (Mughal style)"
+    {
+        "id": 3,
+        "question": "महाराजा रणजीत सिंह ने किस वर्ष लाहौर को अपनी राजधानी बनाया? / In which year did Maharaja Ranjit Singh make Lahore his capital?",
+        "options": {
+            "A": "1799",
+            "B": "1801",
+            "C": "1809",
+            "D": "1819"
+        },
+        "answer": [
+            "1799"
+        ],
+        "explanation": "रणजीत सिंह ने 1799 में लाहौर पर कब्ज़ा कर इसे अपनी राजधानी बनाया। 1801 में उन्हें महाराजा के रूप में मान्यता मिली।"
     },
-    "answer": ["A", "B"],
-    "explanation": "कुतुब मीनार में हिंदू और जैन मंदिरों के अवशेषों का पुनः उपयोग किया गया, साथ ही इस्लामी कलाकारी भी दिखाई देती है।"
-  },
-  {
-    "id": 4,
-    "question": "कुतुब मीनार के किन हिस्सों में शिलालेखों और कुरआनी आयतों को खुदवाया गया है? / Where are inscriptions and Quranic verses engraved on Qutb Minar?",
-    "options": {
-      "A": "मीनार की बाहरी सतह पर (Outer surface)",
-      "B": "अंदरूनी सीढ़ियों पर (Inner stairs)",
-      "C": "मीनार की छत पर (Top terrace)",
-      "D": "मीनार के नीचले आधार पर (Base foundation)"
+    {
+        "id": 4,
+        "question": "रणजीत सिंह की सेना में सुधारों की विशेषताएँ क्या थीं? / What were the features of Ranjit Singh’s army modernization?",
+        "options": {
+            "A": "यूरोपीय अधिकारियों की नियुक्ति (Appointment of European officers)",
+            "B": "फौज-ए-खास का गठन (Creation of Fauj-i-Khas)",
+            "C": "मुगल सैन्य प्रणाली को पुनर्जीवित करना (Revival of Mughal military system)",
+            "D": "तोपखाने और आधुनिक हथियारों का प्रयोग (Use of artillery and modern weapons)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "रणजीत सिंह ने अपनी सेना को आधुनिक बनाने हेतु फ्रांसीसी और इटालियन अधिकारियों को नियुक्त किया, फौज-ए-खास बनाई और यूरोपीय शैली का तोपखाना विकसित किया।"
     },
-    "answer": ["A", "B"],
-    "explanation": "मीनार की बाहरी सतह और अंदरूनी सीढ़ियों पर कुरआनी आयतें और निर्माण के शिलालेख खुदवाए गए हैं।"
-  },
-  {
-    "id": 5,
-    "question": "कुतुब मीनार के निर्माण में कौन-सी वास्तुशिल्प तकनीक का प्रयोग किया गया है? / Which architectural technique was used in Qutb Minar?",
-    "options": {
-      "A": "बेलनाकार सिलेंडर (Tapering cylinder)",
-      "B": "गुम्बदाकार संरचना (Domed structure)",
-      "C": "कूटकर निर्माण (Corbelling)",
-      "D": "आधुनिक कंक्रीट तकनीक (Modern concrete)"
+    {
+        "id": 5,
+        "question": "1809 की अमृतसर संधि का परिणाम क्या था? / What was the outcome of the Treaty of Amritsar (1809)?",
+        "options": {
+            "A": "ब्रिटिश ने रणजीत सिंह को सतलज के पश्चिम का शासक माना (British recognized Ranjit Singh west of Sutlej)",
+            "B": "रणजीत सिंह ने सतलज पार विस्तार से परहेज किया (Ranjit Singh refrained from expansion beyond Sutlej)",
+            "C": "लाहौर को ब्रिटिश के अधीन कर दिया गया (Lahore was surrendered to British)",
+            "D": "रणजीत सिंह ने ब्रिटिश को सहयोगी मान लिया (Ranjit Singh accepted British as allies)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ],
+        "explanation": "अमृतसर संधि (1809) के अनुसार ब्रिटिश ने रणजीत सिंह की सत्ता सतलज के पश्चिम में स्वीकार की और रणजीत सिंह ने सतलज नदी के पार विस्तार न करने का वचन दिया।"
     },
-    "answer": ["A", "C"],
-    "explanation": "कुतुब मीनार बेलनाकार संरचना में है और इसमें कूटकर निर्माण (Corbelling) तकनीक का प्रयोग हुआ है।"
-  },
-  {
-    "id": 6,
-    "question": "कुतुब परिसर में निम्नलिखित में से कौन-कौन से अन्य महत्वपूर्ण संरचनाएँ मौजूद हैं? / Which other important structures are present in Qutb complex?",
-    "options": {
-      "A": "क्व्वत-उल-इस्लाम मस्जिद (Quwwat-ul-Islam Mosque)",
-      "B": "अलाउद्दीन खिलजी का मकबरा (Alauddin Khilji’s Tomb)",
-      "C": "अलाउद्दीन खिलजी की हवेली (Alauddin Khilji’s palace)",
-      "D": "इरानी शैली की मीनार (Persian-style minaret)"
+    {
+        "id": 6,
+        "question": "रणजीत सिंह के शासन का विस्तार किन क्षेत्रों तक हुआ? / Which regions came under Ranjit Singh’s expansion?",
+        "options": {
+            "A": "पेशावर (Peshawar)",
+            "B": "मुल्तान (Multan)",
+            "C": "कश्मीर (Kashmir)",
+            "D": "दिल्ली (Delhi)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "रणजीत सिंह ने पंजाब साम्राज्य का विस्तार पेशावर, मुल्तान और कश्मीर तक किया, परन्तु दिल्ली उनकी सत्ता के अधीन नहीं आया।"
     },
-    "answer": ["A", "B"],
-    "explanation": "कुतुब परिसर में क्व्वत-उल-इस्लाम मस्जिद और अलाउद्दीन खिलजी का मकबरा शामिल हैं। अन्य संरचनाएँ बाद में या अन्य स्थानों में बनीं।"
-  },
-  {
-    "id": 7,
-    "question": "कुतुब मीनार की स्थापत्य शैली को निम्नलिखित में से किस शैली के रूप में वर्गीकृत किया जा सकता है? / The architectural style of Qutb Minar can be classified as:",
-    "options": {
-      "A": "इंडो-इस्लामी स्थापत्य (Indo-Islamic)",
-      "B": "मुगल शैली (Mughal)",
-      "C": "राजपूती शैली (Rajput)",
-      "D": "गुप्त शैली (Gupta)"
+    {
+        "id": 7,
+        "question": "पहले आंग्ल-सिख युद्ध (1845–46) का प्रमुख कारण क्या था? / What was the main cause of the First Anglo-Sikh War (1845–46)?",
+        "options": {
+            "A": "संधि उल्लंघन (Treaty violations)",
+            "B": "सिख सेना और दरबार में असंतोष (Discontent in Sikh army and court)",
+            "C": "ब्रिटिश की सतलज नीति (British policy towards Sutlej)",
+            "D": "अवध संधि (Treaty of Awadh)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "पहले आंग्ल-सिख युद्ध के कारणों में ब्रिटिश की सतलज सीमा नीति, सिख दरबार में भ्रष्टाचार और सेना की असंतुष्टि शामिल थीं। अवध संधि अप्रासंगिक थी।"
     },
-    "answer": ["A"],
-    "explanation": "कुतुब मीनार में हिंदू और जैन कलाओं के तत्वों का मिश्रण इस्लामी शैली में किया गया है, जिसे इंडो-इस्लामी स्थापत्य कहा जाता है।"
-  },
-  {
-    "id": 8,
-    "question": "कुतुब मीनार का निर्माण किस उद्देश्य से किया गया था? / For what purpose was Qutb Minar constructed?",
-    "options": {
-      "A": "मस्जिद के अजान के लिए (Call to prayer)",
-      "B": "सुलतान की विजय का प्रतीक (Symbol of victory)",
-      "C": "आधिकारिक बैठकों के लिए (Administrative meetings)",
-      "D": "व्यक्तिगत निवास के लिए (Personal residence)"
+    {
+        "id": 8,
+        "question": "पहले आंग्ल-सिख युद्ध का परिणाम क्या था? / What was the outcome of the First Anglo-Sikh War?",
+        "options": {
+            "A": "लाहौर संधि (Treaty of Lahore)",
+            "B": "सिख साम्राज्य का पूर्ण अंत (Complete end of Sikh Empire)",
+            "C": "कश्मीर का हस्तांतरण (Transfer of Kashmir)",
+            "D": "ब्रिटिश रेजिडेंट की नियुक्ति (Appointment of British Resident)"
+        },
+        "answer": [
+            "A",
+            "C",
+            "D"
+        ],
+        "explanation": "लाहौर संधि (1846) के तहत कश्मीर को गुलाब सिंह को सौंपा गया और लाहौर में ब्रिटिश रेजिडेंट नियुक्त हुआ। साम्राज्य पूरी तरह समाप्त नहीं हुआ।"
     },
-    "answer": ["A", "B"],
-    "explanation": "कुतुब मीनार का प्रयोग अजान के लिए किया जाता था और यह सुलतान की विजय का प्रतीक भी था।"
-  },
-  {
-    "id": 9,
-    "question": "कुतुब मीनार में किन सामग्रियों का प्रयोग मुख्य रूप से किया गया है? / Which materials are predominantly used in Qutb Minar?",
-    "options": {
-      "A": "लाल बलुआ पत्थर (Red sandstone)",
-      "B": "संगमरमर (Marble)",
-      "C": "काठ (Wood)",
-      "D": "ईंट (Brick)"
+    {
+        "id": 9,
+        "question": "दूसरे आंग्ल-सिख युद्ध (1848–49) के परिणामस्वरूप क्या हुआ? / What was the outcome of the Second Anglo-Sikh War?",
+        "options": {
+            "A": "ब्रिटिश ने पंजाब को विलय किया (Punjab annexed by British)",
+            "B": "दलहौजी की नीति लागू हुई (Dalhousie’s policy applied)",
+            "C": "रणजीत सिंह को निर्वासित किया गया (Ranjit Singh exiled)",
+            "D": "लाहौर दरबार भंग हुआ (Dissolution of Lahore court)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "दूसरे आंग्ल-सिख युद्ध के बाद 1849 में पंजाब का विलय ब्रिटिश भारत में कर लिया गया। दलहौजी ने इस नीति को औचित्य दिया और लाहौर दरबार को समाप्त कर दिया गया। रणजीत सिंह पहले ही 1839 में निधन हो चुके थे।"
     },
-    "answer": ["A", "B"],
-    "explanation": "कुतुब मीनार में लाल बलुआ पत्थर और संगमरमर का मुख्य प्रयोग हुआ है। लकड़ी और ईंट का उपयोग न्यूनतम है।"
-  },
-  {
-    "id": 10,
-    "question": "कुतुब परिसर में मस्जिद के स्तंभों में किस शिल्पकला का मिश्रण देखा जाता है? / Which motifs are blended in the mosque pillars within Qutb complex?",
-    "options": {
-      "A": "हिंदू देवताओं के चित्र (Hindu deities)",
-      "B": "इस्लामी ज्यामितीय पैटर्न (Islamic geometric patterns)",
-      "C": "बौद्ध प्रतिमाएँ (Buddhist figures)",
-      "D": "जैन प्रतीक (Jain symbols)"
+    {
+        "id": 10,
+        "question": "1849 में पंजाब के ब्रिटिश विलय को किस नीति से उचित ठहराया गया? / By which policy was the annexation of Punjab in 1849 justified?",
+        "options": {
+            "A": "Doctrine of Lapse",
+            "B": "Policy of Paramountcy",
+            "C": "Dalhousie’s Annexation Policy",
+            "D": "Subsidiary Alliance"
+        },
+        "answer": [
+            "B",
+            "C"
+        ],
+        "explanation": "1849 में पंजाब के विलय को दलहौजी ने paramountcy और annexation नीति से उचित ठहराया। यह Doctrine of Lapse के अंतर्गत नहीं था।"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "मस्जिद के स्तंभों में हिंदू, जैन मूर्तियों और इस्लामी ज्यामितीय पैटर्न का मिश्रण दिखता है।"
-  },
-  {
-    "id": 11,
-    "question": "दिल्ली सलतनत के तुगलक काल में कौन-कौन से महलों और किलों में स्थापत्य नवाचार देखे गए? / Which palaces and forts of Tughlaq period show architectural innovations?",
-    "options": {
-      "A": "तुगलकाबाद किला (Tughlaqabad Fort)",
-      "B": "लोधी गार्डन के महल (Lodhi gardens palace)",
-      "C": "फिरोज शाह तुगलक के मकबरे (Firoz Shah Tughlaq tombs)",
-      "D": "अलाउद्दीन खिलजी का किला (Alauddin Khilji Fort)"
+    {
+        "id": 11,
+        "question": "‘मिसल प्रणाली’ (Misls System) के बारे में कौन-से कथन सही हैं? / Which of the following statements about the Misls system are correct?",
+        "options": {
+            "A": "It was a confederacy of Sikh warrior bands controlling different territories.",
+            "B": "Misls were always under direct Mughal authority.",
+            "C": "Each Misl had its own elected leader (Misldar).",
+            "D": "Misls were united under the Dal Khalsa during collective campaigns."
+        },
+        "answer": [
+            "A",
+            "C",
+            "D"
+        ],
+        "explanation": "The Misls were autonomous warrior confederacies that emerged after Mughal decline in Punjab. Each Misl had a leader known as the Misldar, often elected or chosen by consensus. While usually independent, they came together under the Dal Khalsa for joint military campaigns. They were not under Mughal control; rather, they rose as a challenge to Mughal authority."
     },
-    "answer": ["A", "C"],
-    "explanation": "तुगलकाबाद किला और फिरोज शाह तुगलक के मकबरे में तुगलक स्थापत्य की विशेषता - मजबूत किला, उभरे हुए बलुआ पत्थर, सरल सजावट दिखाई देती है।"
-  },
-  {
-    "id": 12,
-    "question": "तुगलक स्थापत्य शैली में कौन-से प्रमुख तत्व शामिल हैं? / Which are major elements of Tughlaq architectural style?",
-    "options": {
-      "A": "मोटे, ऊँचे किले (Massive, tall forts)",
-      "B": "सजावटी गुंबद और झरोखे (Decorative domes and windows)",
-      "C": "सरल और ठोस संरचना (Simple and solid structures)",
-      "D": "मुगल कलाकारी (Mughal art)"
+    {
+        "id": 12,
+        "question": "‘Treaty of Amritsar (1809)’ के बारे में कौन-से कथन सही हैं? / Which statements about the Treaty of Amritsar (1809) are correct?",
+        "options": {
+            "A": "It was signed between Maharaja Ranjit Singh and the East India Company.",
+            "B": "It restricted Ranjit Singh from expanding south of the Sutlej river.",
+            "C": "It allowed the British to station troops in Lahore.",
+            "D": "It recognized Ranjit Singh as ruler of territories north of Sutlej."
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "The Treaty of Amritsar was signed in 1809 between Ranjit Singh and the East India Company. Ranjit Singh was recognized as the ruler of Punjab but was prevented from extending his authority south of the Sutlej. However, the British did not station troops in Lahore under this treaty."
     },
-    "answer": ["A", "C"],
-    "explanation": "तुगलक स्थापत्य शैली में सरल और ठोस निर्माण, ऊँचे और मोटे किले, कम सजावट और बलुआ पत्थर का उपयोग प्रमुख है।"
-  },
-  {
-    "id": 13,
-    "question": "फिरोज शाह तुगलक के मकबरे में कौन-कौन से स्थापत्य नवाचार देखे जा सकते हैं? / Which architectural innovations are visible in Firoz Shah Tughlaq tombs?",
-    "options": {
-      "A": "संगमरमर और बलुआ पत्थर का मिश्रण (Blend of marble and red sandstone)",
-      "B": "किलेबंदी शैली (Fortification style)",
-      "C": "मस्जिद की संगमरमर जाली (Marble lattices in mosque)",
-      "D": "गुंबद और पतली मीनारें (Domes and slender minarets)"
+    {
+        "id": 13,
+        "question": "Maharaja Ranjit Singh की सेना (Fauj-i-Khas) के बारे में कौन-से कथन सही हैं? / Which of the following statements about Ranjit Singh’s Fauj-i-Khas are correct?",
+        "options": {
+            "A": "It was trained on European lines with help of foreign officers.",
+            "B": "It was composed entirely of Europeans.",
+            "C": "It included infantry, artillery, and cavalry divisions.",
+            "D": "It became one of the most disciplined armies in Asia."
+        },
+        "answer": [
+            "A",
+            "C",
+            "D"
+        ],
+        "explanation": "Ranjit Singh modernized his army with the help of European officers like Jean-Baptiste Ventura and Allard. The Fauj-i-Khas included infantry, cavalry, and artillery and became highly disciplined. It was not entirely European; Europeans were mainly trainers and officers."
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "फिरोज शाह तुगलक के मकबरे में लाल बलुआ पत्थर और संगमरमर का मिश्रण, गुंबद, पतली मीनारें और जालीदार मस्जिद देखने को मिलती हैं।"
-  },
-  {
-    "id": 14,
-    "question": "लोधी और तुगलक काल के बीच स्थापत्य में क्या मुख्य अंतर है? / What is the main difference between Lodhi and Tughlaq architecture?",
-    "options": {
-      "A": "लोधी में सजावटी गुंबद अधिक (More decorative domes in Lodhi)",
-      "B": "तुगलक में मोटे और साधारण किले (Massive and simple forts in Tughlaq)",
-      "C": "लोधी में जालीदार खिड़कियाँ (Lattice windows in Lodhi)",
-      "D": "तुगलक में संगमरमर का अधिक प्रयोग (More use of marble in Tughlaq)"
+    {
+        "id": 14,
+        "question": "Ranjit Singh द्वारा की गई प्रशासनिक सुधारों में कौन-से शामिल थे? / Which of the following were part of administrative reforms under Ranjit Singh?",
+        "options": {
+            "A": "Introduction of Persian as the official language.",
+            "B": "Appointment of non-Sikhs in high offices.",
+            "C": "Centralization of revenue collection under Kardars.",
+            "D": "Division of empire into provinces called Subas."
+        },
+        "answer": [
+            "B",
+            "C",
+            "D"
+        ],
+        "explanation": "Ranjit Singh adopted a pragmatic administrative system. He appointed Hindus and Muslims in key positions, used Kardars for revenue collection, and divided his empire into Subas. Persian had already been in use but was not his major reform step."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "लोधी स्थापत्य में सजावटी गुंबद, जालीदार खिड़कियाँ और कम ठोस निर्माण है, जबकि तुगलक स्थापत्य में मोटे, ऊँचे किले और साधारण ढांचा है।"
-  },
-  {
-    "id": 15,
-    "question": "दिल्ली सलतनत के किस सुलतान ने किला निर्माण में सटीक गणितीय माप और दिशा निर्धारण का प्रयोग किया? / Which Sultan used precise mathematical measurements and orientation in fort construction?",
-    "options": {
-      "A": "कुतुबुद्दीन ऐबक (Qutb-ud-din Aibak)",
-      "B": "बलबन (Balban)",
-      "C": "मुहम्मद बिन तुगलक (Muhammad bin Tughlaq)",
-      "D": "फिरोज शाह तुगलक (Firoz Shah Tughlaq)"
+    {
+        "id": 15,
+        "question": "First Anglo–Sikh War (1845–46) के कारणों में कौन-से प्रमुख थे? / Which of the following were major causes of the First Anglo–Sikh War (1845–46)?",
+        "options": {
+            "A": "Political instability after Ranjit Singh’s death.",
+            "B": "Expansionist policy of the East India Company.",
+            "C": "Mutual suspicion between Sikh army and British.",
+            "D": "British refusal to recognize Ranjit Singh as ruler."
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "After Ranjit Singh’s death in 1839, factionalism weakened the Sikh empire. The East India Company sought expansion, and distrust between the Sikh Khalsa army and British increased tensions. The refusal to recognize Ranjit Singh was not an issue, since he was already recognized earlier."
     },
-    "answer": ["C"],
-    "explanation": "मुहम्मद बिन तुगलक ने किलों और महलों के निर्माण में गणितीय माप और दिशा का सटीक प्रयोग किया। यह उनके प्रशासनिक और स्थापत्य नवाचार का हिस्सा था।"
-  },
-  {
-    "id": 16,
-    "question": "दिल्ली सल्तनत के स्थापत्य में 'अलई दरवाजा' किस सुलतान द्वारा बनवाया गया था?",
-    "options": {
-      "A": "कुतुबुद्दीन ऐबक",
-      "B": "इल्तुतमिश",
-      "C": "अलाउद्दीन खिलजी",
-      "D": "फिरोज शाह तुगलक"
+    {
+        "id": 16,
+        "question": "Battle of Ferozeshah (1845) और Battle of Sobraon (1846) के बारे में कौन-से कथन सही हैं? / Which of the following statements about the Battle of Ferozeshah (1845) and Sobraon (1846) are correct?",
+        "options": {
+            "A": "Both battles were part of the First Anglo–Sikh War.",
+            "B": "Sikh forces fought fiercely but suffered due to leadership crisis.",
+            "C": "Battle of Sobraon (1846) was the decisive battle leading to treaty.",
+            "D": "British were decisively defeated in both battles."
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "Both Ferozeshah and Sobraon were key battles of the First Anglo–Sikh War. The Sikhs fought with great courage but lacked effective leadership. Sobraon proved decisive, leading to the Treaty of Lahore. The British were not decisively defeated."
     },
-    "answer": ["C"],
-    "explanation": "अलई दरवाजा, जो दिल्ली के कुतुब परिसर में स्थित है, अलाउद्दीन खिलजी द्वारा बनवाया गया था। यह स्थापत्य कला में एक महत्वपूर्ण मील का पत्थर है।"
-  },
-  {
-    "id": 17,
-    "question": "दिल्ली सल्तनत के स्थापत्य में 'कुतुब मीनार' का निर्माण किसने शुरू किया था?",
-    "options": {
-      "A": "कुतुबुद्दीन ऐबक",
-      "B": "इल्तुतमिश",
-      "C": "अलाउद्दीन खिलजी",
-      "D": "फिरोज शाह तुगलक"
+    {
+        "id": 17,
+        "question": "Treaty of Lahore (1846) के प्रावधानों में कौन-से सही हैं? / Which of the following were provisions of the Treaty of Lahore (1846)?",
+        "options": {
+            "A": "Sikh territory between Beas and Sutlej was ceded to British.",
+            "B": "Indemnity payment of 1.5 crore rupees to the British.",
+            "C": "Jammu and Kashmir ceded to Gulab Singh.",
+            "D": "Reduction of Sikh army strength."
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "The Treaty of Lahore ended the First Anglo-Sikh War. Sikhs ceded territory between Beas and Sutlej, paid heavy indemnity, and reduced their army. Jammu and Kashmir were later sold separately to Gulab Singh under the Treaty of Amritsar (1846)."
     },
-    "answer": ["A", "B"],
-    "explanation": "कुतुब मीनार का निर्माण कुतुबुद्दीन ऐबक ने शुरू किया था, और इल्तुतमिश ने इसे पूरा किया। यह स्थापत्य कला का अद्भुत उदाहरण है।"
-  },
-  {
-    "id": 18,
-    "question": "दिल्ली सल्तनत के स्थापत्य में 'मीनार' का प्रमुख उद्देश्य क्या था?",
-    "options": {
-      "A": "धार्मिक स्थल के रूप में",
-      "B": "सैन्य प्रहरी के रूप में",
-      "C": "संगीत समारोह के लिए",
-      "D": "राजकीय कार्यालय के रूप में"
+    {
+        "id": 18,
+        "question": "Second Anglo–Sikh War (1848–49) के संदर्भ में कौन-से कथन सही हैं? / Which of the following statements about the Second Anglo–Sikh War are correct?",
+        "options": {
+            "A": "It started with the revolt of Mulraj in Multan.",
+            "B": "It ended with the annexation of Punjab in 1849.",
+            "C": "Battle of Chillianwala (1849) was indecisive.",
+            "D": "Battle of Gujrat (1849) led to final British victory."
+        },
+        "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "explanation": "The Second Anglo-Sikh War began with Mulraj’s revolt at Multan. The Battle of Chillianwala was hard-fought and indecisive. The decisive Battle of Gujrat followed, after which the Sikh empire was annexed by the British in 1849."
     },
-    "answer": ["B"],
-    "explanation": "मीनारों का प्रमुख उद्देश्य सैन्य प्रहरी के रूप में था, जिससे दूर-दूर तक संदेश भेजे जा सकें और सुरक्षा सुनिश्चित की जा सके।"
-  },
-  {
-    "id": 19,
-    "question": "दिल्ली सल्तनत के स्थापत्य में 'डोम' का प्रयोग किस कारण से किया गया था?",
-    "options": {
-      "A": "सजावट के लिए",
-      "B": "ध्वनि प्रतिध्वनि के लिए",
-      "C": "आकर्षकता बढ़ाने के लिए",
-      "D": "संरचनात्मक मजबूती के लिए"
+    {
+        "id": 19,
+        "question": "Punjab के British annexation (1849) के बाद कौन-से प्रशासनिक उपाय अपनाए गए? / Which administrative measures were adopted after the annexation of Punjab in 1849?",
+        "options": {
+            "A": "Board of Administration under Henry Lawrence was created.",
+            "B": "Introduction of canal colonies and irrigation development.",
+            "C": "Introduction of Persian as the court language again.",
+            "D": "Reorganization of police and revenue system."
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "After annexation, the British established a Board of Administration under Henry Lawrence, promoted irrigation through canal colonies, and restructured police and revenue systems. English and vernacular languages replaced Persian in official usage."
     },
-    "answer": ["D"],
-    "explanation": "डोम का प्रयोग संरचनात्मक मजबूती प्रदान करने के लिए किया गया था, जिससे भवनों की छतें बड़ी और मजबूत बन सकें।"
-  },
-  {
-    "id": 20,
-    "question": "दिल्ली सल्तनत के स्थापत्य में 'इंडो-इस्लामिक' शैली का प्रमुख तत्व क्या था?",
-    "options": {
-      "A": "संगमरमर का प्रयोग",
-      "B": "संगठित पत्थरों का प्रयोग",
-      "C": "गोलाकार गुंबदों का प्रयोग",
-      "D": "हिंदू मंदिरों की नकल"
+    {
+        "id": 20,
+        "question": "Maharaja Ranjit Singh के शासनकाल को ‘Secular State’ क्यों कहा जाता है? / Why is the reign of Maharaja Ranjit Singh often called a ‘Secular State’?",
+        "options": {
+            "A": "He abolished the Jizya tax.",
+            "B": "He appointed Hindus and Muslims in high offices.",
+            "C": "He built gurdwaras, temples, and mosques.",
+            "D": "He never allied with non-Sikhs."
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "Ranjit Singh abolished discriminatory taxes like Jizya, appointed officials from diverse communities, and patronized religious institutions of all faiths. However, he did form alliances with non-Sikhs, making option D incorrect."
     },
-    "answer": ["C"],
-    "explanation": "इंडो-इस्लामिक शैली में गोलाकार गुंबदों का प्रयोग प्रमुख तत्व था, जो इस्लामिक स्थापत्य की पहचान है।"
-  },
-  {
-    "id": 21,
-    "question": "दिल्ली सल्तनत के स्थापत्य में 'कुतुब परिसर' का महत्व क्या है?",
-    "options": {
-      "A": "धार्मिक स्थल के रूप में",
-      "B": "शाही निवास के रूप में",
-      "C": "सैन्य मुख्यालय के रूप में",
-      "D": "सांस्कृतिक केंद्र के रूप में"
+    {
+        "id": 21,
+        "question": "सिख मिसलों (Misls) के उदय का मुख्य कारण क्या था? / What was the primary cause of the rise of Sikh Misls?",
+        "options": {
+            "A": "मुगल सत्ता का पतन / Decline of Mughal authority",
+            "B": "मराठा आक्रमण / Maratha invasions",
+            "C": "स्थानीय कृषकों का विद्रोह / Local peasant uprisings",
+            "D": "अफ़ग़ान आक्रमणों का दबाव / Pressure of Afghan invasions"
+        },
+        "answer": [
+            "A",
+            "D"
+        ],
+        "explanation": "सिख मिसलें 18वीं शताब्दी में तब उभरीं जब मुगल शक्ति कमजोर हो चुकी थी और अफग़ान आक्रमणों से पंजाब क्षेत्र में असुरक्षा बढ़ गई थी। इस स्थिति में स्थानीय सिख सरदारों ने अपने-अपने क्षेत्रों में स्वतंत्र सत्ता स्थापित की।"
     },
-    "answer": ["D"],
-    "explanation": "कुतुब परिसर सांस्कृतिक केंद्र के रूप में महत्वपूर्ण था, जहाँ विभिन्न स्थापत्य कला के उदाहरण मिलते हैं।"
-  },
-  {
-    "id": 22,
-    "question": "दिल्ली सल्तनत के स्थापत्य में 'कुतुब मीनार' की ऊँचाई कितनी है?",
-    "options": {
-      "A": "72 मीटर",
-      "B": "73 मीटर",
-      "C": "74 मीटर",
-      "D": "75 मीटर"
+    {
+        "id": 22,
+        "question": "महाराजा रणजीत सिंह ने लाहौर को राजधानी क्यों बनाया? / Why did Maharaja Ranjit Singh make Lahore his capital?",
+        "options": {
+            "A": "यह भौगोलिक दृष्टि से सुरक्षित था / It was geographically secure",
+            "B": "यह व्यापार और संस्कृति का केंद्र था / It was a center of trade and culture",
+            "C": "यह पहले मुगल उपराजधानी रहा था / It was earlier a Mughal sub-capital",
+            "D": "यह ब्रिटिशों के प्रभाव से दूर था / It was away from British influence"
+        },
+        "answer": [
+            "A",
+            "B"
+        ],
+        "explanation": "लाहौर को राजधानी चुनने का कारण उसकी सामरिक सुरक्षा और पंजाब में व्यापार-सांस्कृतिक गतिविधियों का प्रमुख केंद्र होना था। रणजीत सिंह ने इसे अपने साम्राज्य की प्रशासनिक और सैन्य शक्ति का केंद्र बनाया।"
     },
-    "answer": ["A"],
-    "explanation": "कुतुब मीनार की ऊँचाई लगभग 72 मीटर है, जो इसे विश्व धरोहर स्थल बनाती है।"
-  },
-  {
-    "id": 23,
-    "question": "दिल्ली सल्तनत के स्थापत्य में 'अलाउद्दीन खिलजी' के योगदान में क्या शामिल है?",
-    "options": {
-      "A": "कुतुब मीनार का निर्माण",
-      "B": "अलई दरवाजा का निर्माण",
-      "C": "कुतुब परिसर का विस्तार",
-      "D": "संगमरमर का प्रयोग"
+    {
+        "id": 23,
+        "question": "रणजीत सिंह की सेना 'फ़ौज-ए-ख़ास' की विशेषता क्या थी? / What was the specialty of Ranjit Singh’s 'Fauj-i-Khas'?",
+        "options": {
+            "A": "यह यूरोपीय अधिकारियों द्वारा प्रशिक्षित थी / It was trained by European officers",
+            "B": "यह पैदल सेना, घुड़सवार और तोपखाने से बनी थी / It comprised infantry, cavalry, and artillery",
+            "C": "यह केवल पंजाबी सैनिकों तक सीमित थी / It was restricted only to Punjabi soldiers",
+            "D": "यह नियमित वेतन और आधुनिक हथियारों से सुसज्जित थी / It had regular salaries and modern weapons"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "रणजीत सिंह की 'फ़ौज-ए-ख़ास' यूरोपीय सैन्य अधिकारियों द्वारा प्रशिक्षित एक नियमित सेना थी। इसमें पैदल सेना, घुड़सवार और तोपखाना शामिल था। सैनिकों को नियमित वेतन और आधुनिक हथियार दिए जाते थे।"
     },
-    "answer": ["B"],
-    "explanation": "अलाउद्दीन खिलजी ने अलई दरवाजा का निर्माण कराया, जो स्थापत्य कला का अद्भुत उदाहरण है।"
-  },
-  {
-    "id": 24,
-    "question": "दिल्ली सल्तनत के स्थापत्य में 'फिरोज शाह तुगलक' के योगदान में क्या शामिल है?",
-    "options": {
-      "A": "कुतुब मीनार का निर्माण",
-      "B": "अलई दरवाजा का निर्माण",
-      "C": "फिरोज शाह कोटला का निर्माण",
-      "D": "संगमरमर का प्रयोग"
+    {
+        "id": 24,
+        "question": "1809 की अमृतसर संधि (Treaty of Amritsar) के तहत ब्रिटिश और रणजीत सिंह में क्या सहमति बनी? / What was agreed upon in the Treaty of Amritsar (1809)?",
+        "options": {
+            "A": "सतलज नदी के पार विस्तार नहीं करेंगे / Ranjit Singh would not expand beyond Sutlej",
+            "B": "ब्रिटिश पंजाब में व्यापार कर सकते थे / British could trade in Punjab",
+            "C": "रणजीत सिंह ने ब्रिटिश सुरक्षा स्वीकार की / Ranjit Singh accepted British protection",
+            "D": "दोनों पक्षों ने एक-दूसरे की संप्रभुता स्वीकार की / Both sides recognized each other’s sovereignty"
+        },
+        "answer": [
+            "A",
+            "D"
+        ],
+        "explanation": "अमृतसर की संधि (1809) में यह तय हुआ कि रणजीत सिंह सतलज नदी के पार विस्तार नहीं करेंगे और ब्रिटिश तथा सिख राज्य एक-दूसरे की संप्रभुता को मान्यता देंगे।"
     },
-    "answer": ["C"],
-    "explanation": "फिरोज शाह तुगलक ने फिरोज शाह कोटला का निर्माण कराया, जो स्थापत्य कला का अद्भुत उदाहरण है।"
-  },
-  {
-    "id": 25,
-    "question": "दिल्ली सल्तनत के स्थापत्य में 'हिंदू' और 'इस्लामिक' शैली का मिश्रण किसे दर्शाता है?",
-    "options": {
-      "A": "इंडो-इस्लामिक शैली",
-      "B": "राजपूत शैली",
-      "C": "गुर्जर शैली",
-      "D": "मुगल शैली"
+    {
+        "id": 25,
+        "question": "महाराजा रणजीत सिंह ने कश्मीर पर अधिकार किसके शासन से लिया? / From whom did Maharaja Ranjit Singh acquire Kashmir?",
+        "options": {
+            "A": "अफ़ग़ान शासक / Afghan rulers",
+            "B": "मुगल शासक / Mughal rulers",
+            "C": "ब्रिटिश ईस्ट इंडिया कंपनी / British East India Company",
+            "D": "सिख मिसलों से / Sikh Misls"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "रणजीत सिंह ने 1819 में अफ़ग़ानों को हराकर कश्मीर को अपने साम्राज्य में शामिल किया। यह विजय उनके साम्राज्य के विस्तार की एक महत्वपूर्ण उपलब्धि थी।"
     },
-    "answer": ["A"],
-    "explanation": "इंडो-इस्लामिक शैली में हिंदू और इस्लामिक स्थापत्य शैलियों का मिश्रण देखा जाता है, जो दिल्ली सल्तनत के स्थापत्य का प्रमुख तत्व है।"
-  },
-  {
-    "id": 26,
-    "question": "दिल्ली सल्तनत के स्थापत्य में 'कुतुब मीनार' की विशेषता क्या है?",
-    "options": {
-      "A": "गोलाकार गुंबद",
-      "B": "संगमरमर का प्रयोग",
-      "C": "उर्ध्वाधर मीनार",
-      "D": "संगठित पत्थरों का प्रयोग"
+    {
+        "id": 26,
+        "question": "पहला आंग्ल-सिख युद्ध (1845-46) क्यों हुआ? / Why did the First Anglo-Sikh War (1845–46) occur?",
+        "options": {
+            "A": "लाहौर दरबार की आंतरिक अशांति / Internal instability of Lahore Darbar",
+            "B": "ब्रिटिशों का पंजाब की राजनीति में हस्तक्षेप / British interference in Punjab politics",
+            "C": "रणजीत सिंह की मृत्यु के बाद सत्ता संघर्ष / Power struggle after Ranjit Singh’s death",
+            "D": "अमृतसर संधि का उल्लंघन / Violation of Treaty of Amritsar"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "पहले आंग्ल-सिख युद्ध के कारणों में रणजीत सिंह की मृत्यु के बाद उत्तराधिकार संघर्ष, लाहौर दरबार की आंतरिक अशांति और ब्रिटिश हस्तक्षेप प्रमुख थे।"
     },
-    "answer": ["C"],
-    "explanation": "कुतुब मीनार की विशेषता उसकी उर्ध्वाधर मीनार है, जो स्थापत्य कला का अद्भुत उदाहरण है।"
-  },
-  {
-    "id": 27,
-    "question": "दिल्ली सल्तनत के स्थापत्य में 'अलई दरवाजा' की विशेषता क्या है?",
-    "options": {
-      "A": "गोलाकार गुंबद",
-      "B": "संगमरमर का प्रयोग",
-      "C": "इस्लामिक स्थापत्य शैली",
-      "D": "हिंदू स्थापत्य शैली"
+    {
+        "id": 27,
+        "question": "पहले आंग्ल-सिख युद्ध का परिणाम क्या हुआ? / What was the result of the First Anglo-Sikh War?",
+        "options": {
+            "A": "लाहौर संधि (1846) / Treaty of Lahore (1846)",
+            "B": "सिख साम्राज्य का पूर्ण अंत / Complete end of Sikh Empire",
+            "C": "ब्रिटिशों ने सतलज के पार क्षेत्रों पर अधिकार किया / British annexed territories beyond Sutlej",
+            "D": "दूसरे आंग्ल-सिख युद्ध की पृष्ठभूमि बनी / Background for the Second Anglo-Sikh War"
+        },
+        "answer": [
+            "A",
+            "C",
+            "D"
+        ],
+        "explanation": "लाहौर संधि (1846) के तहत ब्रिटिशों ने सतलज के पार के क्षेत्र ले लिए और सिख साम्राज्य काफी कमजोर हो गया। यही आगे दूसरे आंग्ल-सिख युद्ध का कारण बना।"
     },
-    "answer": ["C"],
-    "explanation": "अलई दरवाजा की विशेषता उसकी इस्लामिक स्थापत्य शैली है, जो दिल्ली सल्तनत के स्थापत्य का प्रमुख उदाहरण है।"
-  },
-  {
-    "id": 28,
-    "question": "दिल्ली सल्तनत के स्थापत्य में 'कुतुब मीनार' का निर्माण किस उद्देश्य से किया गया था?",
-    "options": {
-      "A": "धार्मिक स्थल के रूप में",
-      "B": "सैन्य प्रहरी के रूप में",
-      "C": "संगीत समारोह के लिए",
-      "D": "राजकीय कार्यालय के रूप में"
+    {
+        "id": 28,
+        "question": "दूसरे आंग्ल-सिख युद्ध (1848–49) के पीछे क्या कारण थे? / What were the causes behind the Second Anglo-Sikh War?",
+        "options": {
+            "A": "लाहौर दरबार के खिलाफ विद्रोह / Rebellion against Lahore Darbar",
+            "B": "ब्रिटिशों की कठोर शर्तें / Harsh terms imposed by British",
+            "C": "सिख नेताओं की महत्वाकांक्षा / Ambition of Sikh leaders",
+            "D": "ब्रिटिश और सिखों के बीच अविश्वास / Mutual distrust between British and Sikhs"
+        },
+        "answer": [
+            "B",
+            "C",
+            "D"
+        ],
+        "explanation": "दूसरे आंग्ल-सिख युद्ध का मुख्य कारण ब्रिटिशों द्वारा लाहौर संधि में लगाई गई कठोर शर्तें, सिख नेताओं की महत्वाकांक्षा और दोनों पक्षों के बीच गहरा अविश्वास था।"
     },
-    "answer": ["B"],
-    "explanation": "कुतुब मीनार का निर्माण सैन्य प्रहरी के रूप में किया गया था, जिससे दूर-दूर तक संदेश भेजे जा सकें और सुरक्षा सुनिश्चित की जा सके।"
-  },
-  {
-    "id": 29,
-    "question": "दिल्ली सल्तनत के स्थापत्य में 'डोम' का प्रमुख उद्देश्य क्या था?",
-    "options": {
-      "A": "सजावट के लिए",
-      "B": "ध्वनि प्रतिध्वनि के लिए",
-      "C": "आकर्षकता बढ़ाने के लिए",
-      "D": "संरचनात्मक मजबूती के लिए"
+    {
+        "id": 29,
+        "question": "दूसरे आंग्ल-सिख युद्ध के बाद पंजाब का क्या हुआ? / What happened to Punjab after the Second Anglo-Sikh War?",
+        "options": {
+            "A": "यह ब्रिटिश साम्राज्य में मिला लिया गया / It was annexed into the British Empire",
+            "B": "यह स्वतंत्र राज्य बना रहा / It remained an independent state",
+            "C": "यह मराठों को सौंपा गया / It was given to the Marathas",
+            "D": "यह दो भागों में विभाजित किया गया / It was divided into two parts"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "1849 में दूसरे आंग्ल-सिख युद्ध के बाद लॉर्ड डलहौजी ने पंजाब को ब्रिटिश साम्राज्य में मिला लिया। इससे सिख साम्राज्य का अंत हो गया।"
     },
-    "answer": ["D"],
-    "explanation": "डोम का प्रमुख उद्देश्य संरचनात्मक मजबूती प्रदान करना था, जिससे भवनों की छतें बड़ी और मजबूत बन सकें।"
-  },
-  {
-    "id": 30,
-    "question": "दिल्ली सल्तनत में कुतुब मिनार किस शैली का प्रतीक है? / Qutub Minar in Delhi Sultanate represents which architectural style?",
-    "options": {
-      "A": "लोधी शैली (Lodi Style)",
-      "B": "गुलाम शैली (Slave Dynasty Style)",
-      "C": "खिलजी शैली (Khilji Style)",
-      "D": "मुगल शैली (Mughal Style)"
+    {
+        "id": 30,
+        "question": "लॉर्ड डलहौजी द्वारा पंजाब को मिलाने का औचित्य क्या था? / What justification did Lord Dalhousie give for annexing Punjab?",
+        "options": {
+            "A": "सिख राज्य में अराजकता / Disorder in Sikh state",
+            "B": "ब्रिटिश हितों की सुरक्षा / Security of British interests",
+            "C": "सिखों द्वारा संधि का उल्लंघन / Sikh violation of treaty",
+            "D": "व्यापार मार्गों पर नियंत्रण / Control over trade routes"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "डलहौजी ने पंजाब को मिलाने का औचित्य बताया कि सिख राज्य में अराजकता थी, उन्होंने संधियों का उल्लंघन किया और ब्रिटिश हितों की रक्षा जरूरी थी।"
     },
-    "answer": ["B", "C"],
-    "explanation": "कुतुब मिनार की नींव गुलाम वंश द्वारा रखी गई थी और उसके निर्माण में खिलजी शैली के तत्व भी शामिल हैं, जबकि लोधी और मुगल शैली बाद में विकसित हुई।"
-  },
-  {
-    "id": 31,
-    "question": "दिल्ली सल्तनत के मस्जिद निर्माण में कौन-से तत्व आम थे? / Which elements were common in mosque construction during Delhi Sultanate?",
-    "options": {
-      "A": "गुम्बद (Domes)",
-      "B": "मिनार (Minarets)",
-      "C": "म्यूज़िक हॉल (Music Halls)",
-      "D": "महल के पिलर (Palace Pillars)"
+    {
+        "id": 31,
+        "question": "महाराजा रणजीत सिंह की धार्मिक नीति कैसी थी? / What was the religious policy of Maharaja Ranjit Singh?",
+        "options": {
+            "A": "सिखों को विशेषाधिकार दिए / Gave privileges to Sikhs only",
+            "B": "धर्मनिरपेक्ष दृष्टिकोण अपनाया / Adopted secular approach",
+            "C": "हिंदू मंदिरों और मुस्लिम दरगाहों को संरक्षण दिया / Patronized Hindu temples and Muslim shrines",
+            "D": "ईसाई मिशनरियों को रोका / Restricted Christian missionaries"
+        },
+        "answer": [
+            "B",
+            "C"
+        ],
+        "explanation": "रणजीत सिंह की धार्मिक नीति धर्मनिरपेक्ष थी। उन्होंने अमृतसर के स्वर्ण मंदिर को सोना चढ़वाया और साथ ही कई हिंदू मंदिरों और मुस्लिम दरगाहों को संरक्षण दिया।"
     },
-    "answer": ["A", "B"],
-    "explanation": "सल्तनत के मस्जिद निर्माण में मुख्य रूप से गुम्बद और मिनार का प्रयोग हुआ। म्यूज़िक हॉल और महल के पिलर आम मस्जिद संरचना का हिस्सा नहीं थे।"
-  },
-  {
-    "id": 32,
-    "question": "कुतुब कम्प्लेक्स में कौन-कौन से स्थापत्य नवाचार देखे जा सकते हैं? / Which architectural innovations are seen in Qutub Complex?",
-    "options": {
-      "A": "काले और लाल बलुआ पत्थर का मिश्रण (Use of Black and Red Sandstone)",
-      "B": "मुगल-शैली के गार्डन (Mughal-style Gardens)",
-      "C": "विशेष नक्काशी और अक्षरों का प्रयोग (Intricate carvings & inscriptions)",
-      "D": "प्लास्टर का अधिक उपयोग (Excessive Plaster Work)"
+    {
+        "id": 32,
+        "question": "सिख साम्राज्य में कूटनीति और प्रशासन में यूरोपीय अधिकारियों की भूमिका क्या थी? / What was the role of European officers in Sikh diplomacy and administration?",
+        "options": {
+            "A": "सेना का आधुनिकीकरण / Modernization of army",
+            "B": "कूटनीतिक मिशनों में भागीदारी / Participation in diplomatic missions",
+            "C": "राजस्व सुधार लागू करना / Implementing revenue reforms",
+            "D": "प्रशासनिक ढांचे को यूरोपीय मॉडल पर ढालना / Shaping administration on European model"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "यूरोपीय अधिकारियों ने सिख सेना को आधुनिक बनाने, कूटनीतिक मिशनों में मदद करने और प्रशासनिक ढांचे को यूरोपीय शैली में ढालने में महत्वपूर्ण योगदान दिया।"
     },
-    "answer": ["A", "C"],
-    "explanation": "कुतुब कम्प्लेक्स में मुख्यतः लाल और काले बलुआ पत्थर का मिश्रण और नक्काशी व शिलालेख देखने को मिलते हैं। मुगल गार्डन और प्लास्टर का अत्यधिक प्रयोग नहीं था।"
-  },
-  {
-    "id": 33,
-    "question": "सुल्तानत काल में मकबरा निर्माण में किस शैली का प्रभाव था? / Which style influenced tomb construction in Sultanate period?",
-    "options": {
-      "A": "पारसी शैली (Persian Style)",
-      "B": "स्थानीय हिन्दू शैली (Local Hindu Style)",
-      "C": "मुगल शैली (Mughal Style)",
-      "D": "राजस्थानी शैली (Rajasthani Style)"
+    {
+        "id": 33,
+        "question": "किस युद्ध में अंग्रेजों ने सिखों को सोबरांव (Sobraon) की लड़ाई में हराया? / In which war did the British defeat the Sikhs at the Battle of Sobraon?",
+        "options": {
+            "A": "पहला आंग्ल-सिख युद्ध / First Anglo-Sikh War",
+            "B": "दूसरा आंग्ल-सिख युद्ध / Second Anglo-Sikh War",
+            "C": "तीसरा आंग्ल-मराठा युद्ध / Third Anglo-Maratha War",
+            "D": "पहला आंग्ल-अफ़ग़ान युद्ध / First Anglo-Afghan War"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "1846 में पहले आंग्ल-सिख युद्ध के दौरान सोबरांव की लड़ाई में अंग्रेजों ने निर्णायक जीत हासिल की थी।"
     },
-    "answer": ["A", "B"],
-    "explanation": "मकबरा निर्माण में पारसी शैली का प्रमुख प्रभाव था, लेकिन स्थानीय हिन्दू शिल्पकारी तत्व भी शामिल थे। मुगल शैली बाद में विकसित हुई।"
-  },
-  {
-    "id": 34,
-    "question": "दिल्ली सल्तनत में बलुआ पत्थर का प्रयोग क्यों अधिक हुआ? / Why was sandstone extensively used in Delhi Sultanate architecture?",
-    "options": {
-      "A": "स्थानीय उपलब्धता (Local Availability)",
-      "B": "सख्त और टिकाऊ प्रकृति (Durability)",
-      "C": "मुगल शैली के लिए (For Mughal Style)",
-      "D": "सिर्फ धार्मिक कारण (Only Religious Reason)"
+    {
+        "id": 34,
+        "question": "सिख साम्राज्य की सीमा विस्तार में कौन से क्षेत्र शामिल थे? / Which regions were included in the territorial expansion of the Sikh Empire?",
+        "options": {
+            "A": "पेशावर / Peshawar",
+            "B": "मुल्तान / Multan",
+            "C": "कश्मीर / Kashmir",
+            "D": "अवध / Awadh"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "रणजीत सिंह ने पेशावर, मुल्तान और कश्मीर जैसे क्षेत्रों पर अधिकार कर अपने साम्राज्य का विस्तार किया।"
     },
-    "answer": ["A", "B"],
-    "explanation": "बलुआ पत्थर स्थानीय रूप से उपलब्ध था और टिकाऊ भी था। इसे मुगल शैली के लिए नहीं चुना गया था और सिर्फ धार्मिक कारण नहीं थे।"
-  },
-  {
-    "id": 35,
-    "question": "सल्तनत काल की मस्जिदों में शिलालेख किस भाषा में पाए जाते थे? / In Sultanate period mosques, inscriptions were in which languages?",
-    "options": {
-      "A": "अरबी (Arabic)",
-      "B": "फ़ारसी (Persian)",
-      "C": "संस्कृत (Sanskrit)",
-      "D": "हिंदी (Hindi)"
+    {
+        "id": 35,
+        "question": "पंजाब का ब्रिटिश साम्राज्य में विलय कब हुआ? / When was Punjab annexed into the British Empire?",
+        "options": {
+            "A": "1846",
+            "B": "1848",
+            "C": "1849",
+            "D": "1857"
+        },
+        "answer": [
+            "C"
+        ],
+        "explanation": "1849 में दूसरे आंग्ल-सिख युद्ध के बाद पंजाब को ब्रिटिश साम्राज्य में मिला लिया गया।"
     },
-    "answer": ["A", "B"],
-    "explanation": "मस्जिदों में मुख्य रूप से अरबी और फारसी शिलालेख पाए जाते थे। संस्कृत और हिंदी का प्रयोग मस्जिद शिलालेख में नहीं हुआ।"
-  },
-  {
-    "id": 36,
-    "question": "कुतुब मिनार के निर्माण में कोणीय डिजाइन किस उद्देश्य से किया गया था? / Why was Qutub Minar designed with a tapering angle?",
-    "options": {
-      "A": "स्थिरता (Structural Stability)",
-      "B": "सौंदर्य (Aesthetic Appeal)",
-      "C": "मिनार के ऊपर चढ़ाई आसान करने के लिए (Ease of Climbing)",
-      "D": "धार्मिक कारण (Religious Reason)"
+    {
+        "id": 36,
+        "question": "सिख साम्राज्य के अंत का मुख्य कारण क्या था? / What was the main reason for the fall of the Sikh Empire?",
+        "options": {
+            "A": "उत्तराधिकार संकट / Succession crisis",
+            "B": "अंग्रेजों की श्रेष्ठ सैन्य रणनीति / Superior British military strategy",
+            "C": "लाहौर दरबार की आंतरिक कलह / Internal strife of Lahore Darbar",
+            "D": "राजस्व प्रणाली की कमजोरी / Weakness of revenue system"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "सिख साम्राज्य के पतन का मुख्य कारण उत्तराधिकार संकट, आंतरिक कलह और अंग्रेजों की श्रेष्ठ सैन्य रणनीति थी।"
     },
-    "answer": ["A", "B"],
-    "explanation": "कुतुब मिनार को सुरक्षित और सुंदर बनाने के लिए इसका ढलता हुआ डिजाइन अपनाया गया। चढ़ाई की सुविधा और धार्मिक कारण मुख्य उद्देश्य नहीं थे।"
-  },
-  {
-    "id": 37,
-    "question": "लोधी और तुग़लक़ वंश के किले किस वास्तुकला शैली में बने थे? / Forts of Lodi & Tughlaq dynasty were built in which style?",
-    "options": {
-      "A": "सैनिक उपयोग के लिए मजबूत और सरल शैली (Fortified & Minimalistic for Military use)",
-      "B": "सजावटी और जटिल (Highly Ornamental)",
-      "C": "हिन्दू शास्त्रीय शैली (Classical Hindu)",
-      "D": "मुगल शैली (Mughal Style)"
+    {
+        "id": 37,
+        "question": "सिख साम्राज्य और अंग्रेजों के बीच संबंध किस संधि से शुरू हुए? / Which treaty marked the beginning of formal relations between the Sikh Empire and the British?",
+        "options": {
+            "A": "लाहौर संधि / Treaty of Lahore",
+            "B": "अमृतसर संधि / Treaty of Amritsar",
+            "C": "बसईन संधि / Treaty of Bassein",
+            "D": "सुभा संधि / Treaty of Subha"
+        },
+        "answer": [
+            "B"
+        ],
+        "explanation": "1809 की अमृतसर संधि से सिख साम्राज्य और अंग्रेजों के बीच औपचारिक संबंध शुरू हुए।"
     },
-    "answer": ["A"],
-    "explanation": "लोधी और तुग़लक़ वंश के किले मुख्यतः सैनिक उपयोग के लिए मजबूत और सरल डिजाइन में बनाए गए थे। अत्यधिक सजावट नहीं थी।"
-  },
-  {
-    "id": 38,
-    "question": "दिल्ली सल्तनत के मकबरों में गुम्बद का आकार किस आधार पर तय किया जाता था? / Shape of domes in Sultanate tombs was decided based on?",
-    "options": {
-      "A": "भौगोलिक स्थिति (Geographical Location)",
-      "B": "धार्मिक परंपरा (Religious Tradition)",
-      "C": "शिल्पकार की पसंद (Architect’s Choice)",
-      "D": "राजवंशीय आदेश (Royal Orders)"
+    {
+        "id": 38,
+        "question": "दूसरे आंग्ल-सिख युद्ध की निर्णायक लड़ाई कौन सी थी? / Which was the decisive battle of the Second Anglo-Sikh War?",
+        "options": {
+            "A": "फिरोज़शाह / Ferozeshah",
+            "B": "सोबरांव / Sobraon",
+            "C": "चिलियनवाला / Chillianwala",
+            "D": "गुजरांवाला / Gujranwala"
+        },
+        "answer": [
+            "C",
+            "D"
+        ],
+        "explanation": "दूसरे आंग्ल-सिख युद्ध में चिलियनवाला और गुजरांवाला की लड़ाइयाँ निर्णायक सिद्ध हुईं, जिसके बाद अंग्रेजों ने पूर्ण विजय प्राप्त की।"
     },
-    "answer": ["B", "C"],
-    "explanation": "गुम्बद का आकार धार्मिक परंपरा और शिल्पकार की रचनात्मकता दोनों पर निर्भर करता था। भूगोल और राजवंशीय आदेश मुख्य कारण नहीं थे।"
-  },
-  {
-    "id": 39,
-    "question": "सल्तनत काल के मीनार और मस्जिद में किस प्रकार के प्रवेश द्वार पाए जाते थे? / Which types of entrances are seen in Sultanate minarets and mosques?",
-    "options": {
-      "A": "नक्काशीदार द्वार (Carved Entrances)",
-      "B": "आधुनिक धातु के दरवाजे (Modern Metal Doors)",
-      "C": "चौकोर एवं अर्धगोलाकार चिह्न (Square & Arched Entrances)",
-      "D": "काष्ठ के दरवाजे (Wooden Doors)"
+    {
+        "id": 39,
+        "question": "सिख साम्राज्य के अंत के बाद ब्रिटिश प्रशासन ने कौन-सी नीति अपनाई? / Which policy did the British adopt after the fall of the Sikh Empire?",
+        "options": {
+            "A": "Doctrine of Lapse",
+            "B": "Subsidiary Alliance",
+            "C": "Direct Annexation",
+            "D": "Dual Government"
+        },
+        "answer": [
+            "C"
+        ],
+        "explanation": "सिख साम्राज्य के अंत के बाद 1849 में ब्रिटिशों ने सीधा विलय (Direct Annexation) की नीति अपनाई और पंजाब को अपने साम्राज्य में मिला लिया।"
     },
-    "answer": ["A", "C"],
-    "explanation": "सल्तनत काल में प्रवेश द्वार नक्काशीदार और अर्धगोलाकार/चौकोर रूप में होते थे। आधुनिक धातु का उपयोग नहीं था।"
-  },
-  {
-    "id": 40,
-    "question": "कुतुब कम्प्लेक्स में अलाई दरवाज़ा किन वास्तुकला विशेषताओं का उदाहरण है? / Alai Darwaza in Qutub Complex is example of which architectural features?",
-    "options": {
-      "A": "हिन्दू और मुस्लिम शैली का मिश्रण (Blend of Hindu & Islamic Styles)",
-      "B": "सिर्फ मुस्लिम शैली (Pure Islamic Style)",
-      "C": "मुगल शैली (Mughal Style)",
-      "D": "स्थानीय पारंपरिक शैली (Local Traditional Style)"
+    {
+        "id": 40,
+        "question": "पंजाब के ब्रिटिश अधिग्रहण से उन्हें क्या लाभ हुआ? / What benefit did the British gain from the annexation of Punjab?",
+        "options": {
+            "A": "उत्तर-पश्चिमी सीमा की सुरक्षा / Security of North-West frontier",
+            "B": "व्यापार मार्गों पर नियंत्रण / Control over trade routes",
+            "C": "उपजाऊ कृषि भूमि का अधिग्रहण / Acquisition of fertile agricultural land",
+            "D": "सिखों को सैनिक भर्ती करना / Recruitment of Sikhs into army"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "explanation": "पंजाब के विलय से अंग्रेजों को उत्तर-पश्चिमी सीमा की सुरक्षा मिली, व्यापार मार्गों पर नियंत्रण हुआ, उपजाऊ कृषि भूमि पर अधिकार मिला और आगे चलकर सिखों को ब्रिटिश सेना में भर्ती किया गया।"
     },
-    "answer": ["A"],
-    "explanation": "अलाई दरवाज़ा हिन्दू और मुस्लिम शैली के मिश्रण का बेहतरीन उदाहरण है। यह पूरी तरह मुस्लिम या मुगल शैली नहीं है।"
-  },
-  {
-    "id": 41,
-    "question": "दिल्ली सल्तनत के किस साहित्यकार ने फारसी में इतिहास लिखा? / Which Delhi Sultanate scholar wrote history in Persian?",
-    "options": {
-      "A": "बिरामी (Barani)",
-      "B": "अलाउद्दीन खुज्रानी (Alaud-din Khujrani)",
-      "C": "इमाद उद्दीन (Imad-ud-din)",
-      "D": "अब्दुल्ला इब्न रिज़वानी (Abdullah ibn Rizvani)"
+    {
+        "id": 41,
+        "question": "सिंध के ऐतिहासिक विकास को किन भौगोलिक तत्वों ने आकार दिया? / Which geographic features chiefly shaped Sindh’s historical trajectory?",
+        "options": {
+            "A": "सिंधु नदी और उसका डेल्टा (Indus river & delta)",
+            "B": "विंध्य पर्वतमाला (Vindhya range)",
+            "C": "किर्थर पर्वत एवं दर्रे (Kirthar range & passes)",
+            "D": "अरब सागर के बंदरगाह (Arabian Sea ports)"
+        },
+        "answer": [
+            "A",
+            "C",
+            "D"
+        ],
+        "explanation": "सिंधु नदी का बहाव और डेल्टा बसावट, सिंचाई, और व्यापार का आधार रहा। किर्थर पर्वत व उससे जुड़े दर्रे आक्रमण/आवागमन के मार्ग बने। अरब सागर किनारे के बंदरगाह (देबल/Thatta/कराची) से समुद्री व्यापार फला-फूला। विंध्य शृंखला सिंध क्षेत्र से दूर है।"
     },
-    "answer": ["A"],
-    "explanation": "बिरामी ने फारसी में 'तारीख-ए-फिरोजशाही' लिखी, जो दिल्ली सल्तनत का महत्वपूर्ण ऐतिहासिक स्रोत है। यह फारसी साहित्य और इतिहास का मिश्रण प्रस्तुत करता है।"
-  },
-  {
-    "id": 42,
-    "question": "किस दिल्ली सल्तनत शासक ने फारसी साहित्य को बढ़ावा दिया? / Which Delhi Sultanate ruler promoted Persian literature?",
-    "options": {
-      "A": "अलाउद्दीन खिलजी (Alauddin Khilji)",
-      "B": "फिरोज तुगलक (Firoz Tughlaq)",
-      "C": "मुहम्मद बिन तुगलक (Muhammad bin Tughlaq)",
-      "D": "इब्राहीम लोदी (Ibrahim Lodi)"
+    {
+        "id": 42,
+        "question": "नीचे दिये स्थलों में से वर्तमान सिंध (Pakistan) में कौन-कौन से इन्डस वैली (हरप्पा संस्कृति) स्थल हैं? / Which of the following Indus Valley sites lie in present-day Sindh?",
+        "options": {
+            "A": "मोहनजोदड़ो (Mohenjo-daro)",
+            "B": "चन्हूदड़ो (Chanhudaro)",
+            "C": "अम्री (Amri)",
+            "D": "हरप्पा (Harappa)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "मोहनजोदड़ो, चन्हूदड़ो और अम्री सभी वर्तमान सिंध में स्थित प्रसिद्ध स्थलों में आते हैं। हरप्पा पंजाब (Pakistan) में है, सिंध में नहीं।"
     },
-    "answer": ["B", "C"],
-    "explanation": "फिरोज तुगलक और मुहम्मद बिन तुगलक दोनों ने फारसी साहित्य और प्रशासनिक दस्तावेजों को प्रोत्साहित किया। यह साहित्यिक विकास और प्रशासनिक कार्यों के लिए महत्वपूर्ण था।"
-  },
-  {
-    "id": 43,
-    "question": "दिल्ली सल्तनत में साहित्यिक रूप से किस प्रकार की रचनाएँ प्रचलित थीं? / What types of literary works were prevalent in Delhi Sultanate?",
-    "options": {
-      "A": "इतिहास (Historical)",
-      "B": "काव्य (Poetry)",
-      "C": "धार्मिक ग्रंथ (Religious texts)",
-      "D": "नाटक (Drama)"
+    {
+        "id": 43,
+        "question": "सिंध पर प्रारम्भिक इस्लामी विजय (711–712 CE) के सम्बन्ध में सही कथन चुनिए। / Regarding the early Islamic conquest of Sindh (711–712 CE), identify the correct statements.",
+        "options": {
+            "A": "मुहम्मद बिन क़ासिम ने सबसे पहले देबल (Debal) पर अधिकार किया।",
+            "B": "राजा दाहिर 712 CE में अरोर/अलोर (Aror/Alor) के निकट पराजित हुए।",
+            "C": "क़ासिम मक़रान तट (Makran coast) के मार्ग से आया।",
+            "D": "ब्रह्मणाबाद में समझौते के तहत स्थानीय प्रशासन को सीमित मान्यता दी गई।"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "explanation": "अभियान देबल से आरम्भ हुआ; 712 में अरोर के निकट निर्णायक युद्ध में दाहिर मारे गये; सेना मक़रान तटवर्ती मार्ग से आई; कई नगरों में आत्मसमर्पण/समझौते के बदले सीमित स्थानीय प्रशासन रहने दिया गया।"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "दिल्ली सल्तनत में इतिहास, फारसी और हिंदी में काव्य और धार्मिक ग्रंथ प्रमुख थे। नाटक की प्रचलितता सीमित थी।"
-  },
-  {
-    "id": 44,
-    "question": "बिरामी की 'तारीख-ए-फिरोजशाही' का मुख्य विषय क्या है? / What is the main theme of Barani's 'Tarikh-i-Firozshahi'?",
-    "options": {
-      "A": "फिरोज शाह तुगलक का शासन (Reign of Firoz Shah Tughlaq)",
-      "B": "राजनीतिक और प्रशासनिक व्यवस्था (Political and administrative system)",
-      "C": "सामाजिक जीवन और संस्कृति (Social life and culture)",
-      "D": "धार्मिक युद्ध और न्याय (Religious wars and justice)"
+    {
+        "id": 45,
+        "question": "सम्मा युग (c. 14th–16th CE) की विशेषताओं के बारे में सही चयन करें। / Choose the correct features of the Samma period.",
+        "options": {
+            "A": "मकली नेक्रोपोलिस का विस्तार",
+            "B": "ठठा का समुद्री व्यापारिक उभार",
+            "C": "शाहजहानी मस्जिद का निर्माण",
+            "D": "जम निज़ामुद्दीन (Jam Nizamuddin II) का दीर्घ शासन"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "सम्मा शासन में मकली का व्यापक विस्तार और ठठा में समुद्री व्यापार बढ़ा; जम निज़ामुद्दीन II (उर्फ़ जाम नं‍दो) लम्बे समय तक शासनरत रहे। शाहजहानी मस्जिद 17वीं सदी में मुगल सम्राट शाहजहाँ के समय बनी, सम्मा काल में नहीं।"
     },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "यह ग्रंथ इतिहास, प्रशासन, समाज, संस्कृति और धार्मिक दृष्टिकोण सभी को शामिल करता है। इसलिए इसका महत्व बहुआयामी है।"
-  },
-  {
-    "id": 45,
-    "question": "कौन-सा साहित्यक माध्यम दिल्ली सल्तनत में अधिक प्रचलित था? / Which literary medium was most prevalent in Delhi Sultanate?",
-    "options": {
-      "A": "फारसी (Persian)",
-      "B": "अरबी (Arabic)",
-      "C": "संस्कृत (Sanskrit)",
-      "D": "प्राकृत (Prakrit)"
+    {
+        "id": 46,
+        "question": "मुगल-सिंध सम्बन्धों पर सही कथन पहचानें। / Identify correct statements on Mughal–Sindh relations.",
+        "options": {
+            "A": "अकबर के काल में निचला सिंध मुगल प्रशासन में समाहित हुआ।",
+            "B": "अर्ज़गुन–तरख़ान के पश्चात् ठठा मुग़ल सूबा बना।",
+            "C": "अकबर के सेनानायक ख़ान-ए-ख़ानाँ (अब्दुर्रहीम) ने अभियानों का नेतृत्व किया।",
+            "D": "सिंध का एक भाग ‘सूबा ठठा’ के रूप में संगठित हुआ।"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "explanation": "अकबर काल में सिंध के बड़े हिस्से मुगल प्रशासन में आए; अर्ज़गुन–तरख़ान के बाद ठठा सूबा बना; ख़ान-ए-ख़ानाँ अब्दुर्रहीम ने दक्षिणी सिंध में अभियान चलाए।"
     },
-    "answer": ["A", "B"],
-    "explanation": "फारसी और अरबी साहित्यिक माध्यम मुख्य थे। फारसी इतिहास और काव्य के लिए, अरबी धार्मिक और प्रशासनिक दस्तावेजों के लिए उपयोग होता था।"
-  },
-  {
-    "id": 46,
-    "question": "दिल्ली सल्तनत के कवि अमीर खुसरो का योगदान क्या था? / What was Amir Khusro's contribution?",
-    "options": {
-      "A": "हिंदी-फ़ारसी मिश्रित काव्य (Hindavi-Persian poetry)",
-      "B": "संगीत और भजन शैली (Music and devotional style)",
-      "C": "राजनीतिक इतिहास (Political history)",
-      "D": "नाट्य और रंगमंच (Drama and theatre)"
+    {
+        "id": 47,
+        "question": "कलहोरा शासन (c. 1701–1783) के बारे में कौन-से कथन सही हैं? / Which statements about the Kalhora rule are correct?",
+        "options": {
+            "A": "सूफ़ी-पीर परम्परा से उभार, प्रशासनिक वैधता अर्जित की।",
+            "B": "सिंचाई नहरों का विस्तार कर कृषि उत्पादन बढ़ाया।",
+            "C": "राजधानी पहले खुडाबाद, बाद में हैदराबाद रही।",
+            "D": "समुद्री व्यापार पूर्णतः निषिद्ध था।"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "कलहोरा शासक सूफ़ी प्रभाव से उभरे; नहरों/कैनालों का विस्तार कर राजस्व बढ़ाया; राजधानी खुडाबाद से हैदराबाद आई। समुद्री व्यापार को पूर्णतः निषिद्ध करना सत्य नहीं।"
     },
-    "answer": ["A", "B"],
-    "explanation": "अमीर खुसरो ने हिंदी और फारसी मिश्रित काव्य और संगीत में महत्वपूर्ण योगदान दिया। उनकी रचनाएँ सूफ़ी काव्य और संगीत के विकास में आधार बनी।"
-  },
-  {
-    "id": 47,
-    "question": "किस दिल्ली सल्तनत लेखक ने प्रशासनिक दस्तावेजों और कानूनों पर प्रकाश डाला? / Which Delhi Sultanate writer highlighted administrative documents and laws?",
-    "options": {
-      "A": "बिरामी (Barani)",
-      "B": "ज़ियाउद्दीन बरनी (Ziauddin Barani)",
-      "C": "अलाउद्दीन खुज्रानी (Alauddin Khujrani)",
-      "D": "मख़दूम शाह (Makhdoom Shah)"
+    {
+        "id": 48,
+        "question": "तलपुर मीर (c. 1783–1843) के सम्बन्ध में सही विकल्प चुनें। / Choose the correct statements about the Talpur Mirs.",
+        "options": {
+            "A": "संघात्मक रचना—हैदराबाद, खै़रपुर, मीरपुरखास प्रमुख इकाइयाँ।",
+            "B": "बलूची मूल का सैन्य-शासकीय प्रभुत्व।",
+            "C": "राजस्व में वडेऱा/जागीरदारों की बड़ी भूमिका।",
+            "D": "ब्रिटिश अधीनता 1783 से ही स्वीकार।"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "तलपुर बलूची मूल के थे; उनकी सत्ता संघात्मक थी; स्थानीय वडेऱा-इकाइयों की राजस्व-उगाही में बड़ी भूमिका रही। 1783 से ब्रिटिश अधीनता स्वीकार नहीं थी—यह 1840 के दशक तक टलता रहा।"
     },
-    "answer": ["A", "B"],
-    "explanation": "बिरामी और ज़ियाउद्दीन बरनी दोनों ने प्रशासन और कानूनों पर विस्तार से लिखा। उनके ग्रंथ राजनीतिक संरचना और न्याय प्रणाली की जानकारी प्रदान करते हैं।"
-  },
-  {
-    "id": 48,
-    "question": "कौन-सी भाषा में सबसे अधिक काव्य और गीत लिखे गए? / Which language had most poetry and songs written?",
-    "options": {
-      "A": "फारसी (Persian)",
-      "B": "हिंदी/हिंदवी (Hindi/Hindavi)",
-      "C": "संस्कृत (Sanskrit)",
-      "D": "अरबी (Arabic)"
+    {
+        "id": 49,
+        "question": "ब्रिटिश–सिंध सम्बन्ध (1830s–1843) के सन्दर्भ में सही कथन हैं— / In context of British–Sindh relations, which are correct?",
+        "options": {
+            "A": "1832 की संधि से सिंधु मार्ग पर ब्रिटिश व्यापार/पारगमन को मान्यता मिली।",
+            "B": "पहले आंग्ल-अफ़ग़ान युद्ध (1839–42) में कराची सामरिक केन्द्र बना।",
+            "C": "1843 में मियानी व डब्बो के युद्ध निर्णायक रहे।",
+            "D": "सिंध का विलय 1857 में हुआ।"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "1832 में इंडस नेविगेशन/ट्रांजिट की स्वीकृति मिली; 1839–42 में कराची रसद-आधार रहा; 1843 के मियानी व डब्बो की विजयों से सिंध पर अधिकार हुआ। विलय 1843 में हुआ, 1857 में नहीं।"
     },
-    "answer": ["A", "B"],
-    "explanation": "फारसी और हिंदवी भाषा में सबसे अधिक काव्य और गीत लिखे गए। फारसी साहित्य राजकीय और शास्त्रीय था, हिंदवी लोक और सूफ़ी शैली में।"
-  },
-  {
-    "id": 49,
-    "question": "दिल्ली सल्तनत काल में धर्म और साहित्य के बीच क्या संबंध था? / What was the relation between religion and literature in Delhi Sultanate?",
-    "options": {
-      "A": "धार्मिक ग्रंथों ने साहित्य को प्रभावित किया (Religious texts influenced literature)",
-      "B": "साहित्य ने धार्मिक विचारों को प्रचारित किया (Literature propagated religious ideas)",
-      "C": "साहित्य और धर्म स्वतंत्र थे (Literature and religion were independent)",
-      "D": "साहित्य केवल मनोरंजन तक सीमित था (Literature was only for entertainment)"
+    {
+        "id": 50,
+        "question": "मियानी का युद्ध (Battle of Miani) के बारे में सही कथन कौन-से हैं? / Which statements about the Battle of Miani are correct?",
+        "options": {
+            "A": "दिनांक 17 फ़रवरी 1843 को लड़ा गया।",
+            "B": "सिर चार्ल्स नेपियर ने तलपुर सेना को हराया।",
+            "C": "यह हैदराबाद (सिंध) के निकट हुआ।",
+            "D": "इसके तुरन्त बाद सिंध को मराठों को सौंप दिया गया।"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "मियानी 17 फ़रवरी 1843 को हैदराबाद के पास लड़ा गया; सर चार्ल्स नेपियर ने तलपुरों को परास्त किया। इसके बाद सिंध ब्रिटिश के अधीन आया, मराठों को नहीं सौंपा गया।"
     },
-    "answer": ["A", "B"],
-    "explanation": "धार्मिक ग्रंथों और विचारों ने साहित्य को प्रभावित किया, और साहित्य ने धार्मिक तथा सामाजिक दृष्टिकोण को फैलाया। स्वतंत्र और केवल मनोरंजन सीमित नहीं था।"
-  },
-  {
-    "id": 50,
-    "question": "कौन-सा साहित्यिक रूप सूफ़ी संस्कृति का प्रतिनिधित्व करता है? / Which literary form represents Sufi culture?",
-    "options": {
-      "A": "ग़ज़ल (Ghazal)",
-      "B": "क़व्वाली (Qawwali)",
-      "C": "नाटक (Drama)",
-      "D": "इतिहास (History)"
+    {
+        "id": 51,
+        "question": "ब्रिटिश अधिग्रहण (1843) के बाद सिंध का प्रशासनिक एकीकरण कैसे हुआ? / How was Sindh integrated administratively after 1843?",
+        "options": {
+            "A": "कमिश्नरी व्यवस्था के अंतर्गत बॉम्बे प्रेसिडेंसी से जोड़ा गया।",
+            "B": "कराची को प्रमुख जिला और बन्दरगाह केन्द्र बनाया गया।",
+            "C": "1936 में सिंध को बॉम्बे से पृथक कर प्रान्त बनाया गया।",
+            "D": "तुरन्त ही दिल्ली प्रान्त में मिला दिया गया।"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "विलय के बाद सिंध बॉम्बे प्रेसिडेंसी के अधीन कमिश्नरी बना; कराची मुख्य पोर्ट-डिस्ट्रिक्ट रहा; 1 अप्रैल 1936 को सिंध अलग प्रान्त बना। दिल्ली में विलय का प्रश्न नहीं था।"
     },
-    "answer": ["A", "B"],
-    "explanation": "ग़ज़ल और क़व्वाली सूफ़ी संस्कृति के मुख्य साहित्यिक रूप हैं। ये प्रेम, भक्ति और आध्यात्मिक संदेश को व्यक्त करते हैं।"
-  },
-  {
-    "id": 51,
-    "question": "फिरोज तुगलक के समय किस प्रकार की साहित्यिक रचनाएँ बढ़ी? / What types of literary works flourished during Firoz Tughlaq's reign?",
-    "options": {
-      "A": "इतिहास (Historical)",
-      "B": "धार्मिक ग्रंथ (Religious texts)",
-      "C": "काव्य (Poetry)",
-      "D": "नाटक (Drama)"
+    {
+        "id": 52,
+        "question": "ब्रिटिश कालीन सिंध में सिंचाई-आधारित आर्थिक परिवर्तन से जुड़े सही कथन चुनिए। / Select the correct statements on irrigation-led economic change in British Sindh.",
+        "options": {
+            "A": "सुक्कुर (लॉयड) बैराज 1932 में चालू हुआ।",
+            "B": "नहर उपनिवेशों/कमांड क्षेत्रों में कपास–गेहूँ उत्पादन बढ़ा।",
+            "C": "राजस्व आकलन में सिंचाई-क्लास पर आधारित मूल्यांकन बढ़ा।",
+            "D": "इंडस से नहरें बंद कर दी गईं।"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "1932 में सुक्कुर बैराज के साथ विशाल नहर-प्रणाली विकसित हुई; कमांड क्षेत्रों में फसली विविधीकरण/उत्पादन बढ़ा; आकलन में सिंचाई-आधारित श्रेणियाँ अहम हुईं। नहरें बन्द नहीं की गईं।"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "फिरोज तुगलक के समय इतिहास, धार्मिक ग्रंथ और काव्य बढ़े। नाट्य साहित्य सीमित और कम प्रचलित था।"
-  },
-  {
-    "id": 52,
-    "question": "दिल्ली सल्तनत में शिक्षा और साहित्य का मुख्य माध्यम क्या था? / What was the main medium of education and literature in Delhi Sultanate?",
-    "options": {
-      "A": "मदरसा (Madrasas)",
-      "B": "राजकीय पुस्तकालय (Royal libraries)",
-      "C": "लोक शिक्षण (Folk education)",
-      "D": "संस्कृत पाठशालाएँ (Sanskrit schools)"
+    {
+        "id": 53,
+        "question": "कराची के उभार (19वीं–20वीं सदी) पर सही कथन। / Correct statements on the rise of Karachi.",
+        "options": {
+            "A": "सिन्‍दे रेलवे (Karachi–Kotri) 1861 से जुड़ाव।",
+            "B": "स्वेज नहर (1869) के बाद यातायात/व्यापार में उछाल।",
+            "C": "बंदरगाह आधुनिकीकरण से कपास/गेहूँ निर्यात बढ़ा।",
+            "D": "कराची का महत्व केवल 1857 के बाद घटी।"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "1861 में कराची–कोटड़ी रेल से अंतर्देशीय कनेक्टिविटी मिली; 1869 के बाद स्वेज से दूरी और समय घटा; पोर्ट इन्फ्रास्ट्रक्चर से अनाज/कपास निर्यात बढ़ा। महत्व घटा नहीं, बढ़ा।"
     },
-    "answer": ["A", "B"],
-    "explanation": "मदरसा और राजकीय पुस्तकालय शिक्षा और साहित्य का मुख्य केंद्र थे। ये प्रशासनिक, धार्मिक और काव्य साहित्य दोनों को संरक्षित करते थे।"
-  },
-  {
-    "id": 53,
-    "question": "कौन-से लेखक ने फारसी में राजनीतिक विश्लेषण प्रस्तुत किया? / Which author provided political analysis in Persian?",
-    "options": {
-      "A": "बिरामी (Barani)",
-      "B": "ज़ियाउद्दीन बरनी (Ziauddin Barani)",
-      "C": "अमीर खुसरो (Amir Khusro)",
-      "D": "फिरोज़शाही लेखक (Firozshahi authors)"
+    {
+        "id": 54,
+        "question": "शाह अब्दुल लतीफ़ भित्ताई (1689–1752) के सम्बन्ध में सही कथन हैं— / Which statements about Shah Abdul Latif Bhittai are correct?",
+        "options": {
+            "A": "‘शाह-जो-रिसालो’ (Sindhi सूफ़ी काव्य) के रचयिता।",
+            "B": "भिट शाह में दरगाह/धाम।",
+            "C": "कविता अरबी में रची गयी थी।",
+            "D": "थीम: प्रेम, लोककथाएँ, आध्यात्मिक साधना।"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "भित्ताई ने सिंधी में ‘शाह-जो-रिसालो’ की रचना की; भिट शाह में उनकी दरगाह है; उनकी कविता प्रेम, लोक-नायिकाओं और आध्यात्मिक साधना पर केन्द्रित है। अरबी में नहीं।"
     },
-    "answer": ["A", "B"],
-    "explanation": "बिरामी और ज़ियाउद्दीन बरनी ने फारसी में राजनीतिक और प्रशासनिक विश्लेषण प्रस्तुत किया। अमीर खुसरो मुख्यतः काव्य और संगीत में योगदान देते थे।"
-  },
-  {
-    "id": 54,
-    "question": "किस प्रकार की रचनाएँ प्रशासनिक प्रणाली को प्रभावित करती थीं? / Which types of works influenced administrative system?",
-    "options": {
-      "A": "इतिहास (Historical)",
-      "B": "काव्य (Poetry)",
-      "C": "धार्मिक ग्रंथ (Religious texts)",
-      "D": "नाटक (Drama)"
+    {
+        "id": 55,
+        "question": "सिंधी भाषा के औपनिवेशिक-युग मानकीकरण पर सही विकल्प चुनें। / Choose correct statements on colonial-era standardization of Sindhi.",
+        "options": {
+            "A": "बॉम्बे प्रशासन ने 19वीं सदी के मध्य में अरबी-आधारित लिपि को आधिकारिक मानक बनाया।",
+            "B": "अदालती और राजस्व कार्यवाही में सिंधी के प्रयोग को बढ़ावा मिला।",
+            "C": "देवनागरी को तत्काल अनिवार्य बना दिया गया।",
+            "D": "शिक्षा के लिए पाठ्यपुस्तक-निर्माण व शब्दकोश-प्रयास हुए।"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "बॉम्बे सरकार ने मध्य-19वीं सदी में अरबी (नस्तालीक़) आधारित सिंधी लिपि को मान्यता दी; प्रशासन/शिक्षा में इसके उपयोग के लिए पाठ्यसामग्री विकसित हुई। देवनागरी अनिवार्य नहीं की गई।"
     },
-    "answer": ["A", "C"],
-    "explanation": "इतिहास और धार्मिक ग्रंथ प्रशासनिक और न्याय प्रणाली को प्रभावित करते थे, काव्य और नाटक का प्रशासन पर सीमित प्रभाव था।"
-  },
-  {
-    "id": 55,
-    "question": "दिल्ली सल्तनत काल में किस साहित्यकार ने सूफ़ी और लोक शैली का मिश्रण प्रस्तुत किया? / Which scholar blended Sufi and folk styles?",
-    "options": {
-      "A": "अमीर खुसरो (Amir Khusro)",
-      "B": "बिरामी (Barani)",
-      "C": "ज़ियाउद्दीन बरनी (Ziauddin Barani)",
-      "D": "फिरोज़शाही लेखक (Firozshahi authors)"
+    {
+        "id": 56,
+        "question": "तलपुर/कलहोरा काल और ब्रिटिश काल की भूमिराजस्व प्रवृत्तियों के बारे में सही कथन हैं— / Regarding land-revenue trends under Talpur/Kalhora and British eras:",
+        "options": {
+            "A": "पूर्व-औपनिवेशिक काल में नहर-आश्रित कृषि पर हिस्सा-बटाई (बटाई) का चलन था।",
+            "B": "वडेऱा/स्थानीय मुखिया उगाही और सिंचाई प्रबन्ध में महत्त्वपूर्ण थे।",
+            "C": "ब्रिटिशों ने सर्वे–सेटलमेंट और सिंचाई-आधारित दरें लागू कीं।",
+            "D": "ब्रिटिशों ने सम्पूर्णतः रैयतवारी ही लागू की।"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "स्थानीय बटाई/जागीर आधारित उगाही में वडेऱा महत्वपूर्ण थे; ब्रिटिशों ने सर्वे–सेटलमेंट कर सिंचाई-स्थिति के अनुसार दरें तय कीं। सिंध में शुद्ध रैयतवारी सर्वत्र नहीं—स्थानीय सत्ता-ढाँचे भी रहे।"
     },
-    "answer": ["A"],
-    "explanation": "अमीर खुसरो ने सूफ़ी भक्ति और लोक शैली को मिलाकर रचनाएँ प्रस्तुत कीं, जिससे सांस्कृतिक और साहित्यिक समृद्धि हुई।"
-  },
-  {
-    "id": 56,
-    "question": "फारसी साहित्य का उद्देश्य दिल्ली सल्तनत में क्या था? / What was the purpose of Persian literature in Delhi Sultanate?",
-    "options": {
-      "A": "राजनीतिक और प्रशासनिक रिकॉर्ड (Political and administrative record)",
-      "B": "धार्मिक प्रचार (Religious propagation)",
-      "C": "सांस्कृतिक और काव्यात्मक विकास (Cultural and poetic development)",
-      "D": "व्यावसायिक दस्तावेज (Commercial documents)"
+    {
+        "id": 57,
+        "question": "इंडस नौसंचालन (Indus Navigation) के सम्बन्ध में सही कथन चुनिए। / Select correct statements on Indus navigation.",
+        "options": {
+            "A": "1830–40 के दशक में स्टीमर सेवाएँ सैन्य-रसद हेतु प्रयुक्त हुईं।",
+            "B": "कोटड़ी–सुक्कुर शृंखला महत्त्वपूर्ण नोड बनी।",
+            "C": "इंडस स्टीम फ़्लोटिला/समकक्ष इकाइयाँ बनीं।",
+            "D": "ब्रिटिश ने नदी-परिवहन को निषिद्ध कर दिया।"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "अफ़ग़ान युद्धों और आन्तरिक यातायात हेतु इंडस पर स्टीमर-परियोजनाएँ चलीं; कोटड़ी–सुक्कुर प्रमुख नोड बने; औपचारिक इकाइयाँ गठित हुईं। इसे निषिद्ध नहीं किया गया।"
     },
-    "answer": ["A", "C"],
-    "explanation": "फारसी साहित्य ने राजनीतिक और प्रशासनिक रिकॉर्ड बनाए और सांस्कृतिक एवं काव्यात्मक विकास को भी प्रोत्साहित किया।"
-  },
-  {
-    "id": 57,
-    "question": "कौन-सी शैली में दिल्ली सल्तनत काल के अधिकांश काव्य लिखे गए? / In which style were most poetry written during Delhi Sultanate?",
-    "options": {
-      "A": "ग़ज़ल (Ghazal)",
-      "B": "क़व्वाली (Qawwali)",
-      "C": "सन्दर्भित इतिहास (Chronicle style)",
-      "D": "संस्कृत श्लोक (Sanskrit verse)"
+    {
+        "id": 58,
+        "question": "1857 के विद्रोह के समय सिंध की स्थिति पर सही कथन हैं— / Correct statements on Sindh during the 1857 revolt:",
+        "options": {
+            "A": "क्षेत्र अपेक्षाकृत शांत रहा; बड़े पैमाने का विद्रोह नहीं हुआ।",
+            "B": "कराची/छावनियों में सीमित अशांति जल्दी दमन की गई।",
+            "C": "तलपुर शासक पुनः सत्ता में आ गये।",
+            "D": "ब्रिटिश नियंत्रण मजबूत रहा।"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "सिंध 1857 में अपेक्षाकृत शांत रहा; कुछ छावनीगत असंतोष शीघ्र काबू में लाया गया; ब्रिटिश नियंत्रण सुदृढ़ बना रहा। तलपुरों की पुनर्स्थापना नहीं हुई।"
     },
-    "answer": ["A", "B"],
-    "explanation": "ग़ज़ल और क़व्वाली शैली में अधिकांश काव्य लिखे गए। ये सूफ़ी प्रेम और भक्ति पर आधारित थे।"
-  },
-  {
-    "id": 58,
-    "question": "कौन-सा साहित्यिक योगदान धार्मिक सहिष्णुता को बढ़ावा देता था? / Which literary contribution promoted religious tolerance?",
-    "options": {
-      "A": "सूफ़ी काव्य (Sufi poetry)",
-      "B": "इतिहास (Historical writings)",
-      "C": "धार्मिक ग्रंथ (Religious texts)",
-      "D": "नाट्य (Drama)"
+    {
+        "id": 59,
+        "question": "मोहनजोदड़ो की पुरातात्विक खोज के बारे में सही कथन चुनें। / Choose correct statements about the archaeological discovery of Mohenjo-daro.",
+        "options": {
+            "A": "1920 के दशक में व्यवस्थित उत्खनन शुरू हुआ।",
+            "B": "स्थल लरकाना के समीप, सिंधु के पास स्थित है।",
+            "C": "ईंट-निर्मित नगरीय नियोजन और ‘ग्रेट बाथ’ जैसी संरचनाएँ मिलीं।",
+            "D": "यह कुषाण-युगीन राजधानी रही।"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "1920s में मोहनजोदड़ो का वैज्ञानिक उत्खनन हुआ; यह लरकाना के पास है; सुव्यवस्थित नगरीय योजना, पकी ईंटें, स्नानागार जैसी संरचनाएँ प्रसिद्ध हैं। कुषाण-युग से इसका सम्बन्ध नहीं—यह हड़प्पा-युगीन है।"
     },
-    "answer": ["A", "B"],
-    "explanation": "सूफ़ी काव्य और इतिहास ने धार्मिक सहिष्णुता और विविधता को बढ़ावा दिया। धार्मिक ग्रंथ अक्सर विशिष्ट समुदाय तक सीमित रहते थे।"
-  },
-  {
-    "id": 59,
-    "question": "दिल्ली सल्तनत में साहित्यिक संरक्षण के प्रमुख केंद्र कौन-से थे? / What were the main centers of literary patronage in Delhi Sultanate?",
-    "options": {
-      "A": "मदरसा (Madrasas)",
-      "B": "शाही दरबार (Royal courts)",
-      "C": "लोक साहित्यिक सभा (Folk literary gatherings)",
-      "D": "मंदिर और मठ (Temples and monasteries)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "मदरसा और शाही दरबार साहित्यिक संरक्षण के प्रमुख केंद्र थे। ये शासकों और विद्वानों के लिए समर्थन प्रदान करते थे।"
-  },
-  {
-    "id": 60,
-    "question": "दिल्ली सल्तनत काल का साहित्यिक महत्व क्या था? / What was the literary significance of Delhi Sultanate period?",
-    "options": {
-      "A": "इतिहास और प्रशासन का स्रोत (Source of history and administration)",
-      "B": "काव्य और संगीत का विकास (Development of poetry and music)",
-      "C": "सांस्कृतिक और धार्मिक सहिष्णुता (Cultural and religious tolerance)",
-      "D": "व्यापारिक और वाणिज्यिक दस्तावेज (Commercial and trade documents)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "दिल्ली सल्तनत काल में साहित्यिक योगदान इतिहास, प्रशासन, काव्य, संगीत और सांस्कृतिक सहिष्णुता में महत्वपूर्ण था। व्यावसायिक दस्तावेज इसकी मुख्य भूमिका नहीं थे।"
-  }
+    {
+        "id": 60,
+        "question": "ब्रिटिश राज के लिए सिंध का रणनीतिक-मौलिक महत्त्व क्या था? / What made Sindh strategically fundamental for the Raj?",
+        "options": {
+            "A": "उत्तर–पश्चिमी सीमा तक रसद/अभियान हेतु मार्ग (NW frontier logistics)",
+            "B": "इंडस नदी एक भीतरी परिवहन धुरी (Indus as inland artery)",
+            "C": "कराची—अरब सागर का गेटवे पोर्ट (Karachi gateway port)",
+            "D": "दक्कन पठार का कृषि ‘हृदयस्थल’ (Deccan’s agrarian heartland)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "सिंध का महत्त्व NW सीमा (अफ़ग़ान मोर्चे) के लिए रसद-मार्ग, इंडस की जल-धुरी, और कराची पोर्ट के कारण था। दक्कन से इसका भौगोलिक–कृषि सम्बन्ध ‘हृदयस्थल’ के रूप में नहीं बैठता।"
+    }
 ]
-
-  
- 
