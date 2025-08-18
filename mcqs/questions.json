@@ -1,667 +1,725 @@
 [
   {
     "id": 1,
-    "question": "चोल वंश के प्रारंभिक शासक कौन थे और उनका महत्व क्या था? / Who were the early rulers of the Chola dynasty and what was their significance?",
+    "question": "दिल्ली सलतनत के किस सुलतान ने कुतुब मीनार का निर्माण शुरू किया था? / Which Sultan of Delhi Sultanate initiated the construction of Qutb Minar?",
     "options": {
-      "A": "विजयालय चोल (Vijayalaya Chola)",
-      "B": "कुलोत्तुंग चोल (Kulottunga Chola)",
-      "C": "अदित्य I (Aditya I)",
-      "D": "राजराजा I (Rajaraja I)"
+      "A": "कुतुबुद्दीन ऐबक (Qutb-ud-din Aibak)",
+      "B": "इल्तुतमिश (Iltutmish)",
+      "C": "अलाउद्दीन खिलजी (Alauddin Khilji)",
+      "D": "फिरोज शाह तुगलक (Firoz Shah Tughlaq)"
     },
-    "answer": ["A", "C"],
-    "explanation": "विजयालय चोल ने 9वीं सदी में चोल वंश की पुनर्स्थापना की और कोंडोलपुरम को राजधानी बनाया। अदित्य I ने चोलों का विस्तार किया और पांड्य वंश तथा शैल्लीय वंश को पराजित किया। कुलोत्तुंग और राजराजा I बाद के शासक थे।"
+    "answer": ["A", "B"],
+    "explanation": "कुतुबुद्दीन ऐबक ने कुतुब मीनार का निर्माण शुरू किया था और इल्तुतमिश ने इसे पूरा किया तथा ऊँचाई बढ़ाई।"
   },
   {
     "id": 2,
-    "question": "मध्यकालीन चोल (Medieval Cholas) के प्रमुख शासक कौन थे? / Who were the major rulers of the Medieval Cholas?",
+    "question": "कुतुब मीनार में मुख्य रूप से कौन-सा स्थापत्य तत्व देखने को मिलता है? / Which architectural element is predominantly seen in Qutb Minar?",
     "options": {
-      "A": "राजराजा I (Rajaraja I)",
-      "B": "राजेंद्र चोल I (Rajendra Chola I)",
-      "C": "विजयालय चोल (Vijayalaya Chola)",
-      "D": "कुलोत्तुंग चोल I (Kulottunga Chola I)"
+      "A": "कैलकटा पत्थर (Red Sandstone)",
+      "B": "मुगल गुंबद (Mughal domes)",
+      "C": "कुतुब शैली का स्तंभ (Qutb style pillars)",
+      "D": "लाल पत्थर और संगमरमर (Red sandstone and marble)"
     },
-    "answer": ["A", "B"],
-    "explanation": "राजराजा I ने 10वीं सदी में चोल साम्राज्य को अपनी शक्ति के शिखर तक पहुँचाया। उनके पुत्र राजेंद्र चोल I ने दक्षिण भारत और दक्षिण-पूर्व एशिया में चोल साम्राज्य का विस्तार किया। विजयालय चोल प्रारंभिक और कुलोत्तुंग बाद के काल के शासक थे।"
+    "answer": ["A", "D"],
+    "explanation": "कुतुब मीनार मुख्य रूप से लाल पत्थर और संगमरमर से निर्मित है, जिसमें इस्लामी और स्थानीय स्थापत्य शैलियों का मिश्रण दिखता है।"
   },
   {
     "id": 3,
-    "question": "राजेंद्र चोल I की विदेश नीति और सामरिक अभियानों का मुख्य उद्देश्य क्या था? / What was the main purpose of Rajendra Chola I's foreign policy and military campaigns?",
+    "question": "कुतुब मीनार के निर्माण में निम्नलिखित किसका मिश्रण देखा जाता है? / The construction of Qutb Minar shows a blend of which elements?",
     "options": {
-      "A": "दक्षिण-पूर्व एशिया में व्यापार और राजनीतिक प्रभुत्व स्थापित करना / Establish trade and political dominance in Southeast Asia",
-      "B": "हिमालय क्षेत्र में विस्तारीकरण / Expansion into the Himalayan region",
-      "C": "पांड्य और शैल्लीय राज्यों का अंत करना / Conquer Pandya and Chera kingdoms",
-      "D": "अरब सागर में नौसैनिक ताकत दिखाना / Demonstrate naval power in Arabian Sea"
+      "A": "हिंदू और जैन शिल्पकला (Hindu and Jain motifs)",
+      "B": "इस्लामी शिल्पकला (Islamic motifs)",
+      "C": "राजपूती स्थापत्य (Rajput architecture)",
+      "D": "मुगल शैली (Mughal style)"
     },
-    "answer": ["A", "C"],
-    "explanation": "राजेंद्र चोल I ने दक्षिण-पूर्व एशिया (Srivijaya) में व्यापार और राजनीतिक प्रभुत्व स्थापित किया। उन्होंने पांड्य और शैल्लीय राज्यों को पराजित किया। हिमालय क्षेत्र में विस्तार और अरब सागर में नौसैनिक प्रदर्शन मुख्य उद्देश्य नहीं थे।"
+    "answer": ["A", "B"],
+    "explanation": "कुतुब मीनार में हिंदू और जैन मंदिरों के अवशेषों का पुनः उपयोग किया गया, साथ ही इस्लामी कलाकारी भी दिखाई देती है।"
   },
   {
     "id": 4,
-    "question": "चोल साम्राज्य की समय-रेखा (Timeline) को सही क्रम में लगाएँ / Arrange the Chola dynasty rulers in correct chronological order.",
+    "question": "कुतुब मीनार के किन हिस्सों में शिलालेखों और कुरआनी आयतों को खुदवाया गया है? / Where are inscriptions and Quranic verses engraved on Qutb Minar?",
     "options": {
-      "A": "विजयालय चोल → अदित्य I → राजराजा I → राजेंद्र चोल I / Vijayalaya Chola → Aditya I → Rajaraja I → Rajendra Chola I",
-      "B": "राजराजा I → राजेंद्र चोल I → विजयालय चोल → अदित्य I / Rajaraja I → Rajendra Chola I → Vijayalaya Chola → Aditya I",
-      "C": "अदित्य I → विजयालय चोल → राजेंद्र चोल I → राजराजा I / Aditya I → Vijayalaya Chola → Rajendra Chola I → Rajaraja I",
-      "D": "कुलोत्तुंग चोल → राजेंद्र चोल I → राजराजा I → विजयालय चोल / Kulottunga Chola → Rajendra Chola I → Rajaraja I → Vijayalaya Chola"
+      "A": "मीनार की बाहरी सतह पर (Outer surface)",
+      "B": "अंदरूनी सीढ़ियों पर (Inner stairs)",
+      "C": "मीनार की छत पर (Top terrace)",
+      "D": "मीनार के नीचले आधार पर (Base foundation)"
     },
-    "answer": ["A"],
-    "explanation": "चोल वंश की शुरुआत विजयालय चोल से हुई, फिर अदित्य I, फिर राजराजा I और अंत में राजेंद्र चोल I का शासन। अन्य विकल्प कालक्रम के अनुसार गलत हैं।"
+    "answer": ["A", "B"],
+    "explanation": "मीनार की बाहरी सतह और अंदरूनी सीढ़ियों पर कुरआनी आयतें और निर्माण के शिलालेख खुदवाए गए हैं।"
   },
   {
     "id": 5,
-    "question": "प्रारंभिक, मध्यकालीन और उत्तरकालीन चोल वंश के विभाजन का आधार क्या है? / What is the basis for dividing Chola dynasty into Early, Medieval and Later Cholas?",
+    "question": "कुतुब मीनार के निर्माण में कौन-सी वास्तुशिल्प तकनीक का प्रयोग किया गया है? / Which architectural technique was used in Qutb Minar?",
     "options": {
-      "A": "राजाओं की वंशावली और शासनकाल / Lineage of kings and period of rule",
-      "B": "सैन्य अभियानों की संख्या / Number of military campaigns",
-      "C": "भौगोलिक विस्तार / Geographical expansion",
-      "D": "धार्मिक नीतियाँ / Religious policies"
+      "A": "बेलनाकार सिलेंडर (Tapering cylinder)",
+      "B": "गुम्बदाकार संरचना (Domed structure)",
+      "C": "कूटकर निर्माण (Corbelling)",
+      "D": "आधुनिक कंक्रीट तकनीक (Modern concrete)"
     },
     "answer": ["A", "C"],
-    "explanation": "चोल वंश को प्रारंभिक, मध्यकालीन और उत्तरकालीन इस आधार पर विभाजित किया जाता है कि किन राजाओं ने शासन किया और साम्राज्य का भौगोलिक विस्तार कितना हुआ। सैन्य अभियानों की संख्या या धार्मिक नीतियाँ विभाजन का मुख्य आधार नहीं हैं।"
+    "explanation": "कुतुब मीनार बेलनाकार संरचना में है और इसमें कूटकर निर्माण (Corbelling) तकनीक का प्रयोग हुआ है।"
   },
   {
     "id": 6,
-    "question": "चोल प्रशासन में स्थानीय स्वशासन की प्रमुख इकाइयाँ कौन थीं? / What were the main units of local self-government in Chola administration?",
+    "question": "कुतुब परिसर में निम्नलिखित में से कौन-कौन से अन्य महत्वपूर्ण संरचनाएँ मौजूद हैं? / Which other important structures are present in Qutb complex?",
     "options": {
-      "A": "उर (Ur)",
-      "B": "सभा (Sabha)",
-      "C": "नगरम (Nagaram)",
-      "D": "ग्राम पंचायत (Gram Panchayat)"
+      "A": "क्व्वत-उल-इस्लाम मस्जिद (Quwwat-ul-Islam Mosque)",
+      "B": "अलाउद्दीन खिलजी का मकबरा (Alauddin Khilji’s Tomb)",
+      "C": "अलाउद्दीन खिलजी की हवेली (Alauddin Khilji’s palace)",
+      "D": "इरानी शैली की मीनार (Persian-style minaret)"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "चोल प्रशासन में स्थानीय स्वशासन की मुख्य इकाइयाँ Ur (गाँव), Sabha (ब्राह्मण सभा/पंचायत) और Nagaram (शहरी निकाय) थीं। ग्राम पंचायत जैसी आधुनिक संस्था उस समय मौजूद नहीं थी।"
+    "answer": ["A", "B"],
+    "explanation": "कुतुब परिसर में क्व्वत-उल-इस्लाम मस्जिद और अलाउद्दीन खिलजी का मकबरा शामिल हैं। अन्य संरचनाएँ बाद में या अन्य स्थानों में बनीं।"
   },
   {
     "id": 7,
-    "question": "चोल प्रशासन में राजस्व संग्रह की प्रणाली किस पर आधारित थी? / On what basis was revenue collection system in Chola administration?",
+    "question": "कुतुब मीनार की स्थापत्य शैली को निम्नलिखित में से किस शैली के रूप में वर्गीकृत किया जा सकता है? / The architectural style of Qutb Minar can be classified as:",
     "options": {
-      "A": "भूमि की उपज और प्रकार / Land productivity and type",
-      "B": "जनसंख्या संख्या / Population count",
-      "C": "मोटा अनुमान (Lump sum assessment) / Lump sum estimation",
-      "D": "सामाजिक वर्ग / Social hierarchy"
+      "A": "इंडो-इस्लामी स्थापत्य (Indo-Islamic)",
+      "B": "मुगल शैली (Mughal)",
+      "C": "राजपूती शैली (Rajput)",
+      "D": "गुप्त शैली (Gupta)"
     },
-    "answer": ["A", "C"],
-    "explanation": "चोल प्रशासन में राजस्व का मूल्यांकन भूमि की उपज और प्रकार के आधार पर किया जाता था। कुछ मामलों में मोटा अनुमान भी लिया जाता था। केवल जनसंख्या या सामाजिक वर्ग राजस्व निर्धारण का आधार नहीं थे।"
+    "answer": ["A"],
+    "explanation": "कुतुब मीनार में हिंदू और जैन कलाओं के तत्वों का मिश्रण इस्लामी शैली में किया गया है, जिसे इंडो-इस्लामी स्थापत्य कहा जाता है।"
   },
   {
     "id": 8,
-    "question": "सभा और उर में किस प्रकार के अधिकारी कार्य करते थे? / What kind of officials functioned in Sabha and Ur?",
+    "question": "कुतुब मीनार का निर्माण किस उद्देश्य से किया गया था? / For what purpose was Qutb Minar constructed?",
     "options": {
-      "A": "स्थानीय ब्राह्मण अधिकारी / Local Brahmin officials",
-      "B": "राज्य नियुक्त कर्मचारी / State-appointed officers",
-      "C": "सैनिक अधिकारी / Military officers",
-      "D": "धार्मिक पुरोहित / Religious priests"
+      "A": "मस्जिद के अजान के लिए (Call to prayer)",
+      "B": "सुलतान की विजय का प्रतीक (Symbol of victory)",
+      "C": "आधिकारिक बैठकों के लिए (Administrative meetings)",
+      "D": "व्यक्तिगत निवास के लिए (Personal residence)"
     },
     "answer": ["A", "B"],
-    "explanation": "सभा और उर में स्थानीय ब्राह्मण अधिकारी और राज्य द्वारा नियुक्त कर्मचारी प्रशासनिक कार्य करते थे। सैनिक अधिकारी और पुरोहित केवल सीमित धार्मिक या सैन्य कार्यों में शामिल होते थे।"
+    "explanation": "कुतुब मीनार का प्रयोग अजान के लिए किया जाता था और यह सुलतान की विजय का प्रतीक भी था।"
   },
   {
     "id": 9,
-    "question": "चोल प्रशासन में मंत्रियों और नौकरशाही की भूमिका क्या थी? / What was the role of ministers and bureaucracy in Chola administration?",
+    "question": "कुतुब मीनार में किन सामग्रियों का प्रयोग मुख्य रूप से किया गया है? / Which materials are predominantly used in Qutb Minar?",
     "options": {
-      "A": "राज्य नीति और शासन संचालन / Formulation of policy and governance",
-      "B": "सैनिक अभियान का नेतृत्व / Leading military campaigns",
-      "C": "राजस्व संग्रह और लेखा प्रबंधन / Revenue collection and accounts management",
-      "D": "धार्मिक अनुष्ठान का आयोजन / Conducting religious rituals"
+      "A": "लाल बलुआ पत्थर (Red sandstone)",
+      "B": "संगमरमर (Marble)",
+      "C": "काठ (Wood)",
+      "D": "ईंट (Brick)"
     },
-    "answer": ["A", "C"],
-    "explanation": "मंत्रियों और नौकरशाही का मुख्य कार्य नीति निर्धारण, शासन संचालन, राजस्व संग्रह और लेखा प्रबंधन था। धार्मिक अनुष्ठान और सैन्य अभियान केवल कुछ विशेष अधिकारियों द्वारा किया जाता था।"
+    "answer": ["A", "B"],
+    "explanation": "कुतुब मीनार में लाल बलुआ पत्थर और संगमरमर का मुख्य प्रयोग हुआ है। लकड़ी और ईंट का उपयोग न्यूनतम है।"
   },
   {
     "id": 10,
-    "question": "चोल साम्राज्य में नागरम (Nagaram) की विशेष भूमिका क्या थी? / What was the special role of Nagaram in Chola empire?",
+    "question": "कुतुब परिसर में मस्जिद के स्तंभों में किस शिल्पकला का मिश्रण देखा जाता है? / Which motifs are blended in the mosque pillars within Qutb complex?",
     "options": {
-      "A": "शहरी व्यापार और कारीगरी / Urban trade and craftsmanship",
-      "B": "कृषि उत्पादन केंद्र / Agricultural production center",
-      "C": "राजनीतिक और न्यायिक केंद्र / Political and judicial center",
-      "D": "धार्मिक तीर्थ स्थल / Religious pilgrimage site"
+      "A": "हिंदू देवताओं के चित्र (Hindu deities)",
+      "B": "इस्लामी ज्यामितीय पैटर्न (Islamic geometric patterns)",
+      "C": "बौद्ध प्रतिमाएँ (Buddhist figures)",
+      "D": "जैन प्रतीक (Jain symbols)"
     },
-    "answer": ["A", "C"],
-    "explanation": "Nagaram मुख्य रूप से शहरी व्यापार, कारीगरी और प्रशासनिक/न्यायिक कार्यों का केंद्र था। कृषि उत्पादन मुख्य रूप से ग्राम (Ur) में होता था। तीर्थ स्थल की भूमिका सीमित थी।"
+    "answer": ["A", "B", "D"],
+    "explanation": "मस्जिद के स्तंभों में हिंदू, जैन मूर्तियों और इस्लामी ज्यामितीय पैटर्न का मिश्रण दिखता है।"
   },
   {
     "id": 11,
-    "question": "चोल प्रशासन में भूमि कर (Land tax) के प्रकार क्या थे? / What were the types of land taxes in Chola administration?",
+    "question": "दिल्ली सलतनत के तुगलक काल में कौन-कौन से महलों और किलों में स्थापत्य नवाचार देखे गए? / Which palaces and forts of Tughlaq period show architectural innovations?",
     "options": {
-      "A": "कुली कर (Kuli tax)",
-      "B": "वेल्लालार कर (Vellalar tax)",
-      "C": "उपज आधारित कर (Produce tax)",
-      "D": "न्यूनतम कर (Minimal flat tax)"
+      "A": "तुगलकाबाद किला (Tughlaqabad Fort)",
+      "B": "लोधी गार्डन के महल (Lodhi gardens palace)",
+      "C": "फिरोज शाह तुगलक के मकबरे (Firoz Shah Tughlaq tombs)",
+      "D": "अलाउद्दीन खिलजी का किला (Alauddin Khilji Fort)"
     },
-    "answer": ["B", "C"],
-    "explanation": "चोल प्रशासन में भूमि कर मुख्य रूप से Vellalar (भूमि-स्वामी) और उत्पादन आधारित कर थे। Kuli या flat tax जैसा कोई आम प्रावधान नहीं था।"
+    "answer": ["A", "C"],
+    "explanation": "तुगलकाबाद किला और फिरोज शाह तुगलक के मकबरे में तुगलक स्थापत्य की विशेषता - मजबूत किला, उभरे हुए बलुआ पत्थर, सरल सजावट दिखाई देती है।"
   },
   {
     "id": 12,
-    "question": "उर और सभा में क्या प्रकार के निर्णय लिए जाते थे? / What type of decisions were made in Ur and Sabha?",
+    "question": "तुगलक स्थापत्य शैली में कौन-से प्रमुख तत्व शामिल हैं? / Which are major elements of Tughlaq architectural style?",
     "options": {
-      "A": "स्थानीय भूमि विवाद / Local land disputes",
-      "B": "राज्य नीति निर्धारण / State policy making",
-      "C": "धार्मिक अनुष्ठान / Religious rituals",
-      "D": "कर संग्रह और वितरण / Tax collection and distribution"
+      "A": "मोटे, ऊँचे किले (Massive, tall forts)",
+      "B": "सजावटी गुंबद और झरोखे (Decorative domes and windows)",
+      "C": "सरल और ठोस संरचना (Simple and solid structures)",
+      "D": "मुगल कलाकारी (Mughal art)"
     },
-    "answer": ["A", "D"],
-    "explanation": "Ur और Sabha स्थानीय स्तर पर भूमि विवादों का समाधान और कर संग्रह/वितरण का काम करती थीं। राज्य नीति निर्धारण केवल मंत्रियों और राजा द्वारा किया जाता था।"
+    "answer": ["A", "C"],
+    "explanation": "तुगलक स्थापत्य शैली में सरल और ठोस निर्माण, ऊँचे और मोटे किले, कम सजावट और बलुआ पत्थर का उपयोग प्रमुख है।"
   },
   {
     "id": 13,
-    "question": "चोल प्रशासन में कौन से अधिकारी सीधे राजा को रिपोर्ट करते थे? / Which officials reported directly to the king in Chola administration?",
+    "question": "फिरोज शाह तुगलक के मकबरे में कौन-कौन से स्थापत्य नवाचार देखे जा सकते हैं? / Which architectural innovations are visible in Firoz Shah Tughlaq tombs?",
     "options": {
-      "A": "मंत्री और उच्च पदस्थ नौकरशाही / Ministers and high-ranking bureaucrats",
-      "B": "स्थानीय ब्राह्मण अधिकारी / Local Brahmin officials",
-      "C": "नगरम के व्यापारी / Merchants of Nagaram",
-      "D": "सैनिक कमांडर / Military commanders"
+      "A": "संगमरमर और बलुआ पत्थर का मिश्रण (Blend of marble and red sandstone)",
+      "B": "किलेबंदी शैली (Fortification style)",
+      "C": "मस्जिद की संगमरमर जाली (Marble lattices in mosque)",
+      "D": "गुंबद और पतली मीनारें (Domes and slender minarets)"
     },
-    "answer": ["A", "D"],
-    "explanation": "राजा को सीधे मंत्रियों, उच्च पदस्थ नौकरशाही और सैन्य कमांडरों से रिपोर्ट मिलती थी। स्थानीय अधिकारी और व्यापारी केवल अपने क्षेत्र की रिपोर्टिंग करते थे।"
+    "answer": ["A", "C", "D"],
+    "explanation": "फिरोज शाह तुगलक के मकबरे में लाल बलुआ पत्थर और संगमरमर का मिश्रण, गुंबद, पतली मीनारें और जालीदार मस्जिद देखने को मिलती हैं।"
   },
   {
     "id": 14,
-    "question": "सभा और उर में आर्थिक लेन-देन और व्यापार नियंत्रण का कार्य किसका था? / Who handled economic transactions and trade regulation in Sabha and Ur?",
+    "question": "लोधी और तुगलक काल के बीच स्थापत्य में क्या मुख्य अंतर है? / What is the main difference between Lodhi and Tughlaq architecture?",
     "options": {
-      "A": "स्थानीय प्रमुख और ब्राह्मण अधिकारी / Local chiefs and Brahmin officials",
-      "B": "राज्य के मंत्रियों / State ministers",
-      "C": "सैनिक अधिकारी / Military officers",
-      "D": "व्यापारी संघ / Merchant guilds"
+      "A": "लोधी में सजावटी गुंबद अधिक (More decorative domes in Lodhi)",
+      "B": "तुगलक में मोटे और साधारण किले (Massive and simple forts in Tughlaq)",
+      "C": "लोधी में जालीदार खिड़कियाँ (Lattice windows in Lodhi)",
+      "D": "तुगलक में संगमरमर का अधिक प्रयोग (More use of marble in Tughlaq)"
     },
-    "answer": ["A", "D"],
-    "explanation": "स्थानीय प्रमुख और ब्राह्मण अधिकारी आर्थिक गतिविधियों की निगरानी करते थे, जबकि व्यापारी संघ व्यापार नियंत्रण और कर भुगतान में मदद करते थे। मंत्रियों और सैनिकों का इसमें प्रत्यक्ष कार्य नहीं था।"
+    "answer": ["A", "B", "C"],
+    "explanation": "लोधी स्थापत्य में सजावटी गुंबद, जालीदार खिड़कियाँ और कम ठोस निर्माण है, जबकि तुगलक स्थापत्य में मोटे, ऊँचे किले और साधारण ढांचा है।"
   },
   {
     "id": 15,
-    "question": "चोल साम्राज्य में राजस्व प्रशासन की विशेषता क्या थी? / What was the distinctive feature of revenue administration in Chola empire?",
+    "question": "दिल्ली सलतनत के किस सुलतान ने किला निर्माण में सटीक गणितीय माप और दिशा निर्धारण का प्रयोग किया? / Which Sultan used precise mathematical measurements and orientation in fort construction?",
     "options": {
-      "A": "भूमि और उपज आधारित कर प्रणाली / Land and produce-based tax system",
-      "B": "सभी करों का प्रत्यक्ष संग्रह केवल राजा द्वारा / Direct collection of all taxes by the king",
-      "C": "स्थानीय स्वशासन की भागीदारी / Participation of local self-governing bodies",
-      "D": "केवल धार्मिक संस्थानों से कर संग्रह / Tax collection only from religious institutions"
+      "A": "कुतुबुद्दीन ऐबक (Qutb-ud-din Aibak)",
+      "B": "बलबन (Balban)",
+      "C": "मुहम्मद बिन तुगलक (Muhammad bin Tughlaq)",
+      "D": "फिरोज शाह तुगलक (Firoz Shah Tughlaq)"
     },
-    "answer": ["A", "C"],
-    "explanation": "चोल प्रशासन में राजस्व प्रणाली भूमि और उपज पर आधारित थी और इसमें Ur, Sabha और Nagaram जैसे स्थानीय निकाय सक्रिय रूप से भाग लेते थे। राजा या धार्मिक संस्थान अकेले कर संग्रह नहीं करते थे।"
+    "answer": ["C"],
+    "explanation": "मुहम्मद बिन तुगलक ने किलों और महलों के निर्माण में गणितीय माप और दिशा का सटीक प्रयोग किया। यह उनके प्रशासनिक और स्थापत्य नवाचार का हिस्सा था।"
   },
   {
     "id": 16,
-    "question": "चोल प्रशासन में मंत्रियों और नौकरशाही के पद किस आधार पर निर्धारित किए जाते थे? / On what basis were the posts of ministers and bureaucracy determined in Chola administration?",
+    "question": "दिल्ली सल्तनत के स्थापत्य में 'अलई दरवाजा' किस सुलतान द्वारा बनवाया गया था?",
     "options": {
-      "A": "वंशानुक्रम और प्रतिष्ठा / Lineage and social prestige",
-      "B": "सैन्य क्षमता / Military capability",
-      "C": "योग्यता और प्रशासनिक दक्षता / Merit and administrative skill",
-      "D": "धार्मिक सेवा / Religious service"
+      "A": "कुतुबुद्दीन ऐबक",
+      "B": "इल्तुतमिश",
+      "C": "अलाउद्दीन खिलजी",
+      "D": "फिरोज शाह तुगलक"
     },
-    "answer": ["A", "C"],
-    "explanation": "मंत्रियों और उच्च पदस्थ नौकरशाही को वंशानुक्रम, सामाजिक प्रतिष्ठा और प्रशासनिक योग्यता के आधार पर नियुक्त किया जाता था। केवल सैन्य या धार्मिक क्षमता पर्याप्त नहीं थी।"
+    "answer": ["C"],
+    "explanation": "अलई दरवाजा, जो दिल्ली के कुतुब परिसर में स्थित है, अलाउद्दीन खिलजी द्वारा बनवाया गया था। यह स्थापत्य कला में एक महत्वपूर्ण मील का पत्थर है।"
   },
   {
     "id": 17,
-    "question": "Ur और Sabha में कौन-सी संपत्ति का प्रबंधन किया जाता था? / Which types of property were managed in Ur and Sabha?",
+    "question": "दिल्ली सल्तनत के स्थापत्य में 'कुतुब मीनार' का निर्माण किसने शुरू किया था?",
     "options": {
-      "A": "मंदिर और धार्मिक भूमि / Temple and religious lands",
-      "B": "राज्य की भूमि / State-owned lands",
-      "C": "व्यक्तिगत निजी संपत्ति / Private property of individuals",
-      "D": "सैनिक कैम्प भूमि / Military camp lands"
+      "A": "कुतुबुद्दीन ऐबक",
+      "B": "इल्तुतमिश",
+      "C": "अलाउद्दीन खिलजी",
+      "D": "फिरोज शाह तुगलक"
     },
     "answer": ["A", "B"],
-    "explanation": "Ur और Sabha मंदिरों और राज्य की भूमि का प्रबंधन करते थे। निजी संपत्ति और सैनिक कैम्प भूमि इन निकायों के प्रबंधन में शामिल नहीं थी।"
+    "explanation": "कुतुब मीनार का निर्माण कुतुबुद्दीन ऐबक ने शुरू किया था, और इल्तुतमिश ने इसे पूरा किया। यह स्थापत्य कला का अद्भुत उदाहरण है।"
   },
   {
     "id": 18,
-    "question": "चोल प्रशासन में नगरम (Nagaram) का न्यायिक कार्य क्या था? / What was the judicial function of Nagaram in Chola administration?",
+    "question": "दिल्ली सल्तनत के स्थापत्य में 'मीनार' का प्रमुख उद्देश्य क्या था?",
     "options": {
-      "A": "शहरी विवादों का निपटान / Settlement of urban disputes",
-      "B": "ग्राम्य भूमि विवाद / Resolution of village land disputes",
-      "C": "राज्य नीति निर्णय / State policy decisions",
-      "D": "धार्मिक अनुष्ठान की निगरानी / Supervision of religious rituals"
+      "A": "धार्मिक स्थल के रूप में",
+      "B": "सैन्य प्रहरी के रूप में",
+      "C": "संगीत समारोह के लिए",
+      "D": "राजकीय कार्यालय के रूप में"
     },
-    "answer": ["A"],
-    "explanation": "Nagaram शहरी न्यायिक निकाय था और इसका मुख्य कार्य शहर के व्यापारिक और नागरिक विवादों का समाधान करना था। ग्राम्य भूमि विवाद Ur और Sabha में निपटाए जाते थे।"
+    "answer": ["B"],
+    "explanation": "मीनारों का प्रमुख उद्देश्य सैन्य प्रहरी के रूप में था, जिससे दूर-दूर तक संदेश भेजे जा सकें और सुरक्षा सुनिश्चित की जा सके।"
   },
   {
     "id": 19,
-    "question": "चोल प्रशासन में राजस्व लेखा का रिकॉर्ड कौन रखता था? / Who maintained the revenue accounts in Chola administration?",
+    "question": "दिल्ली सल्तनत के स्थापत्य में 'डोम' का प्रयोग किस कारण से किया गया था?",
     "options": {
-      "A": "स्थानीय ब्राह्मण अधिकारी / Local Brahmin officials",
-      "B": "राजा स्वयं / King himself",
-      "C": "मंत्री और उच्च पदस्थ नौकरशाही / Ministers and high-ranking bureaucrats",
-      "D": "व्यापारी संघ / Merchant guilds"
+      "A": "सजावट के लिए",
+      "B": "ध्वनि प्रतिध्वनि के लिए",
+      "C": "आकर्षकता बढ़ाने के लिए",
+      "D": "संरचनात्मक मजबूती के लिए"
     },
-    "answer": ["A", "C"],
-    "explanation": "राजस्व लेखा का रिकॉर्ड स्थानीय ब्राह्मण अधिकारी और मंत्री/उच्च पदस्थ नौकरशाही रखते थे। राजा प्रत्यक्ष रूप से लेखा नहीं रखता था, और व्यापारी संघ इसमें शामिल नहीं थे।"
+    "answer": ["D"],
+    "explanation": "डोम का प्रयोग संरचनात्मक मजबूती प्रदान करने के लिए किया गया था, जिससे भवनों की छतें बड़ी और मजबूत बन सकें।"
   },
   {
     "id": 20,
-    "question": "चोल प्रशासन में स्थानीय निकायों और राज्य के बीच सत्ता वितरण का मुख्य आधार क्या था? / What was the main basis for power distribution between local bodies and the state in Chola administration?",
+    "question": "दिल्ली सल्तनत के स्थापत्य में 'इंडो-इस्लामिक' शैली का प्रमुख तत्व क्या था?",
     "options": {
-      "A": "स्थानीय संसाधनों का नियंत्रण / Control over local resources",
-      "B": "सैन्य बल का नेतृत्व / Command of military forces",
-      "C": "कर संग्रह और वितरण / Tax collection and distribution",
-      "D": "धार्मिक प्रतिष्ठान / Religious institutions"
+      "A": "संगमरमर का प्रयोग",
+      "B": "संगठित पत्थरों का प्रयोग",
+      "C": "गोलाकार गुंबदों का प्रयोग",
+      "D": "हिंदू मंदिरों की नकल"
     },
-    "answer": ["A", "C"],
-    "explanation": "स्थानीय निकायों को स्थानीय संसाधनों और कर संग्रह/वितरण में अधिकार दिया गया था। सैन्य या धार्मिक मामलों का नियंत्रण मुख्य रूप से राज्य और राजा के अधीन था।"
+    "answer": ["C"],
+    "explanation": "इंडो-इस्लामिक शैली में गोलाकार गुंबदों का प्रयोग प्रमुख तत्व था, जो इस्लामिक स्थापत्य की पहचान है।"
   },
   {
     "id": 21,
-    "question": "चोल साम्राज्य ने तमिलनाडु, केरल और कर्नाटक में किस प्रकार का विस्तार किया? / What type of expansion did the Chola empire have in Tamil Nadu, Kerala, and Karnataka?",
+    "question": "दिल्ली सल्तनत के स्थापत्य में 'कुतुब परिसर' का महत्व क्या है?",
     "options": {
-      "A": "सैन्य विजय और राजनीतिक अधिपत्य / Military conquest and political dominance",
-      "B": "सांस्कृतिक और धार्मिक प्रभाव / Cultural and religious influence",
-      "C": "आर्थिक और व्यापारिक नियंत्रण / Economic and trade control",
-      "D": "विशेष रूप से व्यापारिक सीमाएँ स्थापित करना / Only establishing trade boundaries"
+      "A": "धार्मिक स्थल के रूप में",
+      "B": "शाही निवास के रूप में",
+      "C": "सैन्य मुख्यालय के रूप में",
+      "D": "सांस्कृतिक केंद्र के रूप में"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "चोल साम्राज्य ने दक्षिण भारत में सैन्य विजय के माध्यम से राजनीतिक अधिपत्य स्थापित किया, साथ ही सांस्कृतिक, धार्मिक प्रभाव और आर्थिक नियंत्रण भी बढ़ाया। केवल व्यापारिक सीमाएँ स्थापित करना मुख्य उद्देश्य नहीं था।"
+    "answer": ["D"],
+    "explanation": "कुतुब परिसर सांस्कृतिक केंद्र के रूप में महत्वपूर्ण था, जहाँ विभिन्न स्थापत्य कला के उदाहरण मिलते हैं।"
   },
   {
     "id": 22,
-    "question": "राजेंद्र चोल I के नौसैनिक अभियान कहाँ-कहाँ हुए? / Where did Rajendra Chola I carry out naval expeditions?",
+    "question": "दिल्ली सल्तनत के स्थापत्य में 'कुतुब मीनार' की ऊँचाई कितनी है?",
     "options": {
-      "A": "श्रीलंका / Sri Lanka",
-      "B": "मालदीव / Maldives",
-      "C": "दक्षिण-पूर्व एशिया (Srivijaya) / Southeast Asia (Srivijaya)",
-      "D": "मध्य एशिया / Central Asia"
+      "A": "72 मीटर",
+      "B": "73 मीटर",
+      "C": "74 मीटर",
+      "D": "75 मीटर"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "राजेंद्र चोल I ने श्रीलंका, मालदीव और दक्षिण-पूर्व एशिया (Srivijaya) में नौसैनिक अभियान चलाए। मध्य एशिया में चोलों का कोई अभियान नहीं हुआ।"
+    "answer": ["A"],
+    "explanation": "कुतुब मीनार की ऊँचाई लगभग 72 मीटर है, जो इसे विश्व धरोहर स्थल बनाती है।"
   },
   {
     "id": 23,
-    "question": "चोल साम्राज्य की प्रसिद्ध लड़ाइयाँ और युद्ध कौन-से थे? / Which were the famous battles and wars of the Chola empire?",
+    "question": "दिल्ली सल्तनत के स्थापत्य में 'अलाउद्दीन खिलजी' के योगदान में क्या शामिल है?",
     "options": {
-      "A": "पांड्य और शैल्लीय राज्यों के खिलाफ युद्ध / Wars against Pandya and Chera kingdoms",
-      "B": "राजस्थान में मारवाड़ युद्ध / Marwar war in Rajasthan",
-      "C": "श्रीलंका विजय अभियान / Sri Lanka conquest campaigns",
-      "D": "सिंगापुर में समुद्री लड़ाइयाँ / Naval battles in Singapore"
+      "A": "कुतुब मीनार का निर्माण",
+      "B": "अलई दरवाजा का निर्माण",
+      "C": "कुतुब परिसर का विस्तार",
+      "D": "संगमरमर का प्रयोग"
     },
-    "answer": ["A", "C"],
-    "explanation": "चोल साम्राज्य की प्रमुख लड़ाइयाँ पांड्य और शैल्लीय राज्यों के खिलाफ तथा श्रीलंका विजय अभियानों में हुई। राजस्थान या सिंगापुर में उनके युद्ध नहीं हुए।"
+    "answer": ["B"],
+    "explanation": "अलाउद्दीन खिलजी ने अलई दरवाजा का निर्माण कराया, जो स्थापत्य कला का अद्भुत उदाहरण है।"
   },
   {
     "id": 24,
-    "question": "चोल साम्राज्य के दक्षिण-पूर्व एशियाई अभियान का मुख्य उद्देश्य क्या था? / What was the main purpose of Chola campaigns in Southeast Asia?",
+    "question": "दिल्ली सल्तनत के स्थापत्य में 'फिरोज शाह तुगलक' के योगदान में क्या शामिल है?",
     "options": {
-      "A": "व्यापारिक मार्ग और बंदरगाह नियंत्रण / Control over trade routes and ports",
-      "B": "सांस्कृतिक प्रसार / Spread of culture",
-      "C": "स्थानीय राजाओं को उपनिवेश बनाना / Colonization of local kings",
-      "D": "भूभाग पर स्थायी कब्ज़ा / Permanent territorial occupation"
+      "A": "कुतुब मीनार का निर्माण",
+      "B": "अलई दरवाजा का निर्माण",
+      "C": "फिरोज शाह कोटला का निर्माण",
+      "D": "संगमरमर का प्रयोग"
     },
-    "answer": ["A", "B"],
-    "explanation": "चोल साम्राज्य का दक्षिण-पूर्व एशियाई अभियान मुख्य रूप से व्यापारिक मार्गों और बंदरगाहों पर नियंत्रण और सांस्कृतिक प्रभाव फैलाने के लिए था। स्थायी उपनिवेश या भूभाग पर कब्ज़ा उनका मुख्य उद्देश्य नहीं था।"
+    "answer": ["C"],
+    "explanation": "फिरोज शाह तुगलक ने फिरोज शाह कोटला का निर्माण कराया, जो स्थापत्य कला का अद्भुत उदाहरण है।"
   },
   {
     "id": 25,
-    "question": "चोल साम्राज्य की नौसैनिक ताकत की विशेषताएँ क्या थीं? / What were the characteristics of Chola naval power?",
+    "question": "दिल्ली सल्तनत के स्थापत्य में 'हिंदू' और 'इस्लामिक' शैली का मिश्रण किसे दर्शाता है?",
     "options": {
-      "A": "सशक्त युद्धपोत और नौसैनिक नेतृत्व / Strong warships and naval leadership",
-      "B": "व्यापारिक जहाजों का संरक्षण / Protection of trade ships",
-      "C": "सिर्फ तटीय क्षेत्र में संचालन / Operations only in coastal areas",
-      "D": "राजनीतिक और सांस्कृतिक प्रभाव का विस्तार / Expansion of political and cultural influence"
+      "A": "इंडो-इस्लामिक शैली",
+      "B": "राजपूत शैली",
+      "C": "गुर्जर शैली",
+      "D": "मुगल शैली"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "चोल साम्राज्य की नौसेना में सशक्त युद्धपोत और कुशल नेतृत्व था, जो व्यापारिक जहाजों की सुरक्षा और राजनीतिक-सांस्कृतिक प्रभाव के विस्तार में सक्षम थी। केवल तटीय संचालन मुख्य उद्देश्य नहीं था।"
+    "answer": ["A"],
+    "explanation": "इंडो-इस्लामिक शैली में हिंदू और इस्लामिक स्थापत्य शैलियों का मिश्रण देखा जाता है, जो दिल्ली सल्तनत के स्थापत्य का प्रमुख तत्व है।"
   },
   {
     "id": 26,
-    "question": "चोल साम्राज्य की अर्थव्यवस्था में मुख्य आधार क्या था? / What was the main basis of Chola empire's economy?",
+    "question": "दिल्ली सल्तनत के स्थापत्य में 'कुतुब मीनार' की विशेषता क्या है?",
     "options": {
-      "A": "कृषि और सिंचाई / Agriculture and irrigation",
-      "B": "अंतर्राज्यीय व्यापार / Interregional trade",
-      "C": "खनिज और खनन / Minerals and mining",
-      "D": "मछली पकड़ने और समुद्री शिकार / Fishing and maritime hunting"
+      "A": "गोलाकार गुंबद",
+      "B": "संगमरमर का प्रयोग",
+      "C": "उर्ध्वाधर मीनार",
+      "D": "संगठित पत्थरों का प्रयोग"
     },
-    "answer": ["A", "B"],
-    "explanation": "चोल साम्राज्य की अर्थव्यवस्था मुख्य रूप से कृषि और सिंचाई पर आधारित थी, साथ ही समुद्री और अंतर्राज्यीय व्यापार भी महत्वपूर्ण था। खनिज और मछली पकड़ना प्राथमिक आधार नहीं थे।"
+    "answer": ["C"],
+    "explanation": "कुतुब मीनार की विशेषता उसकी उर्ध्वाधर मीनार है, जो स्थापत्य कला का अद्भुत उदाहरण है।"
   },
   {
     "id": 27,
-    "question": "चोल साम्राज्य में कौन से उद्योग और कारीगरी प्रमुख थे? / Which industries and crafts were prominent in Chola empire?",
+    "question": "दिल्ली सल्तनत के स्थापत्य में 'अलई दरवाजा' की विशेषता क्या है?",
     "options": {
-      "A": "धातु और कांस्य मूर्तियाँ / Metal and bronze sculptures",
-      "B": "कपड़ा बुनाई और रेशमी वस्त्र / Textile weaving and silk products",
-      "C": "लोहे और हथियार निर्माण / Iron and weapon production",
-      "D": "गहनों का निर्माण / Jewelry making"
+      "A": "गोलाकार गुंबद",
+      "B": "संगमरमर का प्रयोग",
+      "C": "इस्लामिक स्थापत्य शैली",
+      "D": "हिंदू स्थापत्य शैली"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "चोल साम्राज्य में कांस्य मूर्तियाँ, कपड़ा और रेशमी वस्त्र, और गहनों का निर्माण प्रमुख उद्योग थे। लोहे और हथियार निर्माण सीमित रूप से होता था।"
+    "answer": ["C"],
+    "explanation": "अलई दरवाजा की विशेषता उसकी इस्लामिक स्थापत्य शैली है, जो दिल्ली सल्तनत के स्थापत्य का प्रमुख उदाहरण है।"
   },
   {
     "id": 28,
-    "question": "चोल साम्राज्य का विदेश व्यापार मुख्य रूप से कहाँ-कहाँ था? / Where was the foreign trade of Chola empire mainly conducted?",
+    "question": "दिल्ली सल्तनत के स्थापत्य में 'कुतुब मीनार' का निर्माण किस उद्देश्य से किया गया था?",
     "options": {
-      "A": "दक्षिण-पूर्व एशिया / Southeast Asia",
-      "B": "अरब देश / Arab lands",
-      "C": "मलय द्वीप समूह / Malay Archipelago",
-      "D": "यूरोप / Europe"
+      "A": "धार्मिक स्थल के रूप में",
+      "B": "सैन्य प्रहरी के रूप में",
+      "C": "संगीत समारोह के लिए",
+      "D": "राजकीय कार्यालय के रूप में"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "चोल साम्राज्य का विदेश व्यापार मुख्य रूप से दक्षिण-पूर्व एशिया, अरब देश और मलय द्वीप समूह के साथ था। यूरोप के साथ व्यापारिक संपर्क नहीं था।"
+    "answer": ["B"],
+    "explanation": "कुतुब मीनार का निर्माण सैन्य प्रहरी के रूप में किया गया था, जिससे दूर-दूर तक संदेश भेजे जा सकें और सुरक्षा सुनिश्चित की जा सके।"
   },
   {
     "id": 29,
-    "question": "चोल साम्राज्य में मुद्रा और सिक्कों का प्रयोग किस प्रकार होता था? / How was currency and coinage used in Chola empire?",
+    "question": "दिल्ली सल्तनत के स्थापत्य में 'डोम' का प्रमुख उद्देश्य क्या था?",
     "options": {
-      "A": "वाणिज्यिक लेन-देन में / For commercial transactions",
-      "B": "राजस्व संग्रह में / For revenue collection",
-      "C": "सिर्फ धार्मिक अनुष्ठानों में / Only in religious rituals",
-      "D": "विदेशी व्यापार में / For foreign trade"
+      "A": "सजावट के लिए",
+      "B": "ध्वनि प्रतिध्वनि के लिए",
+      "C": "आकर्षकता बढ़ाने के लिए",
+      "D": "संरचनात्मक मजबूती के लिए"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "चोल साम्राज्य में सिक्कों का प्रयोग वाणिज्य, राजस्व संग्रह और विदेशी व्यापार में होता था। केवल धार्मिक अनुष्ठानों में उपयोग सीमित था।"
+    "answer": ["D"],
+    "explanation": "डोम का प्रमुख उद्देश्य संरचनात्मक मजबूती प्रदान करना था, जिससे भवनों की छतें बड़ी और मजबूत बन सकें।"
   },
   {
     "id": 30,
-    "question": "चोल साम्राज्य की आर्थिक शक्ति बढ़ाने में किसका योगदान सबसे अधिक था? / Who contributed most to the economic strength of Chola empire?",
+    "question": "दिल्ली सल्तनत में कुतुब मिनार किस शैली का प्रतीक है? / Qutub Minar in Delhi Sultanate represents which architectural style?",
     "options": {
-      "A": "कृषक और भूमि मालिक / Farmers and landowners",
-      "B": "व्यापारी और समुद्री व्यापारी / Merchants and maritime traders",
-      "C": "राजा और राज्य प्रशासन / King and state administration",
-      "D": "सैनिक और नौसेना / Soldiers and navy"
+      "A": "लोधी शैली (Lodi Style)",
+      "B": "गुलाम शैली (Slave Dynasty Style)",
+      "C": "खिलजी शैली (Khilji Style)",
+      "D": "मुगल शैली (Mughal Style)"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "चोल साम्राज्य की आर्थिक शक्ति मुख्य रूप से कृषक, व्यापारी और राज्य प्रशासन की प्रणाली पर निर्भर थी। सैनिक और नौसेना का योगदान आर्थिक दृष्टि से सीमित था।"
+    "answer": ["B", "C"],
+    "explanation": "कुतुब मिनार की नींव गुलाम वंश द्वारा रखी गई थी और उसके निर्माण में खिलजी शैली के तत्व भी शामिल हैं, जबकि लोधी और मुगल शैली बाद में विकसित हुई।"
+  },
+  {
+    "id": 31,
+    "question": "दिल्ली सल्तनत के मस्जिद निर्माण में कौन-से तत्व आम थे? / Which elements were common in mosque construction during Delhi Sultanate?",
+    "options": {
+      "A": "गुम्बद (Domes)",
+      "B": "मिनार (Minarets)",
+      "C": "म्यूज़िक हॉल (Music Halls)",
+      "D": "महल के पिलर (Palace Pillars)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "सल्तनत के मस्जिद निर्माण में मुख्य रूप से गुम्बद और मिनार का प्रयोग हुआ। म्यूज़िक हॉल और महल के पिलर आम मस्जिद संरचना का हिस्सा नहीं थे।"
+  },
+  {
+    "id": 32,
+    "question": "कुतुब कम्प्लेक्स में कौन-कौन से स्थापत्य नवाचार देखे जा सकते हैं? / Which architectural innovations are seen in Qutub Complex?",
+    "options": {
+      "A": "काले और लाल बलुआ पत्थर का मिश्रण (Use of Black and Red Sandstone)",
+      "B": "मुगल-शैली के गार्डन (Mughal-style Gardens)",
+      "C": "विशेष नक्काशी और अक्षरों का प्रयोग (Intricate carvings & inscriptions)",
+      "D": "प्लास्टर का अधिक उपयोग (Excessive Plaster Work)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "कुतुब कम्प्लेक्स में मुख्यतः लाल और काले बलुआ पत्थर का मिश्रण और नक्काशी व शिलालेख देखने को मिलते हैं। मुगल गार्डन और प्लास्टर का अत्यधिक प्रयोग नहीं था।"
+  },
+  {
+    "id": 33,
+    "question": "सुल्तानत काल में मकबरा निर्माण में किस शैली का प्रभाव था? / Which style influenced tomb construction in Sultanate period?",
+    "options": {
+      "A": "पारसी शैली (Persian Style)",
+      "B": "स्थानीय हिन्दू शैली (Local Hindu Style)",
+      "C": "मुगल शैली (Mughal Style)",
+      "D": "राजस्थानी शैली (Rajasthani Style)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "मकबरा निर्माण में पारसी शैली का प्रमुख प्रभाव था, लेकिन स्थानीय हिन्दू शिल्पकारी तत्व भी शामिल थे। मुगल शैली बाद में विकसित हुई।"
+  },
+  {
+    "id": 34,
+    "question": "दिल्ली सल्तनत में बलुआ पत्थर का प्रयोग क्यों अधिक हुआ? / Why was sandstone extensively used in Delhi Sultanate architecture?",
+    "options": {
+      "A": "स्थानीय उपलब्धता (Local Availability)",
+      "B": "सख्त और टिकाऊ प्रकृति (Durability)",
+      "C": "मुगल शैली के लिए (For Mughal Style)",
+      "D": "सिर्फ धार्मिक कारण (Only Religious Reason)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "बलुआ पत्थर स्थानीय रूप से उपलब्ध था और टिकाऊ भी था। इसे मुगल शैली के लिए नहीं चुना गया था और सिर्फ धार्मिक कारण नहीं थे।"
+  },
+  {
+    "id": 35,
+    "question": "सल्तनत काल की मस्जिदों में शिलालेख किस भाषा में पाए जाते थे? / In Sultanate period mosques, inscriptions were in which languages?",
+    "options": {
+      "A": "अरबी (Arabic)",
+      "B": "फ़ारसी (Persian)",
+      "C": "संस्कृत (Sanskrit)",
+      "D": "हिंदी (Hindi)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "मस्जिदों में मुख्य रूप से अरबी और फारसी शिलालेख पाए जाते थे। संस्कृत और हिंदी का प्रयोग मस्जिद शिलालेख में नहीं हुआ।"
+  },
+  {
+    "id": 36,
+    "question": "कुतुब मिनार के निर्माण में कोणीय डिजाइन किस उद्देश्य से किया गया था? / Why was Qutub Minar designed with a tapering angle?",
+    "options": {
+      "A": "स्थिरता (Structural Stability)",
+      "B": "सौंदर्य (Aesthetic Appeal)",
+      "C": "मिनार के ऊपर चढ़ाई आसान करने के लिए (Ease of Climbing)",
+      "D": "धार्मिक कारण (Religious Reason)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "कुतुब मिनार को सुरक्षित और सुंदर बनाने के लिए इसका ढलता हुआ डिजाइन अपनाया गया। चढ़ाई की सुविधा और धार्मिक कारण मुख्य उद्देश्य नहीं थे।"
+  },
+  {
+    "id": 37,
+    "question": "लोधी और तुग़लक़ वंश के किले किस वास्तुकला शैली में बने थे? / Forts of Lodi & Tughlaq dynasty were built in which style?",
+    "options": {
+      "A": "सैनिक उपयोग के लिए मजबूत और सरल शैली (Fortified & Minimalistic for Military use)",
+      "B": "सजावटी और जटिल (Highly Ornamental)",
+      "C": "हिन्दू शास्त्रीय शैली (Classical Hindu)",
+      "D": "मुगल शैली (Mughal Style)"
+    },
+    "answer": ["A"],
+    "explanation": "लोधी और तुग़लक़ वंश के किले मुख्यतः सैनिक उपयोग के लिए मजबूत और सरल डिजाइन में बनाए गए थे। अत्यधिक सजावट नहीं थी।"
+  },
+  {
+    "id": 38,
+    "question": "दिल्ली सल्तनत के मकबरों में गुम्बद का आकार किस आधार पर तय किया जाता था? / Shape of domes in Sultanate tombs was decided based on?",
+    "options": {
+      "A": "भौगोलिक स्थिति (Geographical Location)",
+      "B": "धार्मिक परंपरा (Religious Tradition)",
+      "C": "शिल्पकार की पसंद (Architect’s Choice)",
+      "D": "राजवंशीय आदेश (Royal Orders)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "गुम्बद का आकार धार्मिक परंपरा और शिल्पकार की रचनात्मकता दोनों पर निर्भर करता था। भूगोल और राजवंशीय आदेश मुख्य कारण नहीं थे।"
+  },
+  {
+    "id": 39,
+    "question": "सल्तनत काल के मीनार और मस्जिद में किस प्रकार के प्रवेश द्वार पाए जाते थे? / Which types of entrances are seen in Sultanate minarets and mosques?",
+    "options": {
+      "A": "नक्काशीदार द्वार (Carved Entrances)",
+      "B": "आधुनिक धातु के दरवाजे (Modern Metal Doors)",
+      "C": "चौकोर एवं अर्धगोलाकार चिह्न (Square & Arched Entrances)",
+      "D": "काष्ठ के दरवाजे (Wooden Doors)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "सल्तनत काल में प्रवेश द्वार नक्काशीदार और अर्धगोलाकार/चौकोर रूप में होते थे। आधुनिक धातु का उपयोग नहीं था।"
+  },
+  {
+    "id": 40,
+    "question": "कुतुब कम्प्लेक्स में अलाई दरवाज़ा किन वास्तुकला विशेषताओं का उदाहरण है? / Alai Darwaza in Qutub Complex is example of which architectural features?",
+    "options": {
+      "A": "हिन्दू और मुस्लिम शैली का मिश्रण (Blend of Hindu & Islamic Styles)",
+      "B": "सिर्फ मुस्लिम शैली (Pure Islamic Style)",
+      "C": "मुगल शैली (Mughal Style)",
+      "D": "स्थानीय पारंपरिक शैली (Local Traditional Style)"
+    },
+    "answer": ["A"],
+    "explanation": "अलाई दरवाज़ा हिन्दू और मुस्लिम शैली के मिश्रण का बेहतरीन उदाहरण है। यह पूरी तरह मुस्लिम या मुगल शैली नहीं है।"
   },
   {
     "id": 41,
-    "question": "चोल समाज में जातिगत संरचना कैसी थी? / What was the caste structure in Chola society?",
+    "question": "दिल्ली सल्तनत के किस साहित्यकार ने फारसी में इतिहास लिखा? / Which Delhi Sultanate scholar wrote history in Persian?",
     "options": {
-      "A": "ब्राह्मणों और क्षत्रियों का प्रभुत्व / Dominance of Brahmins and Kshatriyas",
-      "B": "शूद्र और किसानों की महत्वपूर्ण भूमिका / Significant role of Shudras and peasants",
-      "C": "समान समाजवादी संरचना / Egalitarian society",
-      "D": "नौकर और गुलामों की अनुपस्थिति / Absence of servants and slaves"
+      "A": "बिरामी (Barani)",
+      "B": "अलाउद्दीन खुज्रानी (Alaud-din Khujrani)",
+      "C": "इमाद उद्दीन (Imad-ud-din)",
+      "D": "अब्दुल्ला इब्न रिज़वानी (Abdullah ibn Rizvani)"
     },
-    "answer": ["A", "B"],
-    "explanation": "चोल समाज में ब्राह्मण और क्षत्रियों का प्रभुत्व था, लेकिन शूद्र और कृषक भी समाज और अर्थव्यवस्था में महत्वपूर्ण भूमिका निभाते थे। समान समाजवादी संरचना या नौकर-गुलाम की अनुपस्थिति नहीं थी।"
+    "answer": ["A"],
+    "explanation": "बिरामी ने फारसी में 'तारीख-ए-फिरोजशाही' लिखी, जो दिल्ली सल्तनत का महत्वपूर्ण ऐतिहासिक स्रोत है। यह फारसी साहित्य और इतिहास का मिश्रण प्रस्तुत करता है।"
   },
   {
     "id": 42,
-    "question": "चोल काल में महिलाओं की सामाजिक स्थिति कैसी थी? / What was the social status of women during Chola period?",
+    "question": "किस दिल्ली सल्तनत शासक ने फारसी साहित्य को बढ़ावा दिया? / Which Delhi Sultanate ruler promoted Persian literature?",
     "options": {
-      "A": "शिक्षित और स्वतंत्र / Educated and independent",
-      "B": "घर के कामों तक सीमित / Restricted to household duties",
-      "C": "धार्मिक गतिविधियों में सक्रिय / Active in religious activities",
-      "D": "राजनीति में समान अधिकार / Equal rights in politics"
+      "A": "अलाउद्दीन खिलजी (Alauddin Khilji)",
+      "B": "फिरोज तुगलक (Firoz Tughlaq)",
+      "C": "मुहम्मद बिन तुगलक (Muhammad bin Tughlaq)",
+      "D": "इब्राहीम लोदी (Ibrahim Lodi)"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "चोल काल में महिलाओं को घर के कामों में लगे रहने के साथ-साथ शिक्षा और धार्मिक गतिविधियों में भाग लेने का अवसर मिला। राजनीति में समान अधिकार नहीं था।"
+    "answer": ["B", "C"],
+    "explanation": "फिरोज तुगलक और मुहम्मद बिन तुगलक दोनों ने फारसी साहित्य और प्रशासनिक दस्तावेजों को प्रोत्साहित किया। यह साहित्यिक विकास और प्रशासनिक कार्यों के लिए महत्वपूर्ण था।"
   },
   {
     "id": 43,
-    "question": "ग्रामीण समाज की संगठन संरचना किस प्रकार थी? / How was rural society organized in Chola period?",
+    "question": "दिल्ली सल्तनत में साहित्यिक रूप से किस प्रकार की रचनाएँ प्रचलित थीं? / What types of literary works were prevalent in Delhi Sultanate?",
     "options": {
-      "A": "ग्राम पंचायत और सभा / Village panchayat and sabha",
-      "B": "स्वशासी नगर / Self-governing towns",
-      "C": "सैनिक शासन द्वारा प्रत्यक्ष नियंत्रण / Direct control by military governors",
-      "D": "सामूहिक कृषि और सहकारी व्यवस्था / Collective farming and cooperative system"
+      "A": "इतिहास (Historical)",
+      "B": "काव्य (Poetry)",
+      "C": "धार्मिक ग्रंथ (Religious texts)",
+      "D": "नाटक (Drama)"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "ग्रामीण समाज में ग्राम पंचायत और सभा प्रमुख संगठन थे। नगरों में स्वशासन था और सामूहिक कृषि व सहकारी व्यवस्थाएँ प्रचलित थीं। सैनिक शासन का प्रत्यक्ष नियंत्रण सामान्य नहीं था।"
+    "answer": ["A", "B", "C"],
+    "explanation": "दिल्ली सल्तनत में इतिहास, फारसी और हिंदी में काव्य और धार्मिक ग्रंथ प्रमुख थे। नाटक की प्रचलितता सीमित थी।"
   },
   {
     "id": 44,
-    "question": "चोल समाज में श्रम और पेशे वर्गीकरण किस प्रकार था? / How was labor and profession classified in Chola society?",
+    "question": "बिरामी की 'तारीख-ए-फिरोजशाही' का मुख्य विषय क्या है? / What is the main theme of Barani's 'Tarikh-i-Firozshahi'?",
     "options": {
-      "A": "कृषक और कृषि श्रमिक / Farmers and agricultural laborers",
-      "B": "कारिगर और कारीगरी / Artisans and craftsmen",
-      "C": "व्यापारी और समुद्री व्यापारी / Merchants and maritime traders",
-      "D": "सिर्फ ब्राह्मण और क्षत्रिय / Only Brahmins and Kshatriyas"
+      "A": "फिरोज शाह तुगलक का शासन (Reign of Firoz Shah Tughlaq)",
+      "B": "राजनीतिक और प्रशासनिक व्यवस्था (Political and administrative system)",
+      "C": "सामाजिक जीवन और संस्कृति (Social life and culture)",
+      "D": "धार्मिक युद्ध और न्याय (Religious wars and justice)"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "चोल समाज में श्रमिकों और पेशों का विभाजन स्पष्ट था – कृषक, कारिगर और व्यापारी। केवल ब्राह्मण और क्षत्रियों तक श्रम नहीं सीमित था।"
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "यह ग्रंथ इतिहास, प्रशासन, समाज, संस्कृति और धार्मिक दृष्टिकोण सभी को शामिल करता है। इसलिए इसका महत्व बहुआयामी है।"
   },
   {
     "id": 45,
-    "question": "चोल समाज में दलित और निम्न जातियों की स्थिति कैसी थी? / What was the status of Dalits and lower castes in Chola society?",
+    "question": "कौन-सा साहित्यक माध्यम दिल्ली सल्तनत में अधिक प्रचलित था? / Which literary medium was most prevalent in Delhi Sultanate?",
     "options": {
-      "A": "सामाजिक भेदभाव का सामना / Faced social discrimination",
-      "B": "संपत्ति और भूमि में अधिकार / Rights in property and land",
-      "C": "धार्मिक और सामाजिक गतिविधियों में सीमित भागीदारी / Limited participation in religious and social activities",
-      "D": "पूर्ण राजनीतिक अधिकार / Full political rights"
+      "A": "फारसी (Persian)",
+      "B": "अरबी (Arabic)",
+      "C": "संस्कृत (Sanskrit)",
+      "D": "प्राकृत (Prakrit)"
     },
-    "answer": ["A", "C"],
-    "explanation": "चोल समाज में दलित और निम्न जातियों को सामाजिक भेदभाव का सामना करना पड़ता था। उनका धार्मिक और सामाजिक जीवन सीमित था। संपत्ति और राजनीतिक अधिकार सामान्यतः उन्हें नहीं मिलते थे।"
+    "answer": ["A", "B"],
+    "explanation": "फारसी और अरबी साहित्यिक माध्यम मुख्य थे। फारसी इतिहास और काव्य के लिए, अरबी धार्मिक और प्रशासनिक दस्तावेजों के लिए उपयोग होता था।"
   },
   {
     "id": 46,
-    "question": "चोल काल में शिक्षा की स्थिति कैसी थी? / What was the state of education during Chola period?",
+    "question": "दिल्ली सल्तनत के कवि अमीर खुसरो का योगदान क्या था? / What was Amir Khusro's contribution?",
     "options": {
-      "A": "मंदिरों और पाठशालाओं में शिक्षा / Education in temples and schools",
-      "B": "केवल उच्च जातियों तक सीमित / Restricted to upper castes",
-      "C": "लिखित और मौखिक शिक्षा दोनों / Both written and oral education",
-      "D": "सामाजिक शिक्षा का पूर्ण अभाव / Complete absence of social education"
+      "A": "हिंदी-फ़ारसी मिश्रित काव्य (Hindavi-Persian poetry)",
+      "B": "संगीत और भजन शैली (Music and devotional style)",
+      "C": "राजनीतिक इतिहास (Political history)",
+      "D": "नाट्य और रंगमंच (Drama and theatre)"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "चोल काल में शिक्षा मुख्य रूप से मंदिरों और पाठशालाओं में दी जाती थी। यह उच्च जातियों तक सीमित थी। शिक्षा में लिखित और मौखिक दोनों विधाएँ मौजूद थीं। सामाजिक शिक्षा का पूर्ण अभाव नहीं था।"
+    "answer": ["A", "B"],
+    "explanation": "अमीर खुसरो ने हिंदी और फारसी मिश्रित काव्य और संगीत में महत्वपूर्ण योगदान दिया। उनकी रचनाएँ सूफ़ी काव्य और संगीत के विकास में आधार बनी।"
   },
   {
     "id": 47,
-    "question": "चोल साम्राज्य में साहित्यिक योगदान किस क्षेत्र में प्रमुख था? / In which field was literary contribution prominent during Chola Empire?",
+    "question": "किस दिल्ली सल्तनत लेखक ने प्रशासनिक दस्तावेजों और कानूनों पर प्रकाश डाला? / Which Delhi Sultanate writer highlighted administrative documents and laws?",
     "options": {
-      "A": "संस्कृत साहित्य / Sanskrit literature",
-      "B": "तमिल साहित्य / Tamil literature",
-      "C": "पांडुलिपियों का संग्रह / Compilation of manuscripts",
-      "D": "यूरोपीय साहित्य का अनुवाद / Translation of European literature"
+      "A": "बिरामी (Barani)",
+      "B": "ज़ियाउद्दीन बरनी (Ziauddin Barani)",
+      "C": "अलाउद्दीन खुज्रानी (Alauddin Khujrani)",
+      "D": "मख़दूम शाह (Makhdoom Shah)"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "चोल काल में संस्कृत और तमिल साहित्य दोनों में योगदान रहा। पांडुलिपियों का संग्रह और संरक्षण भी प्रमुख था। यूरोपीय साहित्य का अनुवाद उस समय नहीं हुआ।"
+    "answer": ["A", "B"],
+    "explanation": "बिरामी और ज़ियाउद्दीन बरनी दोनों ने प्रशासन और कानूनों पर विस्तार से लिखा। उनके ग्रंथ राजनीतिक संरचना और न्याय प्रणाली की जानकारी प्रदान करते हैं।"
   },
   {
     "id": 48,
-    "question": "चोल शासकों ने शिक्षा और साहित्य को प्रोत्साहित करने के लिए क्या कदम उठाए? / What steps did Chola rulers take to promote education and literature?",
+    "question": "कौन-सी भाषा में सबसे अधिक काव्य और गीत लिखे गए? / Which language had most poetry and songs written?",
     "options": {
-      "A": "मंदिरों में पुस्तकालयों की स्थापना / Establishment of libraries in temples",
-      "B": "विद्वानों को संरक्षण और पुरस्कार / Patronage and rewards to scholars",
-      "C": "सामाजिक शिक्षा को अनिवार्य बनाया / Made social education compulsory",
-      "D": "विदेशी शिक्षा प्रणाली अपनाई / Adopted foreign education system"
+      "A": "फारसी (Persian)",
+      "B": "हिंदी/हिंदवी (Hindi/Hindavi)",
+      "C": "संस्कृत (Sanskrit)",
+      "D": "अरबी (Arabic)"
     },
     "answer": ["A", "B"],
-    "explanation": "चोल शासकों ने मंदिरों में पुस्तकालयों की स्थापना और विद्वानों को संरक्षण तथा पुरस्कार प्रदान किया। सामाजिक शिक्षा अनिवार्य नहीं थी और विदेशी शिक्षा प्रणाली नहीं अपनाई गई थी।"
+    "explanation": "फारसी और हिंदवी भाषा में सबसे अधिक काव्य और गीत लिखे गए। फारसी साहित्य राजकीय और शास्त्रीय था, हिंदवी लोक और सूफ़ी शैली में।"
   },
   {
     "id": 49,
-    "question": "चोल काल में प्रमुख शिक्षा केंद्र कौन-कौन थे? / Who were the main centers of education during Chola period?",
+    "question": "दिल्ली सल्तनत काल में धर्म और साहित्य के बीच क्या संबंध था? / What was the relation between religion and literature in Delhi Sultanate?",
     "options": {
-      "A": "मंदिर और मठ / Temples and monasteries",
-      "B": "नगर और महलों में पाठशालाएँ / Schools in towns and palaces",
-      "C": "ग्राम पंचायत केंद्र / Village panchayat centers",
-      "D": "विदेशी विश्वविद्यालय / Foreign universities"
+      "A": "धार्मिक ग्रंथों ने साहित्य को प्रभावित किया (Religious texts influenced literature)",
+      "B": "साहित्य ने धार्मिक विचारों को प्रचारित किया (Literature propagated religious ideas)",
+      "C": "साहित्य और धर्म स्वतंत्र थे (Literature and religion were independent)",
+      "D": "साहित्य केवल मनोरंजन तक सीमित था (Literature was only for entertainment)"
     },
     "answer": ["A", "B"],
-    "explanation": "चोल काल में शिक्षा मंदिरों, मठों और नगरों में पाठशालाओं के माध्यम से प्रदान की जाती थी। ग्राम पंचायत केंद्र और विदेशी विश्वविद्यालय शिक्षा का मुख्य केंद्र नहीं थे।"
+    "explanation": "धार्मिक ग्रंथों और विचारों ने साहित्य को प्रभावित किया, और साहित्य ने धार्मिक तथा सामाजिक दृष्टिकोण को फैलाया। स्वतंत्र और केवल मनोरंजन सीमित नहीं था।"
   },
   {
     "id": 50,
-    "question": "चोल साहित्य और कला में किस प्रकार की रचनाएँ प्रमुख थीं? / What types of works were prominent in Chola literature and art?",
+    "question": "कौन-सा साहित्यिक रूप सूफ़ी संस्कृति का प्रतिनिधित्व करता है? / Which literary form represents Sufi culture?",
     "options": {
-      "A": "धार्मिक ग्रंथ और स्तोत्र / Religious texts and hymns",
-      "B": "काव्य और महाकाव्य / Poetry and epics",
-      "C": "इतिहास और शिलालेख / Historical inscriptions and chronicles",
-      "D": "वैज्ञानिक ग्रंथ और आधुनिक साहित्य / Scientific texts and modern literature"
+      "A": "ग़ज़ल (Ghazal)",
+      "B": "क़व्वाली (Qawwali)",
+      "C": "नाटक (Drama)",
+      "D": "इतिहास (History)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "ग़ज़ल और क़व्वाली सूफ़ी संस्कृति के मुख्य साहित्यिक रूप हैं। ये प्रेम, भक्ति और आध्यात्मिक संदेश को व्यक्त करते हैं।"
+  },
+  {
+    "id": 51,
+    "question": "फिरोज तुगलक के समय किस प्रकार की साहित्यिक रचनाएँ बढ़ी? / What types of literary works flourished during Firoz Tughlaq's reign?",
+    "options": {
+      "A": "इतिहास (Historical)",
+      "B": "धार्मिक ग्रंथ (Religious texts)",
+      "C": "काव्य (Poetry)",
+      "D": "नाटक (Drama)"
     },
     "answer": ["A", "B", "C"],
-    "explanation": "चोल काल में धार्मिक ग्रंथ, स्तोत्र, काव्य, महाकाव्य और ऐतिहासिक शिलालेख प्रमुख थे। वैज्ञानिक ग्रंथ और आधुनिक साहित्य उस समय नहीं थे।"
+    "explanation": "फिरोज तुगलक के समय इतिहास, धार्मिक ग्रंथ और काव्य बढ़े। नाट्य साहित्य सीमित और कम प्रचलित था।"
   },
   {
-    "id": 71,
-    "question": "बृहदीश्वर मंदिर, तंजावुर का निर्माण किसने कराया था और किस काल में? / Who built the Brihadisvara Temple, Thanjavur and in which period?",
+    "id": 52,
+    "question": "दिल्ली सल्तनत में शिक्षा और साहित्य का मुख्य माध्यम क्या था? / What was the main medium of education and literature in Delhi Sultanate?",
     "options": {
-      "A": "राजराजा चोल प्रथम / Rajaraja Chola I",
-      "B": "राजेंद्र चोल / Rajendra Chola I",
-      "C": "विजयालय चोल / Vijayalaya Chola",
-      "D": "कुलोत्तुंग चोल / Kulottunga Chola"
-    },
-    "answer": ["A"],
-    "explanation": "बृहदीश्वर मंदिर तंजावुर में 1003–1010 ई. के बीच राजराजा चोल प्रथम द्वारा निर्मित किया गया था।"
-  },
-  {
-    "id": 72,
-    "question": "बृहदीश्वर मंदिर की वास्तुकला किस शैली में है और इसका प्रमुख संरचनात्मक तत्व क्या है? / The architectural style of Brihadisvara Temple and its main structural feature?",
-    "options": {
-      "A": "द्रविड़ शैली / Dravidian style",
-      "B": "शिखर (Vimana) / Vimana (tower)",
-      "C": "नगरा शैली / Nagara style",
-      "D": "गुर्जर शैली / Gurjara style"
+      "A": "मदरसा (Madrasas)",
+      "B": "राजकीय पुस्तकालय (Royal libraries)",
+      "C": "लोक शिक्षण (Folk education)",
+      "D": "संस्कृत पाठशालाएँ (Sanskrit schools)"
     },
     "answer": ["A", "B"],
-    "explanation": "मंदिर द्रविड़ शैली में बनाया गया है, जिसमें विशाल शिखर (Vimana) प्रमुख संरचनात्मक तत्व है।"
+    "explanation": "मदरसा और राजकीय पुस्तकालय शिक्षा और साहित्य का मुख्य केंद्र थे। ये प्रशासनिक, धार्मिक और काव्य साहित्य दोनों को संरक्षित करते थे।"
   },
   {
-    "id": 73,
-    "question": "बृहदीश्वर मंदिर का मुख्य देवता कौन है और किस रूप में प्रतिष्ठित है? / Who is the main deity of Brihadisvara Temple and in which form?",
+    "id": 53,
+    "question": "कौन-से लेखक ने फारसी में राजनीतिक विश्लेषण प्रस्तुत किया? / Which author provided political analysis in Persian?",
     "options": {
-      "A": "भगवान शिव / Lord Shiva",
-      "B": "नटराज रूप में / Nataraja form",
-      "C": "भगवान विष्णु / Lord Vishnu",
-      "D": "भगवान ब्रह्मा / Lord Brahma"
+      "A": "बिरामी (Barani)",
+      "B": "ज़ियाउद्दीन बरनी (Ziauddin Barani)",
+      "C": "अमीर खुसरो (Amir Khusro)",
+      "D": "फिरोज़शाही लेखक (Firozshahi authors)"
     },
     "answer": ["A", "B"],
-    "explanation": "मंदिर भगवान शिव को नटराज के रूप में समर्पित है।"
+    "explanation": "बिरामी और ज़ियाउद्दीन बरनी ने फारसी में राजनीतिक और प्रशासनिक विश्लेषण प्रस्तुत किया। अमीर खुसरो मुख्यतः काव्य और संगीत में योगदान देते थे।"
   },
   {
-    "id": 74,
-    "question": "बृहदीश्वर मंदिर के निर्माण में कौन-कौन सी सामग्रियों का प्रमुख उपयोग हुआ? / Major materials used in Brihadisvara Temple construction?",
+    "id": 54,
+    "question": "किस प्रकार की रचनाएँ प्रशासनिक प्रणाली को प्रभावित करती थीं? / Which types of works influenced administrative system?",
     "options": {
-      "A": "ग्रेनाइट / Granite",
-      "B": "संगमरमर / Marble",
-      "C": "बालू-पत्थर / Sandstone",
-      "D": "कंक्रीट / Concrete"
-    },
-    "answer": ["A"],
-    "explanation": "बृहदीश्वर मंदिर का निर्माण मुख्यतः ग्रेनाइट से किया गया, जो भारी और टिकाऊ पत्थर है।"
-  },
-  {
-    "id": 75,
-    "question": "बृहदीश्वर मंदिर की ऊँचाई लगभग कितनी है और यह किस तरह का विश्व प्रसिद्ध रिकॉर्ड रखता है? / Approximate height of Brihadisvara Temple and its world-famous record?",
-    "options": {
-      "A": "66 मीटर / 66 meters",
-      "B": "50 मीटर / 50 meters",
-      "C": "Vimana सबसे ऊँचा / Tallest Vimana",
-      "D": "सबसे बड़ा मंदिर / Largest temple"
+      "A": "इतिहास (Historical)",
+      "B": "काव्य (Poetry)",
+      "C": "धार्मिक ग्रंथ (Religious texts)",
+      "D": "नाटक (Drama)"
     },
     "answer": ["A", "C"],
-    "explanation": "मंदिर की ऊँचाई लगभग 66 मीटर है और इसका Vimana दक्षिण भारत का सबसे ऊँचा है।"
+    "explanation": "इतिहास और धार्मिक ग्रंथ प्रशासनिक और न्याय प्रणाली को प्रभावित करते थे, काव्य और नाटक का प्रशासन पर सीमित प्रभाव था।"
   },
   {
-    "id": 76,
-    "question": "बृहदीश्वर मंदिर में ‘कोरल पिलर’ और मूर्तिकला किस प्रकार की तकनीक का उदाहरण है? / 'Coral pillars' and sculptures in the temple are examples of which technique?",
+    "id": 55,
+    "question": "दिल्ली सल्तनत काल में किस साहित्यकार ने सूफ़ी और लोक शैली का मिश्रण प्रस्तुत किया? / Which scholar blended Sufi and folk styles?",
     "options": {
-      "A": "एक खंडित शिल्प / Monolithic sculpting",
-      "B": "कला का संयोजन / Composite art",
-      "C": "लघु मूर्तिकला / Miniature carving",
-      "D": "फ्रेस्क चित्र / Fresco painting"
+      "A": "अमीर खुसरो (Amir Khusro)",
+      "B": "बिरामी (Barani)",
+      "C": "ज़ियाउद्दीन बरनी (Ziauddin Barani)",
+      "D": "फिरोज़शाही लेखक (Firozshahi authors)"
     },
     "answer": ["A"],
-    "explanation": "मंदिर में एक खंडित ग्रेनाइट से बनी मूर्तियां और स्तंभ हैं, जो monolithic sculpting तकनीक का उदाहरण हैं।"
+    "explanation": "अमीर खुसरो ने सूफ़ी भक्ति और लोक शैली को मिलाकर रचनाएँ प्रस्तुत कीं, जिससे सांस्कृतिक और साहित्यिक समृद्धि हुई।"
   },
   {
-    "id": 77,
-    "question": "बृहदीश्वर मंदिर के शिखर (Vimana) की विशेषता क्या है? / What is special about the Vimana of Brihadisvara Temple?",
+    "id": 56,
+    "question": "फारसी साहित्य का उद्देश्य दिल्ली सल्तनत में क्या था? / What was the purpose of Persian literature in Delhi Sultanate?",
     "options": {
-      "A": "एक पत्थर से बनी विशाल संरचना / Single-stone massive structure",
-      "B": "सोने से बनी / Made of gold",
-      "C": "संगमरमर से / Made of marble",
-      "D": "ड्रैगन आकृति / Dragon-shaped"
+      "A": "राजनीतिक और प्रशासनिक रिकॉर्ड (Political and administrative record)",
+      "B": "धार्मिक प्रचार (Religious propagation)",
+      "C": "सांस्कृतिक और काव्यात्मक विकास (Cultural and poetic development)",
+      "D": "व्यावसायिक दस्तावेज (Commercial documents)"
     },
-    "answer": ["A"],
-    "explanation": "Vimana एक ही ग्रेनाइट पत्थर से निर्मित विशाल संरचना है, जो अद्वितीय तकनीक और इंजीनियरिंग का उदाहरण है।"
+    "answer": ["A", "C"],
+    "explanation": "फारसी साहित्य ने राजनीतिक और प्रशासनिक रिकॉर्ड बनाए और सांस्कृतिक एवं काव्यात्मक विकास को भी प्रोत्साहित किया।"
   },
   {
-    "id": 78,
-    "question": "बृहदीश्वर मंदिर के भित्तिचित्र और शिल्प किस काल के हैं? / The murals and sculptures of Brihadisvara Temple belong to which period?",
+    "id": 57,
+    "question": "कौन-सी शैली में दिल्ली सल्तनत काल के अधिकांश काव्य लिखे गए? / In which style were most poetry written during Delhi Sultanate?",
     "options": {
-      "A": "राजराजा चोल प्रथम काल / Rajaraja Chola I period",
-      "B": "राजेंद्र चोल काल / Rajendra Chola period",
-      "C": "पल्लव काल / Pallava period",
-      "D": "विजयनगर काल / Vijayanagara period"
-    },
-    "answer": ["A"],
-    "explanation": "भित्तिचित्र और शिल्प मुख्य रूप से राजराजा चोल प्रथम के शासनकाल में बने थे।"
-  },
-  {
-    "id": 79,
-    "question": "बृहदीश्वर मंदिर की योजना किस प्रकार की है और यह किस वास्तुकला की विशेषता है? / The layout of Brihadisvara Temple and its architectural characteristic?",
-    "options": {
-      "A": "प्रांगण के चारों ओर / Courtyard-centered",
-      "B": "गोपुरम और मँडप / Gopuram and Mandapa",
-      "C": "सर्कुलर योजना / Circular plan",
-      "D": "गुप्त शैली / Gupta style"
+      "A": "ग़ज़ल (Ghazal)",
+      "B": "क़व्वाली (Qawwali)",
+      "C": "सन्दर्भित इतिहास (Chronicle style)",
+      "D": "संस्कृत श्लोक (Sanskrit verse)"
     },
     "answer": ["A", "B"],
-    "explanation": "मंदिर का केंद्र प्रांगण और मंडप है, साथ ही विशाल गोपुरम इसके Dravidian वास्तुकला की विशेषता है।"
+    "explanation": "ग़ज़ल और क़व्वाली शैली में अधिकांश काव्य लिखे गए। ये सूफ़ी प्रेम और भक्ति पर आधारित थे।"
   },
   {
-    "id": 80,
-    "question": "बृहदीश्वर मंदिर की ‘नटराज’ मूर्ति किस प्रकार की है और इसका महत्व क्या है? / The 'Nataraja' sculpture and its significance?",
+    "id": 58,
+    "question": "कौन-सा साहित्यिक योगदान धार्मिक सहिष्णुता को बढ़ावा देता था? / Which literary contribution promoted religious tolerance?",
     "options": {
-      "A": "शिव का नृत्य रूप / Shiva as Cosmic Dancer",
-      "B": "सृजन और विनाश का प्रतीक / Symbol of creation & destruction",
-      "C": "विष्णु का रूप / Form of Vishnu",
-      "D": "साधारण मूर्ति / Ordinary idol"
+      "A": "सूफ़ी काव्य (Sufi poetry)",
+      "B": "इतिहास (Historical writings)",
+      "C": "धार्मिक ग्रंथ (Religious texts)",
+      "D": "नाट्य (Drama)"
     },
     "answer": ["A", "B"],
-    "explanation": "नटराज मूर्ति शिव के नृत्य रूप को दर्शाती है और सृजन, संरक्षण और विनाश का प्रतीक है।"
+    "explanation": "सूफ़ी काव्य और इतिहास ने धार्मिक सहिष्णुता और विविधता को बढ़ावा दिया। धार्मिक ग्रंथ अक्सर विशिष्ट समुदाय तक सीमित रहते थे।"
   },
   {
-    "id": 81,
-    "question": "बृहदीश्वर मंदिर की भित्तियों पर उकेरी गई शिल्पकला किस विषय पर आधारित है? / The carvings on temple walls are based on which theme?",
+    "id": 59,
+    "question": "दिल्ली सल्तनत में साहित्यिक संरक्षण के प्रमुख केंद्र कौन-से थे? / What were the main centers of literary patronage in Delhi Sultanate?",
     "options": {
-      "A": "हिंदू देवता / Hindu deities",
-      "B": "भगवती कथाएँ / Divine legends",
-      "C": "मुगल युद्ध / Mughal battles",
-      "D": "जैन धर्म / Jain religion"
+      "A": "मदरसा (Madrasas)",
+      "B": "शाही दरबार (Royal courts)",
+      "C": "लोक साहित्यिक सभा (Folk literary gatherings)",
+      "D": "मंदिर और मठ (Temples and monasteries)"
     },
     "answer": ["A", "B"],
-    "explanation": "शिल्पकला मुख्यतः हिंदू देवताओं और भगवती कथाओं पर आधारित है।"
+    "explanation": "मदरसा और शाही दरबार साहित्यिक संरक्षण के प्रमुख केंद्र थे। ये शासकों और विद्वानों के लिए समर्थन प्रदान करते थे।"
   },
   {
-    "id": 82,
-    "question": "बृहदीश्वर मंदिर का निर्माण तकनीकी दृष्टि से क्यों महत्वपूर्ण माना जाता है? / Why is Brihadisvara Temple considered technically important?",
+    "id": 60,
+    "question": "दिल्ली सल्तनत काल का साहित्यिक महत्व क्या था? / What was the literary significance of Delhi Sultanate period?",
     "options": {
-      "A": "एक खंडित पत्थर की विशाल संरचना / Massive single-stone structure",
-      "B": "प्राचीन इंजीनियरिंग का उदाहरण / Example of ancient engineering",
-      "C": "निर्माण में लोहे का प्रयोग / Use of iron in construction",
-      "D": "सोलर पैनल लगे / Solar panels installed"
-    },
-    "answer": ["A", "B"],
-    "explanation": "मंदिर तकनीकी दृष्टि से महत्वपूर्ण है क्योंकि यह विशाल ग्रेनाइट पत्थर से बना है और प्राचीन इंजीनियरिंग का उत्कृष्ट उदाहरण है।"
-  },
-  {
-    "id": 83,
-    "question": "बृहदीश्वर मंदिर की स्थापत्य योजना में कौन-कौन से घटक शामिल हैं? / Components included in Brihadisvara Temple plan?",
-    "options": {
-      "A": "शिखर (Vimana) / Vimana",
-      "B": "मँडप / Mandapa",
-      "C": "गोपुरम / Gopuram",
-      "D": "कुंड / Tank"
+      "A": "इतिहास और प्रशासन का स्रोत (Source of history and administration)",
+      "B": "काव्य और संगीत का विकास (Development of poetry and music)",
+      "C": "सांस्कृतिक और धार्मिक सहिष्णुता (Cultural and religious tolerance)",
+      "D": "व्यापारिक और वाणिज्यिक दस्तावेज (Commercial and trade documents)"
     },
     "answer": ["A", "B", "C"],
-    "explanation": "मंदिर की योजना में Vimana, Mandapa और Gopuram शामिल हैं, जिनसे Dravidian शैली की विशेषता दिखती है।"
-  },
-  {
-    "id": 84,
-    "question": "बृहदीश्वर मंदिर का निर्माण किस धार्मिक उद्देश्य से किया गया था? / Religious purpose of Brihadisvara Temple?",
-    "options": {
-      "A": "भगवान शिव की पूजा / Worship of Lord Shiva",
-      "B": "राज्य शक्ति का प्रदर्शन / Display of royal power",
-      "C": "तंत्र साधना / Tantric rituals",
-      "D": "सैनिक प्रशिक्षण / Military training"
-    },
-    "answer": ["A", "B"],
-    "explanation": "मंदिर भगवान शिव को समर्पित है और साथ ही यह राजराजा चोल की शक्ति और वैभव का प्रदर्शन भी करता है।"
-  },
-  {
-    "id": 85,
-    "question": "बृहदीश्वर मंदिर को UNESCO विश्व धरोहर सूची में शामिल क्यों माना गया है? / Why is Brihadisvara Temple included in UNESCO World Heritage List?",
-    "options": {
-      "A": "सांस्कृतिक महत्व / Cultural significance",
-      "B": "स्थापत्य उत्कृष्टता / Architectural excellence",
-      "C": "आधुनिक तकनीक / Modern technology",
-      "D": "प्राकृतिक सुंदरता / Natural beauty"
-    },
-    "answer": ["A", "B"],
-    "explanation": "मंदिर अपनी सांस्कृतिक महत्ता और स्थापत्य उत्कृष्टता के कारण UNESCO की विश्व धरोहर सूची में शामिल किया गया।"
+    "explanation": "दिल्ली सल्तनत काल में साहित्यिक योगदान इतिहास, प्रशासन, काव्य, संगीत और सांस्कृतिक सहिष्णुता में महत्वपूर्ण था। व्यावसायिक दस्तावेज इसकी मुख्य भूमिका नहीं थे।"
   }
 ]
 
-
-
-
-
+  
+ 
