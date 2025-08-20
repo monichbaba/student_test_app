@@ -1,242 +1,966 @@
 [
   {
     "id": 1,
-    "question": "अनुच्छेद 36–51 किस भाग में आते हैं? / Articles 36–51 belong to which Part?",
+    "question": "उत्तर प्रदेश में किस जिले को 'धान का कटोरा' कहा जाता है? / Which district of Uttar Pradesh is called 'Rice Bowl'?",
     "options": {
-      "A": "Part III (Fundamental Rights)",
-      "B": "Part IV (Directive Principles of State Policy)",
-      "C": "Part IVA (Fundamental Duties)",
-      "D": "Part V (The Union)"
+      "A": "कन्नौज (Kannauj)",
+      "B": "संत कबीर नगर (Sant Kabir Nagar)",
+      "C": "फर्रुखाबाद (Farrukhabad)",
+      "D": "कौशाम्बी (Kaushambi)"
     },
     "answer": ["B"],
-    "explanation": "DPSP Part IV (Arts. 36–51) में हैं।/ DPSP are in Part IV."
+    "explanation": "संत कबीर नगर जिले में अधिकतर क्षेत्र धान की खेती के लिए प्रसिद्ध है, इसलिए इसे 'धान का कटोरा' कहा जाता है।"
   },
   {
     "id": 2,
-    "question": "अनुच्छेद 37 क्या कहता है? / What does Article 37 state?",
+    "question": "कौन सा ऐतिहासिक स्थल गोरखपुर में स्थित है जो बौद्ध धर्म से संबंधित है? / Which historical site in Gorakhpur is associated with Buddhism?",
     "options": {
-      "A": "DPSP न्यायालय द्वारा प्रवर्तनीय हैं / DPSP are enforceable by courts",
-      "B": "DPSP राज्य पर बाध्यकारी नहीं हैं / DPSP are not binding on the State",
-      "C": "DPSP न्यायालय द्वारा प्रवर्तनीय नहीं, पर शासन के सिद्धांत में मूलभूत हैं / Not enforceable but fundamental in governance",
-      "D": "DPSP केवल केंद्र पर लागू / DPSP apply only to Union"
+      "A": "सतीपत्थ (Satipath)",
+      "B": "सुनदारगढ़ (Sundargarh)",
+      "C": "महासिव (Mahasiv)",
+      "D": "विश्वनाथ धाम (Vishwanath Dham)"
     },
-    "answer": ["C"],
-    "explanation": "अनु 37 DPSP non-justiciable पर शासन में मूलभूत।/ Art. 37 Non-justiciable yet fundamental."
+    "answer": ["A"],
+    "explanation": "गोरखपुर जिले में स्थित सतीपत्थ बौद्ध धर्म से संबंधित प्राचीन स्थल है।"
   },
   {
     "id": 3,
-    "question": "समान नागरिक संहिता किस अनुच्छेद में है? / Uniform Civil Code is under which Article?",
+    "question": "कौन सा नदी परियोजना उत्तर प्रदेश में जल संरक्षण के लिए प्रमुख मानी जाती है? / Which river project is considered important for water conservation in Uttar Pradesh?",
     "options": {
-      "A": "Article 43",
-      "B": "Article 44",
-      "C": "Article 45",
-      "D": "Article 51"
+      "A": "गंगा एक्सप्रेस परियोजना (Ganga Express Project)",
+      "B": "सोन नदी परियोजना (Sone River Project)",
+      "C": "कृष्णा नदी परियोजना (Krishna River Project)",
+      "D": "रामगंगा परियोजना (Ramganga Project)"
     },
-    "answer": ["B"],
-    "explanation": "अनु. 44 समान नागरिक संहिता।/ Art 44 UCC."
+    "answer": ["D"],
+    "explanation": "रामगंगा परियोजना उत्तर प्रदेश में जल संरक्षण और सिंचाई के लिए प्रमुख मानी जाती है।"
   },
   {
     "id": 4,
-    "question": "मद्यनिषेध और पोषण स्तर बढ़ाने का निदेशक सिद्धांत किसमें है? / Prohibition of intoxicants and raising nutrition level appears in:",
+    "question": "उत्तर प्रदेश का सबसे बड़ा राष्ट्रीय उद्यान कौन सा है? / Which is the largest national park in Uttar Pradesh?",
     "options": {
-      "A": "Article 39A",
-      "B": "Article 47",
-      "C": "Article 48A",
-      "D": "Article 50"
+      "A": "दुधवा राष्ट्रीय उद्यान (Dudhwa NP)",
+      "B": "कान्हा राष्ट्रीय उद्यान (Kanha NP)",
+      "C": "काजीरंगा राष्ट्रीय उद्यान (Kaziranga NP)",
+      "D": "रामसर राष्ट्रीय उद्यान (Ramsar NP)"
     },
-    "answer": ["B"],
-    "explanation": "अनु. 47: पोषण, जीवन-स्तर, और मद्यनिषेध।/ Art. 47 covers nutrition and prohibition."
+    "answer": ["A"],
+    "explanation": "दुधवा राष्ट्रीय उद्यान उत्तर प्रदेश का सबसे बड़ा राष्ट्रीय उद्यान है और बाघ संरक्षण के लिए प्रसिद्ध है।"
   },
   {
     "id": 5,
-    "question": "वन और वन्यजीव की रक्षा का निदेशक सिद्धांत किसमें जोड़ा गया? / Protection of forests & wildlife was added under:",
+    "question": "उत्तर प्रदेश की कुल आबादी में पुरुष और महिला अनुपात का औसत क्या है? / What is the average male to female ratio in Uttar Pradesh population?",
     "options": {
-      "A": "Article 48A by 42nd Amendment",
-      "B": "Article 45 by 86th Amendment",
-      "C": "Article 39 by Original Constitution",
-      "D": "Article 51 by 44th Amendment"
+      "A": "912",
+      "B": "940",
+      "C": "898",
+      "D": "906"
     },
     "answer": ["A"],
-    "explanation": "अनु. 48A 42वें संशोधन से।/ Art. 48A via 42nd Amendment."
+    "explanation": "उत्तर प्रदेश की जनगणना के अनुसार लिंग अनुपात 912 पुरुष प्रति 1000 महिला है।"
   },
   {
     "id": 6,
-    "question": "निःशुल्क विधिक सहायता किस अनुच्छेद में है? / Free legal aid appears in:",
+    "question": "भारत का कौन सा पहला यूपी आधारित स्टार्टअप ई-लर्निंग प्लेटफार्म सरकारी सहयोग से शुरू हुआ? / Which was the first UP-based e-learning startup launched with government support?",
     "options": {
-      "A": "Article 39A",
-      "B": "Article 40",
-      "C": "Article 43A",
-      "D": "Article 50"
+      "A": "UP Study Hub",
+      "B": "EduUP",
+      "C": "Knowledge Ghar",
+      "D": "Skill India UP"
     },
-    "answer": ["A"],
-    "explanation": "अनु. 39A 42वें संशोधन से।/ Art. 39A via 42nd Amendment."
+    "answer": ["B"],
+    "explanation": "EduUP उत्तर प्रदेश सरकार के सहयोग से शुरू किया गया पहला राज्य आधारित ई-लर्निंग प्लेटफार्म है।"
   },
   {
     "id": 7,
-    "question": "कार्य-प्रबंधन में श्रमिकों की सहभागिता किसमें है? / Workers participation in management is in:",
+    "question": "उत्तर प्रदेश का कौन सा शहर सुगंधित तेल और इत्र के उत्पादन के लिए प्रसिद्ध है? / Which city of Uttar Pradesh is famous for fragrant oils and perfume production?",
     "options": {
-      "A": "Article 43",
-      "B": "Article 43A",
-      "C": "Article 41",
-      "D": "Article 46"
+      "A": "कानपुर (Kanpur)",
+      "B": "कुन्नौज (Kannauj)",
+      "C": "अलीगढ़ (Aligarh)",
+      "D": "लखनऊ (Lucknow)"
     },
     "answer": ["B"],
-    "explanation": "अनु. 43A (42वां संशोधन)।/ Art. 43A via 42nd Amendment."
+    "explanation": "कुन्नौज को भारत का 'इत्र शहर' कहा जाता है। यहाँ पर सुगंधित तेल और इत्र का उत्पादन बड़े पैमाने पर होता है।"
   },
   {
     "id": 8,
-    "question": "न्यायपालिका को कार्यपालिका से पृथक करना किस अनुच्छेद में है? / Separation of judiciary from executive is in:",
+    "question": "UP में सबसे अधिक गन्ना उत्पादन किस जिले में होता है? / In which district of UP is sugarcane production the highest?",
     "options": {
-      "A": "Article 50",
-      "B": "Article 51",
-      "C": "Article 40",
-      "D": "Article 39(b)"
+      "A": "सहारनपुर (Saharanpur)",
+      "B": "बाराबंकी (Barabanki)",
+      "C": "कानपुर (Kanpur)",
+      "D": "वाराणसी (Varanasi)"
     },
-    "answer": ["A"],
-    "explanation": "अनु. 50: पृथक्करण।/ Art. 50: Separation."
+    "answer": ["B"],
+    "explanation": "बाराबंकी जिले में गन्ना उत्पादन के लिए पर्याप्त भूमि और सिंचाई सुविधा उपलब्ध है।"
   },
   {
     "id": 9,
-    "question": "अनुच्छेद 40 किससे संबंधित है? / Article 40 relates to:",
+    "question": "उत्तर प्रदेश में महिला सशक्तिकरण के लिए 'महिला शक्ति केंद्र' योजना किस वर्ष शुरू हुई? / In which year was 'Mahila Shakti Kendra' scheme launched in UP?",
     "options": {
-      "A": "Panchayats/Gram Sabhas",
-      "B": "Co-operative societies",
-      "C": "International peace",
-      "D": "Environmental protection"
+      "A": "2014",
+      "B": "2015",
+      "C": "2016",
+      "D": "2017"
     },
-    "answer": ["A"],
-    "explanation": "अनु. 40: पंचायतों का संगठन।/ Art. 40: Organisation of Panchayats."
+    "answer": ["C"],
+    "explanation": "महिला सशक्तिकरण के लिए 'महिला शक्ति केंद्र' योजना 2016 में उत्तर प्रदेश में लागू की गई।"
   },
   {
     "id": 10,
-    "question": "सहकारी समितियों के प्रोत्साहन हेतु निदेशक सिद्धांत किसमें जोड़ा गया? / Directive Principle on co-operatives added as:",
+    "question": "कौन सा तटस्थ क्षेत्र उत्तर प्रदेश के पश्चिमी भाग में स्थित है जो कृषि के लिए उपयुक्त है? / Which plain area in western UP is suitable for agriculture?",
     "options": {
-      "A": "Article 43B by 97th Amendment",
-      "B": "Article 43B by 44th Amendment",
-      "C": "Article 41 by 97th Amendment",
-      "D": "Article 39A by 97th Amendment"
+      "A": "ब्रज क्षेत्र (Braj Region)",
+      "B": "कुंभ क्षेत्र (Kumbh Region)",
+      "C": "तराई क्षेत्र (Terai Region)",
+      "D": "गंगा-Yamuna Doab"
     },
-    "answer": ["A"],
-    "explanation": "अनु. 43B 97वें संशोधन से।/ Art. 43B via 97th Amendment."
+    "answer": ["D"],
+    "explanation": "उत्तर प्रदेश के पश्चिमी भाग में स्थित गंगा-यमुना दोआब क्षेत्र उपजाऊ और कृषि के लिए सबसे उपयुक्त है।"
   },
   {
     "id": 11,
-    "question": "मौलिक कर्तव्य किस भाग में हैं? / Fundamental Duties are in which Part?",
+    "question": "उत्तर प्रदेश में सबसे बड़ा मीठे पानी का झील कौन सा है? / Which is the largest freshwater lake in Uttar Pradesh?",
     "options": {
-      "A": "Part III",
-      "B": "Part IV",
-      "C": "Part IVA",
-      "D": "Part IX"
+      "A": "भिंडर झील (Bhinder Lake)",
+      "B": "चौस झील (Chaus Lake)",
+      "C": "सौर झील (Saur Lake)",
+      "D": "रामसर झील (Ramsar Lake)"
     },
-    "answer": ["C"],
-    "explanation": "Part IVA (अनु. 51A)।/ Part IVA (Art. 51A)."
+    "answer": ["B"],
+    "explanation": "चौस झील उत्तर प्रदेश की सबसे बड़ी मीठे पानी की झील है और स्थानीय पारिस्थितिकी के लिए महत्वपूर्ण है।"
   },
   {
     "id": 12,
-    "question": "मौलिक कर्तव्यों को किस संशोधन ने जोड़ा? / Which Amendment added Fundamental Duties?",
+    "question": "कौन सा यूपी का शहर हकीमों और औषधियों के लिए ऐतिहासिक रूप से प्रसिद्ध है? / Which UP city is historically famous for herbal medicine and Hakims?",
     "options": {
-      "A": "42nd Amendment, 1976",
-      "B": "44th Amendment, 1978",
-      "C": "61st Amendment, 1989",
-      "D": "86th Amendment, 2002"
+      "A": "कानपुर (Kanpur)",
+      "B": "लखनऊ (Lucknow)",
+      "C": "अलीगढ़ (Aligarh)",
+      "D": "सुल्तानपुर (Sultanpur)"
     },
-    "answer": ["A"],
-    "explanation": "42वें संशोधन से 51A (a–j) जोड़े गए।/ 42nd Amendment inserted 51A(a–j)."
+    "answer": ["B"],
+    "explanation": "लखनऊ हकीमों, आयुर्वेदिक औषधियों और तिब्बी चिकित्सा के लिए ऐतिहासिक रूप से प्रसिद्ध है।"
   },
   {
     "id": 13,
-    "question": "6–14 वर्ष के बच्चों की शिक्षा हेतु अभिभावक का कर्तव्य किससे जोड़ा गया? / Duty of parents to provide education 6–14 was added by:",
+    "question": "कौन सा उद्योग उत्तर प्रदेश में गंगा-यमुना दोआब क्षेत्र में सबसे अधिक विकसित है? / Which industry is most developed in the Ganga-Yamuna Doab region of UP?",
     "options": {
-      "A": "44th Amendment",
-      "B": "86th Amendment (51A(k))",
-      "C": "97th Amendment",
-      "D": "69th Amendment"
+      "A": "सूती कपड़ा उद्योग (Cotton Textile Industry)",
+      "B": "हाथी दांत उद्योग (Ivory Industry)",
+      "C": "सीमेंट उद्योग (Cement Industry)",
+      "D": "फूल और इत्र उद्योग (Floral & Perfume Industry)"
     },
-    "answer": ["B"],
-    "explanation": "51A(k) 86वें संशोधन से।/ 51A(k) via 86th Amendment."
+    "answer": ["A"],
+    "explanation": "गंगा-यमुना दोआब क्षेत्र का सूती कपड़ा उद्योग ऐतिहासिक रूप से प्रसिद्ध है और कृषि आधारित कच्चे माल के कारण विकसित है।"
   },
   {
     "id": 14,
-    "question": "निम्न में से कौन-से समाजवादी DPSP हैं? / Which are Socialist DPSP?",
+    "question": "कौन सा ऐतिहासिक स्थल अयोध्या में रामायण से संबंधित है? / Which historical site in Ayodhya is associated with Ramayana?",
     "options": {
-      "A": "Article 39(b)–(c) संसाधनों का समान वितरण / equitable distribution",
-      "B": "Article 40 पंचायत / Panchayats",
-      "C": "Article 39A निःशुल्क विधिक सहायता / free legal aid",
-      "D": "Article 50 पृथक्करण / separation of judiciary"
+      "A": "राम जन्मभूमि (Ram Janmabhoomi)",
+      "B": "हनुमानगढ़ी (Hanumangarhi)",
+      "C": "कुंभ मेला मैदान (Kumbh Mela Ground)",
+      "D": "सिंहस्थ घाट (Singhasth Ghat)"
     },
-    "answer": ["A", "C"],
-    "explanation": "39(b)(c), 39A समाजवादी झुकाव; 40 गांधीवादी; 50 उदार-बौद्धिक।/ 39(b)(c), 39A socialist; 40 Gandhian; 50 liberal-intellectual."
+    "answer": ["A"],
+    "explanation": "राम जन्मभूमि अयोध्या में रामायण के अनुसार भगवान राम के जन्म स्थल के रूप में प्रसिद्ध है।"
   },
   {
     "id": 15,
-    "question": "पर्यावरण-संरक्षण से जुड़े मौलिक कर्तव्य चुनें। / Choose Fundamental Duties linked to environment:",
+    "question": "उत्तर प्रदेश के किस जिले को सिल्क उत्पादन के लिए प्रमुख माना जाता है? / Which district of UP is majorly known for silk production?",
     "options": {
-      "A": "51A(g) पर्यावरण और दया / protect environment, compassion for living creatures",
-      "B": "51A(f) सांस्कृतिक विरासत का संरक्षण / preserve heritage",
-      "C": "51A(j) उत्कृष्टता के लिए प्रयत्न / strive for excellence",
-      "D": "51A(i) सार्वजनिक संपत्ति की रक्षा / safeguard public property"
+      "A": "वाराणसी (Varanasi)",
+      "B": "कानपुर (Kanpur)",
+      "C": "मथुरा (Mathura)",
+      "D": "आजमगढ़ (Azamgarh)"
     },
     "answer": ["A"],
-    "explanation": "51A(g) सीधे पर्यावरण से।/ 51A(g) directly on environment."
+    "explanation": "वाराणसी सिल्क साड़ी उत्पादन और रेशमी वस्त्रों के लिए विश्व प्रसिद्ध है।"
   },
   {
     "id": 16,
-    "question": "वैज्ञानिक दृष्टिकोण, मानवतावाद तथा जिज्ञासा किस कर्तव्य में है? / Scientific temper, humanism and spirit of inquiry appears in?",
+    "question": "उत्तर प्रदेश में किस जिले को 'गन्ना मंड़ई' कहा जाता है? / Which district in UP is known as 'Sugarcane Hub'?",
     "options": {
-      "A": "51A(h)",
-      "B": "51A(e)",
-      "C": "51A(b)",
-      "D": "51A(i)"
+      "A": "बाराबंकी (Barabanki)",
+      "B": "फर्रुखाबाद (Farrukhabad)",
+      "C": "कन्नौज (Kannauj)",
+      "D": "सुल्तानपुर (Sultanpur)"
     },
     "answer": ["A"],
-    "explanation": "51A(h)."
+    "explanation": "बाराबंकी जिले में गन्ने की खेती और चीनी मिलों की संख्या के कारण इसे 'गन्ना मंड़ई' कहा जाता है।"
   },
   {
     "id": 17,
-    "question": "कौन-सा कथन सही है? / Which statement is correct?",
+    "question": "कौन सा यूपी का शहर 'कुरकुरे और स्नैक्स उद्योग' के लिए प्रसिद्ध है? / Which UP city is famous for snack and Kurkure industry?",
     "options": {
-      "A": "DPSP न्यायालय में बाध्यकारी अधिकार देते हैं / DPSP confer enforceable rights",
-      "B": "MFD (Fundamental Duties) न्यायालय द्वारा सीधे दंडनीय हैं / FDs are directly punishable",
-      "C": "विधि निर्माण में DPSP मार्गदर्शक हैं / DPSP guide law-making",
-      "D": "MFD केवल नागरिकों के लिए नहीं, राज्य के लिए भी हैं / FDs bind State too"
+      "A": "लखनऊ (Lucknow)",
+      "B": "कानपुर (Kanpur)",
+      "C": "बाराबंकी (Barabanki)",
+      "D": "वाराणसी (Varanasi)"
     },
-    "answer": ["C"],
-    "explanation": "DPSP कानून-निर्माण में मार्गदर्शक; वे enforceable नहीं।/ DPSP guide policy; not enforceable."
+    "answer": ["B"],
+    "explanation": "कानपुर में स्नैक्स और कुरकुरे जैसे लघु उद्योग बहुत विकसित हैं और यह खाद्य उद्योग केंद्र माना जाता है।"
   },
   {
     "id": 18,
-    "question": "अंतर्राष्ट्रीय शांति और सुरक्षा का संवर्धन किसमें है? / Promotion of international peace & security is in:",
+    "question": "कौन सा प्रमुख राष्ट्रीय राजमार्ग उत्तर प्रदेश को पश्चिम से पूर्व से जोड़ता है? / Which major national highway connects UP from west to east?",
     "options": {
-      "A": "Article 51",
-      "B": "Article 50",
-      "C": "Article 44",
-      "D": "Article 43A"
+      "A": "NH 27",
+      "B": "NH 44",
+      "C": "NH 19",
+      "D": "NH 24"
     },
-    "answer": ["A"],
-    "explanation": "अनु. 51।/ Art. 51."
+    "answer": ["C"],
+    "explanation": "NH 19 उत्तर प्रदेश में पश्चिमी और पूर्वी हिस्सों को जोड़ता है, विशेषकर दिल्ली-कोलकाता मार्ग के हिस्से के रूप में।"
   },
   {
     "id": 19,
-    "question": "कौन-सा संयोजन सही मेल खाता है? / Which pairing is correctly matched?",
+    "question": "कौन सा उत्तर प्रदेश का शहर हाथी दांत और शाही कला के लिए प्रसिद्ध है? / Which UP city is famous for ivory and royal craft?",
     "options": {
-      "A": "Article 45 — UCC",
-      "B": "Article 41 — Right to work/education/assistance",
-      "C": "Article 48 — Forests & wildlife",
-      "D": "Article 39(d) — Equal pay for equal work"
+      "A": "अलीगढ़ (Aligarh)",
+      "B": "लखनऊ (Lucknow)",
+      "C": "कानपुर (Kanpur)",
+      "D": "वाराणसी (Varanasi)"
     },
-    "answer": ["B", "D"],
-    "explanation": "45 (ECCE), 48A forests; 41 सही; 39(d) equal pay. / 41 and 39(d) correct."
+    "answer": ["B"],
+    "explanation": "लखनऊ ऐतिहासिक रूप से हाथी दांत और शाही कला के लिए प्रसिद्ध रहा है, खासकर नक्काशी और औपचारिक कला में।"
   },
   {
     "id": 20,
-    "question": "Assertion–Reason: A: 73rd और 74th संशोधनों ने अनुच्छेद 40 के उद्देश्य को मजबूत किया। R: वे स्थानीय स्वशासन को संवैधानिक दर्जा देते हैं। / A–R type.",
+    "question": "उत्तर प्रदेश सरकार द्वारा शुरू की गई 'UP Health Scheme' का मुख्य उद्देश्य क्या है? / What is the main objective of 'UP Health Scheme'?",
     "options": {
-      "A": "A और R दोनों सही, R A की सही व्याख्या है / Both true, R explains A",
-      "B": "A और R दोनों सही, पर R A की व्याख्या नहीं / Both true, R not explanation",
-      "C": "A सही, R गलत / A true, R false",
-      "D": "A गलत, R सही / A false, R true"
+      "A": "शिक्षा सुधार (Education Reform)",
+      "B": "स्वास्थ्य सेवाओं का सुलभ और निशुल्क लाभ (Accessible & Free Health Services)",
+      "C": "कृषि सहायता (Agriculture Support)",
+      "D": "पर्यटन विकास (Tourism Development)"
+    },
+    "answer": ["B"],
+    "explanation": "UP Health Scheme का उद्देश्य राज्य के सभी नागरिकों को स्वास्थ्य सेवाओं का सुलभ और निशुल्क लाभ प्रदान करना है।"
+  },
+  {
+    "id": 21,
+    "question": "कौन सा शहर उत्तर प्रदेश में आईटी और सॉफ्टवेयर उद्योग के लिए तेजी से उभर रहा है? / Which city in UP is emerging rapidly for IT and software industry?",
+    "options": {
+      "A": "लखनऊ (Lucknow)",
+      "B": "गोरखपुर (Gorakhpur)",
+      "C": "कानपुर (Kanpur)",
+      "D": "नोएडा (Noida)"
+    },
+    "answer": ["D"],
+    "explanation": "नोएडा IT और सॉफ्टवेयर कंपनियों के लिए UP का प्रमुख केंद्र बन चुका है और तेज़ी से विकसित हो रहा है।"
+  },
+  {
+    "id": 22,
+    "question": "कौन सा उद्योग उत्तर प्रदेश के बुंदेलखंड क्षेत्र में प्रमुख है? / Which industry is prominent in Bundelkhand region of UP?",
+    "options": {
+      "A": "चूना पत्थर उद्योग (Limestone Industry)",
+      "B": "रेशमी वस्त्र उद्योग (Silk Industry)",
+      "C": "फूल उद्योग (Floral Industry)",
+      "D": "कागज उद्योग (Paper Industry)"
     },
     "answer": ["A"],
-    "explanation": "73rd/74th ने PRIs/ULBs को संवैधानिक दर्जा दिया—अनु. 40 की भावना को सशक्त किया।/ They realize Art. 40."
+    "explanation": "बुंदेलखंड क्षेत्र चूना पत्थर और खनिज आधारित उद्योगों के लिए प्रसिद्ध है।"
+  },
+  {
+    "id": 23,
+    "question": "उत्तर प्रदेश में कौन सा प्रमुख मेला हर तीन साल में आयोजित होता है? / Which major fair in UP is organized every three years?",
+    "options": {
+      "A": "कुंभ मेला (Kumbh Mela)",
+      "B": "गंगा स्नान मेला (Ganga Snan Mela)",
+      "C": "लखनऊ हाट मेला (Lucknow Haat Mela)",
+      "D": "सुल्तानपुर कृषि मेला (Sultanpur Agricultural Fair)"
+    },
+    "answer": ["A"],
+    "explanation": "प्रयागराज में कुंभ मेला तीन वर्ष में एक बार आयोजित होता है और धार्मिक पर्यटन का प्रमुख केंद्र है।"
+  },
+  {
+    "id": 24,
+    "question": "कौन सा कृषि उत्पाद उत्तर प्रदेश के पश्चिमी भाग में प्रमुख है? / Which agricultural product is dominant in western UP?",
+    "options": {
+      "A": "गेहूं (Wheat)",
+      "B": "धान (Rice)",
+      "C": "साबूदाना (Sago)",
+      "D": "मक्का (Maize)"
+    },
+    "answer": ["A"],
+    "explanation": "गंगा-यमुना दोआब क्षेत्र में गेहूं की खेती मुख्य है, खासकर पश्चिमी उत्तर प्रदेश में।"
+  },
+  {
+    "id": 25,
+    "question": "UP सरकार द्वारा 'One District One Product' योजना के अंतर्गत कौन सा उत्पाद मथुरा जिले के लिए चुना गया है? / Under 'One District One Product' scheme, which product is selected for Mathura?",
+    "options": {
+      "A": "ब्रज इत्र (Braj Perfume)",
+      "B": "कपास (Cotton)",
+      "C": "गेहूं (Wheat)",
+      "D": "गन्ना (Sugarcane)"
+    },
+    "answer": ["A"],
+    "explanation": "मथुरा जिले के लिए ब्रज इत्र को 'One District One Product' योजना के तहत चुना गया है।"
+  },
+  {
+    "id": 26,
+    "question": "कौन सा प्राकृतिक संसाधन उत्तर प्रदेश में सबसे अधिक खनन होता है? / Which natural resource is most mined in Uttar Pradesh?",
+    "options": {
+      "A": "कोयला (Coal)",
+      "B": "सिंधु पत्थर (Limestone)",
+      "C": "सोना (Gold)",
+      "D": "लौह अयस्क (Iron Ore)"
+    },
+    "answer": ["B"],
+    "explanation": "उत्तर प्रदेश में चूना पत्थर (Limestone) का खनन सबसे अधिक होता है, विशेषकर बुंदेलखंड क्षेत्र में।"
+  },
+  {
+    "id": 27,
+    "question": "कौन सा शहर उत्तर प्रदेश का प्रमुख शिक्षा और विश्वविद्यालय केंद्र है? / Which city is the major education and university hub of UP?",
+    "options": {
+      "A": "लखनऊ (Lucknow)",
+      "B": "वाराणसी (Varanasi)",
+      "C": "कानपुर (Kanpur)",
+      "D": "अलीगढ़ (Aligarh)"
+    },
+    "answer": ["B", "A"],
+    "explanation": "वाराणसी (BHU) और लखनऊ (LU, IIM-L) शिक्षा और विश्वविद्यालय के प्रमुख केंद्र हैं।"
+  },
+  {
+    "id": 28,
+    "question": "कौन सा प्रमुख नहर परियोजना पूर्वी उत्तर प्रदेश में सिंचाई के लिए है? / Which major canal project is for irrigation in eastern UP?",
+    "options": {
+      "A": "गंगा नहर (Ganga Canal)",
+      "B": "रामगंगा नहर (Ramganga Canal)",
+      "C": "सोन नहर (Sone Canal)",
+      "D": "यमुना नहर (Yamuna Canal)"
+    },
+    "answer": ["B"],
+    "explanation": "रामगंगा नहर पूर्वी उत्तर प्रदेश में सिंचाई और जल प्रबंधन के लिए प्रमुख है।"
+  },
+  {
+    "id": 29,
+    "question": "कौन सा शहर उत्तर प्रदेश में हथकरघा और हस्तशिल्प के लिए प्रसिद्ध है? / Which city in UP is famous for handloom and handicrafts?",
+    "options": {
+      "A": "वाराणसी (Varanasi)",
+      "B": "कानपुर (Kanpur)",
+      "C": "लखनऊ (Lucknow)",
+      "D": "अलीगढ़ (Aligarh)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "वाराणसी और लखनऊ दोनों हस्तशिल्प, हथकरघा और पारंपरिक कारीगरी के लिए प्रसिद्ध हैं।"
+  },
+  {
+    "id": 30,
+    "question": "कौन सा महत्त्वपूर्ण ऐतिहासिक किला आगरा में स्थित है? / Which important historical fort is located in Agra?",
+    "options": {
+      "A": "लाल किला (Red Fort)",
+      "B": "आगरा किला (Agra Fort)",
+      "C": "सुमेरपुर किला (Sumerpur Fort)",
+      "D": "फतेहपुर किला (Fatehpur Fort)"
+    },
+    "answer": ["B"],
+    "explanation": "आगरा किला मुगल काल का प्रमुख ऐतिहासिक किला है और UNESCO विश्व धरोहर स्थल में शामिल है।"
+  },
+  {
+    "id": 31,
+    "question": "UP में सबसे अधिक बकरी पालन किस जिले में होता है? / In which district of UP is goat farming the highest?",
+    "options": {
+      "A": "मेरठ (Meerut)",
+      "B": "अम्बेडकर नगर (Ambedkar Nagar)",
+      "C": "सहारनपुर (Saharanpur)",
+      "D": "आजमगढ़ (Azamgarh)"
+    },
+    "answer": ["D"],
+    "explanation": "आजमगढ़ जिले में बकरी पालन सबसे अधिक होता है, जो मांस और डेयरी उत्पादों के लिए प्रसिद्ध है।"
+  },
+  {
+    "id": 32,
+    "question": "कौन सा कृषि बैंक योजना UP में किसानों को वित्तीय सहायता प्रदान करता है? / Which agriculture banking scheme provides financial aid to farmers in UP?",
+    "options": {
+      "A": "प्रधानमंत्री किसान सम्मान निधि (PM-KISAN)",
+      "B": "जन धन योजना (Jan Dhan Yojana)",
+      "C": "मुद्रा योजना (Mudra Yojana)",
+      "D": "स्वावलंबन योजना (Swavalamban Yojana)"
+    },
+    "answer": ["A"],
+    "explanation": "PM-KISAN योजना के तहत किसानों को सीधे वित्तीय सहायता प्रदान की जाती है।"
+  },
+  {
+    "id": 33,
+    "question": "उत्तर प्रदेश के किस जिले में बाघ संरक्षण के लिए प्रमुख राष्ट्रीय उद्यान स्थित है? / In which UP district is a major national park for tiger conservation?",
+    "options": {
+      "A": "लखीमपुर खीरी (Lakhimpur Kheri)",
+      "B": "सहारनपुर (Saharanpur)",
+      "C": "बाराबंकी (Barabanki)",
+      "D": "अलीगढ़ (Aligarh)"
+    },
+    "answer": ["A"],
+    "explanation": "दुधवा राष्ट्रीय उद्यान लखीमपुर खीरी जिले में स्थित है और बाघ संरक्षण के लिए प्रमुख है।"
+  },
+  {
+    "id": 34,
+    "question": "कौन सा उत्तर प्रदेश में प्रमुख भौगोलिक क्षेत्र है जो नदियों के बीच स्थित है? / Which major geographical region in UP is located between rivers?",
+    "options": {
+      "A": "दोआब क्षेत्र (Doab Region)",
+      "B": "पर्वतीय क्षेत्र (Hilly Region)",
+      "C": "तराई क्षेत्र (Terai Region)",
+      "D": "मरुस्थलीय क्षेत्र (Desert Region)"
+    },
+    "answer": ["A"],
+    "explanation": "उत्तर प्रदेश में गंगा और यमुना के बीच का क्षेत्र दोआब कहलाता है, जो कृषि और घनी आबादी के लिए महत्वपूर्ण है।"
+  },
+  {
+    "id": 35,
+    "question": "UP में कौन सा शहर 'चाय उत्पादन' और 'सुपरमार्केट उद्योग' के लिए प्रसिद्ध है? / Which city in UP is famous for tea production and supermarket industry?",
+    "options": {
+      "A": "बरेली (Bareilly)",
+      "B": "लखनऊ (Lucknow)",
+      "C": "अलीगढ़ (Aligarh)",
+      "D": "कानपुर (Kanpur)"
+    },
+    "answer": ["A"],
+    "explanation": "बरेली शहर चाय उत्पादन और सुपरमार्केट उद्योग के लिए जाना जाता है।"
+  },
+  {
+    "id": 36,
+    "question": "कौन सा यूपी का शहर फार्मा और दवा उत्पादन के लिए प्रमुख है? / Which UP city is major for pharma and medicine production?",
+    "options": {
+      "A": "कानपुर (Kanpur)",
+      "B": "लखनऊ (Lucknow)",
+      "C": "मेरठ (Meerut)",
+      "D": "फर्रुखाबाद (Farrukhabad)"
+    },
+    "answer": ["B"],
+    "explanation": "लखनऊ में फार्मास्यूटिकल और दवा उत्पादन के बड़े उद्योग हैं।"
+  },
+  {
+    "id": 37,
+    "question": "UP में कौन सा प्रमुख पर्यटन स्थल 'धार्मिक पर्यटन' के लिए प्रसिद्ध है? / Which major tourist site in UP is famous for religious tourism?",
+    "options": {
+      "A": "काशी विश्वनाथ मंदिर (Kashi Vishwanath Temple)",
+      "B": "ताजमहल (Taj Mahal)",
+      "C": "सिटी पैलेस (City Palace)",
+      "D": "रामनगर किला (Ramnagar Fort)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "काशी विश्वनाथ मंदिर और ताजमहल दोनों UP के धार्मिक और सांस्कृतिक पर्यटन के प्रमुख स्थल हैं।"
+  },
+  {
+    "id": 38,
+    "question": "कौन सा कृषि उत्पाद पूर्वी उत्तर प्रदेश के लिए प्रमुख है? / Which agricultural product is dominant in eastern UP?",
+    "options": {
+      "A": "धान (Rice)",
+      "B": "गेहूं (Wheat)",
+      "C": "गन्ना (Sugarcane)",
+      "D": "मक्का (Maize)"
+    },
+    "answer": ["A"],
+    "explanation": "पूर्वी उत्तर प्रदेश में धान की खेती प्रमुख है और यह क्षेत्र इसके लिए जाना जाता है।"
+  },
+  {
+    "id": 39,
+    "question": "कौन सा यूपी का शहर सुल्तानपुर जिले में 'हस्तशिल्प और मूर्तिकला' के लिए प्रसिद्ध है? / Which city in Sultanpur district is famous for handicraft and sculpture?",
+    "options": {
+      "A": "सुल्तानपुर (Sultanpur)",
+      "B": "अमरोहा (Amroha)",
+      "C": "महोबा (Mahoba)",
+      "D": "मिर्जापुर (Mirzapur)"
+    },
+    "answer": ["A"],
+    "explanation": "सुल्तानपुर जिले में हस्तशिल्प और मूर्तिकला की परंपरा लंबे समय से रही है।"
+  },
+  {
+    "id": 40,
+    "question": "कौन सा नदी जलमार्ग उत्तर प्रदेश में परिवहन और सिंचाई के लिए प्रमुख है? / Which river waterway is major for transport and irrigation in UP?",
+    "options": {
+      "A": "गंगा नदी (Ganga River)",
+      "B": "सिंधु नदी (Sindhu River)",
+      "C": "सरयू नदी (Sarayu River)",
+      "D": "यमुना नदी (Yamuna River)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "गंगा और यमुना नदी उत्तर प्रदेश में परिवहन और सिंचाई के लिए प्रमुख जलमार्ग हैं।"
+  },
+  {
+    "id": 41,
+    "question": "उत्तर प्रदेश में 'कृषि विज्ञान केंद्र' की स्थापना किस वर्ष में हुई थी?",
+    "options": {
+      "A": "1974",
+      "B": "1982",
+      "C": "1990",
+      "D": "2000"
+    },
+    "answer": ["B"],
+    "explanation": "उत्तर प्रदेश में कृषि विज्ञान केंद्र की स्थापना 1982 में हुई थी, जिसका उद्देश्य कृषि क्षेत्र में अनुसंधान और विकास को बढ़ावा देना है।"
+  },
+  {
+    "id": 42,
+    "question": "उत्तर प्रदेश सरकार ने 2025 में किस योजना के तहत किसानों को मुफ्त सिंचाई सुविधा प्रदान करने की घोषणा की?",
+    "options": {
+      "A": "किसान समृद्धि योजना",
+      "B": "मुफ्त सिंचाई योजना",
+      "C": "जल संचयन योजना",
+      "D": "कृषि विकास योजना"
+    },
+    "answer": ["B"],
+    "explanation": "उत्तर प्रदेश सरकार ने 2025 में 'मुफ्त सिंचाई योजना' के तहत किसानों को मुफ्त सिंचाई सुविधा प्रदान करने की घोषणा की है।"
+  },
+  {
+    "id": 43,
+    "question": "उत्तर प्रदेश में 'कुंभ मेला' किस नदी के किनारे आयोजित होता है?",
+    "options": {
+      "A": "गंगा",
+      "B": "यमुना",
+      "C": "सरयू",
+      "D": "गोमती"
+    },
+    "answer": ["A", "B"],
+    "explanation": "कुंभ मेला गंगा और यमुना नदियों के संगम स्थल पर आयोजित होता है।"
+  },
+  {
+    "id": 44,
+    "question": "उत्तर प्रदेश के किस जिले को 'मशरूम की राजधानी' के रूप में जाना जाता है?",
+    "options": {
+      "A": "लखनऊ",
+      "B": "सुलतानपुर",
+      "C": "कन्नौज",
+      "D": "कासगंज"
+    },
+    "answer": ["B"],
+    "explanation": "सुलतानपुर जिले को 'मशरूम की राजधानी' के रूप में जाना जाता है।"
+  },
+  {
+    "id": 45,
+    "question": "उत्तर प्रदेश सरकार ने 2025 में किस योजना के तहत युवाओं को स्वरोजगार के लिए ऋण प्रदान करने की घोषणा की?",
+    "options": {
+      "A": "मुख्यमंत्री युवा स्वरोजगार योजना",
+      "B": "नौजवान रोजगार योजना",
+      "C": "स्वरोजगार प्रोत्साहन योजना",
+      "D": "युवा उद्यमिता योजना"
+    },
+    "answer": ["A"],
+    "explanation": "उत्तर प्रदेश सरकार ने 2025 में 'मुख्यमंत्री युवा स्वरोजगार योजना' के तहत युवाओं को स्वरोजगार के लिए ऋण प्रदान करने की घोषणा की है।"
+  },
+  {
+    "id": 46,
+    "question": "उत्तर प्रदेश में 'आगरा' शहर किसके लिए प्रसिद्ध है?",
+    "options": {
+      "A": "ताज महल",
+      "B": "कुतुब मीनार",
+      "C": "कृषि विज्ञान केंद्र",
+      "D": "संगीत महल"
+    },
+    "answer": ["A"],
+    "explanation": "आगरा शहर ताज महल के लिए प्रसिद्ध है, जो एक विश्व धरोहर स्थल है।"
+  },
+  {
+    "id": 47,
+    "question": "उत्तर प्रदेश में 'लखनऊ' शहर किसके लिए प्रसिद्ध है?",
+    "options": {
+      "A": "ताज महल",
+      "B": "कुतुब मीनार",
+      "C": "बड़ी इमामबाड़ा",
+      "D": "संगीत महल"
+    },
+    "answer": ["C"],
+    "explanation": "लखनऊ शहर बड़ी इमामबाड़ा के लिए प्रसिद्ध है, जो एक ऐतिहासिक स्थल है।"
+  },
+  {
+    "id": 48,
+    "question": "उत्तर प्रदेश सरकार ने 2025 में किस योजना के तहत महिलाओं को मुफ्त स्वास्थ्य सेवाएं प्रदान करने की घोषणा की?",
+    "options": {
+      "A": "महिला स्वास्थ्य योजना",
+      "B": "स्वास्थ्य सुरक्षा योजना",
+      "C": "माँ योजना",
+      "D": "स्वास्थ्य सुविधा योजना"
+    },
+    "answer": ["C"],
+    "explanation": "उत्तर प्रदेश सरकार ने 2025 में 'माँ योजना' के तहत महिलाओं को मुफ्त स्वास्थ्य सेवाएं प्रदान करने की घोषणा की है।"
+  },
+  {
+    "id": 49,
+    "question": "उत्तर प्रदेश में 'कुशीनगर' शहर किसके लिए प्रसिद्ध है?",
+    "options": {
+      "A": "बुद्ध का महापरिनिर्वाण स्थल",
+      "B": "ताज महल",
+      "C": "कुतुब मीनार",
+      "D": "संगीत महल"
+    },
+    "answer": ["A"],
+    "explanation": "कुशीनगर शहर बुद्ध का महापरिनिर्वाण स्थल है, जो बौद्ध धर्म के अनुयायियों के लिए महत्वपूर्ण है।"
+  },
+  {
+    "id": 50,
+    "question": "उत्तर प्रदेश सरकार ने 2025 में किस योजना के तहत किसानों को मुफ्त बीज और उर्वरक प्रदान करने की घोषणा की?",
+    "options": {
+      "A": "किसान सहायता योजना",
+      "B": "कृषि विकास योजना",
+      "C": "मुफ्त कृषि योजना",
+      "D": "कृषि सहायता योजना"
+    },
+    "answer": ["A"],
+    "explanation": "उत्तर प्रदेश सरकार ने 2025 में 'किसान सहायता योजना' के तहत किसानों को मुफ्त बीज और उर्वरक प्रदान करने की घोषणा की है।"
+  },
+  {
+    "id": 51,
+    "question": "उत्तर प्रदेश में 'वाराणसी' शहर किसके लिए प्रसिद्ध है?",
+    "options": {
+      "A": "काशी विश्वनाथ मंदिर",
+      "B": "ताज महल",
+      "C": "कुतुब मीनार",
+      "D": "संगीत महल"
+    },
+    "answer": ["A"],
+    "explanation": "वाराणसी शहर काशी विश्वनाथ मंदिर के लिए प्रसिद्ध है, जो हिन्दू धर्म का एक प्रमुख तीर्थ स्थल है।"
+  },
+  {
+    "id": 52,
+    "question": "उत्तर प्रदेश सरकार ने 2025 में किस योजना के तहत युवाओं को कौशल विकास प्रशिक्षण प्रदान करने की घोषणा की?",
+    "options": {
+      "A": "कौशल विकास योजना",
+      "B": "युवा कौशल योजना",
+      "C": "स्वरोजगार योजना",
+      "D": "युवाओं के लिए कौशल योजना"
+    },
+    "answer": ["B"],
+    "explanation": "उत्तर प्रदेश सरकार ने 2025 में 'युवा कौशल योजना' के तहत युवाओं को कौशल विकास प्रशिक्षण प्रदान करने की घोषणा की है।"
+  },
+  {
+    "id": 53,
+    "question": "उत्तर प्रदेश में 'इलाहाबाद' शहर किसके लिए प्रसिद्ध है?",
+    "options": {
+      "A": "प्रयागराज संगम",
+      "B": "ताज महल",
+      "C": "कुतुब मीनार",
+      "D": "संगीत महल"
+    },
+    "answer": ["A"],
+    "explanation": "इलाहाबाद शहर प्रयागराज संगम के लिए प्रसिद्ध है, जो हिन्दू धर्म का एक प्रमुख तीर्थ स्थल है।"
+  },
+  {
+    "id": 54,
+    "question": "उत्तर प्रदेश सरकार ने 2025 में किस योजना के तहत किसानों को मुफ्त बीमा प्रदान करने की घोषणा की?",
+    "options": {
+      "A": "किसान बीमा योजना",
+      "B": "कृषि बीमा योजना",
+      "C": "मुफ्त कृषि बीमा योजना",
+      "D": "कृषि सुरक्षा योजना"
+    },
+    "answer": ["B"],
+    "explanation": "उत्तर प्रदेश सरकार ने 2025 में 'कृषि बीमा योजना' के तहत किसानों को मुफ्त बीमा प्रदान करने की घोषणा की है।"
+  },
+  {
+    "id": 55,
+    "question": "उत्तर प्रदेश में 'मथुरा' शहर किसके लिए प्रसिद्ध है?",
+    "options": {
+      "A": "श्री कृष्ण जन्मभूमि",
+      "B": "ताज महल",
+      "C": "कुतुब मीनार",
+      "D": "संगीत महल"
+    },
+    "answer": ["A"],
+    "explanation": "मथुरा शहर श्री कृष्ण जन्मभूमि के लिए प्रसिद्ध है, जो हिन्दू धर्म का एक प्रमुख तीर्थ स्थल है।"
+  },
+  {
+    "id": 56,
+    "question": "उत्तर प्रदेश सरकार ने 2025 में किस योजना के तहत महिलाओं को मुफ्त शिक्षा प्रदान करने की घोषणा की?",
+    "options": {
+      "A": "महिला शिक्षा योजना",
+      "B": "स्वास्थ्य सुरक्षा योजना",
+      "C": "माँ योजना",
+      "D": "शिक्षा सुविधा योजना"
+    },
+    "answer": ["C"],
+    "explanation": "उत्तर प्रदेश सरकार ने 2025 में 'माँ योजना' के तहत महिलाओं को मुफ्त शिक्षा प्रदान करने की घोषणा की है।"
+  },
+  {
+    "id": 57,
+    "question": "उत्तर प्रदेश में कौन सा राज्य पक्षी घोषित किया गया है? / Which bird is declared the state bird of Uttar Pradesh?",
+    "options": {
+      "A": "कोयल (Cuckoo)",
+      "B": "सारस (Sarus Crane)",
+      "C": "मोर (Peacock)",
+      "D": "गौरैया (Sparrow)"
+    },
+    "answer": ["B"],
+    "explanation": "सारस पक्षी उत्तर प्रदेश का राज्य पक्षी है और यह संरक्षण के तहत आता है।"
+  },
+  {
+    "id": 58,
+    "question": "कौन सा राष्ट्रीय उद्यान उत्तर प्रदेश में 'हाथी और बाघ' के लिए प्रसिद्ध है? / Which national park in UP is famous for elephants and tigers?",
+    "options": {
+      "A": "कनिहा (Kanha)",
+      "B": "धौलीधार (Dudhwa)",
+      "C": "संडरबन (Sundarban)",
+      "D": "राजाजी (Rajaji)"
+    },
+    "answer": ["B"],
+    "explanation": "धौलीधार/धूधवा राष्ट्रीय उद्यान उत्तर प्रदेश में बाघ और हाथी के लिए प्रसिद्ध है।"
+  },
+  {
+    "id": 59,
+    "question": "उत्तर प्रदेश का सबसे बड़ा लघु जलाशय कौन सा है? / Which is the largest minor reservoir in Uttar Pradesh?",
+    "options": {
+      "A": "गोपेश्वर बाँध (Gopeshwar Dam)",
+      "B": "रामगंगा बाँध (Ramganga Dam)",
+      "C": "तीरथगढ़ बाँध (Tirathgarh Dam)",
+      "D": "चम्बल बाँध (Chambal Dam)"
+    },
+    "answer": ["B"],
+    "explanation": "रामगंगा बाँध उत्तर प्रदेश का सबसे बड़ा लघु जलाशय है जो सिंचाई और जल आपूर्ति में महत्वपूर्ण भूमिका निभाता है।"
+  },
+  {
+    "id": 60,
+    "question": "कौन सा शहर उत्तर प्रदेश में 'कश्मीरी शॉल' उत्पादन के लिए प्रसिद्ध है? / Which city in UP is famous for Kashmiri Shawl production?",
+    "options": {
+      "A": "वाराणसी (Varanasi)",
+      "B": "लखनऊ (Lucknow)",
+      "C": "अयोध्या (Ayodhya)",
+      "D": "सुल्तानपुर (Sultanpur)"
+    },
+    "answer": ["B"],
+    "explanation": "लखनऊ का चंद्रबाग़ और अमीनाबाद क्षेत्र कश्मीरी शॉल और कढ़ाई के लिए प्रसिद्ध है।"
+  },
+  {
+    "id": 61,
+    "question": "उत्तर प्रदेश में कौन सा प्रमुख उद्योग गन्ना आधारित है? / Which major industry in UP is sugarcane-based?",
+    "options": {
+      "A": "चीनी उद्योग (Sugar Industry)",
+      "B": "चाय उद्योग (Tea Industry)",
+      "C": "कपास उद्योग (Cotton Industry)",
+      "D": "जूट उद्योग (Jute Industry)"
+    },
+    "answer": ["A"],
+    "explanation": "उत्तर प्रदेश में गन्ना आधारित चीनी उद्योग प्रमुख है और प्रदेश में इसकी उच्च उत्पादन क्षमता है।"
+  },
+  {
+    "id": 62,
+    "question": "UP में 'गंगा एक्शन प्लान' किस उद्देश्य से शुरू किया गया था? / What was the purpose of the Ganga Action Plan in UP?",
+    "options": {
+      "A": "जल प्रदूषण नियंत्रण (Water Pollution Control)",
+      "B": "जलविद्युत उत्पादन (Hydropower Production)",
+      "C": "सिंचाई प्रणाली (Irrigation System)",
+      "D": "पर्यटन विकास (Tourism Development)"
+    },
+    "answer": ["A"],
+    "explanation": "गंगा एक्शन प्लान का मुख्य उद्देश्य गंगा नदी में जल प्रदूषण को नियंत्रित करना और सफाई करना था।"
+  },
+  {
+    "id": 63,
+    "question": "कौन सा शहर उत्तर प्रदेश में 'रोशनी और मिट्टी के बर्तन' के लिए प्रसिद्ध है? / Which city in UP is famous for lamps and clay pottery?",
+    "options": {
+      "A": "वाराणसी (Varanasi)",
+      "B": "फिरोजाबाद (Firozabad)",
+      "C": "अगरा (Agra)",
+      "D": "कानपुर (Kanpur)"
+    },
+    "answer": ["A"],
+    "explanation": "वाराणसी की हस्तकला में मिट्टी के बर्तन और पारंपरिक दीपक उत्पादन के लिए प्रसिद्ध है।"
+  },
+  {
+    "id": 64,
+    "question": "उत्तर प्रदेश का कौन सा जिला तेंदूपत्ता संग्रहण के लिए जाना जाता है? / Which district of UP is known for tendu leaf collection?",
+    "options": {
+      "A": "महोबा (Mahoba)",
+      "B": "सोनभद्र (Sonbhadra)",
+      "C": "अयोध्या (Ayodhya)",
+      "D": "लखीमपुर (Lakhimpur)"
+    },
+    "answer": ["B"],
+    "explanation": "सोनभद्र जिला तेंदूपत्ता और वन उत्पादों के संग्रहण के लिए प्रसिद्ध है।"
+  },
+  {
+    "id": 65,
+    "question": "कौन सा बाँध उत्तर प्रदेश में बाढ़ नियंत्रण और सिंचाई के लिए प्रमुख है? / Which dam in UP is major for flood control and irrigation?",
+    "options": {
+      "A": "रामगंगा बाँध (Ramganga Dam)",
+      "B": "गोपेश्वर बाँध (Gopeshwar Dam)",
+      "C": "सरयू बाँध (Sarayu Dam)",
+      "D": "भिगवा बाँध (Bhigwan Dam)"
+    },
+    "answer": ["A"],
+    "explanation": "रामगंगा बाँध उत्तर प्रदेश में बाढ़ नियंत्रण और सिंचाई के लिए महत्वपूर्ण है।"
+  },
+  {
+    "id": 66,
+    "question": "UP में 'विश्वनाथ धाम' किस शहर में स्थित है? / In which city is Vishwanath Dham located in UP?",
+    "options": {
+      "A": "वाराणसी (Varanasi)",
+      "B": "अयोध्या (Ayodhya)",
+      "C": "लखनऊ (Lucknow)",
+      "D": "प्रयागराज (Prayagraj)"
+    },
+    "answer": ["A"],
+    "explanation": "काशी विश्वनाथ धाम वाराणसी में स्थित है और यह धार्मिक महत्व का प्रमुख स्थल है।"
+  },
+  {
+    "id": 67,
+    "question": "कौन सा शहर उत्तर प्रदेश में चमड़ा उद्योग के लिए प्रसिद्ध है? / Which city in UP is famous for leather industry?",
+    "options": {
+      "A": "कानपुर (Kanpur)",
+      "B": "लखनऊ (Lucknow)",
+      "C": "फिरोजाबाद (Firozabad)",
+      "D": "अमरोहा (Amroha)"
+    },
+    "answer": ["A"],
+    "explanation": "कानपुर का चमड़ा उद्योग राष्ट्रीय और अंतरराष्ट्रीय स्तर पर प्रसिद्ध है।"
+  },
+  {
+    "id": 68,
+    "question": "कौन सा नदी बेसिन उत्तर प्रदेश में मुख्य सिंचाई स्रोत है? / Which river basin is the main irrigation source in UP?",
+    "options": {
+      "A": "गंगा नदी बेसिन (Ganga River Basin)",
+      "B": "सिंधु नदी बेसिन (Sindhu River Basin)",
+      "C": "गोमती नदी बेसिन (Gomti River Basin)",
+      "D": "यमुना नदी बेसिन (Yamuna River Basin)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "गंगा और यमुना नदी बेसिन उत्तर प्रदेश में सिंचाई के लिए प्रमुख स्रोत हैं।"
+  },
+  {
+    "id": 69,
+    "question": "उत्तर प्रदेश में 'बांस उत्पादन' के लिए कौन सा क्षेत्र प्रसिद्ध है? / Which region in UP is famous for bamboo production?",
+    "options": {
+      "A": "सोनभद्र (Sonbhadra)",
+      "B": "बांदा (Banda)",
+      "C": "वाराणसी (Varanasi)",
+      "D": "मिर्जापुर (Mirzapur)"
+    },
+    "answer": ["A"],
+    "explanation": "सोनभद्र जिला अपने बांस उत्पादन के लिए जाना जाता है और यह उद्योग स्थानीय अर्थव्यवस्था में योगदान देता है।"
+  },
+  {
+    "id": 70,
+    "question": "कौन सा ऐतिहासिक स्थल उत्तर प्रदेश में मुगल स्थापत्य का प्रमुख उदाहरण है? / Which historical site in UP is a prominent example of Mughal architecture?",
+    "options": {
+      "A": "ताजमहल (Taj Mahal)",
+      "B": "सिटी पैलेस (City Palace)",
+      "C": "रामनगर किला (Ramnagar Fort)",
+      "D": "किला इमामबाड़ा (Imambara)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "ताजमहल और किला इमामबाड़ा उत्तर प्रदेश में मुगल स्थापत्य कला के प्रमुख उदाहरण हैं।"
+  },
+  {
+    "id": 71,
+    "question": "UP में किस क्षेत्र को 'सिंचाई की दृष्टि से हरा-भरा' माना जाता है? / Which region in UP is considered agriculturally fertile due to irrigation?",
+    "options": {
+      "A": "पूर्वी उत्तर प्रदेश (Eastern UP)",
+      "B": "पश्चिमी उत्तर प्रदेश (Western UP)",
+      "C": "उत्तरांचल क्षेत्र (Uttarakhand Region)",
+      "D": "Bundelkhand"
+    },
+    "answer": ["B"],
+    "explanation": "पश्चिमी उत्तर प्रदेश की मिट्टी और सिंचाई व्यवस्था इसे कृषि दृष्टि से हरा-भरा बनाती है।"
+  },
+  {
+    "id": 72,
+    "question": "कौन सा UP का शहर 'कांच और शीशा उद्योग' के लिए प्रसिद्ध है? / Which city in UP is famous for glass and mirror industry?",
+    "options": {
+      "A": "फिरोजाबाद (Firozabad)",
+      "B": "कानपुर (Kanpur)",
+      "C": "अमरोहा (Amroha)",
+      "D": "वाराणसी (Varanasi)"
+    },
+    "answer": ["A"],
+    "explanation": "फिरोजाबाद का कांच और शीशा उद्योग पूरे देश में प्रसिद्ध है।"
+  },
+  {
+    "id": 73,
+    "question": "कौन सा उद्योग वाराणसी के लिए पारंपरिक रूप से प्रसिद्ध है? / Which industry is traditionally famous in Varanasi?",
+    "options": {
+      "A": "रेशम बुनाई (Silk Weaving)",
+      "B": "जूट उद्योग (Jute Industry)",
+      "C": "कागज उद्योग (Paper Industry)",
+      "D": "कपास उद्योग (Cotton Industry)"
+    },
+    "answer": ["A"],
+    "explanation": "वाराणसी की रेशम बुनाई और बनारसी साड़ी उत्पादन पारंपरिक रूप से प्रसिद्ध है।"
+  },
+  {
+    "id": 74,
+    "question": "उत्तर प्रदेश का कौन सा शहर 'गणेश प्रतिमा निर्माण' के लिए प्रसिद्ध है? / Which city in UP is famous for making Ganesh idols?",
+    "options": {
+      "A": "फिरोजाबाद (Firozabad)",
+      "B": "वाराणसी (Varanasi)",
+      "C": "मिर्जापुर (Mirzapur)",
+      "D": "अयोध्या (Ayodhya)"
+    },
+    "answer": ["B"],
+    "explanation": "वाराणसी गणेश प्रतिमा निर्माण और पारंपरिक मूर्तिकला के लिए प्रसिद्ध है।"
+  },
+  {
+    "id": 75,
+    "question": "UP में कौन सा उद्योग 'हीरा और रत्नों' के लिए जाना जाता है? / Which industry in UP is known for diamonds and gems?",
+    "options": {
+      "A": "फिरोजाबाद (Firozabad)",
+      "B": "मिर्जापुर (Mirzapur)",
+      "C": "सोनभद्र (Sonbhadra)",
+      "D": "कानपुर (Kanpur)"
+    },
+    "answer": ["B"],
+    "explanation": "मिर्जापुर हीरा और रत्नों की ज्वैलरी और हस्तकला के लिए जाना जाता है।"
+  },
+  {
+    "id": 76,
+    "question": "कौन सा नदी जलमार्ग पूर्वी UP में परिवहन के लिए प्रमुख है? / Which river waterway is major for transport in eastern UP?",
+    "options": {
+      "A": "गंगा नदी (Ganga River)",
+      "B": "सिंधु नदी (Sindhu River)",
+      "C": "सरयू नदी (Sarayu River)",
+      "D": "यमुना नदी (Yamuna River)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "पूर्वी उत्तर प्रदेश में गंगा और सरयू नदी परिवहन के लिए प्रमुख जलमार्ग हैं।"
+  },
+  {
+    "id": 77,
+    "question": "UP में कौन सा शहर 'कढ़ाई और चिकनकारी' के लिए प्रसिद्ध है? / Which city in UP is famous for embroidery and chikankari work?",
+    "options": {
+      "A": "लखनऊ (Lucknow)",
+      "B": "वाराणसी (Varanasi)",
+      "C": "अयोध्या (Ayodhya)",
+      "D": "मिर्जापुर (Mirzapur)"
+    },
+    "answer": ["A"],
+    "explanation": "लखनऊ का चिकनकारी और कढ़ाई हस्तकला के लिए देशभर में प्रसिद्ध है।"
+  },
+  {
+    "id": 78,
+    "question": "कौन सा क्षेत्र UP में 'स्ट्रॉबेरी और मौसमी फलों' के लिए प्रसिद्ध है? / Which region in UP is famous for strawberries and seasonal fruits?",
+    "options": {
+      "A": "देवबंद (Deoband)",
+      "B": "मथुरा (Mathura)",
+      "C": "मुरादाबाद (Moradabad)",
+      "D": "बरेली (Bareilly)"
+    },
+    "answer": ["D"],
+    "explanation": "बरेली और आसपास के क्षेत्र स्ट्रॉबेरी और मौसमी फलों के उत्पादन के लिए प्रसिद्ध हैं।"
+  },
+  {
+    "id": 79,
+    "question": "UP का कौन सा शहर 'फूलों के गार्लैंड और रंगीन दीपक' के लिए प्रसिद्ध है? / Which city in UP is famous for flower garlands and colorful lamps?",
+    "options": {
+      "A": "फिरोजाबाद (Firozabad)",
+      "B": "वाराणसी (Varanasi)",
+      "C": "अयोध्या (Ayodhya)",
+      "D": "कानपुर (Kanpur)"
+    },
+    "answer": ["B"],
+    "explanation": "वाराणसी फूलों के गार्लैंड और रंगीन दीपक उद्योग के लिए प्रसिद्ध है।"
+  },
+  {
+    "id": 80,
+    "question": "UP में कौन सा उद्योग 'चमड़ा और जूते' के लिए प्रमुख है? / Which industry in UP is major for leather and footwear?",
+    "options": {
+      "A": "कानपुर (Kanpur)",
+      "B": "फिरोजाबाद (Firozabad)",
+      "C": "अमरोहा (Amroha)",
+      "D": "लखनऊ (Lucknow)"
+    },
+    "answer": ["A"],
+    "explanation": "कानपुर का चमड़ा और जूता उद्योग पूरे उत्तर प्रदेश में प्रमुख है और राष्ट्रीय स्तर पर प्रसिद्ध है।"
   }
 ]
+  
+ 
+
+
