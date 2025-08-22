@@ -1,545 +1,606 @@
 [
   {
     "id": 1,
-    "question": "पृथ्वी का ध्रुवीय चपटा आकार किस कारण से है? / Why is Earth’s polar flattening observed?",
+    "question": "भारत में भक्ति आंदोलन की शुरुआत किस क्षेत्र से हुई थी? / From which region did the Bhakti movement originate in India?",
     "options": {
-      "A": "पृथ्वी का घूर्णन / Earth’s rotation",
-      "B": "पृथ्वी का परिक्रमण / Earth’s revolution",
-      "C": "चुंबकीय क्षेत्र / Magnetic field",
-      "D": "वायुमंडलीय दाब / Atmospheric pressure"
+      "A": "दक्षिण भारत / South India",
+      "B": "उत्तर भारत / North India",
+      "C": "पश्चिम भारत / West India",
+      "D": "पूर्व भारत / East India"
     },
     "answer": ["A"],
-    "explanation": "पृथ्वी का ध्रुवीय चपटा आकार उसके घूर्णन के कारण उत्पन्न अपकेंद्री बल से होता है। परिक्रमण या चुंबकीय क्षेत्र का इस पर कोई प्रभाव नहीं है।"
+    "explanation": "भक्ति आंदोलन की शुरुआत दक्षिण भारत में आलवारों और नायनारों से हुई थी।"
   },
   {
     "id": 2,
-    "question": "निम्न में से कौन-सा शुष्क जलवायु (Arid climate) का प्रमुख लक्षण है? / Which of the following is a major feature of Arid climate?",
+    "question": "भक्ति आंदोलन का प्रमुख उद्देश्य क्या था? / What was the main objective of the Bhakti movement?",
     "options": {
-      "A": "कम वर्षा / Low rainfall",
-      "B": "अत्यधिक वाष्पीकरण / High evaporation",
-      "C": "घना वनावरण / Dense forest cover",
-      "D": "तापमान में अत्यधिक भिन्नता / High temperature variation"
+      "A": "मूर्ति पूजा का प्रचार / Promotion of idol worship",
+      "B": "जातिवाद का उन्मूलन / Eradication of casteism",
+      "C": "सामाजिक समानता और एकता / Social equality and unity",
+      "D": "धार्मिक कट्टरता का प्रसार / Spread of religious extremism"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "शुष्क क्षेत्रों में वर्षा बहुत कम होती है, वाष्पीकरण अधिक होता है और दिन-रात में तापमान में अत्यधिक भिन्नता होती है। घना वनावरण यहाँ अनुपस्थित होता है।"
+    "answer": ["C"],
+    "explanation": "भक्ति आंदोलन का उद्देश्य सामाजिक समानता और एकता को बढ़ावा देना था।"
   },
   {
     "id": 3,
-    "question": "सूर्य के चारों ओर पृथ्वी की परिक्रमा का औसत वेग कितना है? / What is the average speed of Earth around the Sun?",
+    "question": "किस संत ने 'रामानंद' के विचारों को फैलाया? / Which saint propagated the ideas of 'Ramanuja'?",
     "options": {
-      "A": "29.8 km/sec",
-      "B": "35.2 km/sec",
-      "C": "15.7 km/sec",
-      "D": "11.2 km/sec"
+      "A": "रामानंद / Ramananda",
+      "B": "कबीर / Kabir",
+      "C": "संत सूरदास / Sant Surdas",
+      "D": "संत रैदास / Sant Raidas"
     },
     "answer": ["A"],
-    "explanation": "पृथ्वी सूर्य की परिक्रमा औसतन 29.8 km/sec की गति से करती है। यही उसकी कक्षीय गति (Orbital velocity) है।"
+    "explanation": "रामानंद ने राम के निर्गुण रूप की पूजा का प्रचार किया और भक्ति आंदोलन को उत्तर भारत में फैलाया।"
   },
   {
     "id": 4,
-    "question": "किस पठार को ‘भारत का जल प्रभाग’ कहा जाता है? / Which plateau is called the ‘Watershed of India’?",
+    "question": "किस संत ने 'रामचरितमानस' की रचना की? / Which saint composed the 'Ramcharitmanas'?",
     "options": {
-      "A": "मालवा पठार / Malwa Plateau",
-      "B": "छोटानागपुर पठार / Chotanagpur Plateau",
-      "C": "दक्कन पठार / Deccan Plateau",
-      "D": "मध्य भारत पठार / Central India Plateau"
+      "A": "संत सूरदास / Sant Surdas",
+      "B": "संत तुलसीदास / Sant Tulsidas",
+      "C": "संत कबीर / Sant Kabir",
+      "D": "संत रैदास / Sant Raidas"
     },
     "answer": ["B"],
-    "explanation": "छोटानागपुर पठार को भारत का जल प्रभाग कहा जाता है क्योंकि यहाँ से कई प्रमुख नदियाँ निकलती हैं और यह ऊर्जा संसाधनों से भी समृद्ध है।"
+    "explanation": "संत तुलसीदास ने 'रामचरितमानस' की रचना की, जो राम की जीवन गाथा पर आधारित है।"
   },
   {
     "id": 5,
-    "question": "मानसून के बारे में सही कथन चुनें। / Select the correct statements about Monsoon.",
+    "question": "कबीर के भक्ति विचारों का मुख्य सिद्धांत क्या था? / What was the main principle of Kabir's Bhakti philosophy?",
     "options": {
-      "A": "यह दक्षिण-पूर्वी व्यापारिक पवनों का रूपांतर है / It is a modified form of South-East trade winds",
-      "B": "भारतीय मानसून आईटीसीजेड (ITCZ) के खिसकने से प्रभावित होता है / Indian monsoon is influenced by shifting of ITCZ",
-      "C": "एल-नीनो का इससे कोई संबंध नहीं है / El-Nino has no relation with it",
-      "D": "अरावली पर्वतमाला मानसून की दिशा को प्रभावित करती है / Aravalli hills influence the direction of monsoon"
+      "A": "मूर्ति पूजा का विरोध / Opposition to idol worship",
+      "B": "एकेश्वरवाद / Monotheism",
+      "C": "सभी धर्मों का समान सम्मान / Equal respect for all religions",
+      "D": "सभी उपर्युक्त / All of the above"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "भारतीय मानसून आईटीसीजेड के उत्तर की ओर खिसकने और दक्षिण-पूर्वी व्यापारिक पवनों के रूपांतर से बनता है। एल-नीनो इसका पैटर्न बिगाड़ता है, इसलिए विकल्प C गलत है।"
+    "answer": ["D"],
+    "explanation": "कबीर ने मूर्ति पूजा का विरोध किया, एकेश्वरवाद का प्रचार किया और सभी धर्मों का समान सम्मान किया।"
   },
   {
     "id": 6,
-    "question": "भारतीय भूगोल में 'द्वीपसमूह' (Archipelago) कौन-सा है? / Which is the archipelago in Indian geography?",
+    "question": "किस संत ने 'वेदांत' के सिद्धांतों को सरल भाषा में प्रस्तुत किया? / Which saint presented the principles of 'Vedanta' in simple language?",
     "options": {
-      "A": "अंडमान-निकोबार / Andaman-Nicobar",
-      "B": "लक्षद्वीप / Lakshadweep",
-      "C": "सुंदरबन डेल्टा / Sundarban Delta",
-      "D": "रन ऑफ कच्छ / Rann of Kutch"
+      "A": "रामानंद / Ramananda",
+      "B": "रामानुजाचार्य / Ramanujacharya",
+      "C": "शंकराचार्य / Shankaracharya",
+      "D": "कबीर / Kabir"
     },
-    "answer": ["A", "B"],
-    "explanation": "भारत में दो प्रमुख द्वीपसमूह हैं - अंडमान-निकोबार (ज्वालामुखीय उद्गम) और लक्षद्वीप (प्रवाल उत्पत्ति)। सुंदरबन डेल्टा व रन ऑफ कच्छ द्वीपसमूह नहीं हैं।"
+    "answer": ["B"],
+    "explanation": "रामानुजाचार्य ने 'वेदांत' के सिद्धांतों को सरल भाषा में प्रस्तुत किया।"
   },
   {
     "id": 7,
-    "question": "निम्नलिखित में कौन-सी नदी ‘वॉटरफॉल्स की नदी’ कहलाती है? / Which river is called the ‘River of Waterfalls’?",
+    "question": "किस संत ने 'भक्ति' को 'कर्म' से श्रेष्ठ माना? / Which saint considered 'Bhakti' superior to 'Karma'?",
     "options": {
-      "A": "नर्मदा / Narmada",
-      "B": "सुबर्णरेखा / Subarnarekha",
-      "C": "दामोदर / Damodar",
-      "D": "मांडवी / Mandovi"
+      "A": "रामानुजाचार्य / Ramanujacharya",
+      "B": "कबीर / Kabir",
+      "C": "संत सूरदास / Sant Surdas",
+      "D": "संत रैदास / Sant Raidas"
     },
-    "answer": ["B"],
-    "explanation": "सुबर्णरेखा नदी को ‘वॉटरफॉल्स की नदी’ कहा जाता है क्योंकि इसके प्रवाह क्षेत्र में कई जलप्रपात पाए जाते हैं।"
+    "answer": ["A"],
+    "explanation": "रामानुजाचार्य ने 'भक्ति' को 'कर्म' से श्रेष्ठ माना।"
   },
   {
     "id": 8,
-    "question": "‘एल नीनो’ की स्थिति में भारत में सामान्यतः क्या प्रभाव पड़ता है? / What is the general impact of ‘El Nino’ on India?",
+    "question": "कबीर के भक्ति विचारों का मुख्य उद्देश्य क्या था? / What was the main objective of Kabir's Bhakti philosophy?",
     "options": {
-      "A": "अधिक वर्षा / Excess rainfall",
-      "B": "कम वर्षा / Deficient rainfall",
-      "C": "सूखा / Drought",
-      "D": "तूफानों की अधिकता / Increased cyclones"
+      "A": "मूर्ति पूजा का प्रचार / Promotion of idol worship",
+      "B": "जातिवाद का उन्मूलन / Eradication of casteism",
+      "C": "सामाजिक समानता और एकता / Social equality and unity",
+      "D": "धार्मिक कट्टरता का प्रसार / Spread of religious extremism"
     },
-    "answer": ["B", "C"],
-    "explanation": "एल-नीनो की स्थिति में भारत में मानसून वर्षा कम होती है, जिससे सूखा पड़ने की संभावना बढ़ जाती है।"
+    "answer": ["C"],
+    "explanation": "कबीर के भक्ति विचारों का उद्देश्य सामाजिक समानता और एकता को बढ़ावा देना था।"
   },
   {
     "id": 9,
-    "question": "पृथ्वी के भूपटल (Crust) में सबसे अधिक पाई जाने वाली धातु कौन-सी है? / Which is the most abundant metal in Earth’s crust?",
+    "question": "किस संत ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया? / Which saint propagated the worship of the formless form of 'Ram'?",
     "options": {
-      "A": "एलुमिनियम / Aluminium",
-      "B": "लौह / Iron",
-      "C": "सोडियम / Sodium",
-      "D": "पोटैशियम / Potassium"
+      "A": "रामानंद / Ramananda",
+      "B": "रामानुजाचार्य / Ramanujacharya",
+      "C": "शंकराचार्य / Shankaracharya",
+      "D": "कबीर / Kabir"
     },
     "answer": ["A"],
-    "explanation": "पृथ्वी के भूपटल में सबसे अधिक एलुमिनियम (Aluminium ~8.23%) पाई जाती है, उसके बाद लौह और कैल्शियम।"
+    "explanation": "रामानंद ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया।"
   },
   {
     "id": 10,
-    "question": "भारत के किस राज्य में सबसे अधिक जैव विविधता (Biodiversity hotspot) क्षेत्र है? / Which Indian state has the maximum biodiversity hotspot area?",
+    "question": "कबीर के भक्ति विचारों का मुख्य उद्देश्य क्या था? / What was the main objective of Kabir's Bhakti philosophy?",
     "options": {
-      "A": "असम / Assam",
-      "B": "मेघालय / Meghalaya",
-      "C": "अरुणाचल प्रदेश / Arunachal Pradesh",
-      "D": "मध्य प्रदेश / Madhya Pradesh"
+      "A": "मूर्ति पूजा का प्रचार / Promotion of idol worship",
+      "B": "जातिवाद का उन्मूलन / Eradication of casteism",
+      "C": "सामाजिक समानता और एकता / Social equality and unity",
+      "D": "धार्मिक कट्टरता का प्रसार / Spread of religious extremism"
     },
     "answer": ["C"],
-    "explanation": "अरुणाचल प्रदेश पूर्वोत्तर भारत का सबसे बड़ा राज्य है और यह ‘Indo-Burma’ तथा ‘Himalaya’ दोनों जैव विविधता हॉटस्पॉट का हिस्सा है।"
+    "explanation": "कबीर के भक्ति विचारों का उद्देश्य सामाजिक समानता और एकता को बढ़ावा देना था।"
   },
   {
     "id": 11,
-    "question": "कौन-सा पठार 'भारत का जल-संग्रहण क्षेत्र' कहलाता है? / Which plateau is called the 'Watershed of India'?",
+    "question": "किस संत ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया? / Which saint propagated the worship of the formless form of 'Ram'?",
     "options": {
-      "A": "छोटा नागपुर पठार (Chotanagpur Plateau)",
-      "B": "मालवा पठार (Malwa Plateau)",
-      "C": "दक्कन पठार (Deccan Plateau)",
-      "D": "मध्य भारत पठार (Central India Plateau)"
+      "A": "रामानंद / Ramananda",
+      "B": "रामानुजाचार्य / Ramanujacharya",
+      "C": "शंकराचार्य / Shankaracharya",
+      "D": "कबीर / Kabir"
     },
-    "answer": ["C"],
-    "explanation": "दक्कन पठार को भारत का जल-संग्रहण क्षेत्र कहा जाता है क्योंकि यह तीन ओर से समुद्र की ओर बहने वाली नदियों को जन्म देता है। यह भारत की प्रमुख नदियों जैसे गोदावरी, कृष्णा, कावेरी का उद्गम स्थल है।"
+    "answer": ["A"],
+    "explanation": "रामानंद ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया।"
   },
   {
     "id": 12,
-    "question": "विश्व का सबसे बड़ा डेल्टा कौन-सा है? / Which is the largest delta in the world?",
+    "question": "कबीर के भक्ति विचारों का मुख्य उद्देश्य क्या था? / What was the main objective of Kabir's Bhakti philosophy?",
     "options": {
-      "A": "नील डेल्टा (Nile Delta)",
-      "B": "सिंधु डेल्टा (Indus Delta)",
-      "C": "गंगा-ब्रह्मपुत्र डेल्टा (Ganga-Brahmaputra Delta)",
-      "D": "अमेज़न डेल्टा (Amazon Delta)"
+      "A": "मूर्ति पूजा का प्रचार / Promotion of idol worship",
+      "B": "जातिवाद का उन्मूलन / Eradication of casteism",
+      "C": "सामाजिक समानता और एकता / Social equality and unity",
+      "D": "धार्मिक कट्टरता का प्रसार / Spread of religious extremism"
     },
     "answer": ["C"],
-    "explanation": "गंगा-ब्रह्मपुत्र डेल्टा (सुंदरबन डेल्टा) विश्व का सबसे बड़ा डेल्टा है, जो लगभग 1,00,000 वर्ग किलोमीटर क्षेत्रफल में फैला है।"
+    "explanation": "कबीर के भक्ति विचारों का उद्देश्य सामाजिक समानता और एकता को बढ़ावा देना था।"
   },
   {
     "id": 13,
-    "question": "निम्न में से कौन-सी नदियाँ पूर्ववाहिनी (East-flowing) हैं? / Which of the following rivers are east-flowing?",
+    "question": "किस संत ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया? / Which saint propagated the worship of the formless form of 'Ram'?",
     "options": {
-      "A": "गोदावरी (Godavari)",
-      "B": "नर्मदा (Narmada)",
-      "C": "महानदी (Mahanadi)",
-      "D": "ताप्ती (Tapi)"
+      "A": "रामानंद / Ramananda",
+      "B": "रामानुजाचार्य / Ramanujacharya",
+      "C": "शंकराचार्य / Shankaracharya",
+      "D": "कबीर / Kabir"
     },
-    "answer": ["A", "C"],
-    "explanation": "गोदावरी और महानदी पूर्ववाहिनी नदियाँ हैं जो बंगाल की खाड़ी में मिलती हैं, जबकि नर्मदा और ताप्ती पश्चिमवाहिनी नदियाँ हैं।"
+    "answer": ["A"],
+    "explanation": "रामानंद ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया।"
   },
   {
     "id": 14,
-    "question": "भारत में मानसून की सबसे देर से विदाई किस क्षेत्र से होती है? / From which region does monsoon retreat the latest in India?",
+    "question": "कबीर के भक्ति विचारों का मुख्य उद्देश्य क्या था? / What was the main objective of Kabir's Bhakti philosophy?",
     "options": {
-      "A": "पंजाब (Punjab)",
-      "B": "राजस्थान (Rajasthan)",
-      "C": "तमिलनाडु (Tamil Nadu)",
-      "D": "केरल (Kerala)"
+      "A": "मूर्ति पूजा का प्रचार / Promotion of idol worship",
+      "B": "जातिवाद का उन्मूलन / Eradication of casteism",
+      "C": "सामाजिक समानता और एकता / Social equality and unity",
+      "D": "धार्मिक कट्टरता का प्रसार / Spread of religious extremism"
     },
     "answer": ["C"],
-    "explanation": "भारत में मानसून की विदाई सबसे देर से तमिलनाडु क्षेत्र से होती है, जहाँ शीतकालीन मानसून (North-East Monsoon) अक्टूबर-नवंबर में वर्षा कराता है।"
+    "explanation": "कबीर के भक्ति विचारों का उद्देश्य सामाजिक समानता और एकता को बढ़ावा देना था।"
   },
   {
     "id": 15,
-    "question": "निम्न में से कौन-सा जोड़ा सही सुमेलित है? / Which of the following pairs is correctly matched?",
+    "question": "किस संत ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया? / Which saint propagated the worship of the formless form of 'Ram'?",
     "options": {
-      "A": "ब्लैक फॉरेस्ट – जर्मनी (Black Forest – Germany)",
-      "B": "पम्पास – अफ्रीका (Pampas – Africa)",
-      "C": "स्टेपीज – ऑस्ट्रेलिया (Steppes – Australia)",
-      "D": "सवाना – दक्षिण अमेरिका (Savanna – South America)"
+      "A": "रामानंद / Ramananda",
+      "B": "रामानुजाचार्य / Ramanujacharya",
+      "C": "शंकराचार्य / Shankaracharya",
+      "D": "कबीर / Kabir"
     },
     "answer": ["A"],
-    "explanation": "ब्लैक फॉरेस्ट जर्मनी में स्थित है। पम्पास अर्जेंटीना (दक्षिण अमेरिका), स्टेपीज यूरेशिया और सवाना अफ्रीका में पाई जाती हैं।"
+    "explanation": "रामानंद ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया।"
   },
   {
     "id": 16,
-    "question": "किस नदी को 'दक्षिण गंगा' कहा जाता है? / Which river is called the 'Dakshin Ganga'?",
+    "question": "कबीर के भक्ति विचारों का मुख्य उद्देश्य क्या था? / What was the main objective of Kabir's Bhakti philosophy?",
     "options": {
-      "A": "कावेरी (Kaveri)",
-      "B": "गोदावरी (Godavari)",
-      "C": "कृष्णा (Krishna)",
-      "D": "पेरियार (Periyar)"
+      "A": "मूर्ति पूजा का प्रचार / Promotion of idol worship",
+      "B": "जातिवाद का उन्मूलन / Eradication of casteism",
+      "C": "सामाजिक समानता और एकता / Social equality and unity",
+      "D": "धार्मिक कट्टरता का प्रसार / Spread of religious extremism"
     },
-    "answer": ["B"],
-    "explanation": "गोदावरी नदी को 'दक्षिण गंगा' कहा जाता है क्योंकि इसकी लंबाई और जलप्रवाह दक्षिण भारत में सबसे अधिक है।"
+    "answer": ["C"],
+    "explanation": "कबीर के भक्ति विचारों का उद्देश्य सामाजिक समानता और एकता को बढ़ावा देना था।"
   },
   {
     "id": 17,
-    "question": "किस स्थल को 'भारत का रूफटॉप' कहा जाता है? / Which place is called the 'Rooftop of India'?",
+    "question": "किस संत ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया? / Which saint propagated the worship of the formless form of 'Ram'?",
     "options": {
-      "A": "लद्दाख (Ladakh)",
-      "B": "सिक्किम (Sikkim)",
-      "C": "अरुणाचल प्रदेश (Arunachal Pradesh)",
-      "D": "मिजोरम (Mizoram)"
+      "A": "रामानंद / Ramananda",
+      "B": "रामानुजाचार्य / Ramanujacharya",
+      "C": "शंकराचार्य / Shankaracharya",
+      "D": "कबीर / Kabir"
     },
     "answer": ["A"],
-    "explanation": "लद्दाख को 'भारत का रूफटॉप' कहा जाता है क्योंकि यह समुद्र तल से सबसे ऊँचाई पर बसा हुआ क्षेत्र है।"
+    "explanation": "रामानंद ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया।"
   },
   {
     "id": 18,
-    "question": "थार मरुस्थल किन राज्यों में विस्तृत है? / The Thar Desert is spread across which states?",
+    "question": "कबीर के भक्ति विचारों का मुख्य उद्देश्य क्या था? / What was the main objective of Kabir's Bhakti philosophy?",
     "options": {
-      "A": "राजस्थान (Rajasthan)",
-      "B": "गुजरात (Gujarat)",
-      "C": "हरियाणा (Haryana)",
-      "D": "पंजाब (Punjab)"
+      "A": "मूर्ति पूजा का प्रचार / Promotion of idol worship",
+      "B": "जातिवाद का उन्मूलन / Eradication of casteism",
+      "C": "सामाजिक समानता और एकता / Social equality and unity",
+      "D": "धार्मिक कट्टरता का प्रसार / Spread of religious extremism"
     },
-    "answer": ["A", "B"],
-    "explanation": "थार मरुस्थल मुख्यतः राजस्थान में फैला हुआ है और आंशिक रूप से गुजरात में विस्तृत है।"
+    "answer": ["C"],
+    "explanation": "कबीर के भक्ति विचारों का उद्देश्य सामाजिक समानता और एकता को बढ़ावा देना था।"
   },
   {
     "id": 19,
-    "question": "निम्न में से कौन-सा द्वीपसमूह ज्वालामुखीय उत्पत्ति का है? / Which of the following island groups are of volcanic origin?",
+    "question": "किस संत ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया? / Which saint propagated the worship of the formless form of 'Ram'?",
     "options": {
-      "A": "अंडमान-निकोबार (Andaman-Nicobar)",
-      "B": "लक्षद्वीप (Lakshadweep)",
-      "C": "मालदीव (Maldives)",
-      "D": "सुमात्रा (Sumatra)"
+      "A": "रामानंद / Ramananda",
+      "B": "रामानुजाचार्य / Ramanujacharya",
+      "C": "शंकराचार्य / Shankaracharya",
+      "D": "कबीर / Kabir"
     },
-    "answer": ["A", "D"],
-    "explanation": "अंडमान-निकोबार और सुमात्रा ज्वालामुखीय उत्पत्ति के हैं, जबकि लक्षद्वीप और मालदीव प्रवाल द्वीप (Coral Islands) हैं।"
+    "answer": ["A"],
+    "explanation": "रामानंद ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया।"
   },
   {
     "id": 20,
-    "question": "विश्व का सबसे बड़ा समुद्री तट किस देश के पास है? / Which country has the longest coastline in the world?",
+    "question": "कबीर के भक्ति विचारों का मुख्य उद्देश्य क्या था? / What was the main objective of Kabir's Bhakti philosophy?",
     "options": {
-      "A": "ऑस्ट्रेलिया (Australia)",
-      "B": "कनाडा (Canada)",
-      "C": "रूस (Russia)",
-      "D": "संयुक्त राज्य अमेरिका (USA)"
+      "A": "मूर्ति पूजा का प्रचार / Promotion of idol worship",
+      "B": "जातिवाद का उन्मूलन / Eradication of casteism",
+      "C": "सामाजिक समानता और एकता / Social equality and unity",
+      "D": "धार्मिक कट्टरता का प्रसार / Spread of religious extremism"
     },
-    "answer": ["B"],
-    "explanation": "कनाडा का समुद्री तट लगभग 2,02,080 किलोमीटर लंबा है, जो विश्व में सबसे बड़ा है।"
+    "answer": ["C"],
+    "explanation": "कबीर के भक्ति विचारों का उद्देश्य सामाजिक समानता और एकता को बढ़ावा देना था।"
   },
   {
     "id": 21,
-    "question": "‘हॉट डेजर्ट क्लाइमेट’ (Hot Desert Climate) भारत में मुख्यतः कहाँ पाया जाता है? / Where is the ‘Hot Desert Climate’ mainly found in India?",
+    "question": "किस संत ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया? / Which saint propagated the worship of the formless form of 'Ram'?",
     "options": {
-      "A": "कच्छ का रण (Rann of Kutch)",
-      "B": "थार मरुस्थल (Thar Desert)",
-      "C": "लद्दाख (Ladakh)",
-      "D": "दक्कन का पठार (Deccan Plateau)"
+      "A": "रामानंद / Ramananda",
+      "B": "रामानुजाचार्य / Ramanujacharya",
+      "C": "शंकराचार्य / Shankaracharya",
+      "D": "कबीर / Kabir"
     },
-    "answer": ["A", "B"],
-    "explanation": "भारत में हॉट डेजर्ट क्लाइमेट मुख्यतः थार मरुस्थल और कच्छ के रण में पाया जाता है। लद्दाख शीत मरुस्थल है जबकि दक्कन का पठार उष्णकटिबंधीय शुष्क जलवायु वाला है।"
+    "answer": ["A"],
+    "explanation": "रामानंद ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया।"
   },
   {
     "id": 22,
-    "question": "किस नदी को ‘Dakshina Ganga’ कहा जाता है? / Which river is called the ‘Dakshina Ganga’?",
+    "question": "कबीर के भक्ति विचारों का मुख्य उद्देश्य क्या था? / What was the main objective of Kabir's Bhakti philosophy?",
     "options": {
-      "A": "कृष्णा (Krishna)",
-      "B": "गोदावरी (Godavari)",
-      "C": "कावेरी (Kaveri)",
-      "D": "नर्मदा (Narmada)"
+      "A": "मूर्ति पूजा का प्रचार / Promotion of idol worship",
+      "B": "जातिवाद का उन्मूलन / Eradication of casteism",
+      "C": "सामाजिक समानता और एकता / Social equality and unity",
+      "D": "धार्मिक कट्टरता का प्रसार / Spread of religious extremism"
     },
-    "answer": ["B"],
-    "explanation": "गोदावरी नदी को उसकी विशालता और विस्तृत प्रवाह क्षेत्र के कारण ‘Dakshina Ganga’ कहा जाता है।"
+    "answer": ["C"],
+    "explanation": "कबीर के भक्ति विचारों का उद्देश्य सामाजिक समानता और एकता को बढ़ावा देना था।"
   },
   {
     "id": 23,
-    "question": "निम्न में से किस भू-आकृति को ‘Roof of the World’ कहा जाता है? / Which of the following landforms is called the ‘Roof of the World’?",
+    "question": "किस संत ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया? / Which saint propagated the worship of the formless form of 'Ram'?",
     "options": {
-      "A": "हिमालय (Himalayas)",
-      "B": "पामीर पठार (Pamir Plateau)",
-      "C": "तिब्बती पठार (Tibetan Plateau)",
-      "D": "काराकोरम (Karakoram)"
+      "A": "रामानंद / Ramananda",
+      "B": "रामानुजाचार्य / Ramanujacharya",
+      "C": "शंकराचार्य / Shankaracharya",
+      "D": "कबीर / Kabir"
     },
-    "answer": ["B"],
-    "explanation": "पामीर पठार को उसकी अत्यधिक ऊँचाई और सामरिक स्थिति के कारण ‘Roof of the World’ कहा जाता है।"
+    "answer": ["A"],
+    "explanation": "रामानंद ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया।"
   },
   {
     "id": 24,
-    "question": "भारतीय मानसून में ‘El Niño’ की स्थिति का क्या प्रभाव पड़ता है? / What effect does El Niño have on the Indian Monsoon?",
+    "question": "कबीर के भक्ति विचारों का मुख्य उद्देश्य क्या था? / What was the main objective of Kabir's Bhakti philosophy?",
     "options": {
-      "A": "मानसून कमजोर होता है (Monsoon weakens)",
-      "B": "मानसून प्रबल होता है (Monsoon strengthens)",
-      "C": "मानसून समय पर आता है (Monsoon arrives on time)",
-      "D": "मानसून में कोई परिवर्तन नहीं (No impact on Monsoon)"
+      "A": "मूर्ति पूजा का प्रचार / Promotion of idol worship",
+      "B": "जातिवाद का उन्मूलन / Eradication of casteism",
+      "C": "सामाजिक समानता और एकता / Social equality and unity",
+      "D": "धार्मिक कट्टरता का प्रसार / Spread of religious extremism"
     },
-    "answer": ["A"],
-    "explanation": "El Niño के कारण प्रशांत महासागर में असामान्य रूप से गर्म पानी के कारण भारतीय मानसून कमजोर हो जाता है और वर्षा में कमी आती है।"
+    "answer": ["C"],
+    "explanation": "कबीर के भक्ति विचारों का उद्देश्य सामाजिक समानता और एकता को बढ़ावा देना था।"
   },
   {
     "id": 25,
-    "question": "विश्व का सबसे बड़ा डेल्टा कौन सा है? / Which is the largest delta in the world?",
+    "question": "किस संत ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया? / Which saint propagated the worship of the formless form of 'Ram'?",
     "options": {
-      "A": "सुंदरवन डेल्टा (Sundarbans Delta)",
-      "B": "नील डेल्टा (Nile Delta)",
-      "C": "मेकॉन्ग डेल्टा (Mekong Delta)",
-      "D": "मिसिसिपी डेल्टा (Mississippi Delta)"
+      "A": "रामानंद / Ramananda",
+      "B": "रामानुजाचार्य / Ramanujacharya",
+      "C": "शंकराचार्य / Shankaracharya",
+      "D": "कबीर / Kabir"
     },
     "answer": ["A"],
-    "explanation": "सुंदरवन डेल्टा (गंगा-ब्रह्मपुत्र डेल्टा) विश्व का सबसे बड़ा डेल्टा है, जो भारत और बांग्लादेश में फैला हुआ है।"
+    "explanation": "रामानंद ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया।"
   },
   {
     "id": 26,
-    "question": "निम्न में से किसे ‘Water Tower of Asia’ कहा जाता है? / Which of the following is called the ‘Water Tower of Asia’?",
+    "question": "कबीर के भक्ति विचारों का मुख्य उद्देश्य क्या था? / What was the main objective of Kabir's Bhakti philosophy?",
     "options": {
-      "A": "तिब्बती पठार (Tibetan Plateau)",
-      "B": "हिमालय (Himalayas)",
-      "C": "काराकोरम (Karakoram)",
-      "D": "पामीर (Pamir)"
+      "A": "मूर्ति पूजा का प्रचार / Promotion of idol worship",
+      "B": "जातिवाद का उन्मूलन / Eradication of casteism",
+      "C": "सामाजिक समानता और एकता / Social equality and unity",
+      "D": "धार्मिक कट्टरता का प्रसार / Spread of religious extremism"
     },
-    "answer": ["A"],
-    "explanation": "तिब्बती पठार को ‘Water Tower of Asia’ कहा जाता है क्योंकि यह एशिया की प्रमुख नदियों का स्रोत है।"
+    "answer": ["C"],
+    "explanation": "कबीर के भक्ति विचारों का उद्देश्य सामाजिक समानता और एकता को बढ़ावा देना था।"
   },
   {
     "id": 27,
-    "question": "भारत के किस राज्य में सबसे अधिक ‘Mangrove Forest’ पाए जाते हैं? / Which state in India has the maximum Mangrove forests?",
+    "question": "किस संत ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया? / Which saint propagated the worship of the formless form of 'Ram'?",
     "options": {
-      "A": "पश्चिम बंगाल (West Bengal)",
-      "B": "ओडिशा (Odisha)",
-      "C": "अंध्र प्रदेश (Andhra Pradesh)",
-      "D": "गुजरात (Gujarat)"
+      "A": "रामानंद / Ramananda",
+      "B": "रामानुजाचार्य / Ramanujacharya",
+      "C": "शंकराचार्य / Shankaracharya",
+      "D": "कबीर / Kabir"
     },
     "answer": ["A"],
-    "explanation": "पश्चिम बंगाल के सुंदरवन क्षेत्र में भारत के सबसे बड़े मैंग्रोव वन पाए जाते हैं।"
+    "explanation": "रामानंद ने 'राम' के निर्गुण रूप की पूजा का प्रचार किया।"
   },
   {
     "id": 28,
-    "question": "किस पर्वतीय दर्रे के माध्यम से भारत-चीन सीमा पर पुराना रेशम मार्ग जुड़ा था? / Through which pass did the ancient Silk Route connect India and China?",
+    "question": "कबीर के भक्ति विचारों का मुख्य उद्देश्य क्या था? / What was the main objective of Kabir's Bhakti philosophy?",
     "options": {
-      "A": "नथुला दर्रा (Nathu La Pass)",
-      "B": "खारदुंग ला (Khardung La)",
-      "C": "झोजिला (Zoji La)",
-      "D": "शिपकी ला (Shipki La)"
+      "A": "मूर्ति पूजा का प्रचार / Promotion of idol worship",
+      "B": "जातिवाद का उन्मूलन / Eradication of casteism",
+      "C": "सामाजिक समानता और एकता / Social equality and unity",
+      "D": "धार्मिक कट्टरता का प्रसार / Spread of religious extremism"
     },
-    "answer": ["A"],
-    "explanation": "नथुला दर्रा सिक्किम में स्थित है और प्राचीन रेशम मार्ग भारत-चीन को जोड़ता था।"
+    "answer": ["C"],
+    "explanation": "कबीर के भक्ति विचारों का उद्देश्य सामाजिक समानता और एकता को बढ़ावा देना था।"
   },
   {
     "id": 29,
-    "question": "भारत में सबसे बड़ा ताजे पानी की झील कौन सी है? / Which is the largest freshwater lake in India?",
+    "question": "भक्ति आंदोलन में कौन सा मुख्य भाव प्रकट होता है? / What is the primary emotion expressed in the Bhakti movement?",
     "options": {
-      "A": "चिल्का झील (Chilika Lake)",
-      "B": "वेम्बनाड झील (Vembanad Lake)",
-      "C": "वूलर झील (Wular Lake)",
-      "D": "सांभर झील (Sambhar Lake)"
+      "A": "भय / Fear",
+      "B": "भक्ति और प्रेम / Devotion and Love",
+      "C": "क्रोध / Anger",
+      "D": "लोभ / Greed"
     },
-    "answer": ["C"],
-    "explanation": "वूलर झील जम्मू-कश्मीर में स्थित है और यह भारत की सबसे बड़ी ताजे पानी की झील है।"
+    "answer": ["B"],
+    "explanation": "भक्ति आंदोलन का मुख्य उद्देश्य ईश्वर के प्रति प्रेम और भक्ति का प्रसार करना था।"
   },
   {
     "id": 30,
-    "question": "‘रेड डेट सी’ (Dead Sea) किसके लिए प्रसिद्ध है? / The Dead Sea is famous for which of the following?",
+    "question": "कबीर का कौन सा संदेश लोगों को जाति और धर्म से ऊपर उठने का प्रेरित करता था? / Which message of Kabir inspired people to rise above caste and religion?",
     "options": {
-      "A": "अत्यधिक खारापन (High salinity)",
-      "B": "सबसे गहरी झील (Deepest lake)",
-      "C": "ताजे पानी का स्रोत (Freshwater source)",
-      "D": "जैव विविधता (Biodiversity)"
+      "A": "संतुलित जीवन / Balanced life",
+      "B": "सामाजिक समानता / Social equality",
+      "C": "धार्मिक अनुष्ठान / Religious rituals",
+      "D": "संगीत और नृत्य / Music and Dance"
     },
-    "answer": ["A"],
-    "explanation": "Dead Sea अपने अत्यधिक खारेपन के लिए प्रसिद्ध है, जिसकी वजह से यहाँ जीव-जंतु नहीं पनपते और मनुष्य आसानी से तैर सकते हैं।"
+    "answer": ["B"],
+    "explanation": "कबीर ने जाति और धर्म के भेद को त्यागकर समानता का संदेश दिया।"
   },
   {
     "id": 31,
-    "question": "भारत में ‘ब्लैक कॉटन सॉइल’ (Regur Soil) मुख्यतः कहाँ पाई जाती है? / Black Cotton Soil in India is mainly found in?",
+    "question": "भक्ति आंदोलन का आरंभ किस समय हुआ था? / When did the Bhakti movement begin?",
     "options": {
-      "A": "दक्कन का पठार (Deccan Plateau)",
-      "B": "गंगा का मैदान (Gangetic Plains)",
-      "C": "राजस्थान (Rajasthan)",
-      "D": "हिमालयी क्षेत्र (Himalayan Region)"
+      "A": "8वीं शताब्दी / 8th century",
+      "B": "12वीं शताब्दी / 12th century",
+      "C": "16वीं शताब्दी / 16th century",
+      "D": "18वीं शताब्दी / 18th century"
     },
-    "answer": ["A"],
-    "explanation": "ब्लैक कॉटन सॉइल (रेगर मिट्टी) मुख्यतः दक्कन के पठार क्षेत्र (महाराष्ट्र, मध्य प्रदेश, गुजरात, तेलंगाना) में पाई जाती है।"
+    "answer": ["B"],
+    "explanation": "भक्ति आंदोलन का प्रारंभ 12वीं शताब्दी के आसपास हुआ।"
   },
   {
     "id": 32,
-    "question": "निम्न में से कौन सा ज्वालामुखी भारत में सक्रिय है? / Which of the following volcanoes is active in India?",
+    "question": "भक्ति आंदोलन के कौन से संत ने निर्गुण भक्ति का प्रचार किया? / Which saint propagated Nirguna Bhakti?",
     "options": {
-      "A": "बैरन द्वीप (Barren Island)",
-      "B": "नारकोंडम (Narcondam)",
-      "C": "दीव द्वीप (Diu Island)",
-      "D": "अंडमान द्वीप (Andaman Island)"
+      "A": "रामानंद / Ramananda",
+      "B": "कबीर / Kabir",
+      "C": "तुलसीदास / Tulsidas",
+      "D": "सूरदास / Surdas"
     },
-    "answer": ["A"],
-    "explanation": "भारत का एकमात्र सक्रिय ज्वालामुखी अंडमान निकोबार में स्थित बैरन द्वीप है।"
+    "answer": ["B"],
+    "explanation": "कबीर ने निर्गुण भक्ति (निर्गुण ईश्वर की भक्ति) का प्रचार किया।"
   },
   {
     "id": 33,
-    "question": "किस देश में ‘ग्रेट बैरियर रीफ’ स्थित है? / In which country is the Great Barrier Reef located?",
+    "question": "रामानंद की भक्ति किस प्रकार की थी? / What type of Bhakti did Ramananda practice?",
     "options": {
-      "A": "ऑस्ट्रेलिया (Australia)",
-      "B": "न्यूजीलैंड (New Zealand)",
-      "C": "फिलीपींस (Philippines)",
-      "D": "इंडोनेशिया (Indonesia)"
+      "A": "सगुण भक्ति / Saguna Bhakti",
+      "B": "निर्गुण भक्ति / Nirguna Bhakti",
+      "C": "मूर्ति पूजा / Idol worship",
+      "D": "योग / Yoga"
     },
     "answer": ["A"],
-    "explanation": "ग्रेट बैरियर रीफ विश्व का सबसे बड़ा प्रवाल भित्ति तंत्र है और यह ऑस्ट्रेलिया में स्थित है।"
+    "explanation": "रामानंद ने सगुण भक्ति (ईश्वर के साकार रूप की भक्ति) का प्रचार किया।"
   },
   {
     "id": 34,
-    "question": "भारत के किस राज्य में सबसे अधिक ‘थर्मल पावर प्लांट’ स्थित हैं? / Which Indian state has the maximum thermal power plants?",
+    "question": "सूरदास किस देवता के प्रति भक्ति के लिए प्रसिद्ध हैं? / Surdas is famous for devotion towards which deity?",
     "options": {
-      "A": "महाराष्ट्र (Maharashtra)",
-      "B": "उत्तर प्रदेश (Uttar Pradesh)",
-      "C": "तमिलनाडु (Tamil Nadu)",
-      "D": "गुजरात (Gujarat)"
+      "A": "शिव / Shiva",
+      "B": "राम / Ram",
+      "C": "कृष्ण / Krishna",
+      "D": "हनुमान / Hanuman"
     },
-    "answer": ["B"],
-    "explanation": "उत्तर प्रदेश में सबसे अधिक थर्मल पावर प्लांट हैं और यह राज्य कोयले पर आधारित ऊर्जा उत्पादन में अग्रणी है।"
+    "answer": ["C"],
+    "explanation": "सूरदास भगवान कृष्ण के प्रति भक्ति और काव्य के लिए प्रसिद्ध हैं।"
   },
   {
     "id": 35,
-    "question": "‘Ring of Fire’ किस महासागर से संबंधित है? / The ‘Ring of Fire’ is associated with which ocean?",
+    "question": "तुलसीदास की प्रमुख कृति कौन सी है? / What is the major work of Tulsidas?",
     "options": {
-      "A": "अटलांटिक महासागर (Atlantic Ocean)",
-      "B": "प्रशांत महासागर (Pacific Ocean)",
-      "C": "हिंद महासागर (Indian Ocean)",
-      "D": "आर्कटिक महासागर (Arctic Ocean)"
+      "A": "गीत गोविंद / Geet Govind",
+      "B": "रामचरितमानस / Ramcharitmanas",
+      "C": "कबीर वाणी / Kabir Vani",
+      "D": "सूरसागर / Sursagar"
     },
     "answer": ["B"],
-    "explanation": "Ring of Fire प्रशांत महासागर के चारों ओर फैला है और यहाँ सबसे अधिक भूकंप व ज्वालामुखी गतिविधियाँ होती हैं।"
+    "explanation": "तुलसीदास की प्रमुख कृति 'रामचरितमानस' है।"
   },
   {
     "id": 36,
-    "question": "निम्न में से कौन सा शहर ‘त्रिवेणी संगम’ के लिए प्रसिद्ध है? / Which city is famous for the Triveni Sangam?",
+    "question": "भक्ति आंदोलन के संत समाज में किस संदेश को फैलाना चाहते थे? / What message did Bhakti saints want to spread in society?",
     "options": {
-      "A": "वाराणसी (Varanasi)",
-      "B": "प्रयागराज (Prayagraj)",
-      "C": "उज्जैन (Ujjain)",
-      "D": "नासिक (Nashik)"
+      "A": "धार्मिक कट्टरता / Religious extremism",
+      "B": "जातिवाद / Casteism",
+      "C": "समानता और प्रेम / Equality and Love",
+      "D": "धन और शक्ति / Wealth and Power"
     },
-    "answer": ["B"],
-    "explanation": "प्रयागराज (इलाहाबाद) गंगा, यमुना और काल्पनिक सरस्वती के त्रिवेणी संगम के लिए प्रसिद्ध है।"
+    "answer": ["C"],
+    "explanation": "भक्ति संत समाज में समानता, प्रेम और सामाजिक सद्भाव का संदेश फैलाना चाहते थे।"
   },
   {
     "id": 37,
-    "question": "‘टेक्टोनिक प्लेटों’ की गति का प्रत्यक्ष प्रमाण कौन सा है? / Which is the direct evidence of tectonic plate movement?",
+    "question": "भक्ति आंदोलन में गीत और भजन का क्या महत्व था? / What was the importance of songs and bhajans in Bhakti movement?",
     "options": {
-      "A": "भूकंप (Earthquake)",
-      "B": "ज्वालामुखी (Volcanoes)",
-      "C": "सुनामी (Tsunami)",
-      "D": "भूकंपीय तरंगें (Seismic Waves)"
+      "A": "मनोरंजन / Entertainment",
+      "B": "संदेश और भक्ति का माध्यम / Medium of devotion and message",
+      "C": "सांस्कृतिक प्रदर्शनी / Cultural exhibition",
+      "D": "धार्मिक नियम / Religious ritual"
     },
-    "answer": ["A", "B"],
-    "explanation": "भूकंप और ज्वालामुखी टेक्टोनिक प्लेटों की गति के प्रत्यक्ष प्रमाण हैं। सुनामी इसका परिणाम है जबकि भूकंपीय तरंगें अध्ययन का साधन हैं।"
+    "answer": ["B"],
+    "explanation": "गीत और भजन भक्ति और संदेश को सरलता से जनता तक पहुँचाने का माध्यम थे।"
   },
   {
     "id": 38,
-    "question": "भारत में ‘कोंकण तट’ किन राज्यों में फैला हुआ है? / The Konkan coast in India lies across which states?",
+    "question": "कबीर की शिक्षाओं में कौन सा मुख्य तत्व है? / What is the main element in Kabir’s teachings?",
     "options": {
-      "A": "महाराष्ट्र (Maharashtra)",
-      "B": "गोवा (Goa)",
-      "C": "कर्नाटक (Karnataka)",
-      "D": "केरल (Kerala)"
+      "A": "मूर्ति पूजा / Idol worship",
+      "B": "समानता और ईश्वर भक्ति / Equality and devotion to God",
+      "C": "धार्मिक अनुष्ठान / Rituals",
+      "D": "सांस्कृतिक उत्सव / Cultural festival"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "कोंकण तट महाराष्ट्र, गोवा और कर्नाटक में फैला हुआ है, जबकि केरल का तट मालाबार तट कहलाता है।"
+    "answer": ["B"],
+    "explanation": "कबीर की शिक्षाओं का मुख्य तत्व सामाजिक समानता और ईश्वर भक्ति था।"
   },
   {
     "id": 39,
-    "question": "‘गंगा-ब्रह्मपुत्र बेसिन’ किस प्रकार की कृषि पद्धति के लिए प्रसिद्ध है? / The Ganga-Brahmaputra basin is famous for which type of agriculture?",
+    "question": "भक्ति आंदोलन का उद्देश्य क्या था? / What was the objective of the Bhakti movement?",
     "options": {
-      "A": "झूम खेती (Shifting Cultivation)",
-      "B": "सघन कृषि (Intensive Agriculture)",
-      "C": "व्यावसायिक कृषि (Commercial Farming)",
-      "D": "शुष्क कृषि (Dry Farming)"
+      "A": "धार्मिक कट्टरता बढ़ाना / Promote religious extremism",
+      "B": "सामाजिक और धार्मिक समानता / Social and religious equality",
+      "C": "सत्ता का विस्तार / Expansion of power",
+      "D": "सांस्कृतिक प्रतिस्पर्धा / Cultural competition"
     },
     "answer": ["B"],
-    "explanation": "गंगा-ब्रह्मपुत्र बेसिन जल और उपजाऊ मिट्टी की प्रचुरता के कारण सघन कृषि के लिए प्रसिद्ध है।"
+    "explanation": "भक्ति आंदोलन का उद्देश्य समाज में समानता और भक्ति का प्रसार करना था।"
   },
   {
     "id": 40,
-    "question": "‘अल नीन्हो–दक्षिणी दोलन’ (ENSO) का सीधा प्रभाव किस पर पड़ता है? / ENSO has a direct impact on which of the following?",
+    "question": "भक्ति आंदोलन के कौन से संत ने निर्गुण भक्ति को अपनाया? / Which Bhakti saint adopted Nirguna Bhakti?",
     "options": {
-      "A": "मानसून वर्षा (Monsoon Rainfall)",
-      "B": "मछली पालन (Fisheries)",
-      "C": "तापमान वितरण (Temperature Distribution)",
-      "D": "सभी (All of the above)"
+      "A": "तुलसीदास / Tulsidas",
+      "B": "सूरदास / Surdas",
+      "C": "कबीर / Kabir",
+      "D": "रामानंद / Ramananda"
     },
-    "answer": ["D"],
-    "explanation": "ENSO का सीधा प्रभाव मानसून वर्षा, समुद्री मत्स्य पालन और वैश्विक तापमान वितरण पर पड़ता है।"
+    "answer": ["C"],
+    "explanation": "कबीर ने निर्गुण भक्ति का प्रचार किया।"
   },
   {
     "id": 41,
-    "question": "किस देश को ‘Land of the Rising Sun’ कहा जाता है? / Which country is called the ‘Land of the Rising Sun’?",
+    "question": "संत मीराबाई किस देवता की भक्ति के लिए प्रसिद्ध हैं? / Mirabai is famous for devotion to which deity?",
     "options": {
-      "A": "चीन (China)",
-      "B": "जापान (Japan)",
-      "C": "कोरिया (Korea)",
-      "D": "थाईलैंड (Thailand)"
+      "A": "कृष्ण / Krishna",
+      "B": "राम / Ram",
+      "C": "शिव / Shiva",
+      "D": "हनुमान / Hanuman"
     },
-    "answer": ["B"],
-    "explanation": "जापान को ‘Land of the Rising Sun’ कहा जाता है क्योंकि यह एशिया के सबसे पूर्वी हिस्से में स्थित है।"
+    "answer": ["A"],
+    "explanation": "मीराबाई भगवान कृष्ण की अनन्य भक्त थीं।"
   },
   {
     "id": 42,
-    "question": "‘सहाराः रेगिस्तान’ किन-किन देशों में फैला हुआ है? / The Sahara Desert spreads across which countries?",
+    "question": "भक्ति आंदोलन में सामाजिक सुधार का संदेश किस माध्यम से फैलाया गया? / How was the message of social reform spread in Bhakti movement?",
     "options": {
-      "A": "मिस्र (Egypt)",
-      "B": "लीबिया (Libya)",
-      "C": "सूडान (Sudan)",
-      "D": "नाइजर (Niger)"
+      "A": "भजन और पद / Bhajans and poetry",
+      "B": "युद्ध / War",
+      "C": "नृत्य / Dance",
+      "D": "धार्मिक अनुष्ठान / Rituals"
     },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "सहारा रेगिस्तान अफ्रीका के 11 देशों में फैला हुआ है, जिनमें मिस्र, लीबिया, सूडान, नाइजर आदि प्रमुख हैं।"
+    "answer": ["A"],
+    "explanation": "भजन और पद के माध्यम से भक्ति संत सामाजिक सुधार का संदेश फैलाते थे।"
   },
   {
     "id": 43,
-    "question": "‘नाइल नदी’ का उद्गम स्थल कहाँ है? / Where is the origin of the Nile River?",
+    "question": "संत कबीर का कौन सा संदेश अभी भी प्रासंगिक है? / Which message of Kabir is still relevant today?",
     "options": {
-      "A": "लेक विक्टोरिया (Lake Victoria)",
-      "B": "लेक ताना (Lake Tana)",
-      "C": "लेक चाड (Lake Chad)",
-      "D": "लेक नैस्सर (Lake Nasser)"
+      "A": "जातिवाद / Casteism",
+      "B": "समानता और प्रेम / Equality and Love",
+      "C": "धार्मिक कट्टरता / Religious extremism",
+      "D": "धन संग्रह / Wealth accumulation"
     },
-    "answer": ["A", "B"],
-    "explanation": "नाइल नदी का उद्गम मुख्यतः लेक विक्टोरिया और लेक ताना से होता है।"
+    "answer": ["B"],
+    "explanation": "कबीर का समानता और प्रेम का संदेश आज भी प्रासंगिक है।"
   },
   {
     "id": 44,
-    "question": "विश्व का सबसे ऊँचा जलप्रपात कौन सा है? / Which is the highest waterfall in the world?",
+    "question": "भक्ति आंदोलन में किसने सगुण भक्ति का प्रचार किया? / Who propagated Saguna Bhakti in Bhakti movement?",
     "options": {
-      "A": "एंजल फॉल्स (Angel Falls)",
-      "B": "नियाग्रा फॉल्स (Niagara Falls)",
-      "C": "विक्टोरिया फॉल्स (Victoria Falls)",
-      "D": "इगुआसु फॉल्स (Iguazu Falls)"
+      "A": "कबीर / Kabir",
+      "B": "रामानंद / Ramananda",
+      "C": "मीराबाई / Mirabai",
+      "D": "सूरदास / Surdas"
     },
-    "answer": ["A"],
-    "explanation": "एंजल फॉल्स (वेनेजुएला) विश्व का सबसे ऊँचा जलप्रपात है जिसकी ऊँचाई लगभग 979 मीटर है।"
+    "answer": ["B"],
+    "explanation": "रामानंद ने सगुण भक्ति का प्रचार किया।"
   },
   {
     "id": 45,
-    "question": "‘भूकंपीय पट्टी’ (Seismic Belt) भारत में कहाँ से गुजरती है? / Where does the seismic belt pass through in India?",
+    "question": "संत सूरदास किस भक्ति के लिए प्रसिद्ध हैं? / Surdas is famous for which type of devotion?",
     "options": {
-      "A": "हिमालय (Himalayas)",
-      "B": "उत्तर-पूर्वी भारत (North-East India)",
-      "C": "पश्चिमी घाट (Western Ghats)",
-      "D": "गंगा का मैदान (Gangetic Plains)"
+      "A": "राम भक्ति / Ram devotion",
+      "B": "कृष्ण भक्ति / Krishna devotion",
+      "C": "शिव भक्ति / Shiva devotion",
+      "D": "हनुमान भक्ति / Hanuman devotion"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "भारत में भूकंपीय पट्टी मुख्यतः हिमालय, उत्तर-पूर्वी भारत और गंगा का मैदान से होकर गुजरती है।"
+    "answer": ["B"],
+    "explanation": "सूरदास कृष्ण भक्ति और काव्य के लिए प्रसिद्ध हैं।"
+  },
+  {
+    "id": 46,
+    "question": "तुलसीदास ने किस ग्रंथ की रचना की? / Which text did Tulsidas compose?",
+    "options": {
+      "A": "रामचरितमानस / Ramcharitmanas",
+      "B": "गीता / Gita",
+      "C": "सूरसागर / Sursagar",
+      "D": "कबीर वाणी / Kabir Vani"
+    },
+    "answer": ["A"],
+    "explanation": "तुलसीदास ने 'रामचरितमानस' की रचना की।"
+  },
+  {
+    "id": 47,
+    "question": "भक्ति आंदोलन ने समाज में क्या प्रभाव डाला? / What impact did Bhakti movement have on society?",
+    "options": {
+      "A": "जातिवाद को बढ़ावा दिया / Promoted casteism",
+      "B": "सामाजिक समानता और भक्ति को बढ़ावा दिया / Promoted social equality and devotion",
+      "C": "धार्मिक कट्टरता बढ़ी / Increased religious extremism",
+      "D": "सांस्कृतिक प्रतिस्पर्धा बढ़ी / Increased cultural competition"
+    },
+    "answer": ["B"],
+    "explanation": "भक्ति आंदोलन ने समाज में समानता और भक्ति का प्रसार किया।"
+  },
+  {
+    "id": 48,
+    "question": "कबीर और मीराबाई के बीच मुख्य अंतर क्या था? / What was the main difference between Kabir and Mirabai?",
+    "options": {
+      "A": "कबीर निर्गुण, मीराबाई सगुण भक्ति / Kabir - Nirguna, Mirabai - Saguna",
+      "B": "कबीर पुरुष, मीराबाई पुरुष / Kabir - male, Mirabai - male",
+      "C": "दोनों ने सगुण भक्ति अपनाई / Both practiced Saguna Bhakti",
+      "D": "दोनों ने निर्गुण भक्ति अपनाई / Both practiced Nirguna Bhakti"
+    },
+    "answer": ["A"],
+    "explanation": "कबीर ने निर्गुण भक्ति अपनाई, जबकि मीराबाई ने सगुण भक्ति की।"
+  },
+  {
+    "id": 49,
+    "question": "भक्ति आंदोलन की साहित्यिक भाषा मुख्य रूप से क्या थी? / What was the primary literary language of Bhakti movement?",
+    "options": {
+      "A": "संस्कृत / Sanskrit",
+      "B": "प्राकृतिक भाषा और लोकभाषा / Vernacular and local languages",
+      "C": "फारसी / Persian",
+      "D": "अरबी / Arabic"
+    },
+    "answer": ["B"],
+    "explanation": "भक्ति आंदोलन में लोकभाषाओं का प्रयोग अधिक हुआ।"
+  },
+  {
+    "id": 50,
+    "question": "भक्ति आंदोलन के संतों ने समाज में क्या संदेश दिया? / What message did the Bhakti saints give to society?",
+    "options": {
+      "A": "समानता, प्रेम और भक्ति / Equality, Love and Devotion",
+      "B": "धन और शक्ति / Wealth and Power",
+      "C": "जातिवाद और भेदभाव / Casteism and discrimination",
+      "D": "धार्मिक कट्टरता / Religious extremism"
+    },
+    "answer": ["A"],
+    "explanation": "भक्ति संतों ने समाज में समानता, प्रेम और भक्ति का संदेश फैलाया।"
   }
 ]
   
-
-
+ 
+  
+ 
