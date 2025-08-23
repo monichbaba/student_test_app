@@ -1,855 +1,482 @@
 [
-  {
-    "id": 1,
-    "question": "भारत में निर्वाचन आयोग को किस अनुच्छेद के अंतर्गत संवैधानिक दर्जा दिया गया है? / Under which Article of the Constitution is the Election Commission of India given constitutional status?",
-    "options": {
-      "A": "अनुच्छेद 280 / Article 280",
-      "B": "अनुच्छेद 324 / Article 324",
-      "C": "अनुच्छेद 356 / Article 356",
-      "D": "अनुच्छेद 148 / Article 148"
-    },
-    "answer": ["B"],
-    "explanation": "भारत का निर्वाचन आयोग अनुच्छेद 324 के अंतर्गत स्थापित एक संवैधानिक निकाय है।"
-  },
-  {
-    "id": 2,
-    "question": "भारत के मुख्य निर्वाचन आयुक्त (CEC) की नियुक्ति कौन करता है? / Who appoints the Chief Election Commissioner of India?",
-    "options": {
-      "A": "प्रधानमंत्री / Prime Minister",
-      "B": "मुख्यमंत्री / Chief Minister",
-      "C": "राष्ट्रपति / President",
-      "D": "लोकसभा अध्यक्ष / Speaker of Lok Sabha"
-    },
-    "answer": ["C"],
-    "explanation": "भारत के मुख्य निर्वाचन आयुक्त की नियुक्ति राष्ट्रपति द्वारा की जाती है।"
-  },
-  {
-    "id": 3,
-    "question": "लोकसभा चुनावों में उम्मीदवार की न्यूनतम आयु कितनी होनी चाहिए? / What is the minimum age to contest for Lok Sabha elections?",
-    "options": {
-      "A": "18 वर्ष / 18 years",
-      "B": "21 वर्ष / 21 years",
-      "C": "25 वर्ष / 25 years",
-      "D": "30 वर्ष / 30 years"
-    },
-    "answer": ["C"],
-    "explanation": "लोकसभा चुनाव लड़ने की न्यूनतम आयु 25 वर्ष है।"
-  },
-  {
-    "id": 4,
-    "question": "राज्यसभा चुनाव लड़ने के लिए न्यूनतम आयु कितनी निर्धारित है? / What is the minimum age to contest for Rajya Sabha elections?",
-    "options": {
-      "A": "18 वर्ष / 18 years",
-      "B": "21 वर्ष / 21 years",
-      "C": "25 वर्ष / 25 years",
-      "D": "30 वर्ष / 30 years"
-    },
-    "answer": ["D"],
-    "explanation": "राज्यसभा का सदस्य बनने के लिए न्यूनतम आयु 30 वर्ष निर्धारित है।"
-  },
-  {
-    "id": 5,
-    "question": "भारत में सार्वभौमिक वयस्क मताधिकार (Universal Adult Franchise) की न्यूनतम आयु क्या है? / What is the minimum age for Universal Adult Franchise in India?",
-    "options": {
-      "A": "18 वर्ष / 18 years",
-      "B": "21 वर्ष / 21 years",
-      "C": "23 वर्ष / 23 years",
-      "D": "25 वर्ष / 25 years"
-    },
-    "answer": ["A"],
-    "explanation": "61वें संविधान संशोधन अधिनियम 1988 द्वारा मतदान आयु 21 से घटाकर 18 वर्ष कर दी गई।"
-  },
-  {
-    "id": 6,
-    "question": "निर्वाचन आयोग का कार्यकाल कितने वर्षों का होता है? / What is the tenure of the Election Commission of India?",
-    "options": {
-      "A": "3 वर्ष / 3 years",
-      "B": "5 वर्ष / 5 years",
-      "C": "6 वर्ष या 65 वर्ष की आयु / 6 years or till age of 65",
-      "D": "7 वर्ष / 7 years"
-    },
-    "answer": ["C"],
-    "explanation": "मुख्य निर्वाचन आयुक्त और निर्वाचन आयुक्तों का कार्यकाल 6 वर्ष या 65 वर्ष की आयु तक, जो पहले हो, तक होता है।"
-  },
-  {
-    "id": 7,
-    "question": "भारत में निर्वाचन आयोग को हटाने की प्रक्रिया किसके समान है? / The removal process of Chief Election Commissioner is similar to that of?",
-    "options": {
-      "A": "प्रधानमंत्री / Prime Minister",
-      "B": "सुप्रीम कोर्ट के न्यायाधीश / Supreme Court Judge",
-      "C": "लोकसभा अध्यक्ष / Speaker of Lok Sabha",
-      "D": "राज्यपाल / Governor"
-    },
-    "answer": ["B"],
-    "explanation": "CEC को हटाने की प्रक्रिया सुप्रीम कोर्ट के न्यायाधीश की तरह महाभियोग के माध्यम से होती है।"
-  },
-  {
-    "id": 8,
-    "question": "भारत में पहली बार इलेक्ट्रॉनिक वोटिंग मशीन (EVM) का उपयोग किस वर्ष हुआ? / In which year were Electronic Voting Machines (EVMs) used for the first time in India?",
-    "options": {
-      "A": "1982",
-      "B": "1991",
-      "C": "1999",
-      "D": "2004"
-    },
-    "answer": ["A"],
-    "explanation": "EVM का प्रयोग 1982 में केरल के पारावूर विधानसभा उपचुनाव में पहली बार हुआ।"
-  },
-  {
-    "id": 9,
-    "question": "भारतीय निर्वाचन आयोग में कुल कितने सदस्य होते हैं? / How many members are there in the Election Commission of India?",
-    "options": {
-      "A": "एक / One",
-      "B": "दो / Two",
-      "C": "तीन / Three",
-      "D": "चार / Four"
-    },
-    "answer": ["C"],
-    "explanation": "भारत का निर्वाचन आयोग एक मुख्य निर्वाचन आयुक्त और दो निर्वाचन आयुक्तों से मिलकर बनता है।"
-  },
-  {
-    "id": 10,
-    "question": "भारत में राष्ट्रपति चुनाव के लिए किस प्रकार का मतदान प्रणाली अपनाई जाती है? / Which type of voting system is adopted in Presidential elections in India?",
-    "options": {
-      "A": "प्रथम-पहला-पास्ट / First-past-the-post",
-      "B": "प्रमाणिक प्रतिनिधित्व / Proportional representation",
-      "C": "एकल हस्तांतरणीय मत / Single transferable vote",
-      "D": "प्रत्यक्ष मतदान / Direct voting"
-    },
-    "answer": ["B", "C"],
-    "explanation": "राष्ट्रपति चुनाव में अनुपातिक प्रतिनिधित्व प्रणाली और एकल हस्तांतरणीय मत का उपयोग होता है।"
-  },
-  {
-    "id": 11,
-    "question": "भारत में लोकसभा चुनाव किस प्रणाली से होते हैं? / Which system is used for Lok Sabha elections in India?",
-    "options": {
-      "A": "प्रथम-पहला-पास्ट / First-past-the-post",
-      "B": "एकल हस्तांतरणीय मत / Single transferable vote",
-      "C": "प्रमाणिक प्रतिनिधित्व / Proportional representation",
-      "D": "मिश्रित प्रणाली / Mixed system"
-    },
-    "answer": ["A"],
-    "explanation": "लोकसभा चुनाव प्रथम-पहला-पास्ट (First-past-the-post) प्रणाली से होते हैं।"
-  },
-  {
-    "id": 12,
-    "question": "भारत के चुनावों की निगरानी कौन करता है? / Who supervises the elections in India?",
-    "options": {
-      "A": "संसद / Parliament",
-      "B": "राज्य सरकार / State Government",
-      "C": "निर्वाचन आयोग / Election Commission",
-      "D": "सुप्रीम कोर्ट / Supreme Court"
-    },
-    "answer": ["C"],
-    "explanation": "भारत के चुनावों की निगरानी और नियंत्रण निर्वाचन आयोग करता है।"
-  },
-  {
-    "id": 13,
-    "question": "भारत में राज्य विधान परिषद के सदस्यों का चुनाव किस प्रणाली से होता है? / Which system is used for the election of State Legislative Council members?",
-    "options": {
-      "A": "प्रमाणिक प्रतिनिधित्व / Proportional representation",
-      "B": "प्रथम-पहला-पास्ट / First-past-the-post",
-      "C": "एकल हस्तांतरणीय मत / Single transferable vote",
-      "D": "प्रत्यक्ष मतदान / Direct voting"
-    },
-    "answer": ["A", "C"],
-    "explanation": "विधान परिषद के सदस्यों का चुनाव अनुपातिक प्रतिनिधित्व और एकल हस्तांतरणीय मत प्रणाली से होता है।"
-  },
-  {
-    "id": 14,
-    "question": "भारत में निर्वाचन आयोग की स्वतंत्रता सुनिश्चित करने के लिए कौन-सा प्रावधान किया गया है? / Which provision ensures the independence of the Election Commission in India?",
-    "options": {
-      "A": "वेतन संसद द्वारा तय / Salary decided by Parliament",
-      "B": "CEC की हटाने की प्रक्रिया कठिन / Difficult removal process of CEC",
-      "C": "कार्यकाल निर्धारित / Fixed tenure",
-      "D": "इन सभी / All of the above"
-    },
-    "answer": ["D"],
-    "explanation": "CEC की सुरक्षा, वेतन व कार्यकाल सभी उसकी स्वतंत्रता सुनिश्चित करते हैं।"
-  },
-  {
-    "id": 15,
-    "question": "भारत में निर्वाचन आयोग किस प्रकार का निकाय है? / What type of body is the Election Commission of India?",
-    "options": {
-      "A": "संवैधानिक / Constitutional",
-      "B": "वैधानिक / Statutory",
-      "C": "अर्ध-न्यायिक / Quasi-judicial",
-      "D": "न्यायिक / Judicial"
-    },
-    "answer": ["A", "C"],
-    "explanation": "निर्वाचन आयोग एक संवैधानिक और अर्ध-न्यायिक निकाय है।"
-  },
-  {
-    "id": 16,
-    "question": "भारत में कौन-सी संस्था चुनाव चिह्न आवंटित करती है? / Which institution allocates election symbols in India?",
-    "options": {
-      "A": "संसद / Parliament",
-      "B": "सुप्रीम कोर्ट / Supreme Court",
-      "C": "निर्वाचन आयोग / Election Commission",
-      "D": "राज्यसभा / Rajya Sabha"
-    },
-    "answer": ["C"],
-    "explanation": "चुनाव चिह्नों का आवंटन निर्वाचन आयोग करता है।"
-  },
-  {
-    "id": 17,
-    "question": "भारत में निर्वाचक मंडल (Electoral Roll) किसके द्वारा तैयार किया जाता है? / Who prepares the electoral roll in India?",
-    "options": {
-      "A": "राज्य सरकार / State Government",
-      "B": "निर्वाचन आयोग / Election Commission",
-      "C": "संसद / Parliament",
-      "D": "न्यायपालिका / Judiciary"
-    },
-    "answer": ["B"],
-    "explanation": "निर्वाचक मंडल निर्वाचन आयोग द्वारा तैयार और संशोधित किया जाता है।"
-  },
-  {
-    "id": 18,
-    "question": "भारतीय संविधान के किस अनुच्छेद में संसद और राज्य विधानसभाओं के चुनाव का प्रावधान है? / Which Article provides for the elections to Parliament and State Legislatures?",
-    "options": {
-      "A": "अनुच्छेद 327 / Article 327",
-      "B": "अनुच्छेद 324 / Article 324",
-      "C": "अनुच्छेद 356 / Article 356",
-      "D": "अनुच्छेद 368 / Article 368"
-    },
-    "answer": ["A"],
-    "explanation": "अनुच्छेद 327 संसद और राज्य विधानसभाओं के चुनाव संबंधी कानून बनाने का अधिकार देता है।"
-  },
-  {
-    "id": 19,
-    "question": "भारत में किस चुनाव में 'मतदाता सूची' का उपयोग नहीं होता? / In which election in India is the electoral roll not used?",
-    "options": {
-      "A": "लोकसभा / Lok Sabha",
-      "B": "राज्यसभा / Rajya Sabha",
-      "C": "विधानसभा / State Assembly",
-      "D": "पंचायत / Panchayat"
-    },
-    "answer": ["B"],
-    "explanation": "राज्यसभा चुनाव निर्वाचक मंडल द्वारा होते हैं, न कि प्रत्यक्ष मतदाताओं द्वारा।"
-  },
-  {
-    "id": 20,
-    "question": "भारत में निर्वाचन आयोग की स्थापना कब हुई थी? / When was the Election Commission of India established?",
-    "options": {
-      "A": "1947",
-      "B": "1950",
-      "C": "1952",
-      "D": "1955"
-    },
-    "answer": ["B"],
-    "explanation": "भारत निर्वाचन आयोग की स्थापना 25 जनवरी 1950 को हुई थी।"
-  },
-  {
-    "id": 21,
-    "question": "जनप्रतिनिधि अधिनियम, 1951 के अंतर्गत चुनाव याचिका (Election Petition) दाखिल करने की अधिकतम अवधि क्या है? / What is the maximum period for filing an election petition under the Representation of People Act, 1951?",
-    "options": {
-      "A": "15 दिन (15 days)",
-      "B": "30 दिन (30 days)",
-      "C": "45 दिन (45 days)",
-      "D": "60 दिन (60 days)"
-    },
-    "answer": ["B"],
-    "explanation": "Representation of People Act, 1951 के अनुसार चुनाव परिणाम घोषित होने की तिथि से 30 दिन के भीतर चुनाव याचिका दाखिल की जा सकती है।"
-  },
-  {
-    "id": 22,
-    "question": "किस अनुच्छेद के तहत जनप्रतिनिधि अधिनियम बनाया गया था? / Under which Article was the Representation of People Act enacted?",
-    "options": {
-      "A": "अनुच्छेद 324 (Article 324)",
-      "B": "अनुच्छेद 327 (Article 327)",
-      "C": "अनुच्छेद 329 (Article 329)",
-      "D": "अनुच्छेद 330 (Article 330)"
-    },
-    "answer": ["B"],
-    "explanation": "अनुच्छेद 327 संसद को अधिकार देता है कि वह चुनाव संबंधी कानून बनाए, इसी आधार पर Representation of People Act, 1950 और 1951 पारित किए गए।"
-  },
-  {
-    "id": 23,
-    "question": "Representation of People Act, 1951 में कितने भाग (Parts) हैं? / How many Parts are there in the Representation of People Act, 1951?",
-    "options": {
-      "A": "9",
-      "B": "10",
-      "C": "11",
-      "D": "12"
-    },
-    "answer": ["C"],
-    "explanation": "Representation of People Act, 1951 में कुल 11 भाग हैं जिनमें चुनाव प्रक्रिया, याचिका, भ्रष्ट आचरण आदि का प्रावधान है।"
-  },
-  {
-    "id": 24,
-    "question": "जनप्रतिनिधि अधिनियम 1951 के अंतर्गत 'भ्रष्ट आचरण' की परिभाषा किस धारा में दी गई है? / Under which section is 'Corrupt Practice' defined in Representation of People Act, 1951?",
-    "options": {
-      "A": "धारा 8",
-      "B": "धारा 123",
-      "C": "धारा 126",
-      "D": "धारा 127A"
-    },
-    "answer": ["B"],
-    "explanation": "RPA 1951 की धारा 123 में 'Corrupt Practices' जैसे रिश्वत, धर्म या जाति के आधार पर वोट माँगना आदि को परिभाषित किया गया है।"
-  },
-  {
-    "id": 25,
-    "question": "Representation of People Act, 1950 मुख्यतः किससे संबंधित है? / The Representation of People Act, 1950 mainly deals with which aspect?",
-    "options": {
-      "A": "चुनाव अपराध (Election Offences)",
-      "B": "चुनाव याचिका (Election Petitions)",
-      "C": "मतदाता सूची (Electoral Rolls)",
-      "D": "राज्यसभा चुनाव (Rajya Sabha Elections)"
-    },
-    "answer": ["C"],
-    "explanation": "Representation of People Act, 1950 मुख्यतः मतदाता सूची (Electoral Rolls) और सीटों के आबंटन से संबंधित है।"
-  },
-  {
-    "id": 26,
-    "question": "RPA 1951 की धारा 8(1) के तहत किस अपराध के लिए अयोग्यता (Disqualification) होती है? / Under Section 8(1) of RPA 1951, disqualification arises for which offence?",
-    "options": {
-      "A": "दहेज प्रथा संबंधी अपराध",
-      "B": "भ्रष्टाचार और आतंकवाद से जुड़े अपराध",
-      "C": "राजनीतिक दल बदल",
-      "D": "संसदीय विशेषाधिकार का उल्लंघन"
-    },
-    "answer": ["B"],
-    "explanation": "धारा 8(1) के अंतर्गत आतंकवाद, भ्रष्टाचार, घूसखोरी जैसे गंभीर अपराधों के दोषी पाए जाने पर जनप्रतिनिधि अयोग्य हो जाता है।"
-  },
-  {
-    "id": 27,
-    "question": "RPA 1951 की धारा 33 के अनुसार लोकसभा चुनाव के लिए किसी उम्मीदवार को कम से कम कितने प्रस्तावक (Proposers) चाहिए? / As per Section 33 of RPA 1951, how many proposers are required for a candidate in Lok Sabha election?",
-    "options": {
-      "A": "1",
-      "B": "5",
-      "C": "10",
-      "D": "20"
-    },
-    "answer": ["C"],
-    "explanation": "RPA 1951 की धारा 33 के अनुसार, मान्यता प्राप्त दल के अलावा किसी भी उम्मीदवार को नामांकन दाखिल करने के लिए 10 प्रस्तावकों की आवश्यकता होती है।"
-  },
-  {
-    "id": 28,
-    "question": "RPA 1951 की धारा 33A किस विषय से संबंधित है? / Section 33A of RPA 1951 deals with which subject?",
-    "options": {
-      "A": "उम्मीदवार की शैक्षणिक योग्यता",
-      "B": "आपराधिक मामलों का खुलासा",
-      "C": "राजनीतिक दल का पंजीकरण",
-      "D": "मतदाता सूची में नाम जोड़ना"
-    },
-    "answer": ["B"],
-    "explanation": "धारा 33A के अनुसार प्रत्येक उम्मीदवार को अपने लंबित आपराधिक मामलों का खुलासा करना अनिवार्य है।"
-  },
-  {
-    "id": 29,
-    "question": "RPA 1951 की धारा 62 किस विषय से संबंधित है? / Section 62 of RPA 1951 deals with which aspect?",
-    "options": {
-      "A": "मतदान का अधिकार (Right to Vote)",
-      "B": "चुनाव खर्च",
-      "C": "दल बदल विरोधी प्रावधान",
-      "D": "विशेष निर्वाचन क्षेत्र"
-    },
-    "answer": ["A"],
-    "explanation": "धारा 62 में मतदान का अधिकार और किन परिस्थितियों में यह अधिकार सीमित हो सकता है, इसका उल्लेख है।"
-  },
-  {
-    "id": 30,
-    "question": "Representation of People Act, 1951 की धारा 126 में क्या प्रावधान है? / What is provided under Section 126 of RPA 1951?",
-    "options": {
-      "A": "भ्रष्ट आचरण की परिभाषा",
-      "B": "मतदान के दिन प्रचार पर रोक",
-      "C": "राजनीतिक दल का पंजीकरण",
-      "D": "उम्मीदवार की योग्यता"
-    },
-    "answer": ["B"],
-    "explanation": "धारा 126 के अनुसार मतदान से 48 घंटे पहले चुनाव प्रचार पर रोक लगाई जाती है, ताकि मतदाताओं पर अनुचित प्रभाव न पड़े।"
-  },
-  {
-    "id": 31,
-    "question": "किस धारा में चुनाव खर्च (Election Expenses) की सीमा का प्रावधान है? / Under which Section is provision of election expenditure limit?",
-    "options": {
-      "A": "धारा 77",
-      "B": "धारा 81",
-      "C": "धारा 86",
-      "D": "धारा 100"
-    },
-    "answer": ["A"],
-    "explanation": "Representation of People Act, 1951 की धारा 77 चुनाव खर्च की सीमा निर्धारित करती है।"
-  },
-  {
-    "id": 32,
-    "question": "RPA 1951 की धारा 8A किस विषय से संबंधित है? / Section 8A of RPA 1951 relates to which subject?",
-    "options": {
-      "A": "मतदान का अधिकार",
-      "B": "भ्रष्ट आचरण के कारण अयोग्यता",
-      "C": "मतदाता सूची संशोधन",
-      "D": "नामांकन पत्र की जाँच"
-    },
-    "answer": ["B"],
-    "explanation": "धारा 8A भ्रष्ट आचरण में दोषी पाए जाने पर जनप्रतिनिधि की अयोग्यता का प्रावधान करती है।"
-  },
-  {
-    "id": 33,
-    "question": "Representation of People Act, 1951 की धारा 29A किस विषय से संबंधित है? / Section 29A of RPA 1951 is related to which provision?",
-    "options": {
-      "A": "राजनीतिक दल का पंजीकरण",
-      "B": "चुनाव खर्च",
-      "C": "उम्मीदवार की अयोग्यता",
-      "D": "मतदाता सूची"
-    },
-    "answer": ["A"],
-    "explanation": "धारा 29A राजनीतिक दलों के पंजीकरण से संबंधित है।"
-  },
-  {
-    "id": 34,
-    "question": "RPA 1951 की धारा 151A में क्या प्रावधान है? / What is provided under Section 151A of RPA 1951?",
-    "options": {
-      "A": "उपचुनाव की समय-सीमा",
-      "B": "राजनीतिक दल का पंजीकरण",
-      "C": "अयोग्यता का निर्धारण",
-      "D": "चुनाव खर्च सीमा"
-    },
-    "answer": ["A"],
-    "explanation": "धारा 151A में प्रावधान है कि उपचुनाव रिक्ति होने के 6 महीने के भीतर कराना अनिवार्य है।"
-  },
-  {
-    "id": 35,
-    "question": "RPA 1951 की धारा 127A किससे संबंधित है? / Section 127A of RPA 1951 deals with what?",
-    "options": {
-      "A": "चुनाव प्रचार में छपे हुए पोस्टर/पम्पलेट पर प्रकाशक का नाम",
-      "B": "दल बदल विरोधी कानून",
-      "C": "भ्रष्ट आचरण की परिभाषा",
-      "D": "अपराधी उम्मीदवारों की अयोग्यता"
-    },
-    "answer": ["A"],
-    "explanation": "धारा 127A में छपे हुए चुनाव प्रचार सामग्री पर प्रकाशक और मुद्रक का नाम अनिवार्य रूप से लिखने का प्रावधान है।"
-  },
-  {
-    "id": 36,
-    "question": "किस धारा के अंतर्गत चुनाव याचिका दायर की जाती है? / Under which Section is an election petition filed?",
-    "options": {
-      "A": "धारा 77",
-      "B": "धारा 80",
-      "C": "धारा 100",
-      "D": "धारा 123"
-    },
-    "answer": ["B"],
-    "explanation": "धारा 80 में चुनाव याचिका दाखिल करने का प्रावधान है।"
-  },
-  {
-    "id": 37,
-    "question": "RPA 1951 के अनुसार लोकसभा चुनाव की याचिका किसके पास दायर की जाती है? / Under RPA 1951, election petitions for Lok Sabha are filed before whom?",
-    "options": {
-      "A": "भारत के राष्ट्रपति",
-      "B": "भारत के मुख्य न्यायाधीश",
-      "C": "हाईकोर्ट",
-      "D": "चुनाव आयोग"
-    },
-    "answer": ["C"],
-    "explanation": "लोकसभा या विधानसभा चुनाव की याचिका संबंधित राज्य की उच्च न्यायालय (High Court) में दायर की जाती है।"
-  },
-  {
-    "id": 38,
-    "question": "RPA 1951 की धारा 9 किस विषय से संबंधित है? / Section 9 of RPA 1951 relates to what?",
-    "options": {
-      "A": "मतदान का अधिकार",
-      "B": "सरकारी अनुबंध और भ्रष्टाचार के कारण अयोग्यता",
-      "C": "दल बदल विरोधी प्रावधान",
-      "D": "नामांकन पत्र की जाँच"
-    },
-    "answer": ["B"],
-    "explanation": "धारा 9 के तहत सरकारी अनुबंध में लाभ लेने या भ्रष्टाचार के कारण उम्मीदवार की अयोग्यता निर्धारित की जाती है।"
-  },
-  {
-    "id": 39,
-    "question": "किस धारा के अंतर्गत निर्वाचन न्यायाधिकरण (Election Tribunal) का प्रावधान था जिसे बाद में हटा दिया गया? / Under which section was the Election Tribunal provision later abolished?",
-    "options": {
-      "A": "धारा 80",
-      "B": "धारा 86",
-      "C": "धारा 178",
-      "D": "धारा 182"
-    },
-    "answer": ["C"],
-    "explanation": "RPA 1951 की धारा 178 में निर्वाचन न्यायाधिकरण का प्रावधान था, जिसे बाद में हटा दिया गया और यह शक्ति हाईकोर्ट को दी गई।"
-  },
-  {
-    "id": 40,
-    "question": "Representation of People Act, 1951 की धारा 100 किस विषय से संबंधित है? / Section 100 of RPA 1951 relates to what?",
-    "options": {
-      "A": "भ्रष्ट आचरण",
-      "B": "चुनाव को अवैध घोषित करना",
-      "C": "दल बदल विरोधी प्रावधान",
-      "D": "मतदाता सूची में सुधार"
-    },
-    "answer": ["B"],
-    "explanation": "धारा 100 के अनुसार यदि चुनाव प्रक्रिया में गंभीर अनियमितता या भ्रष्ट आचरण साबित हो जाए तो चुनाव को अवैध घोषित किया जा सकता है।"
-  },
-  {
-    "id": 41,
-    "question": "मतदाता सूची (Electoral Roll) के निर्माण की जिम्मेदारी किसकी होती है? / Who is responsible for preparation of electoral rolls?",
-    "options": {
-      "A": "भारत निर्वाचन आयोग (Election Commission of India)",
-      "B": "संसद (Parliament)",
-      "C": "राज्य सरकारें (State Governments)",
-      "D": "राष्ट्रपति (President)"
-    },
-    "answer": ["A"],
-    "explanation": "मतदाता सूची का निर्माण भारत निर्वाचन आयोग की देखरेख में होता है। राज्य स्तर पर मुख्य निर्वाचन अधिकारी (CEO) इसे संचालित करते हैं।"
-  },
-  {
-    "id": 42,
-    "question": "लोकसभा चुनाव में मतदाता की न्यूनतम आयु कितनी होती है? / What is the minimum age of a voter in Lok Sabha election?",
-    "options": {
-      "A": "16 वर्ष",
-      "B": "18 वर्ष",
-      "C": "21 वर्ष",
-      "D": "25 वर्ष"
-    },
-    "answer": ["B"],
-    "explanation": "61वें संविधान संशोधन, 1988 द्वारा मतदान की आयु 21 से घटाकर 18 वर्ष कर दी गई।"
-  },
-  {
-    "id": 43,
-    "question": "उम्मीदवार को लोकसभा चुनाव में नामांकन दाखिल करने के लिए कितने प्रस्तावक आवश्यक होते हैं? / How many proposers are required for filing nomination in Lok Sabha election?",
-    "options": {
-      "A": "1",
-      "B": "5",
-      "C": "10",
-      "D": "20"
-    },
-    "answer": ["C"],
-    "explanation": "मान्यता प्राप्त दल के उम्मीदवार को 1 प्रस्तावक और स्वतंत्र उम्मीदवार को कम से कम 10 प्रस्तावक की आवश्यकता होती है।"
-  },
-  {
-    "id": 44,
-    "question": "नामांकन पत्रों की जाँच (Scrutiny) कौन करता है? / Who conducts scrutiny of nomination papers?",
-    "options": {
-      "A": "मुख्य निर्वाचन आयुक्त",
-      "B": "रिटर्निंग ऑफिसर",
-      "C": "राज्यपाल",
-      "D": "संसद सचिवालय"
-    },
-    "answer": ["B"],
-    "explanation": "नामांकन पत्रों की वैधता की जाँच रिटर्निंग ऑफिसर करता है।"
-  },
-  {
-    "id": 45,
-    "question": "लोकसभा चुनाव में मतदान किस प्रणाली से होता है? / By which system voting takes place in Lok Sabha elections?",
-    "options": {
-      "A": "Proportional Representation",
-      "B": "First Past the Post",
-      "C": "Cumulative Vote",
-      "D": "Single Transferable Vote"
-    },
-    "answer": ["B"],
-    "explanation": "लोकसभा चुनाव प्रत्यक्ष चुनाव होता है और इसमें 'फर्स्ट पास्ट द पोस्ट' प्रणाली लागू होती है।"
-  },
-  {
-    "id": 46,
-    "question": "लोकसभा चुनाव में मतगणना की देखरेख कौन करता है? / Who supervises counting of votes in Lok Sabha election?",
-    "options": {
-      "A": "राष्ट्रपति",
-      "B": "रिटर्निंग ऑफिसर",
-      "C": "सुप्रीम कोर्ट",
-      "D": "राज्यपाल"
-    },
-    "answer": ["B"],
-    "explanation": "मतगणना रिटर्निंग ऑफिसर की देखरेख में की जाती है और परिणाम घोषित किया जाता है।"
-  },
-  {
-    "id": 47,
-    "question": "लोकसभा चुनाव में चुनाव चिन्ह आवंटन का कार्य कौन करता है? / Who allots election symbols?",
-    "options": {
-      "A": "संसद",
-      "B": "भारत निर्वाचन आयोग",
-      "C": "राष्ट्रपति",
-      "D": "सुप्रीम कोर्ट"
-    },
-    "answer": ["B"],
-    "explanation": "चुनाव चिन्हों का आवंटन भारत निर्वाचन आयोग द्वारा किया जाता है।"
-  },
-  {
-    "id": 48,
-    "question": "लोकसभा चुनाव में प्रयोग होने वाली मशीन का नाम क्या है? / What is the name of machine used in Lok Sabha elections?",
-    "options": {
-      "A": "EVM (Electronic Voting Machine)",
-      "B": "Ballot Box",
-      "C": "Optical Scan Machine",
-      "D": "Smart Tab"
-    },
-    "answer": ["A"],
-    "explanation": "भारत में 2004 से सभी लोकसभा चुनावों में EVM का प्रयोग किया जा रहा है। अब इसके साथ VVPAT भी जोड़ा गया है।"
-  },
-  {
-    "id": 49,
-    "question": "लोकसभा चुनाव में चुनाव विवाद कहाँ दाखिल किए जा सकते हैं? / Where can election disputes be filed?",
-    "options": {
-      "A": "संसद",
-      "B": "सुप्रीम कोर्ट",
-      "C": "हाई कोर्ट",
-      "D": "भारत निर्वाचन आयोग"
-    },
-    "answer": ["C"],
-    "explanation": "लोकसभा चुनाव से जुड़े विवाद हाई कोर्ट में चुनाव याचिका द्वारा दाखिल किए जाते हैं।"
-  },
-  {
-    "id": 50,
-    "question": "लोकसभा चुनाव में लगे कार्मिकों की नियुक्ति कौन करता है? / Who appoints officials for Lok Sabha elections?",
-    "options": {
-      "A": "भारत निर्वाचन आयोग",
-      "B": "राज्यपाल",
-      "C": "प्रधानमंत्री कार्यालय",
-      "D": "संसद सचिवालय"
-    },
-    "answer": ["A"],
-    "explanation": "चुनाव में लगे कार्मिकों (जैसे पोलिंग ऑफिसर, RO, DEO) की नियुक्ति भारत निर्वाचन आयोग करता है।"
-  },
-  {
-    "id": 51,
-    "question": "लोकसभा चुनाव में गुप्त मतदान की अवधारणा किससे संबंधित है? / Secret ballot in Lok Sabha elections is related to?",
-    "options": {
-      "A": "चुनाव चिन्ह",
-      "B": "मतदाता की गोपनीयता",
-      "C": "नामांकन प्रक्रिया",
-      "D": "संविधान की प्रस्तावना"
-    },
-    "answer": ["B"],
-    "explanation": "गुप्त मतदान का उद्देश्य मतदाता की पसंद को गोपनीय रखना है।"
-  },
-  {
-    "id": 52,
-    "question": "लोकसभा चुनाव परिणाम की घोषणा कौन करता है? / Who declares the result of Lok Sabha elections?",
-    "options": {
-      "A": "राष्ट्रपति",
-      "B": "रिटर्निंग ऑफिसर",
-      "C": "मुख्य निर्वाचन आयुक्त",
-      "D": "प्रधानमंत्री"
-    },
-    "answer": ["B"],
-    "explanation": "रिटर्निंग ऑफिसर मतगणना पूर्ण होने के बाद परिणाम घोषित करता है।"
-  },
-  {
-    "id": 53,
-    "question": "लोकसभा चुनाव में खर्च सीमा किसके द्वारा तय की जाती है? / Who decides expenditure limit in Lok Sabha elections?",
-    "options": {
-      "A": "संसद",
-      "B": "भारत निर्वाचन आयोग",
-      "C": "सुप्रीम कोर्ट",
-      "D": "वित्त मंत्रालय"
-    },
-    "answer": ["B"],
-    "explanation": "निर्वाचन आयोग उम्मीदवारों के लिए चुनाव खर्च सीमा तय करता है।"
-  },
-  {
-    "id": 54,
-    "question": "लोकसभा चुनाव में कौन सा वोटिंग सिस्टम अपनाया जाता है? / Which voting system is used in Lok Sabha elections?",
-    "options": {
-      "A": "Universal Adult Franchise",
-      "B": "Limited Franchise",
-      "C": "Caste Based Franchise",
-      "D": "Wealth Based Franchise"
-    },
-    "answer": ["A"],
-    "explanation": "लोकसभा चुनाव सार्वभौमिक वयस्क मताधिकार के आधार पर होता है।"
-  },
-  {
-    "id": 55,
-    "question": "लोकसभा चुनावों की अधिसूचना कौन जारी करता है? / Who issues notification for Lok Sabha elections?",
-    "options": {
-      "A": "भारत निर्वाचन आयोग",
-      "B": "राष्ट्रपति",
-      "C": "प्रधानमंत्री",
-      "D": "संसद"
-    },
-    "answer": ["B"],
-    "explanation": "लोकसभा चुनाव की अधिसूचना राष्ट्रपति द्वारा जारी की जाती है, जबकि प्रक्रिया निर्वाचन आयोग संचालित करता है।"
-  },
-  {
-    "id": 56,
-    "question": "लोकसभा चुनाव में प्रत्याशी की न्यूनतम आयु कितनी होती है? / What is the minimum age of a candidate for Lok Sabha elections?",
-    "options": {
-      "A": "18 वर्ष",
-      "B": "21 वर्ष",
-      "C": "25 वर्ष",
-      "D": "30 वर्ष"
-    },
-    "answer": ["C"],
-    "explanation": "लोकसभा का सदस्य बनने के लिए उम्मीदवार की आयु कम से कम 25 वर्ष होनी चाहिए।"
-  },
-  {
-    "id": 57,
-    "question": "लोकसभा चुनाव के दौरान VVPAT मशीन का उद्देश्य क्या है? / What is the purpose of VVPAT in elections?",
-    "options": {
-      "A": "चुनाव चिन्ह दिखाना",
-      "B": "मतदाता की पसंद का भौतिक सत्यापन",
-      "C": "गिनती को तेज करना",
-      "D": "मतदाता सूची बनाना"
-    },
-    "answer": ["B"],
-    "explanation": "VVPAT (Voter Verifiable Paper Audit Trail) मतदाता को उसका वोट सही रिकॉर्ड हुआ या नहीं, यह सत्यापित करने की सुविधा देता है।"
-  },
-  {
-    "id": 58,
-    "question": "लोकसभा चुनाव में किस आधार पर उम्मीदवार विजयी घोषित होता है? / On what basis candidate is declared winner in Lok Sabha elections?",
-    "options": {
-      "A": "बहुमत मत (Majority votes)",
-      "B": "अनुपातिक प्रतिनिधित्व",
-      "C": "राजनीतिक दल की सिफारिश",
-      "D": "राष्ट्रपति की अनुमति"
-    },
-    "answer": ["A"],
-    "explanation": "लोकसभा चुनाव में जिस उम्मीदवार को सर्वाधिक मत प्राप्त होते हैं, वही विजयी घोषित किया जाता है।"
-  },
-  {
-    "id": 59,
-    "question": "लोकसभा चुनाव से जुड़े विवादों का निपटारा किस स्तर पर होता है? / At which level disputes of Lok Sabha elections are resolved?",
-    "options": {
-      "A": "संसद",
-      "B": "राज्यपाल",
-      "C": "उच्च न्यायालय",
-      "D": "प्रधानमंत्री कार्यालय"
-    },
-    "answer": ["C"],
-    "explanation": "लोकसभा चुनाव विवादों का निपटारा चुनाव याचिका द्वारा उच्च न्यायालय करता है।"
-  },
-  {
-    "id": 60,
-    "question": "भारत में निर्वाचन आयोग का गठन किस अनुच्छेद के तहत हुआ है? / Under which Article is the Election Commission of India constituted?",
-    "options": {
-      "A": "अनुच्छेद 280",
-      "B": "अनुच्छेद 324",
-      "C": "अनुच्छेद 148",
-      "D": "अनुच्छेद 312"
-    },
-    "answer": ["B"],
-    "explanation": "भारत का निर्वाचन आयोग अनुच्छेद 324 के तहत गठित किया गया है, जो चुनावों के संचालन के लिए जिम्मेदार है।"
-  },
-  {
-    "id": 61,
-    "question": "विशेष गहन संशोधन (SIR) के दौरान बिहार की मतदाता सूची में हटाए गए नामों की सूची कौन जारी करने के लिए सुप्रीम कोर्ट ने ECI को निर्देशित किया?",
-    "options": {
-      "A": "मृतक वोटरों की सूची / List of deceased voters",
-      "B": "हटाए गए नामों की सूची और कारण / List of deleted names and reasons",
-      "C": "माइग्रेंट वोटरों की सूची / List of migrant voters",
-      "D": "डुप्लिकेट वोटरों की सूची / List of duplicate voters"
-    },
-    "answer": ["B"],
-    "explanation": "सुप्रीम कोर्ट ने बिहार SIR मामले में हटाए गए लाखों वोटरों की सूची और हटाने का कारण प्रकाशित करने का निर्देश दिया।" ,
-    "cite": "turn0search41"
-  },
-  {
-    "id": 62,
-    "question": "राज्य निर्वाचन आयोग ने ऑनलाइन दावा दाखिल करने की सुविधा कब शुरू की, जो पहले शारीरिक जमा तक सीमित थी?",
-    "options": {
-      "A": "मतदाता नामांकन के बाद",
-      "B": "मुकदमे के बाद",
-      "C": "लास्ट ऑब्जेक्शन के लिए अतिरिक्त समय न देते हुए",
-      "D": "पहले आवेदन आवश्यक होते थे"
-    },
-    "answer": ["C"],
-    "explanation": "सुप्रीम कोर्ट ने तय किया कि ड्राफ्ट रोल में नाम न होने पर ऑनलाइन दावा दाखिल किया जा सकता है, और अतिरिक्त समय नहीं दिया जाएगा।" ,
-    "cite": "turn0news19"
-  },
-  {
-    "id": 63,
-    "question": "ECI पर किस देश से संबंधित दो महिलाओं के नाम मतदाता सूची में होने की प्रतिक्रिया में गृह मंत्रालय और ECI ने क्या कार्रवाई की?",
-    "options": {
-      "A": "नाम की पुष्टि की / Verified the names",
-      "B": "सूची से हटाया और जांच शुरू की / Removed and launched investigation",
-      "C": "कोई कार्रवाई नहीं / No action",
-      "D": "वोटर को आमंत्रित किया / Invited the voter"
-    },
-    "answer": ["B"],
-    "explanation": "भागलपुर में दो पाकिस्तानी महिलाओं के नाम वाले मामले में आयोग और गृह मंत्रालय ने नाम हटाकर जांच शुरू की।" ,
-    "cite": "turn0news21"
-  },
-  {
-    "id": 64,
-    "question": "तेजाबध विरोध के दौरान हरियाणा के ‘मतदाता पहचान पत्र’ में क्या विवाद था?",
-    "options": {
-      "A": "IMPACT OF AADHAAR NOT INCLUDED",
-      "B": "DIGITAL RECEIPTS AFFIDAVIT DEMAND",
-      "C": "EXCLUSION OF POOR VOTERS",
-      "D": "DATA LEAKAGE"
-    },
-    "answer": ["B"],
-    "explanation": "अखिलेश यादव ने डिजिटल प्राप्तियों की मान्यता के लिए ECI से शपथपत्र (affidavit) मांगा।" ,
-    "cite": "turn0news27"
-  },
-  {
-    "id": 65,
-    "question": "Amartya Sen ने SIR पर क्या चिंताएं जताईं?",
-    "options": {
-      "A": "जीवित वोटरों की मान्यता खोना / Loss of live voter recognition",
-      "B": "गरीबों का वंचित होना / Disenfranchising the poor",
-      "C": "डुप्लिकेट नाम / Duplicate entries",
-      "D": "डाटा चोरी / Data theft"
-    },
-    "answer": ["B"],
-    "explanation": "अमर्त्य सेन ने चेतावनी दी कि संवेदनशील तरीके से न किया गया SIR गरीबों के मताधिकार को छीन सकता है।" ,
-    "cite": "turn0news18"
-  },
-  {
-    "id": 66,
-    "question": "Biju Janata Dal (BJD) ने ओडिशा में SIR के लिए क्या शर्त रखी?",
-    "options": {
-      "A": "इसे पूरी तरह रद्द कर दिया जाए",
-      "B": "यह पारदर्शी और निष्पक्ष होना चाहिए",
-      "C": "यह सिर्फ डिजिटल हो",
-      "D": "यह CAA लागू करे"
-    },
-    "answer": ["B"],
-    "explanation": "BJD ने SIR को स्वीकार किया, लेकिन यह सुनिश्चित करने की शर्त रखी कि यह पारदर्शी और निष्पक्ष हो।" ,
-    "cite": "turn0news23"
-  },
-  {
-    "id": 67,
-    "question": "SIR विवाद पर ECI ने क्या चेतावनी दी?",
-    "options": {
-      "A": "प्रचार संपन्न होने तक रोक",
-      "B": "गलत सूचना फैलाने वालों के खिलाफ कानूनी कार्रवाई",
-      "C": "दल बदल से रोक",
-      "D": "अदालत में शिकायत न करें"
-    },
-    "answer": ["B"],
-    "explanation": "मुख्य चुनाव आयुक्त ने कुछ नेताओं और दलों को गलत जानकारी फैलाने वालों के खिलाफ कानूनी कदम उठाने की चेतावनी दी।" ,
-    "cite": "turn0news24"
-  },
-  {
-    "id": 68,
-    "question": "Tripura के पूर्व CM ने SIR को लेकर ECI पर क्या आरोप लगाए?",
-    "options": {
-      "A": "ECI ने वोटरों को दो बार पंजीकृत किया",
-      "B": "ECI BJP का उपकरण बन गया है",
-      "C": "ECI ने सूची को पारदर्शी बना दिया",
-      "D": "ECI ने सभी मतदाताओं को सूचीबद्ध किया"
-    },
-    "answer": ["B"],
-    "explanation": "मणिक सरकार ने ECI को BJP का उपकरण बताकर मतदाता सूची संशोधन को असंतुलित करार दिया।" ,
-    "cite": "turn0news39"
-  },
-  {
-    "id": 69,
-    "question": "Rahul Gandhi ने आयोजन के दौरान SIR को किस रूप में संदर्भित किया?",
-    "options": {
-      "A": "जनतंत्र बचाव",
-      "B": "vote chori (vote theft)",
-      "C": "लोकतांत्रिक कदम",
-      "D": "सामाजिक सुधार"
-    },
-    "answer": ["B"],
-    "explanation": "उन्होंने SIR को 'vote chori' कहकर इसे लोकतांत्रिक अधिकारों का हनन बताया।" ,
-    "cite": "turn0news17"
-  },
-  {
-    "id": 70,
-    "question": "ECI पर transparency को लेकर Tamil Nadu CM MK Stalin ने क्या टिप्पणी की?",
-    "options": {
-      "A": "पूरी तरह संतुष्ट हैं",
-      "B": "प्रेस मीट में 'ज्यादा सवाल, कम जवाब' था",
-      "C": "सभी विसंगतियाँ दूर कर दी गई हैं",
-      "D": "प्रतिरोध करने की आवश्यकता नहीं"
-    },
-    "answer": ["B"],
-    "explanation": "एमके स्टालिन ने CEC प्रेस मीट को 'ज्यादा सवाल, कम जवाब' वाला बताया, जिससे पारदर्शिता पर सवाल उठे।" ,
-    "cite": "turn0news25"
-  }
+{
+"id": 1,
+"question": "‘इन्फ्रास्ट्रक्चर’ में किन-किन कोर घटकों को शामिल माना जाता है? / Which core components are typically included in ‘infrastructure’?",
+"options": {
+"A": "भौतिक (सड़क, रेल, ऊर्जा) / Physical (roads, rail, power)",
+"B": "डिजिटल (फाइबर, डेटा सेंटर) / Digital (fiber, data centers)",
+"C": "सामाजिक (हेल्थ, शिक्षा) / Social (health, education)",
+"D": "सिर्फ रक्षा उत्पादन / Only defence manufacturing"
+},
+"answer": ["A", "B", "C"],
+"explanation": "भारतीय नीतिगत परिभाषाएँ इन्फ्रास्ट्रक्चर को भौतिक, डिजिटल और सामाजिक परिसंपत्तियों का समुच्चय मानती हैं; केवल ‘रक्षा उत्पादन’ एक उप-औद्योगिक क्षेत्र है, सम्पूर्ण इन्फ्रास्ट्रक्चर नहीं।"
+},
+{
+"id": 2,
+"question": "National Infrastructure Pipeline (NIP) के बारे में सही कथन चुनिए। / Choose the correct statements about the National Infrastructure Pipeline (NIP).",
+"options": {
+"A": "NIP के निवेश का बड़ा हिस्सा ऊर्जा, सड़क, शहरी और रेलवे में जाता है।",
+"B": "NIP का मूल अवधि FY20–25 रही है और इसे 2019–20 में सार्वजनिक किया गया।",
+"C": "NIP में केंद्र व राज्य की हिस्सेदारी लगभग समान और निजी क्षेत्र ~21% माना गया।",
+"D": "NIP केवल ₹10 लाख करोड़ का कार्यक्रम है।"
+},
+"answer": ["A", "B", "C"],
+"explanation": "NIP अंतिम रिपोर्ट (2019–25) के अनुसार ~70% पूंजी ऊर्जा, सड़क, शहरी व रेलवे में केंद्रित है; इसे 2019 के अंत/2020 में सार्वजनिक किया गया; वित्त-पोषण में केंद्र ~39%, राज्य ~40%, निजी ~21% का अनुमान था; ₹10 लाख करोड़ नहीं, इससे कहीं बड़ा है।"
+},
+{
+"id": 3,
+"question": "PM Gati Shakti – National Master Plan किस उद्देश्य से बना है? / PM Gati Shakti – NMP primarily aims to:",
+"options": {
+"A": "मल्टी-मोडल कनेक्टिविटी और परियोजना समन्वय को तेज करना",
+"B": "ULIP जैसी डिजिटल प्लेटफॉर्म से डेटा-शेयरिंग",
+"C": "केवल शहरी आवास निर्माण",
+"D": "लॉजिस्टिक्स लागत घटाने हेतु समेकित योजना करना"
+},
+"answer": ["A", "B", "D"],
+"explanation": "Gati Shakti का फोकस मल्टी-मोडल प्लानिंग, इंटर-मिनिस्ट्री समन्वय, ULIP जैसे प्लेटफॉर्म और लॉजिस्टिक्स दक्षता पर है; यह केवल आवास निर्माण योजना नहीं है।"
+},
+{
+"id": 4,
+"question": "Bharatmala Pariyojana Phase-I के घटक क्या-क्या हैं? / Which are components under Bharatmala Phase-I?",
+"options": {
+"A": "इकोनॉमिक कॉरिडोर, इंटर-कॉरिडोर व फीडर रूट्स",
+"B": "बॉर्डर/पोर्ट कनेक्टिविटी और एक्सप्रेसवे",
+"C": "केवल ग्राम सड़कें",
+"D": "रिंग रोड/बाईपास जैसी भीड़-निवारण परियोजनाएँ"
+},
+"answer": ["A", "B", "D"],
+"explanation": "भरतमाला का उद्देश्य आर्थिक कॉरिडोर आधारित NH नेटवर्क, इंटर/फीडर कनेक्टिविटी, बॉर्डर/पोर्ट लिंक, एक्सप्रेसवे व डी-कंजेशन प्रोजेक्ट्स है; यह केवल PMGSY जैसी ग्राम सड़कों तक सीमित नहीं।"
+},
+{
+"id": 5,
+"question": "Sagarmala Programme का मूल फोकस क्या है? / What is the core focus of the Sagarmala Programme?",
+"options": {
+"A": "पोर्ट-लीडेड विकास और तटीय शिपिंग को बढ़ावा",
+"B": "इनलैंड वाटर ट्रांसपोर्ट और लॉजिस्टिक्स दक्षता",
+"C": "केवल पर्वतीय सड़कों का निर्माण",
+"D": "पोर्ट-कनेक्टिविटी और इंडस्ट्रियल क्लस्टर"
+},
+"answer": ["A", "B", "D"],
+"explanation": "सागरमाला का फोकस पोर्ट-लीडेड इंडस्ट्रियलाइजेशन, तटीय/इनलैंड जल परिवहन, पोर्ट कनेक्टिविटी और लॉजिस्टिक्स दक्षता पर है; यह केवल पहाड़ी सड़क निर्माण योजना नहीं।"
+},
+{
+"id": 6,
+"question": "UDAN (RCS) के बारे में सही कथन कौन-से हैं? / Which statements about UDAN (RCS) are correct?",
+"options": {
+"A": "Viability Gap Funding द्वारा अनसर्व्ड/अंडर-सर्व्ड एअर रूट्स को जोड़ना",
+"B": "टिकीट किराया कैपिंग और रूट सब्सिडी मिकैनिज्म",
+"C": "केवल मालवाहक (कार्गो) हेतु",
+"D": "क्षेत्रीय कनेक्टिविटी बढ़ाना"
+},
+"answer": ["A", "B", "D"],
+"explanation": "UDAN का उद्देश्य क्षेत्रीय कनेक्टिविटी बढ़ाना है जिसमें VGF, किराया कैप आदि प्रावधान हैं; यह केवल कार्गो हेतु नहीं है।"
+},
+{
+"id": 7,
+"question": "National Logistics Policy (2022) के ‘लक्ष्य’ क्या हैं? / NLP (2022) targets include:",
+"options": {
+"A": "लॉजिस्टिक्स लागत को GDP के 8–9% तक लाना",
+"B": "ULIP/E-Logs जैसे डिजिटल सिस्टम",
+"C": "सिर्फ रेलवे यात्री सुविधाएँ",
+"D": "लॉजिस्टिक्स दक्षता और Ease of Doing Business सुधार"
+},
+"answer": ["A", "B", "D"],
+"explanation": "NLP का उद्देश्य लॉजिस्टिक्स लागत घटाना, डिजिटल प्लेटफॉर्म से पारदर्शिता/इंटरऑपरेबिलिटी और समग्र दक्षता में सुधार है; रेलवे पैसेंजर सुविधाएँ इसका मुख्य लक्ष्य नहीं।"
+},
+{
+"id": 8,
+"question": "Dedicated Freight Corridors (DFC) के सही युग्म चुनिए। / Choose the correct DFC route pairs.",
+"options": {
+"A": "Eastern DFC: लुधियाना–सोननगर/डांकुनी अक्ष",
+"B": "Western DFC: दादरी–JNPT (नवी मुंबई)",
+"C": "Eastern DFC: कांडला–मंगलूरु",
+"D": "Western DFC: कोलकाता–हल्दिया"
+},
+"answer": ["A", "B"],
+"explanation": "EDFC उत्तर-पश्चिम से पूर्व (पंजाब–बिहार/बंगाल अक्ष) और WDFC दादरी (NCR) से JNPT (महाराष्ट्र) तक है; अन्य युग्म गलत हैं।"
+},
+{
+"id": 9,
+"question": "Indian Railways BG Electrification के लाभ कौन-से हैं? / Benefits of broad-gauge electrification include:",
+"options": {
+"A": "डीज़ल पर निर्भरता व उत्सर्जन में कमी",
+"B": "हॉलिंग क्षमता और त्वरण में सुधार",
+"C": "रेजेनेरेटिव ब्रेकिंग की सम्भावना",
+"D": "विद्युत-रोधी ट्रेनें (electric-proof trains) चलाना"
+},
+"answer": ["A", "B", "C"],
+"explanation": "विद्युतीकरण से ऊर्जा दक्षता, कम उत्सर्जन, उच्च खिंचाव क्षमता व रेजेनेरेटिव ब्रेकिंग जैसे लाभ मिलते हैं; ‘इलेक्ट्रिक-प्रूफ’ कोई नीति शब्द नहीं।"
+},
+{
+"id": 10,
+"question": "RRTS (Delhi–Meerut RAPIDX) और Metro में प्रमुख अंतर कौन-से हैं? / Key differences between RRTS and Metro include:",
+"options": {
+"A": "RRTS क्षेत्रीय/इंटर-सिटी तेज़ ट्रांजिट; मेट्रो शहरी इंट्रा-सिटी",
+"B": "RRTS डिज़ाइन स्पीड अधिक; स्टेशन स्पेसिंग बड़ा",
+"C": "मेट्रो का उद्देश्य लंबी दूरी हाई-स्पीड इंटरसिटी",
+"D": "दोनों के रोलिंग-स्टॉक और सिग्नलिंग डिज़ाइन अलग"
+},
+"answer": ["A", "B", "D"],
+"explanation": "RRTS क्षेत्रीय कनेक्टिविटी के लिए अधिक स्पीड और बड़े स्टेशनों के साथ; मेट्रो शहरी इंट्रा-सिटी. रोलिंग स्टॉक/सिग्नलिंग प्रोफाइल भी अलग हैं।"
+},
+{
+"id": 11,
+"question": "Jal Jeevan Mission (Rural) के लक्ष्य/विशेषताएँ क्या हैं? / JJMR targets/features include:",
+"options": {
+"A": "हर ग्रामीण घर तक नल से जल (FHTC) का प्रावधान",
+"B": "55 LPCD तथा ‘service delivery’ आधारित मानक",
+"C": "केवल शहरी क्षेत्रों में लागू",
+"D": "समुदाय भागीदारी व ग्राम जल व गुणवत्ता मॉनिटरिंग"
+},
+"answer": ["A", "B", "D"],
+"explanation": "JJM ग्रामीण घरों में FHTC, 55 LPCD और समुदाय-आधारित निगरानी पर केंद्रित है; यह केवल शहरी कार्यक्रम नहीं।"
+},
+{
+"id": 12,
+"question": "AMRUT 2.0 का फोकस क्या है? / What does AMRUT 2.0 focus on?",
+"options": {
+"A": "100% जल कवरेज व जल-सरंक्षण",
+"B": "सीवरेज/सेप्टेज प्रबंधन",
+"C": "केवल ग्रामीण आवास",
+"D": "GIS/IoT आधारित जल-सुधार तकनीक"
+},
+"answer": ["A", "B", "D"],
+"explanation": "AMRUT 2.0 का फोकस शहरी जल आपूर्ति की सार्वभौमिकता, सीवरेज/सेप्टेज और तकनीकी समाधानों पर है; यह ग्रामीण आवास योजना नहीं।"
+},
+{
+"id": 13,
+"question": "Smart Cities Mission (SCM) में कौन-से अप्रोच शामिल हैं? / Which approaches are part of SCM?",
+"options": {
+"A": "Area-Based Development (ABD)",
+"B": "Pan-City Solutions (जैसे स्मार्ट कमांड सेंटर)",
+"C": "केवल ग्रीन हाइड्रोजन उत्पादन",
+"D": "ई-गवर्नेंस/इंटीग्रेटेड ट्रैफिक मैनेजमेंट"
+},
+"answer": ["A", "B", "D"],
+"explanation": "SCM में ABD और Pan-City समाधान जैसे ICCC, ट्रैफिक मैनेजमेंट, ई-गवर्नेंस सम्मिलित हैं; ग्रीन हाइड्रोजन इसका भाग नहीं।"
+},
+{
+"id": 14,
+"question": "Swachh Bharat Mission–Urban 2.0 (SBM-U 2.0) के सही प्रावधान हैं— / Correct provisions under SBM-U 2.0 are—",
+"options": {
+"A": "ठोस कचरा का 100% वैज्ञानिक प्रबंधन लक्ष्य",
+"B": "प्लास्टिक कचरा/Construction & Demolition (C&D) कचरा प्रबंधन",
+"C": "केवल ग्रामीण शौचालय निर्माण",
+"D": "स्वच्छता के लिए व्यवहार परिवर्तन पर जोर"
+},
+"answer": ["A", "B", "D"],
+"explanation": "SBM-U 2.0 शहरी ठोस कचरा प्रबंधन, प्लास्टिक/C&D प्रबंधन और जन-जागरूकता पर केंद्रित है; ग्रामीण शौचालय निर्माण SBM-G का विषय है।"
+},
+{
+"id": 15,
+"question": "National Green Hydrogen Mission (NGHM) के घोषित लक्ष्य चुनिए। / Choose declared targets under NGHM.",
+"options": {
+"A": "2030 तक 5 MMT/वर्ष ग्रीन हाइड्रोजन उत्पादन क्षमता",
+"B": "RE ~125 GW समर्पित क्षमता जुड़ाव (सम्बद्ध)",
+"C": "2050 तक Net Zero",
+"D": "उद्योग/मोबिलिटी/शिपिंग जैसे पायलट प्रोजेक्ट्स"
+},
+"answer": ["A", "B", "D"],
+"explanation": "NGHM के तहत 2030 तक ~5 MMT/वर्ष उत्पादन, ~125 GW RE के साथ, और औद्योगिक/मोबिलिटी/शिपिंग पायलट पर जोर है; Net Zero 2050 भारत की प्रतिज्ञा नहीं (भारत 2070 का लक्ष्य रखता है)।"
+},
+{
+"id": 16,
+"question": "PM Surya Ghar: Muft Bijli Yojana (2024) के बारे में सही कथन चुनिए। / Pick the correct statements on PM Surya Ghar (2024).",
+"options": {
+"A": "लक्ष्य—1 करोड़ घरों पर रूफटॉप सोलर",
+"B": "मासिक ~300 यूनिट तक मुफ्त बिजली लाभ",
+"C": "योजना से ~30 GW रूफटॉप क्षमता जोड़ने का अनुमान",
+"D": "केवल वाणिज्यिक इमारतों के लिए"
+},
+"answer": ["A", "B", "C"],
+"explanation": "योजना का उद्देश्य 1 करोड़ आवासीय रूफटॉप इंस्टॉलेशन, ~300 यूनिट/माह तक लाभ और समग्र ~30 GW जोड़ना है; यह आवासीय-केंद्रित है, सिर्फ कमर्शियल नहीं।"
+},
+{
+"id": 17,
+"question": "BharatNet के सही पहलु पहचानें। / Identify correct aspects of BharatNet.",
+"options": {
+"A": "ग्राम पंचायतों/ग्राम स्तर तक ऑप्टिकल फाइबर पहुँच",
+"B": "PPP/ठेका मॉडल के माध्यम से रोलआउट",
+"C": "केवल उपग्रह आधारित परियोजना",
+"D": "5G/4G बैकहॉल को सपोर्ट करने वाला डिजिटल बैकबोन"
+},
+"answer": ["A", "B", "D"],
+"explanation": "भारतनेट OFC आधारित ग्रामीण ब्रॉडबैंड बैकबोन है, कई क्षेत्रों में PPP/इंटीग्रेटेड मॉडल से लागू; यह सैटेलाइट-ओनली नहीं है और मोबाइल बैकहॉल को सपोर्ट करता है।"
+},
+{
+"id": 18,
+"question": "Inland Waterways (NW-1) – Jal Marg Vikas Project (JMVP) के तहत सही कथन हैं— / Under NW-1 (JMVP), correct statements are—",
+"options": {
+"A": "वाराणसी (रामनगर) में मल्टी-मोडल टर्मिनल विकसित",
+"B": "हल्दिया–वाराणसी जलमार्ग पर नेविगेशन सुधार",
+"C": "केवल उत्तर-पूर्वी राज्यों की नदी पर",
+"D": "फेयरवे डेप्थ/नाइट नेविगेशन सहायता जैसी संरचनाएँ"
+},
+"answer": ["A", "B", "D"],
+"explanation": "JMVP ने NW-1 (गंगा) पर टर्मिनल/फेयरवे/नेव-एड्स विकसित किए; यह केवल उत्तर-पूर्व तक सीमित नहीं।"
+},
+{
+"id": 19,
+"question": "Uttar Pradesh Defence Industrial Corridor (UPDIC) के ‘नोड्स’ कौन-से हैं? / Which are the nodes of UPDIC?",
+"options": {
+"A": "लखनऊ, कानपुर, झाँसी",
+"B": "आगरा, अलीगढ़, चित्रकूट",
+"C": "नोएडा, गाज़ियाबाद, मेरठ",
+"D": "उपरोक्त में से छह अलग-अलग शहर"
+},
+"answer": ["A", "B", "D"],
+"explanation": "UPDIC के छह नोड हैं—लखनऊ, कानपुर, झाँसी, आगरा, अलीगढ़, चित्रकूट; नोएडा/गाज़ियाबाद/मेरठ आधिकारिक नोड नहीं।"
+},
+{
+"id": 20,
+"question": "Uttar Pradesh की प्रमुख एक्सप्रेसवे परियोजनाएँ—सही युग्म चुनें। / Match the UP expressways correctly.",
+"options": {
+"A": "पूरवांचल: उद्घाटन 16 नवम्बर 2021",
+"B": "बुंदेलखंड: ~296 किमी",
+"C": "गंगा: ~594 किमी (निर्माणाधीन)",
+"D": "गोरखपुर लिंक: महाराष्ट्र में स्थित"
+},
+"answer": ["A", "B", "C"],
+"explanation": "पूरवांचल का उद्घाटन 16.11.2021 को हुआ; बुंदेलखंड ~296 किमी; गंगा ~594 किमी प्रस्तावित/निर्माणाधीन; ‘गोरखपुर लिंक’ यूपी में है, महाराष्ट्र में नहीं।"
+},
+{
+"id": 21,
+"question": "Noida International Airport (Jewar) Phase-1 के संदर्भ में सही कथन चुनिए। / For Noida International Airport Phase-1, pick the correct statements.",
+"options": {
+"A": "IATA कोड DXN आवंटित",
+"B": "Phase-1 संचालन 2025 की दूसरी छमाही लक्षित",
+"C": "यह यूपी के गौतम बुद्ध नगर में स्थित है",
+"D": "केवल कार्गो एयरपोर्ट, पैसेंजर की अनुमति नहीं"
+},
+"answer": ["A", "B", "C"],
+"explanation": "जewar एयरपोर्ट को IATA कोड DXN मिला; Phase-1 के 2025 में संचालन लक्ष्य की रिपोर्टेड समयरेखाएँ हैं; लोकेशन गौतम बुद्ध नगर (U.P.); इसे यात्री सेवाओं के लिए भी विकसित किया जा रहा है।"
+},
+{
+"id": 22,
+"question": "Urban Transport में ‘Metro vs Bus-based systems’—सही कथन चुनिए। / In urban transport, pick the correct statements.",
+"options": {
+"A": "मेट्रो उच्च कैपेसिटी, सेपरेट ROW; बस-आधारित (BRT/eBus) लचीला",
+"B": "e-Bus कार्यक्रम (PM eBus Sewa) शहरों में इलेक्ट्रिक बसों को बढ़ावा देता है",
+"C": "मेट्रो ही एकमात्र कम-उत्सर्जन विकल्प",
+"D": "इंटीग्रेटेड फीडर/लास्ट-माइल जरूरी"
+},
+"answer": ["A", "B", "D"],
+"explanation": "मेट्रो उच्च-क्षमता, BRT/eBus लचीले व कम-उत्सर्जन; eBus Sewa इलेक्ट्रिक बस अधिग्रहण/संचालन में सहायक; मल्टी-मोडल इंटीग्रेशन आवश्यक।"
+},
+{
+"id": 23,
+"question": "Logistics में ‘Multi-Modal Logistics Park (MMLP)’ की सही विशेषताएँ— / Correct features of MMLP are—",
+"options": {
+"A": "सड़क-रेल-जल-एयर इंटरफेस पर कार्गो समेकन",
+"B": "वेयरहाउसिंग/कोल्ड-चेन/VAL सेवाएँ",
+"C": "यात्री हवाई अड्डा टर्मिनल",
+"D": "लास्ट-माइल के लिए कनेक्टिविटी इंटरफेस"
+},
+"answer": ["A", "B", "D"],
+"explanation": "MMLP कार्गो समेकन, वैल्यू-ऐडेड लॉजिस्टिक्स और मल्टी-मोडल लिंक प्रदान करता है; यह पैसेंजर एयर टर्मिनल नहीं होता।"
+},
+{
+"id": 24,
+"question": "Renewables में ‘रूफटॉप बनाम यूटिलिटी-स्केल’—सही कथन चुनें। / Rooftop vs Utility-scale renewables—pick correct.",
+"options": {
+"A": "रूफटॉप वितरण नेटवर्क पर DSO/डिस्कॉम इंटीग्रेशन",
+"B": "यूटिलिटी-स्केल के लिए ट्रांसमिशन/ग्रीन एनर्जी कॉरिडोर",
+"C": "रूफटॉप में प्रोस्यूमर मॉडल/नेट-मीटरिंग",
+"D": "यूटिलिटी-स्केल केवल रूफटॉप पर लगता है"
+},
+"answer": ["A", "B", "C"],
+"explanation": "रूफटॉप वितरण स्तर पर और प्रोस्यूमर आधारित होता है; यूटिलिटी-स्केल के लिए ग्रिड/ट्रांसमिशन की बड़ी जरूरत; D गलत।"
+},
+{
+"id": 25,
+"question": "Urban Water में ‘Non-Revenue Water (NRW)’ घटाने के उपाय— / Measures to reduce NRW include—",
+"options": {
+"A": "District Metered Areas (DMA) और स्मार्ट मीटरिंग",
+"B": "प्रेशर मैनेजमेंट/लीकेज कंट्रोल",
+"C": "सिर्फ दरवाज़ा-से-दरवाज़ा कचरा संग्रहण",
+"D": "SCADA/IoT आधारित निगरानी"
+},
+"answer": ["A", "B", "D"],
+"explanation": "NRW घटाने हेतु DMA, मीटरिंग, प्रेशर नियंत्रण और SCADA/IoT की ज़रूरत होती है; कचरा संग्रहण का NRW से संबन्ध नहीं।"
+},
+{
+"id": 26,
+"question": "PPP मॉडल्स—सही मिलान करें। / Match PPP models correctly.",
+"options": {
+"A": "BOT (Toll): ऑपरेटर टोल कलेक्ट करता है",
+"B": "BOT (Annuity): सरकार से निश्चित भुगतान",
+"C": "HAM: हाइब्रिड—40% EPC+60% Annuity",
+"D": "EPC: निजी निवेशक राजस्व जोखिम उठाता है"
+},
+"answer": ["A", "B", "C"],
+"explanation": "BOT(Toll) में टोल-रिस्क निजी पर; BOT(Annuity) में सरकार भुगतान करती है; HAM में 40:60 का स्ट्रक्चर प्रचलित; EPC में सरकार पूँजी दे—निजी राजस्व जोखिम नहीं उठाता।"
+},
+{
+"id": 27,
+"question": "Urban Planning में ‘Transit Oriented Development (TOD)’ की विशेषताएँ— / Features of TOD include—",
+"options": {
+"A": "उच्च घनत्व, मिश्रित-भूमि उपयोग",
+"B": "पैदल/साइकिल/पब्लिक ट्रांजिट प्राथमिकता",
+"C": "सबसे दूर-दूर बसावट (urban sprawl) को बढ़ावा",
+"D": "स्टेशन-केंद्रित डेवलपमेंट"
+},
+"answer": ["A", "B", "D"],
+"explanation": "TOD में स्टेशन के आसपास उच्च-घनत्व, मिक्स्ड-यूज और NMT/ट्रांजिट प्राथमिकता; स्प्रॉल के विपरीत।"
+},
+{
+"id": 28,
+"question": "Digital Public Infrastructure (DPI) में क्या-क्या आता है? / What falls under India’s DPI?",
+"options": {
+"A": "Aadhaar, UPI, DigiLocker जैसे प्लेटफॉर्म",
+"B": "ULIP/ONDC जैसे ओपन नेटवर्क्स",
+"C": "केवल निजी पेमेंट गेटवे",
+"D": "API-आधारित ओपन स्टैक्स"
+},
+"answer": ["A", "B", "D"],
+"explanation": "भारत की DPI अवधारणा में जन-प्रणालियाँ/ओपन नेटवर्क्स व API-स्टैक्स शामिल हैं; निजी गेटवे अकेले DPI नहीं।"
+},
+{
+"id": 29,
+"question": "Urban Solid Waste Management—सही तकनीक/अप्रोच चुनें। / Choose the correct approaches.",
+"options": {
+"A": "सोर्स-सेग्रिगेशन (ड्राई/वेट/हैज़र्डस)",
+"B": "Material Recovery Facilities (MRF)",
+"C": "ओपन डम्पिंग को प्रोत्साहन",
+"D": "C&D व प्लास्टिक वेस्ट के लिए अलग चैन"
+},
+"answer": ["A", "B", "D"],
+"explanation": "आधुनिक SWM में सोर्स-सेग्रिगेशन, MRF और विशेष कचरों के लिए अलग प्रबंधन चैन शामिल होते हैं; ओपन डम्पिंग वर्जित।"
+},
+{
+"id": 30,
+"question": "Railway Station Redevelopment (अमृत भारत/स्टेशन रीडेवलपमेंट) के उद्देश्य— / Objectives include—",
+"options": {
+"A": "मल्टी-मोडल इंटीग्रेशन",
+"B": "पासेंजर सुविधाएँ/कंसोर्स, फूड कोर्ट, कंकोर्स",
+"C": "स्टेशन एरिया का TOD/कमर्शियल डेवलपमेंट",
+"D": "केवल माल ढुलाई"
+},
+"answer": ["A", "B", "C"],
+"explanation": "स्टेशन रीडेवलपमेंट का लक्ष्य यात्री-केंद्रित सुविधाएँ, मल्टी-मोडल लिंकिंग व रियल-एस्टेट/कमर्शियल उपयोग है; केवल फ्रेट नहीं।"
+},
+{
+"id": 31,
+"question": "EV Ecosystem—नीतिगत तत्व चुनें। / Pick the policy elements for EV ecosystem.",
+"options": {
+"A": "डिमांड-इंसेंटिव (FAME/EMPS जैसे)",
+"B": "चार्जिंग इन्फ्रा—BEE/e-AMRIT के माध्यम से प्रोत्साहन",
+"C": "ICE वाहनों पर अनिवार्य प्रतिबंध तुरंत",
+"D": "e-Bus कार्यक्रम/ग्रीन अर्बन ट्रांसपोर्ट"
+},
+"answer": ["A", "B", "D"],
+"explanation": "EV इकोसिस्टम में डिमांड-इंसेंटिव, चार्जिंग इन्फ्रा व सार्वजनिक परिवहन विद्युतीकरण प्रमुख हैं; ICE पर तुरंत सार्वभौमिक प्रतिबंध नीतिगत रूप से लागू नहीं।"
+},
+{
+"id": 32,
+"question": "Ports & Shipping—‘Major vs Non-major ports’ के बारे में सही कथन— / Correct statements:",
+"options": {
+"A": "Major पोर्ट्स केंद्र के अंतर्गत, Non-major राज्य/PPP के अंतर्गत",
+"B": "SAGARMALA दोनों श्रेणियों की कनेक्टिविटी पर बल देती है",
+"C": "Non-major पोर्ट्स को नियोजित करना अनुमति नहीं",
+"D": "पोर्ट-लेड इंडस्ट्रियल क्लस्टर पर फोकस"
+},
+"answer": ["A", "B", "D"],
+"explanation": "मेजर पोर्ट्स केंद्राधीन, नॉन-मेजर राज्य/PPP; सागरमाला कनेक्टिविटी व इंडस्ट्रियल क्लस्टर दोनों पर केंद्रित है; नॉन-मेजर पर रोक नहीं।"
+},
+{
+"id": 33,
+"question": "Power Transmission—Green Energy Corridor (GEC) के बारे में सही कथन— / Correct statements on GEC:",
+"options": {
+"A": "नवीकरणीय समृद्ध राज्यों से ग्रिड इंटीग्रेशन",
+"B": "Inter/ Intra-State ट्रांसमिशन प्रोजेक्ट्स",
+"C": "केवल डीज़ल जनरेटर सपोर्ट",
+"D": "RE के intermittency मैनेजमेंट के लिए इन्फ्रा"
+},
+"answer": ["A", "B", "D"],
+"explanation": "GEC का लक्ष्य RE समृद्ध क्षेत्रों की ट्रांसमिशन क्षमता व ग्रिड इंटीग्रेशन; DG सपोर्ट इसका उद्देश्य नहीं।"
+},
+{
+"id": 34,
+"question": "Urban Flood Management—सही प्रथाएँ चुनें। / Pick correct practices.",
+"options": {
+"A": "Sponge City/परमेयेबल पेवमेंट",
+"B": "स्टॉर्म-वाटर और सीवरेज का एक ही पाइप",
+"C": "रेन-गार्डन/रीचार्ज संरचनाएँ",
+"D": "ड्रेन एनकैशमेंट और एनक्रोचमेंट हटाना"
+},
+"answer": ["A", "C", "D"],
+"explanation": "शहरी बाढ़ प्रबंधन में स्पॉन्ज-सिटी, रेन-गार्डन, रिचार्ज व अवरोध हटाना शामिल; स्टॉर्म-वाटर और सीवरेज मिश्रण से समस्याएँ बढ़ती हैं।"
+},
+{
+"id": 35,
+"question": "Industrial Corridors—सही मिलान करें। / Match correctly.",
+"options": {
+"A": "DMIC: दिल्ली–मुंबई अक्ष",
+"B": "AKIC: अमृतसर–कोलकाता इंडस्ट्रियल",
+"C": "BMEC: बेंगलुरु–मुंबई",
+"D": "UPDIC: केवल दो नोड वाला"
+},
+"answer": ["A", "B", "C"],
+"explanation": "DMIC, AKIC, BMEC प्रमुख औद्योगिक कॉरिडोर हैं; UPDIC छह नोड वाला रक्षा औद्योगिक कॉरिडोर है, केवल दो नोड नहीं।"
+},
+{
+"id": 36,
+"question": "Airport Infrastructure—UDAN/Non-UDAN का सही अंतर— / Correct differences:",
+"options": {
+"A": "UDAN में VGF व किराया-कैप; Non-UDAN में नहीं",
+"B": "UDAN केवल मेट्रो शहरों हेतु",
+"C": "UDAN अनसर्व्ड/अंडरसर्व्ड एयरपोर्ट्स पर फोकस",
+"D": "UDAN रूट्स समय-सीमित सब्सिडी के साथ"
+},
+"answer": ["A", "C", "D"],
+"explanation": "UDAN अनसर्व्ड कनेक्टिविटी हेतु VGF, किराया-कैप व सीमित अवधि प्रोत्साहन देता है; मेट्रो-केवल नहीं।"
+},
+{
+"id": 37,
+"question": "UP में नगरीय ट्रांजिट—सही युग्म चुनें। / Pick correct pairs for UP urban transit.",
+"options": {
+"A": "लखनऊ मेट्रो—ऑपरेशनल",
+"B": "कानपुर मेट्रो—प्रायोरिटी सेक्शन ऑपरेशनल",
+"C": "आगरा मेट्रो—चयनित सेक्शन/ट्रायल अवस्थाएँ प्रगति पर",
+"D": "वाराणसी—RRTS ऑपरेशनल"
+},
+"answer": ["A", "B", "C"],
+"explanation": "लखनऊ मेट्रो चालू, कानपुर का प्रायोरिटी सेक्शन चालू, आगरा में खंडवार/ट्रायल/निर्माण प्रगति; वाराणसी में RRTS नहीं (RRTS NCR में)।"
+},
+{
+"id": 38,
+"question": "Expressways & Economic Geography—सही कथन चुनें। / Choose correct statements.",
+"options": {
+"A": "एक्सप्रेसवे ‘मार्केट एक्सेस’ और ‘जस्ट-इन-टाइम’ सप्लाई को बढ़ाते हैं",
+"B": "लॉजिस्टिक्स लागत में कमी से क्षेत्रीय प्रतिस्पर्धा बढ़ती है",
+"C": "एक्सप्रेसवे का कोई प्रभाव नहीं होता निवेश/क्लस्टर पर",
+"D": "डेडिकेटेड इंडस्ट्रियल नोड्स को एक्सप्रेसवे/रेल से जोड़ना आवश्यक"
+},
+"answer": ["A", "B", "D"],
+"explanation": "तेज़ कनेक्टिविटी से मार्केट एक्सेस, निवेश/क्लस्टर व प्रतिस्पर्धा सुधरती है; प्रभाव शून्य नहीं।"
+},
+{
+"id": 39,
+"question": "Project Preparation—सही उपकरण/प्रथाएँ चुनें। / Choose correct tools/practices.",
+"options": {
+"A": "DPR, CBA/सेंसिटिविटी एनालिसिस",
+"B": "Environment & Social Impact Assessment",
+"C": "Contract Management/Dispute Avoidance",
+"D": "केवल पीपीटी प्रस्तुति पर्याप्त"
+},
+"answer": ["A", "B", "C"],
+"explanation": "परियोजना तैयारी में DPR, लागत–लाभ, ESIA, अनुबंध प्रबंधन/जोखिम आवंटन आवश्यक हैं; केवल प्रस्तुति पर्याप्त नहीं।"
+},
+{
+"id": 40,
+"question": "UP में जल-मार्ग और लॉजिस्टिक्स—सही कथन चुनें। / UP waterways & logistics—pick correct.",
+"options": {
+"A": "NW-1 पर वाराणसी (रामनगर) मल्टी-मोडल टर्मिनल है",
+"B": "प्रयागराज–हल्दिया धुरी पर नेविगेशन सुधार परियोजनाएँ हुई हैं",
+"C": "UP में कोई भी अंतर्देशीय जल-टर्मिनल नहीं",
+"D": "जलमार्ग से कृषि/बुल्क कार्गो शिफ्टिंग संभावित"
+},
+"answer": ["A", "B", "D"],
+"explanation": "NW-1 (गंगा) पर वाराणसी टर्मिनल सहित फेयरवे/नेविगेशन सुधार हुए हैं; इससे बल्क/एग्री कार्गो का मोडल शिफ्ट सम्भव, ‘कोई टर्मिनल नहीं’ गलत।"
+}
 ]
-
-
-
